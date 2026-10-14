@@ -1,0 +1,5622 @@
+[
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-01-15 09:54:37",
+    "next_observed": "2025-01-17 10:34:53",
+    "previous_players": [
+      "Clozer",
+      "HamBak",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Bull",
+      "Clozer",
+      "HamBak",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT03_184622"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-01-17 10:52:29",
+    "next_observed": "2025-01-17 11:56:40",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_185549"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-01-17 11:38:32",
+    "next_observed": "2025-01-23 08:04:06",
+    "previous_players": [
+      "Bull",
+      "Clozer",
+      "HamBak",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Clozer",
+      "HamBak",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT03_189773"
+  },
+  {
+    "team": "detonationfocusme",
+    "previous_observed": "2025-01-18 11:21:08",
+    "next_observed": "2025-01-24 10:32:10",
+    "previous_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Kakkun",
+      "RayFarky"
+    ],
+    "next_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Milan",
+      "RayFarky"
+    ],
+    "gameid": "LOLTMNT03_191042"
+  },
+  {
+    "team": "t1",
+    "previous_observed": "2025-01-18 09:32:58",
+    "next_observed": "2025-01-24 11:12:47",
+    "previous_players": [
+      "Doran",
+      "Faker",
+      "Gumayusi",
+      "Keria",
+      "Oner"
+    ],
+    "next_players": [
+      "Doran",
+      "Faker",
+      "Keria",
+      "Oner",
+      "Smash"
+    ],
+    "gameid": "LOLTMNT03_190264"
+  },
+  {
+    "team": "detonationfocusme",
+    "previous_observed": "2025-01-24 10:32:10",
+    "next_observed": "2025-01-24 11:40:03",
+    "previous_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Milan",
+      "RayFarky"
+    ],
+    "next_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Kakkun",
+      "RayFarky"
+    ],
+    "gameid": "LOLTMNT03_190272"
+  },
+  {
+    "team": "detonationfocusme",
+    "previous_observed": "2025-01-24 11:40:03",
+    "next_observed": "2025-01-24 12:35:25",
+    "previous_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Kakkun",
+      "RayFarky"
+    ],
+    "next_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Milan",
+      "RayFarky"
+    ],
+    "gameid": "LOLTMNT03_191076"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-01-22 12:46:42",
+    "next_observed": "2025-01-25 09:24:12",
+    "previous_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "next_players": [
+      "Berserker",
+      "DuDu",
+      "Life",
+      "Pungyeon",
+      "Pyosik"
+    ],
+    "gameid": "LOLTMNT03_190434"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-01-26 10:18:28",
+    "next_observed": "2025-01-26 11:11:07",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_191887"
+  },
+  {
+    "team": "detonationfocusme",
+    "previous_observed": "2025-01-26 12:46:08",
+    "next_observed": "2025-01-26 13:46:57",
+    "previous_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Milan",
+      "RayFarky"
+    ],
+    "next_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Kakkun",
+      "RayFarky"
+    ],
+    "gameid": "LOLTMNT01_192973"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-01-25 10:14:02",
+    "next_observed": "2025-01-31 08:03:18",
+    "previous_players": [
+      "Berserker",
+      "DuDu",
+      "Life",
+      "Pungyeon",
+      "Pyosik"
+    ],
+    "next_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "gameid": "LOLTMNT01_196721"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2025-01-24 09:49:42",
+    "next_observed": "2025-01-31 11:08:35",
+    "previous_players": [
+      "Andil",
+      "LazyFeel",
+      "Rich",
+      "Sponge",
+      "Ucal"
+    ],
+    "next_players": [
+      "Andil",
+      "Rich",
+      "Sponge",
+      "Teddy",
+      "Ucal"
+    ],
+    "gameid": "LOLTMNT01_195885"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-01-19 14:29:13",
+    "next_observed": "2025-02-06 10:21:50",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_202632"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-06 10:21:50",
+    "next_observed": "2025-02-06 11:13:20",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_202642"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-01-26 11:11:07",
+    "next_observed": "2025-02-06 12:17:43",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_202660"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-02-06 12:17:43",
+    "next_observed": "2025-02-06 13:23:44",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_202679"
+  },
+  {
+    "team": "funplusphoenix",
+    "previous_observed": "2025-01-14 12:11:52",
+    "next_observed": "2025-02-08 09:23:57",
+    "previous_players": [
+      "Care",
+      "Jwei",
+      "bat",
+      "sheer",
+      "sorrow"
+    ],
+    "next_players": [
+      "Care",
+      "Jwei",
+      "Shad0w",
+      "bat",
+      "sheer"
+    ],
+    "gameid": "11729-11729_game_1"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-06 11:13:20",
+    "next_observed": "2025-02-08 10:19:56",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT02_209518"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-08 10:19:56",
+    "next_observed": "2025-02-08 11:28:55",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_209539"
+  },
+  {
+    "team": "dignitas",
+    "previous_observed": "2025-01-26 23:52:28",
+    "next_observed": "2025-02-09 22:51:45",
+    "previous_players": [
+      "Isles",
+      "Keine",
+      "Lira",
+      "Srtty",
+      "Tomo"
+    ],
+    "next_players": [
+      "Isles",
+      "Keine",
+      "Sheiden",
+      "Srtty",
+      "Tomo"
+    ],
+    "gameid": "LOLTMNT02_211224"
+  },
+  {
+    "team": "teamwe",
+    "previous_observed": "2025-01-22 11:36:39",
+    "next_observed": "2025-02-10 09:27:30",
+    "previous_players": [
+      "Cube",
+      "Karis",
+      "Taeyoon",
+      "Tianzhen",
+      "Vampire"
+    ],
+    "next_players": [
+      "Cube",
+      "Karis",
+      "Monki",
+      "Taeyoon",
+      "Vampire"
+    ],
+    "gameid": "11731-11731_game_1"
+  },
+  {
+    "team": "royalnevergiveup",
+    "previous_observed": "2025-01-25 12:23:54",
+    "next_observed": "2025-02-13 09:22:51",
+    "previous_players": [
+      "JiaQi",
+      "Lele",
+      "Tangyuan",
+      "Xiaoxu",
+      "milkyway"
+    ],
+    "next_players": [
+      "JiaQi",
+      "Niket",
+      "Tangyuan",
+      "Xiaoxu",
+      "milkyway"
+    ],
+    "gameid": "11734-11734_game_1"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-02-08 12:23:23",
+    "next_observed": "2025-02-13 10:19:49",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT02_214038"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-08 12:23:23",
+    "next_observed": "2025-02-14 12:13:53",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT02_215487"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-14 13:11:22",
+    "next_observed": "2025-02-14 14:09:35",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_215538"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-02-15 12:39:45",
+    "next_observed": "2025-02-15 13:28:34",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "EasyLove",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT02_218013"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-16 10:18:26",
+    "next_observed": "2025-02-16 11:07:14",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT02_217417"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-02-15 13:28:34",
+    "next_observed": "2025-02-18 12:01:54",
+    "previous_players": [
+      "Aress",
+      "EasyLove",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT02_219201"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-19 12:55:42",
+    "next_observed": "2025-02-19 14:44:54",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_222153"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-02-21 08:09:33",
+    "next_observed": "2025-02-21 09:05:00",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT02_221663"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-19 14:44:54",
+    "next_observed": "2025-02-21 10:51:38",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT02_222679"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-21 11:37:19",
+    "next_observed": "2025-02-21 12:35:45",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_221713"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-21 13:19:21",
+    "next_observed": "2025-02-23 10:10:02",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT02_224092"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-23 10:57:19",
+    "next_observed": "2025-02-23 11:50:56",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_224097"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-02-23 12:46:18",
+    "next_observed": "2025-03-11 08:15:15",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_213142"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-11 08:15:15",
+    "next_observed": "2025-03-11 09:09:30",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_214068"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-11 09:09:30",
+    "next_observed": "2025-03-12 08:13:19",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_213467"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-12 08:13:19",
+    "next_observed": "2025-03-12 08:58:24",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_213476"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-12 08:58:24",
+    "next_observed": "2025-03-13 08:14:10",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_214726"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-13 08:14:10",
+    "next_observed": "2025-03-13 09:05:20",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_214731"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-13 09:05:20",
+    "next_observed": "2025-03-14 08:12:46",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_216039"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-14 08:12:46",
+    "next_observed": "2025-03-14 09:02:52",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_216067"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-14 09:02:52",
+    "next_observed": "2025-03-15 04:18:14",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_216433"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-15 04:18:14",
+    "next_observed": "2025-03-15 05:15:36",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_216438"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-15 05:15:36",
+    "next_observed": "2025-03-15 06:11:36",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_216453"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-03-15 06:11:36",
+    "next_observed": "2025-03-15 07:04:46",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_215592"
+  },
+  {
+    "team": "edwardgaming",
+    "previous_observed": "2025-02-11 11:20:26",
+    "next_observed": "2025-03-22 08:12:20",
+    "previous_players": [
+      "Angel",
+      "Assum",
+      "Wink",
+      "Xiaohao",
+      "Zdz"
+    ],
+    "next_players": [
+      "Ahn",
+      "Angel",
+      "Wink",
+      "Xiaohao",
+      "Zdz"
+    ],
+    "gameid": "11869-11869_game_1"
+  },
+  {
+    "team": "ultraprime",
+    "previous_observed": "2025-02-12 13:19:29",
+    "next_observed": "2025-03-24 09:22:14",
+    "previous_players": [
+      "1Jiang",
+      "Junhao",
+      "Rosielove",
+      "Saber",
+      "Wako"
+    ],
+    "next_players": [
+      "1Jiang",
+      "Junhao",
+      "Saber",
+      "Wako",
+      "Xiaoxia"
+    ],
+    "gameid": "11882-11882_game_1"
+  },
+  {
+    "team": "funplusphoenix",
+    "previous_observed": "2025-02-15 11:09:37",
+    "next_observed": "2025-03-25 09:12:49",
+    "previous_players": [
+      "Care",
+      "Jwei",
+      "Shad0w",
+      "bat",
+      "sheer"
+    ],
+    "next_players": [
+      "Assum",
+      "Care",
+      "Jwei",
+      "Shad0w",
+      "sheer"
+    ],
+    "gameid": "11888-11888_game_1"
+  },
+  {
+    "team": "giantx",
+    "previous_observed": "2025-02-23 21:10:17",
+    "next_observed": "2025-03-29 13:16:11",
+    "previous_players": [
+      "Closer",
+      "Jackies",
+      "Jun",
+      "Lot",
+      "Noah"
+    ],
+    "next_players": [
+      "ISMA",
+      "Jackies",
+      "Jun",
+      "Lot",
+      "Noah"
+    ],
+    "gameid": "LOLTMNT05_122323"
+  },
+  {
+    "team": "teamvitality",
+    "previous_observed": "2025-02-22 18:56:49",
+    "next_observed": "2025-03-30 15:08:17",
+    "previous_players": [
+      "Carzzy",
+      "Czajek",
+      "Hylissang",
+      "Lyncas",
+      "Naak Nako"
+    ],
+    "next_players": [
+      "Carzzy",
+      "Czajek",
+      "Lyncas",
+      "Naak Nako",
+      "Nisqy"
+    ],
+    "gameid": "LOLTMNT05_122377"
+  },
+  {
+    "team": "skgaming",
+    "previous_observed": "2025-02-03 20:28:27",
+    "next_observed": "2025-03-31 18:03:10",
+    "previous_players": [
+      "ISMA",
+      "JNX",
+      "Loopy",
+      "RKR",
+      "Rahel"
+    ],
+    "next_players": [
+      "Boukada",
+      "JNX",
+      "Keduii",
+      "Loopy",
+      "RKR"
+    ],
+    "gameid": "LOLTMNT05_121441"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-02-07 11:27:17",
+    "next_observed": "2025-04-03 08:09:21",
+    "previous_players": [
+      "Clozer",
+      "HamBak",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Clozer",
+      "Ellim",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT02_241948"
+  },
+  {
+    "team": "ktrolster",
+    "previous_observed": "2025-02-12 10:03:18",
+    "next_observed": "2025-04-04 08:09:26",
+    "previous_players": [
+      "Bdd",
+      "Cuzz",
+      "PerfecT",
+      "Way",
+      "deokdam"
+    ],
+    "next_players": [
+      "Bdd",
+      "Cuzz",
+      "PerfecT",
+      "Peter",
+      "deokdam"
+    ],
+    "gameid": "LOLTMNT02_243218"
+  },
+  {
+    "team": "t1",
+    "previous_observed": "2025-02-13 11:40:02",
+    "next_observed": "2025-04-04 11:22:00",
+    "previous_players": [
+      "Doran",
+      "Faker",
+      "Keria",
+      "Oner",
+      "Smash"
+    ],
+    "next_players": [
+      "Doran",
+      "Faker",
+      "Gumayusi",
+      "Keria",
+      "Oner"
+    ],
+    "gameid": "LOLTMNT02_244166"
+  },
+  {
+    "team": "paingaming",
+    "previous_observed": "2025-02-15 20:02:58",
+    "next_observed": "2025-04-05 16:16:17",
+    "previous_players": [
+      "CarioK",
+      "Kuri",
+      "TitaN",
+      "Wizer",
+      "dyNquedo"
+    ],
+    "next_players": [
+      "CarioK",
+      "Kuri",
+      "Roamer",
+      "TitaN",
+      "Wizer"
+    ],
+    "gameid": "LOLTMNT03_214145"
+  },
+  {
+    "team": "fluxo",
+    "previous_observed": "2025-02-01 20:06:18",
+    "next_observed": "2025-04-05 18:27:35",
+    "previous_players": [
+      "Drakehero",
+      "Fuuu",
+      "Guigs",
+      "Hidan",
+      "Marvin"
+    ],
+    "next_players": [
+      "Fuuu",
+      "Ganks",
+      "Guigs",
+      "Hidan",
+      "Marvin"
+    ],
+    "gameid": "LOLTMNT03_214199"
+  },
+  {
+    "team": "loud",
+    "previous_observed": "2025-02-16 19:58:13",
+    "next_observed": "2025-04-05 19:36:08",
+    "previous_players": [
+      "Robo",
+      "Route",
+      "Winsome",
+      "Wiz",
+      "tinowns"
+    ],
+    "next_players": [
+      "RedBert",
+      "Robo",
+      "Route",
+      "Shini",
+      "tinowns"
+    ],
+    "gameid": "LOLTMNT03_214223"
+  },
+  {
+    "team": "redcanids",
+    "previous_observed": "2025-02-09 18:07:27",
+    "next_observed": "2025-04-05 19:36:08",
+    "previous_players": [
+      "Aegis",
+      "Brance",
+      "Grevthar",
+      "fNb",
+      "frosty"
+    ],
+    "next_players": [
+      "Brance",
+      "Curse",
+      "Mago",
+      "fNb",
+      "frosty"
+    ],
+    "gameid": "LOLTMNT03_214223"
+  },
+  {
+    "team": "shopifyrebellion",
+    "previous_observed": "2025-02-09 21:57:01",
+    "next_observed": "2025-04-05 21:21:03",
+    "previous_players": [
+      "Bvoy",
+      "Contractz",
+      "Fudge",
+      "Palafox",
+      "Zeyzal"
+    ],
+    "next_players": [
+      "Bvoy",
+      "Ceos",
+      "Contractz",
+      "Fudge",
+      "Palafox"
+    ],
+    "gameid": "LOLTMNT03_214267"
+  },
+  {
+    "team": "ktrolster",
+    "previous_observed": "2025-04-06 06:07:19",
+    "next_observed": "2025-04-06 07:07:17",
+    "previous_players": [
+      "Bdd",
+      "Cuzz",
+      "PerfecT",
+      "Peter",
+      "deokdam"
+    ],
+    "next_players": [
+      "Bdd",
+      "Casting",
+      "Cuzz",
+      "Peter",
+      "deokdam"
+    ],
+    "gameid": "LOLTMNT02_243751"
+  },
+  {
+    "team": "lngesports",
+    "previous_observed": "2025-03-27 13:03:31",
+    "next_observed": "2025-04-07 09:24:17",
+    "previous_players": [
+      "Photic",
+      "Weiwei",
+      "Zhuo",
+      "Zika",
+      "haichao"
+    ],
+    "next_players": [
+      "5t5",
+      "LP",
+      "Zhuo",
+      "Zika",
+      "haichao"
+    ],
+    "gameid": "11971-11971_game_1"
+  },
+  {
+    "team": "lgdgaming",
+    "previous_observed": "2025-03-31 10:13:08",
+    "next_observed": "2025-04-09 09:29:18",
+    "previous_players": [
+      "Climber",
+      "Shaoye",
+      "Ycx",
+      "sasi",
+      "xqw"
+    ],
+    "next_players": [
+      "Shaoye",
+      "Ycx",
+      "naiyou",
+      "sasi",
+      "xqw"
+    ],
+    "gameid": "11975-11975_game_1"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-04-05 07:55:21",
+    "next_observed": "2025-04-09 11:19:20",
+    "previous_players": [
+      "Clozer",
+      "Ellim",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Clozer",
+      "HamBak",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT03_218101"
+  },
+  {
+    "team": "t1",
+    "previous_observed": "2025-04-06 10:34:47",
+    "next_observed": "2025-04-10 10:32:59",
+    "previous_players": [
+      "Doran",
+      "Faker",
+      "Gumayusi",
+      "Keria",
+      "Oner"
+    ],
+    "next_players": [
+      "Doran",
+      "Faker",
+      "Keria",
+      "Oner",
+      "Smash"
+    ],
+    "gameid": "LOLTMNT03_219187"
+  },
+  {
+    "team": "ktrolster",
+    "previous_observed": "2025-04-06 07:07:17",
+    "next_observed": "2025-04-10 10:32:59",
+    "previous_players": [
+      "Bdd",
+      "Casting",
+      "Cuzz",
+      "Peter",
+      "deokdam"
+    ],
+    "next_players": [
+      "Bdd",
+      "Casting",
+      "Cuzz",
+      "Paduck",
+      "Peter"
+    ],
+    "gameid": "LOLTMNT03_219187"
+  },
+  {
+    "team": "isurus",
+    "previous_observed": "2025-04-06 16:08:12",
+    "next_observed": "2025-04-12 17:05:23",
+    "previous_players": [
+      "Ackerman",
+      "Burdol",
+      "Josedeodo",
+      "Mireu",
+      "Snaker"
+    ],
+    "next_players": [
+      "Ackerman",
+      "Josedeodo",
+      "Mireu",
+      "Snaker",
+      "Summit"
+    ],
+    "gameid": "LOLTMNT03_221824"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2025-04-10 09:04:58",
+    "next_observed": "2025-04-13 09:09:40",
+    "previous_players": [
+      "Andil",
+      "Rich",
+      "Sponge",
+      "Teddy",
+      "Ucal"
+    ],
+    "next_players": [
+      "Pleata",
+      "Rich",
+      "Sponge",
+      "Teddy",
+      "Ucal"
+    ],
+    "gameid": "LOLTMNT03_223223"
+  },
+  {
+    "team": "nongshimredforce",
+    "previous_observed": "2025-04-13 10:57:45",
+    "next_observed": "2025-04-16 08:05:15",
+    "previous_players": [
+      "Fisher",
+      "GIDEON",
+      "Jiwoo",
+      "Kingen",
+      "Lehends"
+    ],
+    "next_players": [
+      "Calix",
+      "GIDEON",
+      "Jiwoo",
+      "Kingen",
+      "Lehends"
+    ],
+    "gameid": "LOLTMNT03_230058"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-04-11 09:51:57",
+    "next_observed": "2025-04-17 10:11:54",
+    "previous_players": [
+      "Clozer",
+      "HamBak",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Bull",
+      "Clozer",
+      "HamBak",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT03_230518"
+  },
+  {
+    "team": "weibogaming",
+    "previous_observed": "2025-04-13 12:43:54",
+    "next_observed": "2025-04-17 12:31:29",
+    "previous_players": [
+      "Breathe",
+      "Hang",
+      "Light",
+      "Tian",
+      "Xiaohu"
+    ],
+    "next_players": [
+      "Breathe",
+      "Erha",
+      "Light",
+      "Tian",
+      "Xiaohu"
+    ],
+    "gameid": "11994-11994_game_1"
+  },
+  {
+    "team": "t1",
+    "previous_observed": "2025-04-18 09:10:00",
+    "next_observed": "2025-04-18 10:05:30",
+    "previous_players": [
+      "Doran",
+      "Faker",
+      "Keria",
+      "Oner",
+      "Smash"
+    ],
+    "next_players": [
+      "Doran",
+      "Faker",
+      "Gumayusi",
+      "Keria",
+      "Oner"
+    ],
+    "gameid": "LOLTMNT03_230810"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-04-17 12:08:37",
+    "next_observed": "2025-04-19 06:05:24",
+    "previous_players": [
+      "Bull",
+      "Clozer",
+      "HamBak",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Clozer",
+      "HamBak",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT03_231043"
+  },
+  {
+    "team": "omg",
+    "previous_observed": "2025-04-09 11:26:00",
+    "next_observed": "2025-04-19 09:25:35",
+    "previous_players": [
+      "Heng",
+      "Hery",
+      "Linfeng",
+      "Moham",
+      "Starry"
+    ],
+    "next_players": [
+      "Heng",
+      "Hery",
+      "Moham",
+      "Starry",
+      "charlotte"
+    ],
+    "gameid": "11997-11997_game_1"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-02-22 13:36:10",
+    "next_observed": "2025-04-19 09:46:28",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT01_224891"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-04-19 11:51:44",
+    "next_observed": "2025-04-19 13:11:21",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_225024"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-04-19 13:11:21",
+    "next_observed": "2025-04-19 14:02:50",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_225086"
+  },
+  {
+    "team": "lngesports",
+    "previous_observed": "2025-04-16 10:25:14",
+    "next_observed": "2025-04-20 07:25:44",
+    "previous_players": [
+      "5t5",
+      "LP",
+      "Zhuo",
+      "Zika",
+      "haichao"
+    ],
+    "next_players": [
+      "LP",
+      "Zhuo",
+      "Zika",
+      "haichao",
+      "xiaofang"
+    ],
+    "gameid": "11999-11999_game_1"
+  },
+  {
+    "team": "ktrolster",
+    "previous_observed": "2025-04-17 12:08:37",
+    "next_observed": "2025-04-20 09:24:18",
+    "previous_players": [
+      "Bdd",
+      "Casting",
+      "Cuzz",
+      "Paduck",
+      "Peter"
+    ],
+    "next_players": [
+      "Bdd",
+      "Casting",
+      "Cuzz",
+      "Peter",
+      "deokdam"
+    ],
+    "gameid": "LOLTMNT03_231299"
+  },
+  {
+    "team": "chiefsesportsclub",
+    "previous_observed": "2025-02-16 11:07:14",
+    "next_observed": "2025-04-20 09:51:07",
+    "previous_players": [
+      "BioPanther",
+      "JimieN",
+      "Leemas",
+      "Luon",
+      "Mir"
+    ],
+    "next_players": [
+      "Husha",
+      "JimieN",
+      "Luon",
+      "Violet",
+      "zorenous"
+    ],
+    "gameid": "LOLTMNT01_225920"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-02-21 09:52:22",
+    "next_observed": "2025-04-20 12:48:19",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT01_225978"
+  },
+  {
+    "team": "redcanids",
+    "previous_observed": "2025-04-20 17:42:17",
+    "next_observed": "2025-04-21 16:09:06",
+    "previous_players": [
+      "Brance",
+      "Curse",
+      "Mago",
+      "fNb",
+      "frosty"
+    ],
+    "next_players": [
+      "Aegis",
+      "Brance",
+      "Mago",
+      "fNb",
+      "frosty"
+    ],
+    "gameid": "LOLTMNT01_227508"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-04-20 10:31:53",
+    "next_observed": "2025-04-24 08:06:14",
+    "previous_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "next_players": [
+      "Berserker",
+      "DuDu",
+      "Life",
+      "Pungyeon",
+      "Pyosik"
+    ],
+    "gameid": "LOLTMNT01_230375"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2025-04-23 09:09:16",
+    "next_observed": "2025-04-26 09:17:00",
+    "previous_players": [
+      "Pleata",
+      "Rich",
+      "Sponge",
+      "Teddy",
+      "Ucal"
+    ],
+    "next_players": [
+      "Andil",
+      "Rich",
+      "Sponge",
+      "Teddy",
+      "Ucal"
+    ],
+    "gameid": "LOLTMNT01_233579"
+  },
+  {
+    "team": "chiefsesportsclub",
+    "previous_observed": "2025-04-20 11:37:26",
+    "next_observed": "2025-04-26 09:53:41",
+    "previous_players": [
+      "Husha",
+      "JimieN",
+      "Luon",
+      "Violet",
+      "zorenous"
+    ],
+    "next_players": [
+      "BioPanther",
+      "Husha",
+      "JimieN",
+      "Luon",
+      "Violet"
+    ],
+    "gameid": "LOLTMNT01_232819"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-04-27 11:59:06",
+    "next_observed": "2025-04-27 12:48:33",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT01_234827"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-04-27 11:59:06",
+    "next_observed": "2025-04-27 12:48:33",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_234827"
+  },
+  {
+    "team": "tt",
+    "previous_observed": "2025-04-26 14:15:42",
+    "next_observed": "2025-04-30 09:22:15",
+    "previous_players": [
+      "1xn",
+      "Beichuan",
+      "Feather",
+      "HOYA",
+      "SeTab"
+    ],
+    "next_players": [
+      "1xn",
+      "Feather",
+      "HOYA",
+      "SeTab",
+      "xiaohuangren"
+    ],
+    "gameid": "12022-12022_game_1"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2025-04-26 10:06:26",
+    "next_observed": "2025-05-01 10:16:03",
+    "previous_players": [
+      "Andil",
+      "Rich",
+      "Sponge",
+      "Teddy",
+      "Ucal"
+    ],
+    "next_players": [
+      "Andil",
+      "LazyFeel",
+      "Rich",
+      "Sponge",
+      "Ucal"
+    ],
+    "gameid": "LOLTMNT01_238430"
+  },
+  {
+    "team": "omg",
+    "previous_observed": "2025-04-23 10:16:06",
+    "next_observed": "2025-05-02 09:20:14",
+    "previous_players": [
+      "Heng",
+      "Hery",
+      "Moham",
+      "Starry",
+      "charlotte"
+    ],
+    "next_players": [
+      "Hery",
+      "Moham",
+      "Starry",
+      "beishang",
+      "charlotte"
+    ],
+    "gameid": "12026-12026_game_1"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-04-29 15:00:32",
+    "next_observed": "2025-05-02 12:10:07",
+    "previous_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Wei"
+    ],
+    "next_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "gameid": "12027-12027_game_1"
+  },
+  {
+    "team": "ninjasinpyjamas",
+    "previous_observed": "2025-04-27 08:50:32",
+    "next_observed": "2025-05-03 07:20:04",
+    "previous_players": [
+      "Aki",
+      "Doinb",
+      "Leave",
+      "ppgod",
+      "shanji"
+    ],
+    "next_players": [
+      "Aki",
+      "Doinb",
+      "Leave",
+      "Solokill",
+      "ppgod"
+    ],
+    "gameid": "12028-12028_game_1"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-04-27 12:48:33",
+    "next_observed": "2025-05-03 12:55:02",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_252876"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-03 12:55:02",
+    "next_observed": "2025-05-03 13:49:27",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT02_252914"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-05-02 08:59:08",
+    "next_observed": "2025-05-04 08:20:59",
+    "previous_players": [
+      "Berserker",
+      "DuDu",
+      "Life",
+      "Pungyeon",
+      "Pyosik"
+    ],
+    "next_players": [
+      "Berserker",
+      "DDoiV",
+      "DuDu",
+      "Life",
+      "Pungyeon"
+    ],
+    "gameid": "LOLTMNT01_239787"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-05-01 11:55:26",
+    "next_observed": "2025-05-04 08:20:59",
+    "previous_players": [
+      "Clozer",
+      "HamBak",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Clozer",
+      "Croco",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT01_239787"
+  },
+  {
+    "team": "ktrolster",
+    "previous_observed": "2025-05-04 06:59:50",
+    "next_observed": "2025-05-07 11:02:40",
+    "previous_players": [
+      "Bdd",
+      "Casting",
+      "Cuzz",
+      "Peter",
+      "deokdam"
+    ],
+    "next_players": [
+      "Bdd",
+      "Cuzz",
+      "PerfecT",
+      "Peter",
+      "deokdam"
+    ],
+    "gameid": "LOLTMNT02_258702"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-05-04 10:11:37",
+    "next_observed": "2025-05-09 08:06:29",
+    "previous_players": [
+      "Berserker",
+      "DDoiV",
+      "DuDu",
+      "Life",
+      "Pungyeon"
+    ],
+    "next_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "gameid": "LOLTMNT02_259995"
+  },
+  {
+    "team": "ultraprime",
+    "previous_observed": "2025-05-04 11:06:37",
+    "next_observed": "2025-05-11 07:24:10",
+    "previous_players": [
+      "1Jiang",
+      "Junhao",
+      "Saber",
+      "Wako",
+      "Xiaoxia"
+    ],
+    "next_players": [
+      "1Jiang",
+      "Baiye",
+      "Junhao",
+      "Saber",
+      "Xiaoxia"
+    ],
+    "gameid": "12046-12046_game_1"
+  },
+  {
+    "team": "ultraprime",
+    "previous_observed": "2025-05-11 07:24:10",
+    "next_observed": "2025-05-11 08:18:54",
+    "previous_players": [
+      "1Jiang",
+      "Baiye",
+      "Junhao",
+      "Saber",
+      "Xiaoxia"
+    ],
+    "next_players": [
+      "1Jiang",
+      "Junhao",
+      "Saber",
+      "Wako",
+      "Xiaoxia"
+    ],
+    "gameid": "12046-12046_game_2"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-11 11:47:06",
+    "next_observed": "2025-05-11 12:39:50",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_263535"
+  },
+  {
+    "team": "redcanids",
+    "previous_observed": "2025-05-03 17:52:18",
+    "next_observed": "2025-05-11 17:53:47",
+    "previous_players": [
+      "Aegis",
+      "Brance",
+      "Mago",
+      "fNb",
+      "frosty"
+    ],
+    "next_players": [
+      "Aegis",
+      "Brance",
+      "Grevthar",
+      "fNb",
+      "frosty"
+    ],
+    "gameid": "LOLTMNT02_264540"
+  },
+  {
+    "team": "rogue",
+    "previous_observed": "2025-05-03 18:03:58",
+    "next_observed": "2025-05-12 16:51:21",
+    "previous_players": [
+      "Adam",
+      "Execute",
+      "Larssen",
+      "Malrang",
+      "Patrik"
+    ],
+    "next_players": [
+      "Adam",
+      "Larssen",
+      "Malrang",
+      "Patrik",
+      "Trick"
+    ],
+    "gameid": "LOLTMNT05_131801"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-05-16 12:02:37",
+    "next_observed": "2025-05-16 12:52:31",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT03_235515"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-05-15 13:15:17",
+    "next_observed": "2025-05-17 09:01:31",
+    "previous_players": [
+      "Clozer",
+      "Croco",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Bull",
+      "Clozer",
+      "Croco",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT02_268769"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-17 11:47:15",
+    "next_observed": "2025-05-17 12:35:46",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT06_120115"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-05-16 13:46:43",
+    "next_observed": "2025-05-18 09:50:08",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT06_121198"
+  },
+  {
+    "team": "teamliquid",
+    "previous_observed": "2025-05-10 20:58:20",
+    "next_observed": "2025-05-18 20:07:53",
+    "previous_players": [
+      "APA",
+      "CoreJJ",
+      "Impact",
+      "UmTi",
+      "Yeon"
+    ],
+    "next_players": [
+      "APA",
+      "CoreJJ",
+      "Impact",
+      "Yeon",
+      "Yuuji"
+    ],
+    "gameid": "LOLTMNT06_120292"
+  },
+  {
+    "team": "weibogaming",
+    "previous_observed": "2025-05-17 10:15:47",
+    "next_observed": "2025-05-19 09:21:06",
+    "previous_players": [
+      "Breathe",
+      "Erha",
+      "Light",
+      "Tian",
+      "Xiaohu"
+    ],
+    "next_players": [
+      "Breathe",
+      "Hang",
+      "Light",
+      "Tian",
+      "Xiaohu"
+    ],
+    "gameid": "12063-12063_game_1"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-05-17 10:41:19",
+    "next_observed": "2025-05-22 08:07:11",
+    "previous_players": [
+      "Bull",
+      "Clozer",
+      "Croco",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Clozer",
+      "Croco",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT03_242206"
+  },
+  {
+    "team": "bnkfearx",
+    "previous_observed": "2025-05-16 09:02:03",
+    "next_observed": "2025-05-22 10:12:41",
+    "previous_players": [
+      "Clear",
+      "Diable",
+      "Kellin",
+      "Raptor",
+      "VicLa"
+    ],
+    "next_players": [
+      "Diable",
+      "Kellin",
+      "Raptor",
+      "Soboro",
+      "VicLa"
+    ],
+    "gameid": "LOLTMNT03_241674"
+  },
+  {
+    "team": "nongshimredforce",
+    "previous_observed": "2025-05-17 07:47:44",
+    "next_observed": "2025-05-23 10:20:15",
+    "previous_players": [
+      "Calix",
+      "GIDEON",
+      "Jiwoo",
+      "Kingen",
+      "Lehends"
+    ],
+    "next_players": [
+      "Calix",
+      "GIDEON",
+      "Kingen",
+      "Lehends",
+      "vital"
+    ],
+    "gameid": "LOLTMNT03_243145"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-05-23 09:49:50",
+    "next_observed": "2025-05-23 10:47:29",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_243155"
+  },
+  {
+    "team": "chiefsesportsclub",
+    "previous_observed": "2025-05-23 09:49:50",
+    "next_observed": "2025-05-23 10:47:29",
+    "previous_players": [
+      "BioPanther",
+      "Husha",
+      "JimieN",
+      "Luon",
+      "Violet"
+    ],
+    "next_players": [
+      "Husha",
+      "JimieN",
+      "Luon",
+      "Violet",
+      "zorenous"
+    ],
+    "gameid": "LOLTMNT03_243155"
+  },
+  {
+    "team": "chiefsesportsclub",
+    "previous_observed": "2025-05-23 10:47:29",
+    "next_observed": "2025-05-23 11:35:54",
+    "previous_players": [
+      "Husha",
+      "JimieN",
+      "Luon",
+      "Violet",
+      "zorenous"
+    ],
+    "next_players": [
+      "BioPanther",
+      "Husha",
+      "JimieN",
+      "Luon",
+      "Violet"
+    ],
+    "gameid": "LOLTMNT03_242720"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-17 12:35:46",
+    "next_observed": "2025-05-23 12:43:56",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_242767"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-23 12:43:56",
+    "next_observed": "2025-05-23 13:35:34",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_242801"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-05-18 13:50:49",
+    "next_observed": "2025-05-24 09:49:04",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_243760"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-05-18 10:47:40",
+    "next_observed": "2025-05-24 11:58:45",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT03_244395"
+  },
+  {
+    "team": "nongshimredforce",
+    "previous_observed": "2025-05-25 06:04:05",
+    "next_observed": "2025-05-25 06:59:30",
+    "previous_players": [
+      "Calix",
+      "GIDEON",
+      "Kingen",
+      "Lehends",
+      "vital"
+    ],
+    "next_players": [
+      "Calix",
+      "GIDEON",
+      "Jiwoo",
+      "Kingen",
+      "Lehends"
+    ],
+    "gameid": "LOLTMNT03_244865"
+  },
+  {
+    "team": "bnkfearx",
+    "previous_observed": "2025-05-22 11:01:39",
+    "next_observed": "2025-05-25 09:10:27",
+    "previous_players": [
+      "Diable",
+      "Kellin",
+      "Raptor",
+      "Soboro",
+      "VicLa"
+    ],
+    "next_players": [
+      "Daystar",
+      "Diable",
+      "Kellin",
+      "Raptor",
+      "Soboro"
+    ],
+    "gameid": "LOLTMNT03_244928"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-23 13:35:34",
+    "next_observed": "2025-05-25 12:55:06",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_246070"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-05-23 11:35:54",
+    "next_observed": "2025-05-25 12:55:06",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_246070"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-05-25 12:55:06",
+    "next_observed": "2025-05-25 13:40:56",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_245545"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-25 12:55:06",
+    "next_observed": "2025-05-25 13:40:56",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_245545"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-25 13:40:56",
+    "next_observed": "2025-05-25 14:34:50",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_246112"
+  },
+  {
+    "team": "teamliquid",
+    "previous_observed": "2025-05-25 21:01:41",
+    "next_observed": "2025-05-25 21:52:08",
+    "previous_players": [
+      "APA",
+      "CoreJJ",
+      "Impact",
+      "Yeon",
+      "Yuuji"
+    ],
+    "next_players": [
+      "APA",
+      "CoreJJ",
+      "Impact",
+      "UmTi",
+      "Yeon"
+    ],
+    "gameid": "LOLTMNT03_246244"
+  },
+  {
+    "team": "lgdgaming",
+    "previous_observed": "2025-05-11 09:10:18",
+    "next_observed": "2025-05-26 09:13:19",
+    "previous_players": [
+      "Shaoye",
+      "Ycx",
+      "naiyou",
+      "sasi",
+      "xqw"
+    ],
+    "next_players": [
+      "Climber",
+      "Shaoye",
+      "Ycx",
+      "sasi",
+      "xqw"
+    ],
+    "gameid": "12425-12425_game_1"
+  },
+  {
+    "team": "weibogaming",
+    "previous_observed": "2025-05-22 10:10:36",
+    "next_observed": "2025-05-27 09:12:26",
+    "previous_players": [
+      "Breathe",
+      "Hang",
+      "Light",
+      "Tian",
+      "Xiaohu"
+    ],
+    "next_players": [
+      "Breathe",
+      "Erha",
+      "Light",
+      "Tian",
+      "Xiaohu"
+    ],
+    "gameid": "12426-12426_game_1"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2025-05-23 08:55:39",
+    "next_observed": "2025-05-29 08:06:13",
+    "previous_players": [
+      "Andil",
+      "LazyFeel",
+      "Rich",
+      "Sponge",
+      "Ucal"
+    ],
+    "next_players": [
+      "Andil",
+      "LazyFeel",
+      "Rich",
+      "Sponge",
+      "kyeahoo"
+    ],
+    "gameid": "LOLTMNT03_250487"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-05-25 07:47:29",
+    "next_observed": "2025-05-29 08:06:13",
+    "previous_players": [
+      "Clozer",
+      "Croco",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Bull",
+      "Clozer",
+      "Croco",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT03_250487"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-05-30 11:55:54",
+    "next_observed": "2025-05-30 13:01:34",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT03_252171"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-05-30 13:01:34",
+    "next_observed": "2025-05-30 14:07:26",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_252200"
+  },
+  {
+    "team": "okbrion",
+    "previous_observed": "2025-05-29 10:13:03",
+    "next_observed": "2025-05-31 08:16:20",
+    "previous_players": [
+      "Bull",
+      "Clozer",
+      "Croco",
+      "Morgan",
+      "Pollu"
+    ],
+    "next_players": [
+      "Clozer",
+      "Croco",
+      "Hype",
+      "Morgan",
+      "Pollu"
+    ],
+    "gameid": "LOLTMNT03_252540"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-05-31 09:44:24",
+    "next_observed": "2025-05-31 10:33:37",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_252638"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-31 09:44:24",
+    "next_observed": "2025-05-31 10:33:37",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_252638"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-05-31 10:33:37",
+    "next_observed": "2025-05-31 11:29:32",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_252661"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-05-25 14:34:50",
+    "next_observed": "2025-05-31 12:29:03",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_252708"
+  },
+  {
+    "team": "teamliquid",
+    "previous_observed": "2025-05-25 21:52:08",
+    "next_observed": "2025-05-31 20:08:28",
+    "previous_players": [
+      "APA",
+      "CoreJJ",
+      "Impact",
+      "UmTi",
+      "Yeon"
+    ],
+    "next_players": [
+      "APA",
+      "CoreJJ",
+      "Impact",
+      "Yeon",
+      "Yuuji"
+    ],
+    "gameid": "LOLTMNT01_246368"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-06-01 10:43:09",
+    "next_observed": "2025-06-01 11:31:38",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_254012"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-06-01 11:31:38",
+    "next_observed": "2025-06-01 12:28:33",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_254034"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-06-01 12:28:33",
+    "next_observed": "2025-06-01 13:23:00",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_254049"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-06-06 09:43:02",
+    "next_observed": "2025-06-06 10:42:30",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_255350"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-06-06 10:42:30",
+    "next_observed": "2025-06-06 11:27:13",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_254592"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-06-06 11:27:13",
+    "next_observed": "2025-06-06 12:15:53",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_255361"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-06-01 13:23:00",
+    "next_observed": "2025-06-08 09:46:58",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_255495"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-06-08 09:46:58",
+    "next_observed": "2025-06-08 10:40:43",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_255506"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-06-08 11:42:43",
+    "next_observed": "2025-06-08 12:31:08",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_254738"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-06-08 12:31:08",
+    "next_observed": "2025-06-08 13:25:53",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_255515"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-06-28 00:05:11",
+    "next_observed": "2025-06-28 00:57:24",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_258418"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-06-28 01:49:22",
+    "next_observed": "2025-06-28 19:08:37",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_258564"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-06-28 20:13:43",
+    "next_observed": "2025-06-28 21:02:44",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_258574"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-06-28 22:54:16",
+    "next_observed": "2025-06-30 00:07:38",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_258859"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-06-30 00:57:50",
+    "next_observed": "2025-06-30 01:51:30",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_257849"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-06-08 13:25:53",
+    "next_observed": "2025-07-05 19:08:53",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_262679"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-07-05 20:08:17",
+    "next_observed": "2025-07-05 21:01:39",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_263270"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-07-05 21:01:39",
+    "next_observed": "2025-07-05 21:49:49",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_263277"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-07-08 01:07:06",
+    "next_observed": "2025-07-08 02:10:47",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_265013"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-07-16 10:49:40",
+    "next_observed": "2025-07-16 16:45:03",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT06_128393"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-07-16 09:32:34",
+    "next_observed": "2025-07-16 16:45:03",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT06_128393"
+  },
+  {
+    "team": "edwardgaming",
+    "previous_observed": "2025-05-24 11:15:11",
+    "next_observed": "2025-07-19 07:13:52",
+    "previous_players": [
+      "Ahn",
+      "Angel",
+      "Wink",
+      "Xiaohao",
+      "Zdz"
+    ],
+    "next_players": [
+      "Ahn",
+      "Angel",
+      "Parukia",
+      "Xiaohao",
+      "Zdz"
+    ],
+    "gameid": "12558-12558_game_1"
+  },
+  {
+    "team": "ultraprime",
+    "previous_observed": "2025-05-11 09:10:18",
+    "next_observed": "2025-07-19 07:13:52",
+    "previous_players": [
+      "1Jiang",
+      "Junhao",
+      "Saber",
+      "Wako",
+      "Xiaoxia"
+    ],
+    "next_players": [
+      "1Jiang",
+      "Baiye",
+      "Junhao",
+      "Saber",
+      "Xiaoxia"
+    ],
+    "gameid": "12558-12558_game_1"
+  },
+  {
+    "team": "weibogaming",
+    "previous_observed": "2025-06-07 12:04:26",
+    "next_observed": "2025-07-19 09:17:17",
+    "previous_players": [
+      "Breathe",
+      "Erha",
+      "Light",
+      "Tian",
+      "Xiaohu"
+    ],
+    "next_players": [
+      "Breathe",
+      "Crisp",
+      "Light",
+      "Tian",
+      "Xiaohu"
+    ],
+    "gameid": "12559-12559_game_1"
+  },
+  {
+    "team": "funplusphoenix",
+    "previous_observed": "2025-06-04 12:58:40",
+    "next_observed": "2025-07-19 09:17:17",
+    "previous_players": [
+      "Assum",
+      "Care",
+      "Jwei",
+      "Shad0w",
+      "sheer"
+    ],
+    "next_players": [
+      "Care",
+      "JiaQi",
+      "Jwei",
+      "iyy",
+      "sheer"
+    ],
+    "gameid": "12559-12559_game_1"
+  },
+  {
+    "team": "topesports",
+    "previous_observed": "2025-06-08 12:58:31",
+    "next_observed": "2025-07-19 12:18:44",
+    "previous_players": [
+      "369",
+      "Creme",
+      "Crisp",
+      "JackeyLove",
+      "Kanavi"
+    ],
+    "next_players": [
+      "369",
+      "Creme",
+      "Hang",
+      "JackeyLove",
+      "Kanavi"
+    ],
+    "gameid": "12560-12560_game_1"
+  },
+  {
+    "team": "invictusgaming",
+    "previous_observed": "2025-06-13 12:08:10",
+    "next_observed": "2025-07-19 12:18:44",
+    "previous_players": [
+      "GALA",
+      "Jiejie",
+      "Meiko",
+      "Rookie",
+      "TheShy"
+    ],
+    "next_players": [
+      "GALA",
+      "Meiko",
+      "Rookie",
+      "TheShy",
+      "Wei"
+    ],
+    "gameid": "12560-12560_game_1"
+  },
+  {
+    "team": "tt",
+    "previous_observed": "2025-05-27 11:05:18",
+    "next_observed": "2025-07-20 09:13:33",
+    "previous_players": [
+      "1xn",
+      "Feather",
+      "HOYA",
+      "SeTab",
+      "xiaohuangren"
+    ],
+    "next_players": [
+      "1xn",
+      "Aki",
+      "Feather",
+      "HOYA",
+      "SeTab"
+    ],
+    "gameid": "12561-12561_game_1"
+  },
+  {
+    "team": "ninjasinpyjamas",
+    "previous_observed": "2025-05-25 12:52:50",
+    "next_observed": "2025-07-21 12:04:38",
+    "previous_players": [
+      "Aki",
+      "Doinb",
+      "Leave",
+      "Solokill",
+      "ppgod"
+    ],
+    "next_players": [
+      "Doinb",
+      "Leave",
+      "Niket",
+      "Solokill",
+      "naiyou"
+    ],
+    "gameid": "12564-12564_game_1"
+  },
+  {
+    "team": "bnkfearx",
+    "previous_observed": "2025-06-01 06:54:26",
+    "next_observed": "2025-07-24 08:05:02",
+    "previous_players": [
+      "Daystar",
+      "Diable",
+      "Kellin",
+      "Raptor",
+      "Soboro"
+    ],
+    "next_players": [
+      "Clear",
+      "Diable",
+      "Kellin",
+      "Raptor",
+      "VicLa"
+    ],
+    "gameid": "LOLTMNT01_266226"
+  },
+  {
+    "team": "jdgaming",
+    "previous_observed": "2025-06-05 11:51:22",
+    "next_observed": "2025-07-24 09:15:14",
+    "previous_players": [
+      "Ale",
+      "MISSING",
+      "Peyz",
+      "Scout",
+      "Xun"
+    ],
+    "next_players": [
+      "Peyz",
+      "Scout",
+      "Wink",
+      "Xiaoxu",
+      "Xun"
+    ],
+    "gameid": "12569-12569_game_1"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2025-05-31 06:59:05",
+    "next_observed": "2025-07-25 11:15:42",
+    "previous_players": [
+      "Andil",
+      "LazyFeel",
+      "Rich",
+      "Sponge",
+      "kyeahoo"
+    ],
+    "next_players": [
+      "Andil",
+      "Rich",
+      "Sponge",
+      "Teddy",
+      "kyeahoo"
+    ],
+    "gameid": "LOLTMNT01_266798"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-05-30 14:07:26",
+    "next_observed": "2025-07-26 09:50:28",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT01_269213"
+  },
+  {
+    "team": "detonationfocusme",
+    "previous_observed": "2025-05-24 10:38:45",
+    "next_observed": "2025-07-26 09:50:28",
+    "previous_players": [
+      "Aria",
+      "Guwon",
+      "Harp",
+      "Kakkun",
+      "RayFarky"
+    ],
+    "next_players": [
+      "Aria",
+      "Citrus",
+      "Harp",
+      "Kakkun",
+      "RayFarky"
+    ],
+    "gameid": "LOLTMNT01_269213"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-07-17 16:44:10",
+    "next_observed": "2025-07-26 10:12:01",
+    "previous_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "next_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Shad0w"
+    ],
+    "gameid": "12574-12574_game_1"
+  },
+  {
+    "team": "psgtalon",
+    "previous_observed": "2025-06-07 12:39:59",
+    "next_observed": "2025-07-26 12:24:33",
+    "previous_players": [
+      "Azhi",
+      "Betty",
+      "FoFo",
+      "Karsa",
+      "Woody"
+    ],
+    "next_players": [
+      "Azhi",
+      "Betty",
+      "Karsa",
+      "Maple",
+      "Woody"
+    ],
+    "gameid": "LOLTMNT01_268760"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-06-06 12:15:53",
+    "next_observed": "2025-07-26 12:24:33",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Steller",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_268760"
+  },
+  {
+    "team": "fluxo",
+    "previous_observed": "2025-05-17 19:02:58",
+    "next_observed": "2025-07-26 15:16:14",
+    "previous_players": [
+      "Fuuu",
+      "Ganks",
+      "Guigs",
+      "Hidan",
+      "Marvin"
+    ],
+    "next_players": [
+      "Fuuu",
+      "Marvin",
+      "ProDelta",
+      "Yampi",
+      "curty"
+    ],
+    "gameid": "LOLTMNT01_269312"
+  },
+  {
+    "team": "leviatan",
+    "previous_observed": "2025-05-18 18:37:55",
+    "next_observed": "2025-07-26 17:08:05",
+    "previous_players": [
+      "ProDelta",
+      "SCARY",
+      "Zothve",
+      "ceo",
+      "cody"
+    ],
+    "next_players": [
+      "Hauz",
+      "SCARY",
+      "TopLop",
+      "Zothve",
+      "ceo"
+    ],
+    "gameid": "LOLTMNT01_268853"
+  },
+  {
+    "team": "disguised",
+    "previous_observed": "2025-05-18 22:38:41",
+    "next_observed": "2025-07-26 20:10:23",
+    "previous_players": [
+      "Abbedagge",
+      "Castle",
+      "ScaryJerry",
+      "eXyu",
+      "huhi"
+    ],
+    "next_players": [
+      "Castle",
+      "DARKWINGS",
+      "Rahel",
+      "eXyu",
+      "huhi"
+    ],
+    "gameid": "LOLTMNT01_269407"
+  },
+  {
+    "team": "flyquest",
+    "previous_observed": "2025-07-26 20:10:23",
+    "next_observed": "2025-07-26 20:58:52",
+    "previous_players": [
+      "Busio",
+      "Bwipo",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "next_players": [
+      "Busio",
+      "Gakgos",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "gameid": "LOLTMNT01_269416"
+  },
+  {
+    "team": "lyon",
+    "previous_observed": "2025-05-17 23:30:37",
+    "next_observed": "2025-07-26 21:51:01",
+    "previous_players": [
+      "Hena",
+      "Licorice",
+      "Lyonz",
+      "Oddielan",
+      "Saint"
+    ],
+    "next_players": [
+      "Bejjaniii",
+      "Hena",
+      "Lyonz",
+      "Oddielan",
+      "Saint"
+    ],
+    "gameid": "LOLTMNT01_268930"
+  },
+  {
+    "team": "fukuokasoftbankhawksgaming",
+    "previous_observed": "2025-05-30 10:44:18",
+    "next_observed": "2025-07-27 09:49:35",
+    "previous_players": [
+      "Courage",
+      "Evi",
+      "FATE",
+      "Gaeng",
+      "Marble"
+    ],
+    "next_players": [
+      "Evi",
+      "FATE",
+      "Gaeng",
+      "Marble",
+      "Yohan"
+    ],
+    "gameid": "LOLTMNT01_270052"
+  },
+  {
+    "team": "chiefsesportsclub",
+    "previous_observed": "2025-05-25 11:49:22",
+    "next_observed": "2025-07-27 09:49:35",
+    "previous_players": [
+      "BioPanther",
+      "Husha",
+      "JimieN",
+      "Luon",
+      "Violet"
+    ],
+    "next_players": [
+      "BioPanther",
+      "JimieN",
+      "Luon",
+      "Slayder",
+      "Whynot"
+    ],
+    "gameid": "LOLTMNT01_270052"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-07-27 12:33:58",
+    "next_observed": "2025-07-27 13:29:07",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_269655"
+  },
+  {
+    "team": "isurus",
+    "previous_observed": "2025-06-14 18:39:54",
+    "next_observed": "2025-07-27 15:12:19",
+    "previous_players": [
+      "Ackerman",
+      "Josedeodo",
+      "Mireu",
+      "Snaker",
+      "Summit"
+    ],
+    "next_players": [
+      "Ackerman",
+      "Josedeodo",
+      "Leza",
+      "Snaker",
+      "ZOEN"
+    ],
+    "gameid": "LOLTMNT01_270185"
+  },
+  {
+    "team": "redcanids",
+    "previous_observed": "2025-06-01 18:45:47",
+    "next_observed": "2025-07-27 15:12:19",
+    "previous_players": [
+      "Aegis",
+      "Brance",
+      "Grevthar",
+      "fNb",
+      "frosty"
+    ],
+    "next_players": [
+      "Curse",
+      "Kaze",
+      "Rabelo",
+      "fNb",
+      "frosty"
+    ],
+    "gameid": "LOLTMNT01_270185"
+  },
+  {
+    "team": "loud",
+    "previous_observed": "2025-05-31 18:54:08",
+    "next_observed": "2025-07-27 17:44:42",
+    "previous_players": [
+      "RedBert",
+      "Robo",
+      "Route",
+      "Shini",
+      "tinowns"
+    ],
+    "next_players": [
+      "Gryffinn",
+      "Jool",
+      "RedBert",
+      "Robo",
+      "Route"
+    ],
+    "gameid": "LOLTMNT01_269731"
+  },
+  {
+    "team": "vivokeydstars",
+    "previous_observed": "2025-06-07 18:08:29",
+    "next_observed": "2025-07-27 17:44:42",
+    "previous_players": [
+      "Boal",
+      "Disamis",
+      "Kisee",
+      "Morttheus",
+      "Trymbi"
+    ],
+    "next_players": [
+      "Boal",
+      "Disamis",
+      "Mireu",
+      "Morttheus",
+      "Trymbi"
+    ],
+    "gameid": "LOLTMNT01_269731"
+  },
+  {
+    "team": "dignitas",
+    "previous_observed": "2025-05-31 22:47:04",
+    "next_observed": "2025-07-27 22:00:27",
+    "previous_players": [
+      "Isles",
+      "Keine",
+      "Sheiden",
+      "Srtty",
+      "Tomo"
+    ],
+    "next_players": [
+      "Isles",
+      "Keine",
+      "Photon",
+      "Sheiden",
+      "Tomo"
+    ],
+    "gameid": "LOLTMNT01_270288"
+  },
+  {
+    "team": "nongshimredforce",
+    "previous_observed": "2025-07-27 10:26:37",
+    "next_observed": "2025-07-31 10:31:25",
+    "previous_players": [
+      "Calix",
+      "GIDEON",
+      "Jiwoo",
+      "Kingen",
+      "Lehends"
+    ],
+    "next_players": [
+      "Calix",
+      "GIDEON",
+      "Kingen",
+      "Lehends",
+      "Trigger"
+    ],
+    "gameid": "LOLTMNT01_273014"
+  },
+  {
+    "team": "funplusphoenix",
+    "previous_observed": "2025-07-29 13:10:27",
+    "next_observed": "2025-08-01 09:15:12",
+    "previous_players": [
+      "Care",
+      "JiaQi",
+      "Jwei",
+      "iyy",
+      "sheer"
+    ],
+    "next_players": [
+      "Care",
+      "JiaQi",
+      "Jwei",
+      "milkyway",
+      "sheer"
+    ],
+    "gameid": "12586-12586_game_1"
+  },
+  {
+    "team": "lngesports",
+    "previous_observed": "2025-07-25 12:56:59",
+    "next_observed": "2025-08-02 09:16:36",
+    "previous_players": [
+      "LP",
+      "Zhuo",
+      "Zika",
+      "haichao",
+      "xiaofang"
+    ],
+    "next_players": [
+      "Zhuo",
+      "Zika",
+      "fishone",
+      "haichao",
+      "xiaofang"
+    ],
+    "gameid": "12589-12589_game_1"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-07-27 14:19:45",
+    "next_observed": "2025-08-02 12:49:46",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_290759"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-08-02 12:49:46",
+    "next_observed": "2025-08-02 13:39:21",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT02_290774"
+  },
+  {
+    "team": "fnatic",
+    "previous_observed": "2025-06-02 16:50:00",
+    "next_observed": "2025-08-02 16:51:45",
+    "previous_players": [
+      "Humanoid",
+      "Mikyx",
+      "Oscarinin",
+      "Razork",
+      "Upset"
+    ],
+    "next_players": [
+      "Mikyx",
+      "Oscarinin",
+      "Poby",
+      "Razork",
+      "Upset"
+    ],
+    "gameid": "LOLTMNT05_145075"
+  },
+  {
+    "team": "flyquest",
+    "previous_observed": "2025-07-26 20:58:52",
+    "next_observed": "2025-08-02 20:08:18",
+    "previous_players": [
+      "Busio",
+      "Gakgos",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "next_players": [
+      "Busio",
+      "Bwipo",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "gameid": "LOLTMNT02_291885"
+  },
+  {
+    "team": "lyon",
+    "previous_observed": "2025-07-26 22:37:10",
+    "next_observed": "2025-08-02 21:53:11",
+    "previous_players": [
+      "Bejjaniii",
+      "Hena",
+      "Lyonz",
+      "Oddielan",
+      "Saint"
+    ],
+    "next_players": [
+      "Hena",
+      "Lyonz",
+      "Oddielan",
+      "Saint",
+      "Srtty"
+    ],
+    "gameid": "LOLTMNT02_290962"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-08-03 12:06:38",
+    "next_observed": "2025-08-03 12:58:04",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT02_293080"
+  },
+  {
+    "team": "teambds",
+    "previous_observed": "2025-05-04 16:13:46",
+    "next_observed": "2025-08-03 15:09:00",
+    "previous_players": [
+      "113",
+      "Ice",
+      "Irrelevant",
+      "Parus",
+      "nuc"
+    ],
+    "next_players": [
+      "Boukada",
+      "Ice",
+      "Parus",
+      "Rooster",
+      "nuc"
+    ],
+    "gameid": "LOLTMNT05_146142"
+  },
+  {
+    "team": "skgaming",
+    "previous_observed": "2025-05-11 16:11:30",
+    "next_observed": "2025-08-03 15:09:00",
+    "previous_players": [
+      "Boukada",
+      "JNX",
+      "Keduii",
+      "Loopy",
+      "RKR"
+    ],
+    "next_players": [
+      "Abbedagge",
+      "DnDn",
+      "Keduii",
+      "Loopy",
+      "Skeanz"
+    ],
+    "gameid": "LOLTMNT05_146142"
+  },
+  {
+    "team": "vivokeydstars",
+    "previous_observed": "2025-07-27 19:26:31",
+    "next_observed": "2025-08-03 15:09:35",
+    "previous_players": [
+      "Boal",
+      "Disamis",
+      "Mireu",
+      "Morttheus",
+      "Trymbi"
+    ],
+    "next_players": [
+      "Boal",
+      "Disamis",
+      "Mireu",
+      "Morttheus",
+      "scamber"
+    ],
+    "gameid": "LOLTMNT02_293142"
+  },
+  {
+    "team": "teamvitality",
+    "previous_observed": "2025-05-13 18:08:09",
+    "next_observed": "2025-08-04 16:50:58",
+    "previous_players": [
+      "Carzzy",
+      "Czajek",
+      "Lyncas",
+      "Naak Nako",
+      "Nisqy"
+    ],
+    "next_players": [
+      "Carzzy",
+      "Czajek",
+      "Fleshy",
+      "Lyncas",
+      "Naak Nako"
+    ],
+    "gameid": "LOLTMNT05_145155"
+  },
+  {
+    "team": "nongshimredforce",
+    "previous_observed": "2025-08-03 09:25:54",
+    "next_observed": "2025-08-06 08:06:02",
+    "previous_players": [
+      "Calix",
+      "GIDEON",
+      "Kingen",
+      "Lehends",
+      "Trigger"
+    ],
+    "next_players": [
+      "Calix",
+      "GIDEON",
+      "Jiwoo",
+      "Kingen",
+      "Lehends"
+    ],
+    "gameid": "LOLTMNT02_294403"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-08-03 07:03:34",
+    "next_observed": "2025-08-07 08:06:22",
+    "previous_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "next_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Pyosik",
+      "Quantum"
+    ],
+    "gameid": "LOLTMNT02_294883"
+  },
+  {
+    "team": "lngesports",
+    "previous_observed": "2025-08-03 10:10:12",
+    "next_observed": "2025-08-07 09:11:31",
+    "previous_players": [
+      "Zhuo",
+      "Zika",
+      "fishone",
+      "haichao",
+      "xiaofang"
+    ],
+    "next_players": [
+      "OvO",
+      "Zika",
+      "fishone",
+      "haichao",
+      "xiaofang"
+    ],
+    "gameid": "12599-12599_game_1"
+  },
+  {
+    "team": "ktrolster",
+    "previous_observed": "2025-08-01 09:03:41",
+    "next_observed": "2025-08-08 10:27:25",
+    "previous_players": [
+      "Bdd",
+      "Cuzz",
+      "PerfecT",
+      "Peter",
+      "deokdam"
+    ],
+    "next_players": [
+      "Bdd",
+      "Cuzz",
+      "PerfecT",
+      "Way",
+      "deokdam"
+    ],
+    "gameid": "LOLTMNT02_296450"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-08-03 10:49:20",
+    "next_observed": "2025-08-09 09:49:02",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT02_296879"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-08-09 10:36:22",
+    "next_observed": "2025-08-09 11:25:27",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT02_297888"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-08-03 12:58:04",
+    "next_observed": "2025-08-09 12:37:06",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT02_296951"
+  },
+  {
+    "team": "vivokeydstars",
+    "previous_observed": "2025-08-03 15:59:28",
+    "next_observed": "2025-08-09 15:10:49",
+    "previous_players": [
+      "Boal",
+      "Disamis",
+      "Mireu",
+      "Morttheus",
+      "scamber"
+    ],
+    "next_players": [
+      "Boal",
+      "Disamis",
+      "Mireu",
+      "Morttheus",
+      "Trymbi"
+    ],
+    "gameid": "LOLTMNT02_299001"
+  },
+  {
+    "team": "100thieves",
+    "previous_observed": "2025-08-02 20:58:00",
+    "next_observed": "2025-08-09 20:06:58",
+    "previous_players": [
+      "Eyla",
+      "FBI",
+      "Quid",
+      "River",
+      "Sniper"
+    ],
+    "next_players": [
+      "Dhokla",
+      "Eyla",
+      "FBI",
+      "Quid",
+      "River"
+    ],
+    "gameid": "LOLTMNT02_299125"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-08-03 12:58:04",
+    "next_observed": "2025-08-10 12:38:50",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT02_299385"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-08-02 13:39:21",
+    "next_observed": "2025-08-10 12:38:50",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT02_299385"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-08-10 12:38:50",
+    "next_observed": "2025-08-10 13:27:51",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT02_299427"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-08-10 12:38:50",
+    "next_observed": "2025-08-10 13:27:51",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT02_299427"
+  },
+  {
+    "team": "jdgaming",
+    "previous_observed": "2025-08-09 12:52:11",
+    "next_observed": "2025-08-11 11:10:44",
+    "previous_players": [
+      "Peyz",
+      "Scout",
+      "Wink",
+      "Xiaoxu",
+      "Xun"
+    ],
+    "next_players": [
+      "Peyz",
+      "Scout",
+      "Xiaoxu",
+      "Xun",
+      "Zhuo"
+    ],
+    "gameid": "12609-12609_game_1"
+  },
+  {
+    "team": "funplusphoenix",
+    "previous_observed": "2025-08-11 11:10:44",
+    "next_observed": "2025-08-11 12:03:33",
+    "previous_players": [
+      "Care",
+      "JiaQi",
+      "Jwei",
+      "milkyway",
+      "sheer"
+    ],
+    "next_players": [
+      "Care",
+      "JiaQi",
+      "Jwei",
+      "iyy",
+      "sheer"
+    ],
+    "gameid": "12609-12609_game_2"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-08-13 10:08:55",
+    "next_observed": "2025-08-13 11:06:30",
+    "previous_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Pyosik",
+      "Quantum"
+    ],
+    "next_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "gameid": "LOLTMNT02_301669"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-08-13 11:56:13",
+    "next_observed": "2025-08-15 08:06:45",
+    "previous_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "next_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Pyosik",
+      "Quantum"
+    ],
+    "gameid": "LOLTMNT02_302238"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-08-15 08:06:45",
+    "next_observed": "2025-08-15 09:05:41",
+    "previous_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Pyosik",
+      "Quantum"
+    ],
+    "next_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "gameid": "LOLTMNT02_302252"
+  },
+  {
+    "team": "ktrolster",
+    "previous_observed": "2025-08-13 08:55:40",
+    "next_observed": "2025-08-16 06:05:19",
+    "previous_players": [
+      "Bdd",
+      "Cuzz",
+      "PerfecT",
+      "Way",
+      "deokdam"
+    ],
+    "next_players": [
+      "Bdd",
+      "Cuzz",
+      "PerfecT",
+      "Peter",
+      "deokdam"
+    ],
+    "gameid": "LOLTMNT02_303137"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-08-10 13:27:51",
+    "next_observed": "2025-08-16 09:40:58",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_281671"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-08-16 09:40:58",
+    "next_observed": "2025-08-16 10:26:53",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT03_280679"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-08-16 09:40:58",
+    "next_observed": "2025-08-16 10:26:53",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_280679"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-08-16 10:26:53",
+    "next_observed": "2025-08-16 11:21:39",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT03_280688"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-08-22 11:38:17",
+    "next_observed": "2025-08-22 12:28:08",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_286227"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-08-22 11:38:17",
+    "next_observed": "2025-08-22 12:28:08",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT03_286227"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-08-16 13:28:56",
+    "next_observed": "2025-08-23 12:29:53",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_287669"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-08-16 11:21:39",
+    "next_observed": "2025-08-23 12:29:53",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT03_287669"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-08-23 12:29:53",
+    "next_observed": "2025-08-23 13:29:07",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT03_288101"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-08-23 12:29:53",
+    "next_observed": "2025-08-23 13:29:07",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_288101"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-08-23 13:29:07",
+    "next_observed": "2025-08-23 14:29:24",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_288133"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-08-22 12:28:08",
+    "next_observed": "2025-08-24 11:35:25",
+    "previous_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT03_288514"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-08-24 11:35:25",
+    "next_observed": "2025-08-24 12:35:46",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT03_288554"
+  },
+  {
+    "team": "isurus",
+    "previous_observed": "2025-08-09 18:29:09",
+    "next_observed": "2025-08-24 16:13:11",
+    "previous_players": [
+      "Ackerman",
+      "Josedeodo",
+      "Leza",
+      "Snaker",
+      "ZOEN"
+    ],
+    "next_players": [
+      "Ackerman",
+      "Josedeodo",
+      "Leza",
+      "Snaker",
+      "Zamudo"
+    ],
+    "gameid": "LOLTMNT03_288681"
+  },
+  {
+    "team": "funplusphoenix",
+    "previous_observed": "2025-08-22 10:05:19",
+    "next_observed": "2025-08-25 11:56:22",
+    "previous_players": [
+      "Care",
+      "JiaQi",
+      "Jwei",
+      "iyy",
+      "sheer"
+    ],
+    "next_players": [
+      "Care",
+      "JiaQi",
+      "Jiejie",
+      "Jwei",
+      "sheer"
+    ],
+    "gameid": "12639-12639_game_1"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-08-23 11:19:26",
+    "next_observed": "2025-08-27 11:21:15",
+    "previous_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "next_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Pyosik",
+      "Quantum"
+    ],
+    "gameid": "LOLTMNT03_291596"
+  },
+  {
+    "team": "dnfreecs",
+    "previous_observed": "2025-08-27 11:21:15",
+    "next_observed": "2025-08-27 12:19:22",
+    "previous_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Pyosik",
+      "Quantum"
+    ],
+    "next_players": [
+      "Berserker",
+      "BuLLDoG",
+      "DuDu",
+      "Life",
+      "Pyosik"
+    ],
+    "gameid": "LOLTMNT03_291623"
+  },
+  {
+    "team": "flyquest",
+    "previous_observed": "2025-08-31 20:07:38",
+    "next_observed": "2025-08-31 20:58:43",
+    "previous_players": [
+      "Busio",
+      "Bwipo",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "next_players": [
+      "Busio",
+      "Gakgos",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "gameid": "LOLTMNT01_280063"
+  },
+  {
+    "team": "flyquest",
+    "previous_observed": "2025-08-31 20:58:43",
+    "next_observed": "2025-08-31 22:02:08",
+    "previous_players": [
+      "Busio",
+      "Gakgos",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "next_players": [
+      "Busio",
+      "Bwipo",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "gameid": "LOLTMNT01_279725"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-08-24 12:35:46",
+    "next_observed": "2025-09-05 09:43:20",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_281934"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-09-05 09:43:20",
+    "next_observed": "2025-09-05 10:30:36",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_282320"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-09-05 11:31:09",
+    "next_observed": "2025-09-05 12:18:09",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT01_283051"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-08-22 12:28:08",
+    "next_observed": "2025-09-06 09:42:16",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_283556"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-09-06 09:42:16",
+    "next_observed": "2025-09-06 10:36:00",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_282974"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-09-06 09:42:16",
+    "next_observed": "2025-09-06 10:36:00",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_282974"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-09-06 10:36:00",
+    "next_observed": "2025-09-06 11:32:39",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_284017"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-09-07 06:13:14",
+    "next_observed": "2025-09-07 07:06:48",
+    "previous_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Shad0w"
+    ],
+    "next_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "gameid": "12799-12799_game_2"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-09-05 12:18:09",
+    "next_observed": "2025-09-07 09:41:44",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT01_285288"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-09-07 11:25:33",
+    "next_observed": "2025-09-07 12:19:49",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT01_285384"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-09-07 12:19:49",
+    "next_observed": "2025-09-12 09:41:21",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT01_287615"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-09-06 11:32:39",
+    "next_observed": "2025-09-12 09:41:21",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_287615"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-09-12 09:41:21",
+    "next_observed": "2025-09-12 10:41:47",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "gameid": "LOLTMNT01_288150"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-09-12 10:41:47",
+    "next_observed": "2025-09-12 11:32:10",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_288166"
+  },
+  {
+    "team": "mgnvikingsesports",
+    "previous_observed": "2025-09-12 11:32:10",
+    "next_observed": "2025-09-12 12:28:39",
+    "previous_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "SiuLoong",
+      "Sty1e"
+    ],
+    "next_players": [
+      "Gury",
+      "Kati",
+      "Kratos",
+      "Shogun",
+      "SiuLoong"
+    ],
+    "gameid": "LOLTMNT01_288184"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-09-13 09:43:56",
+    "next_observed": "2025-09-13 10:41:44",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_287920"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-09-13 11:33:43",
+    "next_observed": "2025-09-13 12:42:51",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_288498"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2025-09-14 10:30:24",
+    "next_observed": "2025-09-14 11:18:07",
+    "previous_players": [
+      "Artemis",
+      "Elio",
+      "Emo",
+      "Kiaya",
+      "Levi"
+    ],
+    "next_players": [
+      "Aress",
+      "Artemis",
+      "Elio",
+      "Kiaya",
+      "Levi"
+    ],
+    "gameid": "LOLTMNT01_289080"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-09-15 11:19:49",
+    "next_observed": "2025-09-15 12:09:40",
+    "previous_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "next_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Shad0w"
+    ],
+    "gameid": "12809-12809_game_4"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-09-14 11:18:07",
+    "next_observed": "2025-09-20 09:52:13",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_289948"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-09-20 09:52:13",
+    "next_observed": "2025-09-20 10:55:11",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_289956"
+  },
+  {
+    "team": "flyquest",
+    "previous_observed": "2025-09-07 22:50:47",
+    "next_observed": "2025-09-20 20:12:24",
+    "previous_players": [
+      "Busio",
+      "Bwipo",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "next_players": [
+      "Busio",
+      "Gakgos",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "gameid": "LOLTMNT02_312440"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-09-15 13:03:25",
+    "next_observed": "2025-09-21 08:21:50",
+    "previous_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Shad0w"
+    ],
+    "next_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "gameid": "12812-12812_game_1"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-09-21 08:21:50",
+    "next_observed": "2025-09-21 09:21:06",
+    "previous_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "next_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Shad0w"
+    ],
+    "gameid": "12812-12812_game_2"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-09-21 10:11:36",
+    "next_observed": "2025-09-21 11:10:52",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_290626"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-09-21 11:10:52",
+    "next_observed": "2025-09-21 12:17:52",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_291088"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-09-21 11:10:52",
+    "next_observed": "2025-09-21 12:17:52",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_291088"
+  },
+  {
+    "team": "flyquest",
+    "previous_observed": "2025-09-20 21:56:51",
+    "next_observed": "2025-09-28 20:16:45",
+    "previous_players": [
+      "Busio",
+      "Gakgos",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "next_players": [
+      "Busio",
+      "Bwipo",
+      "Inspired",
+      "Massu",
+      "Quad"
+    ],
+    "gameid": "LOLTMNT02_314584"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-09-21 12:17:52",
+    "next_observed": "2025-10-15 05:18:22",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_297691"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-09-21 12:03:38",
+    "next_observed": "2025-10-15 08:15:05",
+    "previous_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Shad0w"
+    ],
+    "next_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "gameid": "LOLTMNT01_297733"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-10-15 08:15:05",
+    "next_observed": "2025-10-16 11:02:52",
+    "previous_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "next_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Shad0w"
+    ],
+    "gameid": "LOLTMNT01_296976"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-10-16 08:46:57",
+    "next_observed": "2025-10-17 09:56:46",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_299149"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-10-17 11:47:36",
+    "next_observed": "2025-10-22 08:14:32",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_301255"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-10-22 08:14:32",
+    "next_observed": "2025-10-22 09:12:19",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_301259"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-10-18 08:12:24",
+    "next_observed": "2025-10-23 08:12:26",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_301407"
+  },
+  {
+    "team": "teamsecretwhales",
+    "previous_observed": "2025-10-23 09:06:16",
+    "next_observed": "2025-10-23 10:01:02",
+    "previous_players": [
+      "Dire",
+      "Eddie",
+      "Hizto",
+      "Pun",
+      "Taki"
+    ],
+    "next_players": [
+      "Dire",
+      "Eddie",
+      "Hiro02",
+      "Hizto",
+      "Taki"
+    ],
+    "gameid": "LOLTMNT01_301411"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-10-22 09:12:19",
+    "next_observed": "2025-10-25 05:14:57",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_300730"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-10-25 05:14:57",
+    "next_observed": "2025-10-25 06:42:34",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_300740"
+  },
+  {
+    "team": "bilibiligaming",
+    "previous_observed": "2025-10-25 08:22:05",
+    "next_observed": "2025-10-25 09:13:40",
+    "previous_players": [
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON",
+      "Shad0w"
+    ],
+    "next_players": [
+      "Beichuan",
+      "Bin",
+      "Elk",
+      "Knight",
+      "ON"
+    ],
+    "gameid": "LOLTMNT01_300771"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-10-25 06:42:34",
+    "next_observed": "2025-10-29 07:13:13",
+    "previous_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "next_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "gameid": "LOLTMNT01_303118"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2025-10-29 07:13:13",
+    "next_observed": "2025-10-29 08:05:49",
+    "previous_players": [
+      "Doggo",
+      "Driver",
+      "HongQ",
+      "JunJia",
+      "Kaiwing"
+    ],
+    "next_players": [
+      "Doggo",
+      "HongQ",
+      "JunJia",
+      "Kaiwing",
+      "Rest"
+    ],
+    "gameid": "LOLTMNT01_303120"
+  }
+]

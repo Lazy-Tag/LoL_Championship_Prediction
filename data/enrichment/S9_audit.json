@@ -1,0 +1,816 @@
+{
+  "season": 9,
+  "source_url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2019_LoL_esports_match_data_from_OraclesElixir.csv",
+  "source_note": "Public GitHub mirror of OE; not an independent scoring source",
+  "sha256": "0b2f95dc8dafe7ff1587770a9ac77746502867cf171aed7026ceca60257908b6",
+  "source_latest_date": "2019-11-10 14:26:00",
+  "base_series": 2311,
+  "base_maps": 3651,
+  "eligible_normalized_maps": 120,
+  "matched_series": 78,
+  "matched_maps": 110,
+  "additional_maps": 0,
+  "field_counts": {
+    "timestamp": 120,
+    "patch": 120,
+    "complete_ten_players": 120,
+    "gamelength": 120,
+    "kills": 120,
+    "deaths": 120,
+    "totalgold": 120,
+    "golddiffat10": 120,
+    "golddiffat15": 120,
+    "xpdiffat15": 120,
+    "csdiffat15": 120,
+    "dragons": 120,
+    "barons": 120,
+    "towers": 120,
+    "firstdragon": 120,
+    "firstbaron": 120
+  },
+  "rejected": [],
+  "conflicts": [
+    {
+      "date": "2019-10-04",
+      "league": "WCS",
+      "teams": [
+        "clutchgaming",
+        "unicornsoflove"
+      ],
+      "map_ids": [
+        "ESPORTSTMNT06/1070523",
+        "ESPORTSTMNT06/1070624"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2019-10-04",
+      "league": "WCS",
+      "teams": [
+        "mammothesports",
+        "unicornsoflove"
+      ],
+      "map_ids": [
+        "ESPORTSTMNT06/1070547",
+        "ESPORTSTMNT06/1070599"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2019-10-05",
+      "league": "WCS",
+      "teams": [
+        "flamengoesports",
+        "royalyouth"
+      ],
+      "map_ids": [
+        "ESPORTSTMNT06/1060612",
+        "ESPORTSTMNT06/1060665"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2019-10-17",
+      "league": "WCS",
+      "teams": [
+        "funplusphoenix",
+        "splyce"
+      ],
+      "map_ids": [
+        "ESPORTSTMNT06/1071491",
+        "ESPORTSTMNT06/1071514"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2019-10-18",
+      "league": "WCS",
+      "teams": [
+        "g2esports",
+        "griffin"
+      ],
+      "map_ids": [
+        "ESPORTSTMNT06/1071569",
+        "ESPORTSTMNT06/1071575"
+      ],
+      "reason": "nearby score/date ambiguity"
+    }
+  ],
+  "matched": [
+    {
+      "detail": "https://gol.gg/game/stats/20364/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070330"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20365/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070340"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20366/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070349"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20367/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070359"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20368/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070365"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20369/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070378"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20370/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070393"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20371/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070420"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20372/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070445"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20373/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070457"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20374/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070463"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20375/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070475"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20377/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070531"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20379/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070555"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20380/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070569"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20381/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070580"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20382/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070668"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20383/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1060543"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20384/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1060559"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20385/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1060585"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20387/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1060652"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20395/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070910",
+        "ESPORTSTMNT06/1070918",
+        "ESPORTSTMNT06/1070920",
+        "ESPORTSTMNT06/1070922"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20400/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1060775",
+        "ESPORTSTMNT06/1060784",
+        "ESPORTSTMNT06/1060790"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20405/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1070971",
+        "ESPORTSTMNT06/1070985",
+        "ESPORTSTMNT06/1070986",
+        "ESPORTSTMNT06/1070996"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20410/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071000",
+        "ESPORTSTMNT06/1071009",
+        "ESPORTSTMNT06/1071014",
+        "ESPORTSTMNT06/1071024",
+        "ESPORTSTMNT06/1071025"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20415/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061005"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20416/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061019"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20417/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061026"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20418/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061031"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20419/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061043"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20420/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061051"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20421/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071246"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20422/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071259"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20423/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071266"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20424/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071272"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20425/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071286"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20426/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071297"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20427/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061143"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20428/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061147"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20429/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061156"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20430/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061161"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20431/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061175"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20432/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061189"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20433/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061209"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20434/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061221"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20435/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061227"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20436/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071398"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20437/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071409"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20438/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071415"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20439/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071461"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20440/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071479"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20441/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071486"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20443/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071497"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20444/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071502"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20445/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071527"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20446/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071536"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20447/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071547"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20448/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071552"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20449/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071560"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20451/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071615"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20452/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071627"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20453/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071642"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20454/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071659"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20455/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071668"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20456/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071675"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20457/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071696"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20458/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071705"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20459/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071716"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20460/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071720"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20461/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071724"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20462/page-game/",
+      "map_ids": [
+        "ESPORTSTMNT06/1071731"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20465/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061881",
+        "ESPORTSTMNT06/1061934",
+        "ESPORTSTMNT06/1061950",
+        "ESPORTSTMNT06/1061960"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20470/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1061976",
+        "ESPORTSTMNT06/1072089",
+        "ESPORTSTMNT06/1072107",
+        "ESPORTSTMNT06/1072121"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20475/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1062051",
+        "ESPORTSTMNT06/1062060",
+        "ESPORTSTMNT06/1062065",
+        "ESPORTSTMNT06/1062070"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20480/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1072179",
+        "ESPORTSTMNT06/1072193",
+        "ESPORTSTMNT06/1072194",
+        "ESPORTSTMNT06/1072195"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20484/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1072304",
+        "ESPORTSTMNT06/1072311",
+        "ESPORTSTMNT06/1072314",
+        "ESPORTSTMNT06/1072327"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20489/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1062258",
+        "ESPORTSTMNT06/1062262",
+        "ESPORTSTMNT06/1062263",
+        "ESPORTSTMNT06/1062265"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/20493/page-summary/",
+      "map_ids": [
+        "ESPORTSTMNT06/1072511",
+        "ESPORTSTMNT06/1072516",
+        "ESPORTSTMNT06/1072517"
+      ],
+      "date_offset": 0
+    }
+  ],
+  "aliases": {
+    "ktrolster": "ktrolster",
+    "hongkongattitude": "hongkongattitude",
+    "royalnevergiveup": "royalnevergiveup",
+    "gamesports": "gamesports",
+    "grex": "grex",
+    "misfits": "misfits",
+    "kaoslatingamers": "kaoslatingamers",
+    "apkprince": "apkprince",
+    "excelesports": "excelesports",
+    "burningcore": "burningcore",
+    "edwardgaming": "edwardgaming",
+    "axiz": "axiz",
+    "liyabesports": "liyabesports",
+    "armoredproject": "armoredproject",
+    "qtvgaming": "qtvgaming",
+    "v3esports": "v3esports",
+    "detonationfocusme": "detonationfocusme",
+    "furiousgaming": "furiousgaming",
+    "istanbulwildcats": "istanbulwildcats",
+    "royalyouth": "royalyouth",
+    "teamjustalpha": "teamjustalpha",
+    "mammothesports": "mammothesports",
+    "legacyesports": "legacyesports",
+    "winesports": "winesports",
+    "teamvitality": "teamvitality",
+    "uppercutesports": "uppercutesports",
+    "sengokugaming": "sengokugaming",
+    "g2esports": "g2esports",
+    "clg": "clg",
+    "dragonarmy": "dragonarmy",
+    "chiefsesportsclub": "chiefsesportsclub",
+    "cherrygaming": "cherrygaming",
+    "omg": "omg",
+    "intzesports": "intzesports",
+    "madteam": "madteam",
+    "jinairgreenwings": "jinairgreenwings",
+    "vegasquadron": "vegasquadron",
+    "echofox": "echofox",
+    "teamdynamics": "teamdynamics",
+    "invictusgaming": "invictusgaming",
+    "dashingbuffalo": "dashingbuffalo",
+    "detonator": "detonator",
+    "kingzonedragonx": "kingzonedragonx",
+    "flashwolves": "flashwolves",
+    "gambitesports": "gambitesports",
+    "flyquest": "flyquest",
+    "ahqesportsclub": "ahqesportsclub",
+    "flamengoesports": "flamengoesports",
+    "bursasporesports": "bursasporesports",
+    "avantgaming": "avantgaming",
+    "besiktasesports": "besiktasesports",
+    "vicigaming": "vicigaming",
+    "axisempire": "axisempire",
+    "sktelecomt1": "sktelecomt1",
+    "victoryfive": "victoryfive",
+    "evosesports": "evosesports",
+    "insurgent": "insurgent",
+    "unicornsoflove": "unicornsoflove",
+    "rainbow7": "rainbow7",
+    "teamoneesports": "teamoneesports",
+    "gengesports": "gengesports",
+    "kabumesports": "kabumesports",
+    "isurusgaming": "isurusgaming",
+    "cnbesportsclub": "cnbesportsclub",
+    "allknights": "allknights",
+    "galakticos": "galakticos",
+    "direwolves": "direwolves",
+    "fcschalke04": "fcschalke04",
+    "pixelesportsclub": "pixelesportsclub",
+    "topesports": "topesports",
+    "galatasarayesports": "galatasarayesports",
+    "splyce": "splyce",
+    "elementsprogaming": "elementsprogaming",
+    "lowkeyesportsvietnam": "lowkeyesportsvietnam",
+    "teamaurora": "teamaurora",
+    "funplusphoenix": "funplusphoenix",
+    "infinityesports": "infinityesports",
+    "teamwe": "teamwe",
+    "steewolvesgaia": "steewolvesgaia",
+    "vivokeyd": "vivokeyd",
+    "darkpassage": "darkpassage",
+    "bombers": "bombers",
+    "ftvesports": "ftvesports",
+    "mega": "mega",
+    "lngesports": "lngesports",
+    "origen": "origen",
+    "xtenesports": "xtenesports",
+    "1907fenerbahce": "1907fenerbahce",
+    "rascaljester": "rascaljester",
+    "redemptionpoa": "redemptionpoa",
+    "100thieves": "100thieves",
+    "order": "order",
+    "supermassive": "supermassive",
+    "suning": "suning",
+    "jdgaming": "jdgaming",
+    "paingaming": "paingaming",
+    "crestgamingact": "crestgamingact",
+    "fnatic": "fnatic",
+    "m19team": "m19team",
+    "alphaesports": "alphaesports",
+    "vsg": "vsg",
+    "hanwhalifeesports": "hanwhalifeesports",
+    "tsm": "tsm",
+    "sandboxgaming": "sandboxgaming",
+    "essharks": "essharks",
+    "unsoldstuffgaming": "unsoldstuffgaming",
+    "gravitas": "gravitas",
+    "teamliquid": "teamliquid",
+    "rox": "rox",
+    "dominusesports": "dominusesports",
+    "rogue": "rogue",
+    "afreecafreecs": "afreecafreecs",
+    "bilibiligaming": "bilibiligaming",
+    "cerberusesports": "cerberusesports",
+    "griffin": "griffin",
+    "teamflash": "teamflash",
+    "opticgaming": "opticgaming",
+    "damwongaming": "damwongaming",
+    "cloud9": "cloud9",
+    "roguewarriors": "roguewarriors",
+    "lgdgaming": "lgdgaming",
+    "goldenguardians": "goldenguardians",
+    "progamingesports": "progamingesports",
+    "clutchgaming": "clutchgaming",
+    "dragongateteam": "dragongateteam",
+    "skgaming": "skgaming",
+    "vaevictisesports": "vaevictisesports",
+    "jteam": "jteam",
+    "geng": "gengesports",
+    "cloud9kia": "cloud9",
+    "dwgkia": "damwongaming",
+    "unicornsoflovecis": "unicornsoflove",
+    "isurus": "isurusgaming",
+    "mammoth": "mammothesports"
+  },
+  "observed_lineup_changes": 10
+}

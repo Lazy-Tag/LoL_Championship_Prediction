@@ -1,0 +1,82 @@
+[
+  {
+    "trname": "World Championship 2014",
+    "region": "WR",
+    "nbgames": "78",
+    "avgtime": "2168",
+    "firstgame": "2014-09-18",
+    "lastgame": "2014-10-19"
+  },
+  {
+    "trname": "NA LCS Summer Playoffs 2014",
+    "region": "NA",
+    "nbgames": "29",
+    "avgtime": "2196",
+    "firstgame": "2014-08-23",
+    "lastgame": "2014-09-01"
+  },
+  {
+    "trname": "EU LCS Summer Playoffs 2014",
+    "region": "EUW",
+    "nbgames": "26",
+    "avgtime": "2470",
+    "firstgame": "2014-08-07",
+    "lastgame": "2014-08-17"
+  },
+  {
+    "trname": "NA LCS Summer 2014",
+    "region": "NA",
+    "nbgames": "112",
+    "avgtime": "2339",
+    "firstgame": "2014-05-23",
+    "lastgame": "2014-08-03"
+  },
+  {
+    "trname": "EU LCS Summer 2014",
+    "region": "EUW",
+    "nbgames": "112",
+    "avgtime": "2383",
+    "firstgame": "2014-05-20",
+    "lastgame": "2014-07-31"
+  },
+  {
+    "trname": "All-Star 2014",
+    "region": "WR",
+    "nbgames": "17",
+    "avgtime": "1993",
+    "firstgame": "2014-05-08",
+    "lastgame": "2014-05-11"
+  },
+  {
+    "trname": "NA LCS Spring Playoffs 2014",
+    "region": "NA",
+    "nbgames": "18",
+    "avgtime": "2038",
+    "firstgame": "2014-04-18",
+    "lastgame": "2014-04-20"
+  },
+  {
+    "trname": "EU LCS Spring Playoffs 2014",
+    "region": "EUW",
+    "nbgames": "20",
+    "avgtime": "2327",
+    "firstgame": "2014-04-15",
+    "lastgame": "2014-04-17"
+  },
+  {
+    "trname": "NA LCS Spring 2014",
+    "region": "NA",
+    "nbgames": "112",
+    "avgtime": "2219",
+    "firstgame": "2014-01-17",
+    "lastgame": "2014-04-06"
+  },
+  {
+    "trname": "EU LCS Spring 2014",
+    "region": "EUW",
+    "nbgames": "112",
+    "avgtime": "2362",
+    "firstgame": "2014-01-14",
+    "lastgame": "2014-04-03"
+  }
+]

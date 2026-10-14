@@ -1,0 +1,89 @@
+{
+  "status": "PARTIAL_EXACT_NO_WORLD_CHAMPION_PROBABILITIES",
+  "playin": {
+    "30": {
+      "swiss_qualification": {
+        "C9": 0.31497191884804443,
+        "FUR": 0.01267839864503375,
+        "KC": 0.6723496760576071,
+        "MVK": 6.449313495493094e-09
+      },
+      "audit": {
+        "terminal_paths": 64,
+        "probability_mass": 0.9999999999999989
+      },
+      "opening_bo5": {
+        "C9_vs_KC": 0.33410916555168924,
+        "FUR_vs_MVK": 0.9904433294705187
+      }
+    },
+    "60": {
+      "swiss_qualification": {
+        "C9": 0.2000827351956633,
+        "FUR": 0.031619443454871124,
+        "KC": 0.7682974718504335,
+        "MVK": 3.494990317760905e-07
+      },
+      "audit": {
+        "terminal_paths": 64,
+        "probability_mass": 0.9999999999999997
+      },
+      "opening_bo5": {
+        "C9_vs_KC": 0.23942750125949422,
+        "FUR_vs_MVK": 0.9786512298987308
+      }
+    },
+    "90": {
+      "swiss_qualification": {
+        "C9": 0.1610269515580616,
+        "FUR": 0.05438198081635975,
+        "KC": 0.7845904758642658,
+        "MVK": 5.91761313564898e-07
+      },
+      "audit": {
+        "terminal_paths": 64,
+        "probability_mass": 1.0000000000000009
+      },
+      "opening_bo5": {
+        "C9_vs_KC": 0.21377191306010523,
+        "FUR_vs_MVK": 0.9809118268807643
+      }
+    },
+    "180": {
+      "swiss_qualification": {
+        "C9": 0.13004353902487162,
+        "FUR": 0.09241597151769713,
+        "KC": 0.7775399083460427,
+        "MVK": 5.811113880632159e-07
+      },
+      "audit": {
+        "terminal_paths": 64,
+        "probability_mass": 0.9999999999999997
+      },
+      "opening_bo5": {
+        "C9_vs_KC": 0.19835495230175257,
+        "FUR_vs_MVK": 0.98590427470257
+      }
+    }
+  },
+  "complexity": {
+    "swiss_series": 33,
+    "swiss_outcome_paths_for_one_adaptive_draw_policy": 8589934592,
+    "playin_outcome_paths": 64,
+    "knockout_outcome_paths_per_fixed_bracket": 128,
+    "round2_pairings_per_record_group": 105,
+    "round2_pairings_both_groups": 11025,
+    "raw_prefixes_after_two_swiss_rounds_fixed_initial_draw": 722534400,
+    "raw_prefix_storage_at_96_bytes": 69363302400,
+    "knockout_draw_equivalence_classes": 36,
+    "naive_full_paths_without_swiss_draw_branching": 70368744177664,
+    "warning": "Raw path counts do not prove a lower bound for optimized exact algorithms. Opponent histories cannot be discarded under the no-rematch rule. Full Swiss state enumeration has not been performed."
+  },
+  "numerics": "Analytical finite sums evaluated with IEEE-754 floating point; not symbolic rational probabilities",
+  "full_tournament_limitations": [
+    "No full Swiss-state sum performed",
+    "Draw slide-to-next-slot procedure is not uniform sampling over valid matchings",
+    "Rule 4.3.3.2 permits officials to waive no-rematch if no eligible draw; no probability law for discretion supplied",
+    "Selection/draft rights not modeled; probabilities conditional on neutral-side independent-map BT model"
+  ]
+}

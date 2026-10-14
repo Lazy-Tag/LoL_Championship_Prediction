@@ -1,0 +1,514 @@
+[
+  {
+    "trname": "World Championship 2019",
+    "region": "WR",
+    "nbgames": "77",
+    "avgtime": "1965",
+    "firstgame": "2019-10-12",
+    "lastgame": "2019-11-10"
+  },
+  {
+    "trname": "World Championship Play-In 2019",
+    "region": "WR",
+    "nbgames": "43",
+    "avgtime": "2064",
+    "firstgame": "2019-10-02",
+    "lastgame": "2019-10-08"
+  },
+  {
+    "trname": "LJL Summer Playoffs 2019",
+    "region": "JP",
+    "nbgames": "9",
+    "avgtime": "1926",
+    "firstgame": "2019-09-01",
+    "lastgame": "2019-09-16"
+  },
+  {
+    "trname": "LEC Regional Finals 2019",
+    "region": "EUW",
+    "nbgames": "11",
+    "avgtime": "1953",
+    "firstgame": "2019-09-13",
+    "lastgame": "2019-09-15"
+  },
+  {
+    "trname": "LST Summer Playoffs 2019",
+    "region": "SEA",
+    "nbgames": "12",
+    "avgtime": "1788",
+    "firstgame": "2019-09-07",
+    "lastgame": "2019-09-15"
+  },
+  {
+    "trname": "VCS Summer Playoffs 2019",
+    "region": "VN",
+    "nbgames": "17",
+    "avgtime": "1861",
+    "firstgame": "2019-08-24",
+    "lastgame": "2019-09-15"
+  },
+  {
+    "trname": "LCL Summer Playoffs 2019",
+    "region": "CIS",
+    "nbgames": "13",
+    "avgtime": "1959",
+    "firstgame": "2019-08-31",
+    "lastgame": "2019-09-15"
+  },
+  {
+    "trname": "LCK Spring Promotion 2020",
+    "region": "KR",
+    "nbgames": "16",
+    "avgtime": "2193",
+    "firstgame": "2019-09-09",
+    "lastgame": "2019-09-11"
+  },
+  {
+    "trname": "LPL Regional Finals 2019",
+    "region": "CN",
+    "nbgames": "10",
+    "avgtime": "1817",
+    "firstgame": "2019-09-07",
+    "lastgame": "2019-09-08"
+  },
+  {
+    "trname": "LMS Regional Finals 2019",
+    "region": "TW",
+    "nbgames": "10",
+    "avgtime": "2004",
+    "firstgame": "2019-09-06",
+    "lastgame": "2019-09-08"
+  },
+  {
+    "trname": "LCS Regional Finals 2019",
+    "region": "NA",
+    "nbgames": "13",
+    "avgtime": "2134",
+    "firstgame": "2019-09-06",
+    "lastgame": "2019-09-08"
+  },
+  {
+    "trname": "LEC Summer Playoffs 2019",
+    "region": "EUW",
+    "nbgames": "24",
+    "avgtime": "1907",
+    "firstgame": "2019-08-23",
+    "lastgame": "2019-09-08"
+  },
+  {
+    "trname": "CBLOL Winter Playoffs 2019",
+    "region": "BR",
+    "nbgames": "12",
+    "avgtime": "1781",
+    "firstgame": "2019-08-24",
+    "lastgame": "2019-09-07"
+  },
+  {
+    "trname": "LCK Regional Finals 2019",
+    "region": "KR",
+    "nbgames": "13",
+    "avgtime": "1840",
+    "firstgame": "2019-09-03",
+    "lastgame": "2019-09-07"
+  },
+  {
+    "trname": "LPL Summer Playoffs 2019",
+    "region": "CN",
+    "nbgames": "31",
+    "avgtime": "1973",
+    "firstgame": "2019-08-22",
+    "lastgame": "2019-09-06"
+  },
+  {
+    "trname": "LST Summer 2019",
+    "region": "SEA",
+    "nbgames": "62",
+    "avgtime": "1710",
+    "firstgame": "2019-07-20",
+    "lastgame": "2019-09-01"
+  },
+  {
+    "trname": "LCK Summer Playoffs 2019",
+    "region": "KR",
+    "nbgames": "13",
+    "avgtime": "2038",
+    "firstgame": "2019-08-21",
+    "lastgame": "2019-08-31"
+  },
+  {
+    "trname": "OPL Split 2 Playoffs 2019",
+    "region": "OCE",
+    "nbgames": "14",
+    "avgtime": "2032",
+    "firstgame": "2019-08-22",
+    "lastgame": "2019-08-31"
+  },
+  {
+    "trname": "TCL Summer Playoffs 2019",
+    "region": "TR",
+    "nbgames": "20",
+    "avgtime": "1955",
+    "firstgame": "2019-08-17",
+    "lastgame": "2019-08-31"
+  },
+  {
+    "trname": "LLA Closing Playoffs 2019",
+    "region": "LAT",
+    "nbgames": "19",
+    "avgtime": "2070",
+    "firstgame": "2019-08-10",
+    "lastgame": "2019-08-31"
+  },
+  {
+    "trname": "LMS Summer Playoffs 2019",
+    "region": "TW",
+    "nbgames": "13",
+    "avgtime": "2026",
+    "firstgame": "2019-08-23",
+    "lastgame": "2019-08-31"
+  },
+  {
+    "trname": "LCS Summer Playoffs 2019",
+    "region": "NA",
+    "nbgames": "26",
+    "avgtime": "1962",
+    "firstgame": "2019-08-10",
+    "lastgame": "2019-08-25"
+  },
+  {
+    "trname": "LCL Summer 2019",
+    "region": "CIS",
+    "nbgames": "57",
+    "avgtime": "1788",
+    "firstgame": "2019-07-20",
+    "lastgame": "2019-08-25"
+  },
+  {
+    "trname": "LPL Summer 2019",
+    "region": "CN",
+    "nbgames": "287",
+    "avgtime": "1915",
+    "firstgame": "2019-06-01",
+    "lastgame": "2019-08-18"
+  },
+  {
+    "trname": "LCK Summer 2019",
+    "region": "KR",
+    "nbgames": "218",
+    "avgtime": "2018",
+    "firstgame": "2019-06-05",
+    "lastgame": "2019-08-18"
+  },
+  {
+    "trname": "LJL Summer 2019",
+    "region": "JP",
+    "nbgames": "84",
+    "avgtime": "1981",
+    "firstgame": "2019-06-15",
+    "lastgame": "2019-08-18"
+  },
+  {
+    "trname": "LEC Summer 2019",
+    "region": "EUW",
+    "nbgames": "91",
+    "avgtime": "1935",
+    "firstgame": "2019-06-07",
+    "lastgame": "2019-08-17"
+  },
+  {
+    "trname": "OPL Split 2 2019",
+    "region": "OCE",
+    "nbgames": "84",
+    "avgtime": "1923",
+    "firstgame": "2019-06-07",
+    "lastgame": "2019-08-17"
+  },
+  {
+    "trname": "VCS Summer 2019",
+    "region": "VN",
+    "nbgames": "135",
+    "avgtime": "1931",
+    "firstgame": "2019-06-20",
+    "lastgame": "2019-08-11"
+  },
+  {
+    "trname": "CBLOL Winter 2019",
+    "region": "BR",
+    "nbgames": "84",
+    "avgtime": "1967",
+    "firstgame": "2019-06-01",
+    "lastgame": "2019-08-10"
+  },
+  {
+    "trname": "LMS Summer 2019",
+    "region": "TW",
+    "nbgames": "102",
+    "avgtime": "2012",
+    "firstgame": "2019-06-13",
+    "lastgame": "2019-08-04"
+  },
+  {
+    "trname": "TCL Summer 2019",
+    "region": "TR",
+    "nbgames": "91",
+    "avgtime": "1971",
+    "firstgame": "2019-06-08",
+    "lastgame": "2019-08-04"
+  },
+  {
+    "trname": "LLA Closing 2019",
+    "region": "LAT",
+    "nbgames": "84",
+    "avgtime": "2027",
+    "firstgame": "2019-06-08",
+    "lastgame": "2019-08-04"
+  },
+  {
+    "trname": "LCS Summer 2019",
+    "region": "NA",
+    "nbgames": "93",
+    "avgtime": "2022",
+    "firstgame": "2019-06-01",
+    "lastgame": "2019-08-04"
+  },
+  {
+    "trname": "LCK-LPL-LMS-VCS Rift Rivals 2019",
+    "region": "WR",
+    "nbgames": "19",
+    "avgtime": "1875",
+    "firstgame": "2019-07-04",
+    "lastgame": "2019-07-07"
+  },
+  {
+    "trname": "NA-EU Rift Rivals 2019",
+    "region": "WR",
+    "nbgames": "13",
+    "avgtime": "1672",
+    "firstgame": "2019-06-27",
+    "lastgame": "2019-06-29"
+  },
+  {
+    "trname": "Mid-Season Invitational 2019",
+    "region": "WR",
+    "nbgames": "42",
+    "avgtime": "1844",
+    "firstgame": "2019-05-10",
+    "lastgame": "2019-05-19"
+  },
+  {
+    "trname": "MSI Play-In 2019",
+    "region": "WR",
+    "nbgames": "37",
+    "avgtime": "1898",
+    "firstgame": "2019-05-01",
+    "lastgame": "2019-05-07"
+  },
+  {
+    "trname": "LST Spring 2019",
+    "region": "SEA",
+    "nbgames": "7",
+    "avgtime": "1980",
+    "firstgame": "2019-04-20",
+    "lastgame": "2019-04-21"
+  },
+  {
+    "trname": "LCK Summer Promotion 2019",
+    "region": "KR",
+    "nbgames": "16",
+    "avgtime": "2059",
+    "firstgame": "2019-04-16",
+    "lastgame": "2019-04-21"
+  },
+  {
+    "trname": "LPL Spring Playoffs 2019",
+    "region": "CN",
+    "nbgames": "31",
+    "avgtime": "1878",
+    "firstgame": "2019-04-04",
+    "lastgame": "2019-04-21"
+  },
+  {
+    "trname": "LMS Spring Playoffs 2019",
+    "region": "TW",
+    "nbgames": "12",
+    "avgtime": "2102",
+    "firstgame": "2019-04-12",
+    "lastgame": "2019-04-20"
+  },
+  {
+    "trname": "LLA Opening Playoffs 2019",
+    "region": "LAT",
+    "nbgames": "21",
+    "avgtime": "1998",
+    "firstgame": "2019-03-30",
+    "lastgame": "2019-04-20"
+  },
+  {
+    "trname": "LEC Spring Playoffs 2019",
+    "region": "EUW",
+    "nbgames": "21",
+    "avgtime": "1961",
+    "firstgame": "2019-03-29",
+    "lastgame": "2019-04-14"
+  },
+  {
+    "trname": "LCL Spring Playoffs 2019",
+    "region": "CIS",
+    "nbgames": "10",
+    "avgtime": "1807",
+    "firstgame": "2019-03-30",
+    "lastgame": "2019-04-14"
+  },
+  {
+    "trname": "LJL Spring Playoffs 2019",
+    "region": "JP",
+    "nbgames": "6",
+    "avgtime": "1910",
+    "firstgame": "2019-04-06",
+    "lastgame": "2019-04-13"
+  },
+  {
+    "trname": "VCS Spring Playoffs 2019",
+    "region": "VN",
+    "nbgames": "13",
+    "avgtime": "2185",
+    "firstgame": "2019-03-30",
+    "lastgame": "2019-04-13"
+  },
+  {
+    "trname": "CBLOL Summer Playoffs 2019",
+    "region": "BR",
+    "nbgames": "13",
+    "avgtime": "2107",
+    "firstgame": "2019-04-06",
+    "lastgame": "2019-04-13"
+  },
+  {
+    "trname": "LCK Spring Playoffs 2019",
+    "region": "KR",
+    "nbgames": "12",
+    "avgtime": "2002",
+    "firstgame": "2019-04-03",
+    "lastgame": "2019-04-13"
+  },
+  {
+    "trname": "LCS Spring Playoffs 2019",
+    "region": "NA",
+    "nbgames": "22",
+    "avgtime": "2046",
+    "firstgame": "2019-03-29",
+    "lastgame": "2019-04-13"
+  },
+  {
+    "trname": "TCL Spring Playoffs 2019",
+    "region": "TR",
+    "nbgames": "17",
+    "avgtime": "1909",
+    "firstgame": "2019-03-29",
+    "lastgame": "2019-04-13"
+  },
+  {
+    "trname": "OPL Split 1 Playoffs 2019",
+    "region": "OCE",
+    "nbgames": "13",
+    "avgtime": "1966",
+    "firstgame": "2019-03-28",
+    "lastgame": "2019-04-06"
+  },
+  {
+    "trname": "LPL Spring 2019",
+    "region": "CN",
+    "nbgames": "292",
+    "avgtime": "1952",
+    "firstgame": "2019-01-14",
+    "lastgame": "2019-03-31"
+  },
+  {
+    "trname": "LCK Spring 2019",
+    "region": "KR",
+    "nbgames": "208",
+    "avgtime": "2054",
+    "firstgame": "2019-01-16",
+    "lastgame": "2019-03-31"
+  },
+  {
+    "trname": "LMS Spring 2019",
+    "region": "TW",
+    "nbgames": "138",
+    "avgtime": "1986",
+    "firstgame": "2019-01-17",
+    "lastgame": "2019-03-31"
+  },
+  {
+    "trname": "LLA Opening 2019",
+    "region": "LAT",
+    "nbgames": "84",
+    "avgtime": "2067",
+    "firstgame": "2019-01-19",
+    "lastgame": "2019-03-24"
+  },
+  {
+    "trname": "CBLOL Summer 2019",
+    "region": "BR",
+    "nbgames": "84",
+    "avgtime": "2082",
+    "firstgame": "2019-01-12",
+    "lastgame": "2019-03-24"
+  },
+  {
+    "trname": "LCS Spring 2019",
+    "region": "NA",
+    "nbgames": "91",
+    "avgtime": "2150",
+    "firstgame": "2019-01-26",
+    "lastgame": "2019-03-24"
+  },
+  {
+    "trname": "VCS Spring 2019",
+    "region": "VN",
+    "nbgames": "134",
+    "avgtime": "1870",
+    "firstgame": "2019-01-17",
+    "lastgame": "2019-03-24"
+  },
+  {
+    "trname": "LCL Spring 2019",
+    "region": "CIS",
+    "nbgames": "57",
+    "avgtime": "1783",
+    "firstgame": "2019-02-16",
+    "lastgame": "2019-03-24"
+  },
+  {
+    "trname": "OPL Split 1 2019",
+    "region": "OCE",
+    "nbgames": "84",
+    "avgtime": "1921",
+    "firstgame": "2019-01-18",
+    "lastgame": "2019-03-23"
+  },
+  {
+    "trname": "LJL Spring 2019",
+    "region": "JP",
+    "nbgames": "84",
+    "avgtime": "1994",
+    "firstgame": "2019-01-19",
+    "lastgame": "2019-03-22"
+  },
+  {
+    "trname": "TCL Spring 2019",
+    "region": "TR",
+    "nbgames": "91",
+    "avgtime": "1935",
+    "firstgame": "2019-01-19",
+    "lastgame": "2019-03-18"
+  },
+  {
+    "trname": "LEC Spring 2019",
+    "region": "EUW",
+    "nbgames": "91",
+    "avgtime": "1963",
+    "firstgame": "2019-01-18",
+    "lastgame": "2019-03-16"
+  }
+]

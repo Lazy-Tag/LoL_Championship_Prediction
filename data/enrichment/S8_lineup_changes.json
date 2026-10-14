@@ -1,0 +1,662 @@
+[
+  {
+    "team": "edwardgaming",
+    "previous_observed": "2018-10-02 11:28:00",
+    "next_observed": "2018-10-04 08:43:00",
+    "previous_players": [
+      "Clearlove",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "next_players": [
+      "Haro",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "gameid": "TRLH2/2002860252"
+  },
+  {
+    "team": "direwolves",
+    "previous_observed": "2018-10-02 11:28:00",
+    "next_observed": "2018-10-04 10:38:00",
+    "previous_players": [
+      "BioPanther",
+      "Cupcake",
+      "Triple",
+      "Udysof",
+      "k1ng"
+    ],
+    "next_players": [
+      "BioPanther",
+      "Cupcake",
+      "Shernfire",
+      "Triple",
+      "k1ng"
+    ],
+    "gameid": "TRLH2/2002860267"
+  },
+  {
+    "team": "cloud9",
+    "previous_observed": "2018-10-06 04:42:00",
+    "next_observed": "2018-10-06 05:38:00",
+    "previous_players": [
+      "Blaber",
+      "Jensen",
+      "Licorice",
+      "Sneaky",
+      "Zeyzal"
+    ],
+    "next_players": [
+      "Jensen",
+      "Licorice",
+      "Sneaky",
+      "Svenskeren",
+      "Zeyzal"
+    ],
+    "gameid": "TRLH2/2002860319"
+  },
+  {
+    "team": "edwardgaming",
+    "previous_observed": "2018-10-04 12:24:00",
+    "next_observed": "2018-10-06 08:15:00",
+    "previous_players": [
+      "Haro",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "next_players": [
+      "Clearlove",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "gameid": "TRLH2/2002860324"
+  },
+  {
+    "team": "edwardgaming",
+    "previous_observed": "2018-10-06 09:07:00",
+    "next_observed": "2018-10-06 09:53:00",
+    "previous_players": [
+      "Clearlove",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "next_players": [
+      "Haro",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "gameid": "TRLH2/2002860331"
+  },
+  {
+    "team": "grex",
+    "previous_observed": "2018-10-07 10:36:00",
+    "next_observed": "2018-10-11 10:48:00",
+    "previous_players": [
+      "Candy",
+      "Empt2y",
+      "Koala",
+      "PK",
+      "Stitch"
+    ],
+    "next_players": [
+      "Candy",
+      "Koala",
+      "PK",
+      "Stitch",
+      "baybay"
+    ],
+    "gameid": "TRLH4/1002490224"
+  },
+  {
+    "team": "edwardgaming",
+    "previous_observed": "2018-10-10 08:59:00",
+    "next_observed": "2018-10-12 08:34:00",
+    "previous_players": [
+      "Haro",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "next_players": [
+      "Clearlove",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "gameid": "TRLH4/1002490264"
+  },
+  {
+    "team": "cloud9",
+    "previous_observed": "2018-10-11 11:44:00",
+    "next_observed": "2018-10-12 12:09:00",
+    "previous_players": [
+      "Jensen",
+      "Licorice",
+      "Sneaky",
+      "Svenskeren",
+      "Zeyzal"
+    ],
+    "next_players": [
+      "Blaber",
+      "Jensen",
+      "Licorice",
+      "Sneaky",
+      "Zeyzal"
+    ],
+    "gameid": "TRLH4/1002490305"
+  },
+  {
+    "team": "afreecafreecs",
+    "previous_observed": "2018-10-11 07:00:00",
+    "next_observed": "2018-10-13 07:19:00",
+    "previous_players": [
+      "Kiin",
+      "Kramer",
+      "Kuro",
+      "Spirit",
+      "TusiN"
+    ],
+    "next_players": [
+      "Kiin",
+      "Kramer",
+      "Kuro",
+      "Mowgli",
+      "TusiN"
+    ],
+    "gameid": "TRLH4/1002490323"
+  },
+  {
+    "team": "invictusgaming",
+    "previous_observed": "2018-10-12 09:26:00",
+    "next_observed": "2018-10-13 09:34:00",
+    "previous_players": [
+      "Baolan",
+      "Duke",
+      "JackeyLove",
+      "Ning",
+      "Rookie"
+    ],
+    "next_players": [
+      "Baolan",
+      "JackeyLove",
+      "Ning",
+      "Rookie",
+      "TheShy"
+    ],
+    "gameid": "TRLH4/1002490346"
+  },
+  {
+    "team": "grex",
+    "previous_observed": "2018-10-12 10:16:00",
+    "next_observed": "2018-10-13 10:23:00",
+    "previous_players": [
+      "Candy",
+      "Koala",
+      "PK",
+      "Stitch",
+      "baybay"
+    ],
+    "next_players": [
+      "Candy",
+      "Empt2y",
+      "Koala",
+      "PK",
+      "Stitch"
+    ],
+    "gameid": "TRLH4/1002490356"
+  },
+  {
+    "team": "fnatic",
+    "previous_observed": "2018-10-12 09:26:00",
+    "next_observed": "2018-10-13 10:23:00",
+    "previous_players": [
+      "Broxah",
+      "Caps",
+      "Hylissang",
+      "Rekkles",
+      "sOAZ"
+    ],
+    "next_players": [
+      "Broxah",
+      "Bwipo",
+      "Caps",
+      "Hylissang",
+      "Rekkles"
+    ],
+    "gameid": "TRLH4/1002490356"
+  },
+  {
+    "team": "cloud9",
+    "previous_observed": "2018-10-12 12:09:00",
+    "next_observed": "2018-10-14 08:41:00",
+    "previous_players": [
+      "Blaber",
+      "Jensen",
+      "Licorice",
+      "Sneaky",
+      "Zeyzal"
+    ],
+    "next_players": [
+      "Jensen",
+      "Licorice",
+      "Sneaky",
+      "Svenskeren",
+      "Zeyzal"
+    ],
+    "gameid": "TRLH4/1002490401"
+  },
+  {
+    "team": "gengesports",
+    "previous_observed": "2018-10-14 08:41:00",
+    "next_observed": "2018-10-14 09:40:00",
+    "previous_players": [
+      "CoreJJ",
+      "Crown",
+      "CuVee",
+      "Haru",
+      "Ruler"
+    ],
+    "next_players": [
+      "Ambition",
+      "CoreJJ",
+      "Crown",
+      "CuVee",
+      "Ruler"
+    ],
+    "gameid": "TRLH4/1002490409"
+  },
+  {
+    "team": "royalnevergiveup",
+    "previous_observed": "2018-10-14 07:19:00",
+    "next_observed": "2018-10-14 12:28:00",
+    "previous_players": [
+      "Karsa",
+      "Letme",
+      "Ming",
+      "Uzi",
+      "Xiaohu"
+    ],
+    "next_players": [
+      "Letme",
+      "Ming",
+      "Mlxg",
+      "Uzi",
+      "Xiaohu"
+    ],
+    "gameid": "TRLH4/1002490432"
+  },
+  {
+    "team": "gengesports",
+    "previous_observed": "2018-10-14 09:40:00",
+    "next_observed": "2018-10-14 12:28:00",
+    "previous_players": [
+      "Ambition",
+      "CoreJJ",
+      "Crown",
+      "CuVee",
+      "Ruler"
+    ],
+    "next_players": [
+      "CoreJJ",
+      "Crown",
+      "CuVee",
+      "Haru",
+      "Ruler"
+    ],
+    "gameid": "TRLH4/1002490432"
+  },
+  {
+    "team": "afreecafreecs",
+    "previous_observed": "2018-10-13 07:19:00",
+    "next_observed": "2018-10-15 07:22:00",
+    "previous_players": [
+      "Kiin",
+      "Kramer",
+      "Kuro",
+      "Mowgli",
+      "TusiN"
+    ],
+    "next_players": [
+      "Kiin",
+      "Kramer",
+      "Kuro",
+      "Spirit",
+      "TusiN"
+    ],
+    "gameid": "TRLH4/1002490445"
+  },
+  {
+    "team": "phongvubuffalo",
+    "previous_observed": "2018-10-15 11:03:00",
+    "next_observed": "2018-10-15 12:00:00",
+    "previous_players": [
+      "Bigkoro",
+      "Meliodas",
+      "Naul",
+      "Palette",
+      "Zeros"
+    ],
+    "next_players": [
+      "Bigkoro",
+      "Naul",
+      "Palette",
+      "XuHao",
+      "Zeros"
+    ],
+    "gameid": "TRLH4/1002490482"
+  },
+  {
+    "team": "edwardgaming",
+    "previous_observed": "2018-10-13 12:13:00",
+    "next_observed": "2018-10-16 08:35:00",
+    "previous_players": [
+      "Clearlove",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "next_players": [
+      "Haro",
+      "Meiko",
+      "Ray",
+      "Scout",
+      "iBoy"
+    ],
+    "gameid": "TRLH4/1002490525"
+  },
+  {
+    "team": "madteam",
+    "previous_observed": "2018-10-16 08:35:00",
+    "next_observed": "2018-10-16 09:37:00",
+    "previous_players": [
+      "Breeze",
+      "K",
+      "Kongyue",
+      "Liang",
+      "Uniboy"
+    ],
+    "next_players": [
+      "Benny",
+      "Breeze",
+      "K",
+      "Liang",
+      "Uniboy"
+    ],
+    "gameid": "TRLH4/1002490532"
+  },
+  {
+    "team": "fnatic",
+    "previous_observed": "2018-10-13 10:23:00",
+    "next_observed": "2018-10-17 07:13:00",
+    "previous_players": [
+      "Broxah",
+      "Bwipo",
+      "Caps",
+      "Hylissang",
+      "Rekkles"
+    ],
+    "next_players": [
+      "Broxah",
+      "Caps",
+      "Hylissang",
+      "Rekkles",
+      "sOAZ"
+    ],
+    "gameid": "TRLH4/1002490569"
+  },
+  {
+    "team": "invictusgaming",
+    "previous_observed": "2018-10-13 09:34:00",
+    "next_observed": "2018-10-17 08:40:00",
+    "previous_players": [
+      "Baolan",
+      "JackeyLove",
+      "Ning",
+      "Rookie",
+      "TheShy"
+    ],
+    "next_players": [
+      "Baolan",
+      "Duke",
+      "JackeyLove",
+      "Ning",
+      "Rookie"
+    ],
+    "gameid": "TRLH4/1002490580"
+  },
+  {
+    "team": "fnatic",
+    "previous_observed": "2018-10-17 07:13:00",
+    "next_observed": "2018-10-17 09:37:00",
+    "previous_players": [
+      "Broxah",
+      "Caps",
+      "Hylissang",
+      "Rekkles",
+      "sOAZ"
+    ],
+    "next_players": [
+      "Broxah",
+      "Bwipo",
+      "Caps",
+      "Hylissang",
+      "Rekkles"
+    ],
+    "gameid": "TRLH4/1002490588"
+  },
+  {
+    "team": "grex",
+    "previous_observed": "2018-10-17 08:40:00",
+    "next_observed": "2018-10-17 09:37:00",
+    "previous_players": [
+      "Candy",
+      "Empt2y",
+      "Koala",
+      "PK",
+      "Stitch"
+    ],
+    "next_players": [
+      "Candy",
+      "Koala",
+      "PK",
+      "Stitch",
+      "baybay"
+    ],
+    "gameid": "TRLH4/1002490588"
+  },
+  {
+    "team": "invictusgaming",
+    "previous_observed": "2018-10-17 08:40:00",
+    "next_observed": "2018-10-17 10:23:00",
+    "previous_players": [
+      "Baolan",
+      "Duke",
+      "JackeyLove",
+      "Ning",
+      "Rookie"
+    ],
+    "next_players": [
+      "Baolan",
+      "JackeyLove",
+      "Ning",
+      "Rookie",
+      "TheShy"
+    ],
+    "gameid": "TRLH4/1002490594"
+  },
+  {
+    "team": "grex",
+    "previous_observed": "2018-10-17 09:37:00",
+    "next_observed": "2018-10-17 11:16:00",
+    "previous_players": [
+      "Candy",
+      "Koala",
+      "PK",
+      "Stitch",
+      "baybay"
+    ],
+    "next_players": [
+      "Candy",
+      "Empt2y",
+      "Koala",
+      "PK",
+      "Stitch"
+    ],
+    "gameid": "TRLH4/1002490604"
+  },
+  {
+    "team": "invictusgaming",
+    "previous_observed": "2018-10-20 05:38:00",
+    "next_observed": "2018-10-20 06:40:00",
+    "previous_players": [
+      "Baolan",
+      "JackeyLove",
+      "Ning",
+      "Rookie",
+      "TheShy"
+    ],
+    "next_players": [
+      "Baolan",
+      "Duke",
+      "JackeyLove",
+      "Ning",
+      "Rookie"
+    ],
+    "gameid": "TRLH4/1002490651"
+  },
+  {
+    "team": "invictusgaming",
+    "previous_observed": "2018-10-20 06:40:00",
+    "next_observed": "2018-10-20 07:39:00",
+    "previous_players": [
+      "Baolan",
+      "Duke",
+      "JackeyLove",
+      "Ning",
+      "Rookie"
+    ],
+    "next_players": [
+      "Baolan",
+      "JackeyLove",
+      "Ning",
+      "Rookie",
+      "TheShy"
+    ],
+    "gameid": "TRLH4/1002490653"
+  },
+  {
+    "team": "royalnevergiveup",
+    "previous_observed": "2018-10-14 12:28:00",
+    "next_observed": "2018-10-20 08:42:00",
+    "previous_players": [
+      "Letme",
+      "Ming",
+      "Mlxg",
+      "Uzi",
+      "Xiaohu"
+    ],
+    "next_players": [
+      "Karsa",
+      "Letme",
+      "Ming",
+      "Uzi",
+      "Xiaohu"
+    ],
+    "gameid": "TRLH4/1002490657"
+  },
+  {
+    "team": "royalnevergiveup",
+    "previous_observed": "2018-10-20 11:23:00",
+    "next_observed": "2018-10-20 12:11:00",
+    "previous_players": [
+      "Karsa",
+      "Letme",
+      "Ming",
+      "Uzi",
+      "Xiaohu"
+    ],
+    "next_players": [
+      "Letme",
+      "Ming",
+      "Mlxg",
+      "Uzi",
+      "Xiaohu"
+    ],
+    "gameid": "TRLH4/1002490671"
+  },
+  {
+    "team": "afreecafreecs",
+    "previous_observed": "2018-10-21 03:34:00",
+    "next_observed": "2018-10-21 04:46:00",
+    "previous_players": [
+      "Kiin",
+      "Kramer",
+      "Kuro",
+      "Spirit",
+      "TusiN"
+    ],
+    "next_players": [
+      "Kiin",
+      "Kramer",
+      "Kuro",
+      "Mowgli",
+      "TusiN"
+    ],
+    "gameid": "TRLH4/1002490693"
+  },
+  {
+    "team": "afreecafreecs",
+    "previous_observed": "2018-10-21 04:46:00",
+    "next_observed": "2018-10-21 05:40:00",
+    "previous_players": [
+      "Kiin",
+      "Kramer",
+      "Kuro",
+      "Mowgli",
+      "TusiN"
+    ],
+    "next_players": [
+      "Kiin",
+      "Kramer",
+      "Kuro",
+      "Spirit",
+      "TusiN"
+    ],
+    "gameid": "TRLH4/1002490696"
+  },
+  {
+    "team": "fnatic",
+    "previous_observed": "2018-11-03 08:40:00",
+    "next_observed": "2018-11-03 09:34:00",
+    "previous_players": [
+      "Broxah",
+      "Bwipo",
+      "Caps",
+      "Hylissang",
+      "Rekkles"
+    ],
+    "next_players": [
+      "Broxah",
+      "Caps",
+      "Hylissang",
+      "Rekkles",
+      "sOAZ"
+    ],
+    "gameid": "TRLH4/1002520052"
+  }
+]

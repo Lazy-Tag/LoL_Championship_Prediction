@@ -1,0 +1,302 @@
+[
+  {
+    "team": "dwgkia",
+    "previous_observed": "2022-09-01 07:08:00",
+    "next_observed": "2022-09-01 08:42:00",
+    "previous_players": [
+      "Canyon",
+      "Kellin",
+      "Nuguri",
+      "ShowMaker",
+      "deokdam"
+    ],
+    "next_players": [
+      "Burdol",
+      "Canyon",
+      "Kellin",
+      "ShowMaker",
+      "deokdam"
+    ],
+    "gameid": "ESPORTSTMNT04_2472168"
+  },
+  {
+    "team": "dwgkia",
+    "previous_observed": "2022-09-01 08:42:00",
+    "next_observed": "2022-09-01 09:38:00",
+    "previous_players": [
+      "Burdol",
+      "Canyon",
+      "Kellin",
+      "ShowMaker",
+      "deokdam"
+    ],
+    "next_players": [
+      "Canyon",
+      "Kellin",
+      "Nuguri",
+      "ShowMaker",
+      "deokdam"
+    ],
+    "gameid": "ESPORTSTMNT04_2472169"
+  },
+  {
+    "team": "edwardgaming",
+    "previous_observed": "2022-09-02 09:22:00",
+    "next_observed": "2022-09-02 10:27:00",
+    "previous_players": [
+      "Flandre",
+      "JunJia",
+      "Meiko",
+      "Scout",
+      "Viper"
+    ],
+    "next_players": [
+      "Flandre",
+      "Jiejie",
+      "Meiko",
+      "Scout",
+      "Viper"
+    ],
+    "gameid": "9378-9378_game_3"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2022-09-02 09:37:00",
+    "next_observed": "2022-09-02 10:30:00",
+    "previous_players": [
+      "BeryL",
+      "Deft",
+      "Kingen",
+      "Pyosik",
+      "Zeka"
+    ],
+    "next_players": [
+      "BeryL",
+      "Deft",
+      "Juhan",
+      "Kingen",
+      "Zeka"
+    ],
+    "gameid": "ESPORTSTMNT04_2472189"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2022-09-03 08:49:00",
+    "next_observed": "2022-09-03 09:49:00",
+    "previous_players": [
+      "BeryL",
+      "Deft",
+      "Juhan",
+      "Kingen",
+      "Zeka"
+    ],
+    "next_players": [
+      "BeryL",
+      "Deft",
+      "Kingen",
+      "Pyosik",
+      "Zeka"
+    ],
+    "gameid": "ESPORTSTMNT04_2472226"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2022-09-03 09:49:00",
+    "next_observed": "2022-09-03 10:41:00",
+    "previous_players": [
+      "BeryL",
+      "Deft",
+      "Kingen",
+      "Pyosik",
+      "Zeka"
+    ],
+    "next_players": [
+      "BeryL",
+      "Deft",
+      "Juhan",
+      "Kingen",
+      "Zeka"
+    ],
+    "gameid": "ESPORTSTMNT04_2472227"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2022-09-03 11:38:00",
+    "next_observed": "2022-09-30 04:40:00",
+    "previous_players": [
+      "BeryL",
+      "Deft",
+      "Juhan",
+      "Kingen",
+      "Zeka"
+    ],
+    "next_players": [
+      "BeryL",
+      "Deft",
+      "Kingen",
+      "Pyosik",
+      "Zeka"
+    ],
+    "gameid": "ESPORTSTMNT02_3042025"
+  },
+  {
+    "team": "fnatic",
+    "previous_observed": "2022-09-30 01:46:00",
+    "next_observed": "2022-09-30 18:55:00",
+    "previous_players": [
+      "Humanoid",
+      "Razork",
+      "Rhuckz",
+      "Upset",
+      "Wunder"
+    ],
+    "next_players": [
+      "Humanoid",
+      "Hylissang",
+      "Razork",
+      "Upset",
+      "Wunder"
+    ],
+    "gameid": "ESPORTSTMNT02_3042187"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2022-09-30 04:40:00",
+    "next_observed": "2022-10-01 00:55:00",
+    "previous_players": [
+      "BeryL",
+      "Deft",
+      "Kingen",
+      "Pyosik",
+      "Zeka"
+    ],
+    "next_players": [
+      "BeryL",
+      "Deft",
+      "Juhan",
+      "Kingen",
+      "Zeka"
+    ],
+    "gameid": "ESPORTSTMNT02_3052843"
+  },
+  {
+    "team": "beyondgaming",
+    "previous_observed": "2022-10-01 21:49:00",
+    "next_observed": "2022-10-02 00:37:00",
+    "previous_players": [
+      "HuSha",
+      "Kino",
+      "Likai",
+      "Minji",
+      "Wako"
+    ],
+    "next_players": [
+      "HuSha",
+      "Kino",
+      "Liang",
+      "Minji",
+      "Wako"
+    ],
+    "gameid": "ESPORTSTMNT02_3053274"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2022-10-01 02:48:00",
+    "next_observed": "2022-10-02 02:25:00",
+    "previous_players": [
+      "BeryL",
+      "Deft",
+      "Juhan",
+      "Kingen",
+      "Zeka"
+    ],
+    "next_players": [
+      "BeryL",
+      "Deft",
+      "Kingen",
+      "Pyosik",
+      "Zeka"
+    ],
+    "gameid": "ESPORTSTMNT02_3053311"
+  },
+  {
+    "team": "beyondgaming",
+    "previous_observed": "2022-10-02 00:37:00",
+    "next_observed": "2022-10-02 19:36:00",
+    "previous_players": [
+      "HuSha",
+      "Kino",
+      "Liang",
+      "Minji",
+      "Wako"
+    ],
+    "next_players": [
+      "HuSha",
+      "Kino",
+      "Likai",
+      "Minji",
+      "Wako"
+    ],
+    "gameid": "ESPORTSTMNT02_3042846"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2022-10-02 23:47:00",
+    "next_observed": "2022-10-08 20:15:00",
+    "previous_players": [
+      "BeryL",
+      "Deft",
+      "Kingen",
+      "Pyosik",
+      "Zeka"
+    ],
+    "next_players": [
+      "BeryL",
+      "Deft",
+      "Juhan",
+      "Kingen",
+      "Zeka"
+    ],
+    "gameid": "ESPORTSTMNT02_3045416"
+  },
+  {
+    "team": "drx",
+    "previous_observed": "2022-10-08 20:15:00",
+    "next_observed": "2022-10-10 01:52:00",
+    "previous_players": [
+      "BeryL",
+      "Deft",
+      "Juhan",
+      "Kingen",
+      "Zeka"
+    ],
+    "next_players": [
+      "BeryL",
+      "Deft",
+      "Kingen",
+      "Pyosik",
+      "Zeka"
+    ],
+    "gameid": "ESPORTSTMNT02_3056394"
+  },
+  {
+    "team": "ctbcflyingoyster",
+    "previous_observed": "2022-10-16 19:52:00",
+    "next_observed": "2022-10-16 22:47:00",
+    "previous_players": [
+      "Gemini",
+      "Koala",
+      "Mission",
+      "Rest",
+      "Shunn"
+    ],
+    "next_players": [
+      "Atlen",
+      "Gemini",
+      "Koala",
+      "Mission",
+      "Rest"
+    ],
+    "gameid": "ESPORTSTMNT02_3047878"
+  }
+]

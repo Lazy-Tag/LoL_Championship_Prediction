@@ -1,0 +1,29 @@
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.local/
+dist/
+# Original third-party pages/PDFs, incomplete mirrors, and download caches.
+data/raw/
+data/history/S*/*.html.gz
+data/history/S*/????????????????.json
+# Reproducible transient logs and test outputs.
+results/*.log
+results/simulation_pilot.json
+results/simulation_fair_test.json
+results/verification.txt
+
+results/event_replay/*_pilot.json
+results/event_replay/*.tmp
+
+# Local IDE settings and in-progress downloads.
+.idea/
+*.part
+
+# Unverified supplementary collection; admit individual files only after review.
+data/detailed/
+data/enrichment/new_source_downloads.json

@@ -1,0 +1,250 @@
+{
+  "source": "Games of Legends",
+  "retrieved": "2026-10-14/15 Asia/Shanghai",
+  "scope": "Historical first-tier domestic and competitive international tournaments available in source; selected by explicit name rules. Catalogs also retain excluded tournaments.",
+  "limitations": [
+    "Source coverage is not proof of all historical matches existing",
+    "Historical BO length is null until tournament-specific format verification",
+    "Season assignment follows source S3-S15 categories, not simple calendar-year filtering",
+    "Regional-to-tier2 transitions and promotion tournaments require care; preserve source names",
+    "Counts may include source corrections/forfeits; inspect issues before any fit"
+  ],
+  "seasons": [
+    {
+      "season": "S3",
+      "catalog_tournaments": 2,
+      "selected_tournaments": 2,
+      "downloaded_tournaments": 2,
+      "series": 53,
+      "maps": 73,
+      "source_census_maps": 73,
+      "issues": []
+    },
+    {
+      "season": "S4",
+      "catalog_tournaments": 10,
+      "selected_tournaments": 10,
+      "downloaded_tournaments": 10,
+      "series": 545,
+      "maps": 635,
+      "source_census_maps": 636,
+      "issues": [
+        {
+          "season": "S4",
+          "tournament": "EU LCS Summer 2014",
+          "source": "https://gol.gg/tournament/tournament-matchlist/EU%20LCS%20Summer%202014/",
+          "source_census_maps": 112,
+          "parsed_maps": 111,
+          "status": "count_mismatch",
+          "raw_file": "49b9072ea338260b.html.gz",
+          "raw_sha256": "5b725e639c9f73dccbbf03e1bb6ed0c9a896a0616eecb8e4416f6fb50059808f"
+        }
+      ]
+    },
+    {
+      "season": "S5",
+      "catalog_tournaments": 36,
+      "selected_tournaments": 36,
+      "downloaded_tournaments": 36,
+      "series": 996,
+      "maps": 1763,
+      "source_census_maps": 1763,
+      "issues": []
+    },
+    {
+      "season": "S6",
+      "catalog_tournaments": 36,
+      "selected_tournaments": 36,
+      "downloaded_tournaments": 36,
+      "series": 972,
+      "maps": 2035,
+      "source_census_maps": 2035,
+      "issues": []
+    },
+    {
+      "season": "S7",
+      "catalog_tournaments": 53,
+      "selected_tournaments": 49,
+      "downloaded_tournaments": 49,
+      "series": 1344,
+      "maps": 2899,
+      "source_census_maps": 2899,
+      "issues": []
+    },
+    {
+      "season": "S8",
+      "catalog_tournaments": 85,
+      "selected_tournaments": 68,
+      "downloaded_tournaments": 68,
+      "series": 2229,
+      "maps": 3889,
+      "source_census_maps": 3890,
+      "issues": [
+        {
+          "season": "S8",
+          "tournament": "OPL Split 2 2018",
+          "source": "https://gol.gg/tournament/tournament-matchlist/OPL%20Split%202%202018/",
+          "source_census_maps": 94,
+          "parsed_maps": 93,
+          "status": "count_mismatch",
+          "raw_file": "33700910e956bbd1.html.gz",
+          "raw_sha256": "f6f0de2cb004d7decb37faaf1fce452bfd429b7bd02a65f2b8d07a0e24231814"
+        }
+      ]
+    },
+    {
+      "season": "S9",
+      "catalog_tournaments": 91,
+      "selected_tournaments": 64,
+      "downloaded_tournaments": 64,
+      "series": 2311,
+      "maps": 3651,
+      "source_census_maps": 3651,
+      "issues": []
+    },
+    {
+      "season": "S10",
+      "catalog_tournaments": 101,
+      "selected_tournaments": 56,
+      "downloaded_tournaments": 56,
+      "series": 2246,
+      "maps": 3541,
+      "source_census_maps": 3541,
+      "issues": []
+    },
+    {
+      "season": "S11",
+      "catalog_tournaments": 137,
+      "selected_tournaments": 54,
+      "downloaded_tournaments": 54,
+      "series": 2367,
+      "maps": 3684,
+      "source_census_maps": 3685,
+      "issues": [
+        {
+          "season": "S11",
+          "tournament": "LCO Split 1 2021",
+          "source": "https://gol.gg/tournament/tournament-matchlist/LCO%20Split%201%202021/",
+          "source_census_maps": 57,
+          "parsed_maps": 56,
+          "status": "count_mismatch",
+          "raw_file": "b089539038591d88.html.gz",
+          "raw_sha256": "0418d3e5649a35e6768cee68a02e4ce6881e6dd2867c17949b212e72eb78dffa"
+        }
+      ]
+    },
+    {
+      "season": "S12",
+      "catalog_tournaments": 124,
+      "selected_tournaments": 51,
+      "downloaded_tournaments": 51,
+      "series": 2306,
+      "maps": 3700,
+      "source_census_maps": 3701,
+      "issues": [
+        {
+          "season": "S12",
+          "tournament": "LCK Spring 2022",
+          "source": "https://gol.gg/tournament/tournament-matchlist/LCK%20Spring%202022/",
+          "source_census_maps": 213,
+          "parsed_maps": 212,
+          "status": "count_mismatch",
+          "raw_file": "252576f05a8affb1.html.gz",
+          "raw_sha256": "93ab4abd1540056464127a486598ea36cc680e5db4b0f475f928e99c74a1e708"
+        }
+      ]
+    },
+    {
+      "season": "S13",
+      "catalog_tournaments": 136,
+      "selected_tournaments": 52,
+      "downloaded_tournaments": 52,
+      "series": 1729,
+      "maps": 3422,
+      "source_census_maps": 3432,
+      "issues": [
+        {
+          "season": "S13",
+          "tournament": "LCO Split 1 2023",
+          "source": "https://gol.gg/tournament/tournament-matchlist/LCO%20Split%201%202023/",
+          "source_census_maps": 28,
+          "parsed_maps": 23,
+          "status": "count_mismatch",
+          "raw_file": "2e5dbd86c2f77836.html.gz",
+          "raw_sha256": "3dca97bcfa7fa80fb624ea76afcb088d2922b7897e09ee0cf9f3e3c43a09426c"
+        },
+        {
+          "season": "S13",
+          "tournament": "LCO Split 1 Stage 2 2023",
+          "source": "https://gol.gg/tournament/tournament-matchlist/LCO%20Split%201%20Stage%202%202023/",
+          "source_census_maps": 41,
+          "parsed_maps": 39,
+          "status": "count_mismatch",
+          "raw_file": "615a551fd58f0c51.html.gz",
+          "raw_sha256": "4b11f47038c0509580cbdb2b2b33019d7057d171ad3bbf88f155f0c72777ac70"
+        },
+        {
+          "season": "S13",
+          "tournament": "LCO Split 2 2023",
+          "source": "https://gol.gg/tournament/tournament-matchlist/LCO%20Split%202%202023/",
+          "source_census_maps": 57,
+          "parsed_maps": 55,
+          "status": "count_mismatch",
+          "raw_file": "b37c1241754eb329.html.gz",
+          "raw_sha256": "b926335d12f6dffd426973a80ed836d25a035e1d92e82e820db95f1a2a8ff5d8"
+        },
+        {
+          "season": "S13",
+          "tournament": "LJL Summer 2023",
+          "source": "https://gol.gg/tournament/tournament-matchlist/LJL%20Summer%202023/",
+          "source_census_maps": 67,
+          "parsed_maps": 66,
+          "status": "count_mismatch",
+          "raw_file": "0cb95cc9e254508a.html.gz",
+          "raw_sha256": "bb1e30feb94d50257eed3670176c727b5b0ba033c13ea8848f40d9dc9818c06c"
+        }
+      ]
+    },
+    {
+      "season": "S14",
+      "catalog_tournaments": 139,
+      "selected_tournaments": 50,
+      "downloaded_tournaments": 50,
+      "series": 1503,
+      "maps": 3235,
+      "source_census_maps": 3238,
+      "issues": [
+        {
+          "season": "S14",
+          "tournament": "LCO Split 1 2024",
+          "source": "https://gol.gg/tournament/tournament-matchlist/LCO%20Split%201%202024/",
+          "source_census_maps": 55,
+          "parsed_maps": 54,
+          "status": "count_mismatch",
+          "raw_file": "06e91114671bd776.html.gz",
+          "raw_sha256": "b5158854cf88d616ce8591526e354d20210b0938d8ff067d6357e9a0da3391bd"
+        },
+        {
+          "season": "S14",
+          "tournament": "VCS Spring Playoffs 2024",
+          "source": "https://gol.gg/tournament/tournament-matchlist/VCS%20Spring%20Playoffs%202024/",
+          "source_census_maps": 19,
+          "parsed_maps": 17,
+          "status": "count_mismatch",
+          "raw_file": "bf33ae0e7746c309.html.gz",
+          "raw_sha256": "6e6348f9b06116eee316045e0ac8a0289afbff21854554a74890de5b0a56dce0"
+        }
+      ]
+    },
+    {
+      "season": "S15",
+      "catalog_tournaments": 165,
+      "selected_tournaments": 41,
+      "downloaded_tournaments": 41,
+      "series": 1053,
+      "maps": 2609,
+      "source_census_maps": 2609,
+      "issues": []
+    }
+  ]
+}

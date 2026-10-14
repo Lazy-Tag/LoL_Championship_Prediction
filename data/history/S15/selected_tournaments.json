@@ -1,0 +1,330 @@
+[
+  {
+    "trname": "Worlds 2025 Main Event",
+    "region": "WR",
+    "nbgames": "80",
+    "avgtime": "1965",
+    "firstgame": "2025-10-15",
+    "lastgame": "2025-11-09"
+  },
+  {
+    "trname": "Worlds 2025 Play-In",
+    "region": "WR",
+    "nbgames": "4",
+    "avgtime": "2017",
+    "firstgame": "2025-10-14",
+    "lastgame": "2025-10-14"
+  },
+  {
+    "trname": "LCK 2025 Season Playoffs",
+    "region": "KR",
+    "nbgames": "40",
+    "avgtime": "1965",
+    "firstgame": "2025-09-10",
+    "lastgame": "2025-09-28"
+  },
+  {
+    "trname": "LEC 2025 Summer Playoffs",
+    "region": "EUW",
+    "nbgames": "38",
+    "avgtime": "2037",
+    "firstgame": "2025-09-05",
+    "lastgame": "2025-09-28"
+  },
+  {
+    "trname": "LTA 2025 Championship",
+    "region": "WR",
+    "nbgames": "22",
+    "avgtime": "1954",
+    "firstgame": "2025-09-13",
+    "lastgame": "2025-09-28"
+  },
+  {
+    "trname": "LPL 2025 Regional Finals",
+    "region": "CN",
+    "nbgames": "12",
+    "avgtime": "1885",
+    "firstgame": "2025-09-25",
+    "lastgame": "2025-09-27"
+  },
+  {
+    "trname": "LCP 2025 Season Finals Playoffs",
+    "region": "WR",
+    "nbgames": "31",
+    "avgtime": "2000",
+    "firstgame": "2025-09-05",
+    "lastgame": "2025-09-21"
+  },
+  {
+    "trname": "LPL 2025 Grand Finals",
+    "region": "CN",
+    "nbgames": "73",
+    "avgtime": "1897",
+    "firstgame": "2025-08-30",
+    "lastgame": "2025-09-21"
+  },
+  {
+    "trname": "LCK 2025 Season Play-In",
+    "region": "KR",
+    "nbgames": "21",
+    "avgtime": "1817",
+    "firstgame": "2025-09-03",
+    "lastgame": "2025-09-07"
+  },
+  {
+    "trname": "LTA North 2025 Split 3",
+    "region": "NA",
+    "nbgames": "68",
+    "avgtime": "1984",
+    "firstgame": "2025-07-26",
+    "lastgame": "2025-09-07"
+  },
+  {
+    "trname": "LTA South 2025 Split 3",
+    "region": "LAT",
+    "nbgames": "67",
+    "avgtime": "1956",
+    "firstgame": "2025-07-26",
+    "lastgame": "2025-09-07"
+  },
+  {
+    "trname": "LCK 2025 Rounds 3-5",
+    "region": "KR",
+    "nbgames": "145",
+    "avgtime": "1962",
+    "firstgame": "2025-07-23",
+    "lastgame": "2025-08-31"
+  },
+  {
+    "trname": "LPL 2025 Split 3",
+    "region": "CN",
+    "nbgames": "212",
+    "avgtime": "1942",
+    "firstgame": "2025-07-19",
+    "lastgame": "2025-08-28"
+  },
+  {
+    "trname": "LEC 2025 Summer Season",
+    "region": "EUW",
+    "nbgames": "47",
+    "avgtime": "1953",
+    "firstgame": "2025-08-02",
+    "lastgame": "2025-08-26"
+  },
+  {
+    "trname": "LCP 2025 Season Finals",
+    "region": "WR",
+    "nbgames": "57",
+    "avgtime": "1986",
+    "firstgame": "2025-07-26",
+    "lastgame": "2025-08-24"
+  },
+  {
+    "trname": "Esports World Cup 2025",
+    "region": "WR",
+    "nbgames": "33",
+    "avgtime": "1874",
+    "firstgame": "2025-07-16",
+    "lastgame": "2025-07-20"
+  },
+  {
+    "trname": "2025 Mid-Season Invitational",
+    "region": "WR",
+    "nbgames": "80",
+    "avgtime": "1954",
+    "firstgame": "2025-06-27",
+    "lastgame": "2025-07-12"
+  },
+  {
+    "trname": "LCK 2025 Road to MSI",
+    "region": "KR",
+    "nbgames": "18",
+    "avgtime": "1948",
+    "firstgame": "2025-06-07",
+    "lastgame": "2025-06-15"
+  },
+  {
+    "trname": "LTA North 2025 Split 2 Playoffs",
+    "region": "NA",
+    "nbgames": "30",
+    "avgtime": "2105",
+    "firstgame": "2025-05-24",
+    "lastgame": "2025-06-15"
+  },
+  {
+    "trname": "LTA South 2025 Split 2 Playoffs",
+    "region": "LAT",
+    "nbgames": "29",
+    "avgtime": "1975",
+    "firstgame": "2025-05-24",
+    "lastgame": "2025-06-15"
+  },
+  {
+    "trname": "LPL 2025 Split 2 Playoffs",
+    "region": "CN",
+    "nbgames": "71",
+    "avgtime": "1906",
+    "firstgame": "2025-05-24",
+    "lastgame": "2025-06-14"
+  },
+  {
+    "trname": "LCP 2025 Mid Season Qualifying Series",
+    "region": "WR",
+    "nbgames": "28",
+    "avgtime": "2106",
+    "firstgame": "2025-05-30",
+    "lastgame": "2025-06-08"
+  },
+  {
+    "trname": "LEC 2025 Spring Playoffs",
+    "region": "EUW",
+    "nbgames": "33",
+    "avgtime": "2033",
+    "firstgame": "2025-05-24",
+    "lastgame": "2025-06-08"
+  },
+  {
+    "trname": "LCK 2025 Rounds 1-2",
+    "region": "KR",
+    "nbgames": "222",
+    "avgtime": "1930",
+    "firstgame": "2025-04-02",
+    "lastgame": "2025-06-04"
+  },
+  {
+    "trname": "LCP 2025 Mid Season",
+    "region": "WR",
+    "nbgames": "68",
+    "avgtime": "1851",
+    "firstgame": "2025-04-19",
+    "lastgame": "2025-05-25"
+  },
+  {
+    "trname": "LPL 2025 Split 2",
+    "region": "CN",
+    "nbgames": "259",
+    "avgtime": "1972",
+    "firstgame": "2025-04-05",
+    "lastgame": "2025-05-22"
+  },
+  {
+    "trname": "LTA North 2025 Split 2",
+    "region": "NA",
+    "nbgames": "65",
+    "avgtime": "2044",
+    "firstgame": "2025-04-05",
+    "lastgame": "2025-05-18"
+  },
+  {
+    "trname": "LTA South 2025 Split 2",
+    "region": "LAT",
+    "nbgames": "68",
+    "avgtime": "1981",
+    "firstgame": "2025-04-05",
+    "lastgame": "2025-05-18"
+  },
+  {
+    "trname": "LEC 2025 Spring Season",
+    "region": "EUW",
+    "nbgames": "106",
+    "avgtime": "2022",
+    "firstgame": "2025-03-29",
+    "lastgame": "2025-05-13"
+  },
+  {
+    "trname": "LPL 2025 Split 2 Placements",
+    "region": "CN",
+    "nbgames": "60",
+    "avgtime": "1926",
+    "firstgame": "2025-03-22",
+    "lastgame": "2025-03-31"
+  },
+  {
+    "trname": "First Stand 2025",
+    "region": "WR",
+    "nbgames": "35",
+    "avgtime": "1873",
+    "firstgame": "2025-03-10",
+    "lastgame": "2025-03-16"
+  },
+  {
+    "trname": "LEC 2025 Winter Playoffs",
+    "region": "EUW",
+    "nbgames": "39",
+    "avgtime": "2038",
+    "firstgame": "2025-02-15",
+    "lastgame": "2025-03-02"
+  },
+  {
+    "trname": "LPL 2025 Split 1 Playoffs",
+    "region": "CN",
+    "nbgames": "42",
+    "avgtime": "1952",
+    "firstgame": "2025-02-22",
+    "lastgame": "2025-03-01"
+  },
+  {
+    "trname": "LCK Cup 2025",
+    "region": "KR",
+    "nbgames": "109",
+    "avgtime": "1923",
+    "firstgame": "2025-01-15",
+    "lastgame": "2025-02-23"
+  },
+  {
+    "trname": "LCP 2025 Season Kickoff Qualifying Series",
+    "region": "WR",
+    "nbgames": "25",
+    "avgtime": "1932",
+    "firstgame": "2025-02-18",
+    "lastgame": "2025-02-23"
+  },
+  {
+    "trname": "LTA 2025 Split 1 Playoffs",
+    "region": "WR",
+    "nbgames": "18",
+    "avgtime": "2041",
+    "firstgame": "2025-02-15",
+    "lastgame": "2025-02-23"
+  },
+  {
+    "trname": "LCP 2025 Season Kickoff",
+    "region": "WR",
+    "nbgames": "65",
+    "avgtime": "1955",
+    "firstgame": "2025-01-17",
+    "lastgame": "2025-02-16"
+  },
+  {
+    "trname": "LPL 2025 Split 1",
+    "region": "CN",
+    "nbgames": "88",
+    "avgtime": "1982",
+    "firstgame": "2025-01-12",
+    "lastgame": "2025-02-16"
+  },
+  {
+    "trname": "LTA North 2025 Split 1",
+    "region": "NA",
+    "nbgames": "26",
+    "avgtime": "1952",
+    "firstgame": "2025-01-25",
+    "lastgame": "2025-02-09"
+  },
+  {
+    "trname": "LTA South 2025 Split 1",
+    "region": "LAT",
+    "nbgames": "30",
+    "avgtime": "2092",
+    "firstgame": "2025-01-25",
+    "lastgame": "2025-02-09"
+  },
+  {
+    "trname": "LEC Winter 2025",
+    "region": "EUW",
+    "nbgames": "45",
+    "avgtime": "2016",
+    "firstgame": "2025-01-18",
+    "lastgame": "2025-02-03"
+  }
+]

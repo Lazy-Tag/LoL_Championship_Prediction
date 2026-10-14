@@ -1,0 +1,5308 @@
+[
+  {
+    "id": "2014_Worlds",
+    "season": 4,
+    "year": 2014,
+    "event": "Worlds",
+    "seed": 2014,
+    "samples": 14000605,
+    "start_date": "2014-09-18",
+    "teams": [
+      "ahqesportsclub",
+      "alliance",
+      "cloud9",
+      "darkpassage",
+      "edwardgaming",
+      "fnatic",
+      "kabumesports",
+      "lmq",
+      "najinwhiteshield",
+      "omg",
+      "samsunggalaxyblue",
+      "samsunggalaxywhite",
+      "skgaming",
+      "starhornroyalclub",
+      "taipeiassassins",
+      "teamsolomid"
+    ],
+    "display": {
+      "edwardgaming": "Edward Gaming",
+      "samsunggalaxywhite": "Samsung Galaxy White",
+      "teamsolomid": "Team SoloMid",
+      "skgaming": "SK Gaming",
+      "darkpassage": "Dark Passage",
+      "ahqesportsclub": "ahq e-Sports Club",
+      "taipeiassassins": "Taipei Assassins",
+      "starhornroyalclub": "Star Horn Royal Club",
+      "lmq": "LMQ",
+      "omg": "OMG",
+      "najinwhiteshield": "NaJin White Shield",
+      "kabumesports": "KaBuM! eSports",
+      "samsunggalaxyblue": "Samsung Galaxy Blue",
+      "cloud9": "Cloud 9",
+      "alliance": "Alliance",
+      "fnatic": "Fnatic"
+    },
+    "regions": {
+      "ahqesportsclub": "LMS",
+      "alliance": "EU",
+      "cloud9": "NA",
+      "darkpassage": "TR",
+      "edwardgaming": "CN",
+      "fnatic": "EU",
+      "kabumesports": "BR",
+      "lmq": "NA",
+      "najinwhiteshield": "KR",
+      "omg": "CN",
+      "samsunggalaxyblue": "KR",
+      "samsunggalaxywhite": "KR",
+      "skgaming": "EU",
+      "starhornroyalclub": "CN",
+      "taipeiassassins": "LMS",
+      "teamsolomid": "NA"
+    },
+    "strength": {
+      "ahqesportsclub": -0.48222094996471876,
+      "alliance": 1.2986862168197373,
+      "cloud9": 0.7813052713115753,
+      "darkpassage": 0.0,
+      "edwardgaming": 1.150174448031685,
+      "fnatic": 1.0085827014098503,
+      "kabumesports": 0.0,
+      "lmq": 0.28989395899704745,
+      "najinwhiteshield": 1.4169100685314668,
+      "omg": 1.2581023949322643,
+      "samsunggalaxyblue": 1.4169100685314668,
+      "samsunggalaxywhite": 1.4169100685314668,
+      "skgaming": 0.8699620469541393,
+      "starhornroyalclub": 1.150174448031685,
+      "taipeiassassins": -1.016291041287889,
+      "teamsolomid": 0.43993211514691466
+    },
+    "training_series": 488,
+    "training_maps": 557,
+    "latest_training_date": "2014-09-01",
+    "prior_audit": {
+      "series": 44,
+      "maps": 54,
+      "last_date": "2013-10-04",
+      "missing_team_regions": {},
+      "counts": {
+        "CIS": 8,
+        "NA": 19,
+        "KR": 25,
+        "EU": 31,
+        "CN": 15,
+        "SEA": 8,
+        "LMS": 2
+      },
+      "strength": {
+        "CIS": -0.8630793397474844,
+        "CN": 1.150174448031685,
+        "EU": 0.706025096173025,
+        "KR": 1.4169100685314668,
+        "LMS": -0.48222094996471876,
+        "NA": -0.33199849613577265,
+        "SEA": -1.5958108268882005,
+        "PCS": -1.3730928515035044,
+        "VN": -1.5958108268882005
+      },
+      "gradient_inf": 1.8094901022003285e-08
+    },
+    "gradient": 9.921766649101382e-07,
+    "source": "https://nexus.leagueoflegends.com/en-us/2014/09/worlds-2014-refresher/",
+    "groups": [],
+    "main_groups": [
+      [
+        "ahqesportsclub",
+        "darkpassage",
+        "edwardgaming",
+        "samsunggalaxywhite"
+      ],
+      [
+        "alliance",
+        "cloud9",
+        "kabumesports",
+        "najinwhiteshield"
+      ],
+      [
+        "fnatic",
+        "lmq",
+        "omg",
+        "samsunggalaxyblue"
+      ],
+      [
+        "skgaming",
+        "starhornroyalclub",
+        "taipeiassassins",
+        "teamsolomid"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "ahqesportsclub",
+        "darkpassage",
+        "edwardgaming",
+        "samsunggalaxywhite"
+      ],
+      [
+        "alliance",
+        "cloud9",
+        "kabumesports",
+        "najinwhiteshield"
+      ],
+      [
+        "fnatic",
+        "lmq",
+        "omg",
+        "samsunggalaxyblue"
+      ],
+      [
+        "skgaming",
+        "starhornroyalclub",
+        "taipeiassassins",
+        "teamsolomid"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "samsunggalaxywhite": [
+        1,
+        1
+      ],
+      "starhornroyalclub": [
+        2,
+        2
+      ],
+      "samsunggalaxyblue": [
+        3,
+        4
+      ],
+      "omg": [
+        3,
+        4
+      ],
+      "teamsolomid": [
+        5,
+        8
+      ],
+      "cloud9": [
+        5,
+        8
+      ],
+      "edwardgaming": [
+        5,
+        8
+      ],
+      "najinwhiteshield": [
+        5,
+        8
+      ],
+      "ahqesportsclub": [
+        9,
+        12
+      ],
+      "darkpassage": [
+        13,
+        16
+      ],
+      "alliance": [
+        9,
+        12
+      ],
+      "kabumesports": [
+        13,
+        16
+      ],
+      "fnatic": [
+        9,
+        12
+      ],
+      "lmq": [
+        13,
+        16
+      ],
+      "skgaming": [
+        9,
+        12
+      ],
+      "taipeiassassins": [
+        13,
+        16
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2015_MSI",
+    "season": 5,
+    "year": 2015,
+    "event": "MSI",
+    "seed": 2015,
+    "samples": 14000605,
+    "start_date": "2015-05-07",
+    "teams": [
+      "ahqesportsclub",
+      "besiktasesportsclub",
+      "edwardgaming",
+      "fnatic",
+      "sktelecomt1",
+      "teamsolomid"
+    ],
+    "display": {
+      "fnatic": "Fnatic",
+      "teamsolomid": "Team SoloMid",
+      "besiktasesportsclub": "Besiktas E-Sports Club",
+      "sktelecomt1": "SKTelecom T1",
+      "edwardgaming": "Edward Gaming",
+      "ahqesportsclub": "AHQ E-Sports Club"
+    },
+    "regions": {
+      "ahqesportsclub": "LMS",
+      "besiktasesportsclub": "TR",
+      "edwardgaming": "CN",
+      "fnatic": "EU",
+      "sktelecomt1": "KR",
+      "teamsolomid": "NA"
+    },
+    "strength": {
+      "ahqesportsclub": 1.6153909191718288,
+      "besiktasesportsclub": 0.4830362082149969,
+      "edwardgaming": 2.469520970830046,
+      "fnatic": 1.1366777603586433,
+      "sktelecomt1": 2.2267797947203265,
+      "teamsolomid": 1.6627532483497385
+    },
+    "training_series": 440,
+    "training_maps": 768,
+    "latest_training_date": "2015-05-02",
+    "prior_audit": {
+      "series": 54,
+      "maps": 65,
+      "last_date": "2014-10-19",
+      "missing_team_regions": {},
+      "counts": {
+        "CN": 26,
+        "KR": 34,
+        "NA": 27,
+        "EU": 18,
+        "TR": 6,
+        "LMS": 13,
+        "BR": 6
+      },
+      "strength": {
+        "BR": -0.6976346796149685,
+        "CN": 0.8742121087083318,
+        "EU": -0.0011037659592600996,
+        "KR": 1.2587617368266428,
+        "LMS": -0.416433874671753,
+        "NA": 0.3695408745882356,
+        "TR": -1.3873423998772283,
+        "PCS": -0.416433874671753
+      },
+      "gradient_inf": 1.9585924992959747e-08
+    },
+    "gradient": 2.1604111456186015e-06,
+    "source": "https://doczz.net/doc/9108064/2015-mid-season-invitational-official-rules",
+    "groups": [],
+    "main_groups": [],
+    "direct": [
+      "ahqesportsclub",
+      "besiktasesportsclub",
+      "edwardgaming",
+      "fnatic",
+      "sktelecomt1",
+      "teamsolomid"
+    ],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [],
+    "kind": "msi_old",
+    "actual_ranks": {
+      "edwardgaming": [
+        1,
+        1
+      ],
+      "sktelecomt1": [
+        2,
+        2
+      ],
+      "fnatic": [
+        3,
+        4
+      ],
+      "ahqesportsclub": [
+        3,
+        4
+      ],
+      "teamsolomid": [
+        5,
+        5
+      ],
+      "besiktasesportsclub": [
+        6,
+        6
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2015_Worlds",
+    "season": 5,
+    "year": 2015,
+    "event": "Worlds",
+    "seed": 2015,
+    "samples": 14000605,
+    "start_date": "2015-10-01",
+    "teams": [
+      "ahqesportsclub",
+      "bangkoktitans",
+      "cloud9",
+      "counterlogicgaming",
+      "edwardgaming",
+      "flashwolves",
+      "fnatic",
+      "h2kgaming",
+      "invictusgaming",
+      "kootigers",
+      "ktrolster",
+      "lgdgaming",
+      "origen",
+      "paingaming",
+      "sktelecomt1",
+      "teamsolomid"
+    ],
+    "display": {
+      "fnatic": "Fnatic",
+      "invictusgaming": "Invictus Gaming",
+      "cloud9": "Cloud 9",
+      "ahqesportsclub": "AHQ E-Sports Club",
+      "sktelecomt1": "SKTelecom T1",
+      "h2kgaming": "H2k-Gaming",
+      "edwardgaming": "Edward Gaming",
+      "bangkoktitans": "Bangkok Titans",
+      "counterlogicgaming": "Counter Logic Gaming",
+      "flashwolves": "Flash Wolves",
+      "paingaming": "paiN Gaming",
+      "kootigers": "KOO Tigers",
+      "ktrolster": "KT Rolster",
+      "teamsolomid": "Team SoloMid",
+      "lgdgaming": "LGD Gaming",
+      "origen": "Origen"
+    },
+    "regions": {
+      "ahqesportsclub": "LMS",
+      "bangkoktitans": "SEA",
+      "cloud9": "NA",
+      "counterlogicgaming": "NA",
+      "edwardgaming": "CN",
+      "flashwolves": "LMS",
+      "fnatic": "EU",
+      "h2kgaming": "EU",
+      "invictusgaming": "CN",
+      "kootigers": "KR",
+      "ktrolster": "KR",
+      "lgdgaming": "CN",
+      "origen": "EU",
+      "paingaming": "BR",
+      "sktelecomt1": "KR",
+      "teamsolomid": "NA"
+    },
+    "strength": {
+      "ahqesportsclub": 1.3708592516648892,
+      "bangkoktitans": -0.43707633911899385,
+      "cloud9": 0.8270218797250275,
+      "counterlogicgaming": 1.421077818238399,
+      "edwardgaming": 2.3840766288876494,
+      "flashwolves": -0.04227458662608414,
+      "fnatic": 1.8808069400278205,
+      "h2kgaming": 0.9192280125710156,
+      "invictusgaming": 1.7141940445141364,
+      "kootigers": 1.9790202701119002,
+      "ktrolster": 1.8526509669677063,
+      "lgdgaming": 1.8178649616595903,
+      "origen": 1.2158955011150419,
+      "paingaming": 1.0635899520246257,
+      "sktelecomt1": 2.8752649513426616,
+      "teamsolomid": 1.1050766665611744
+    },
+    "training_series": 935,
+    "training_maps": 1679,
+    "latest_training_date": "2015-09-12",
+    "prior_audit": {
+      "series": 54,
+      "maps": 65,
+      "last_date": "2014-10-19",
+      "missing_team_regions": {},
+      "counts": {
+        "CN": 26,
+        "KR": 34,
+        "NA": 27,
+        "EU": 18,
+        "TR": 6,
+        "LMS": 13,
+        "BR": 6
+      },
+      "strength": {
+        "BR": -0.6976346796149685,
+        "CN": 0.8742121087083318,
+        "EU": -0.0011037659592600996,
+        "KR": 1.2587617368266428,
+        "LMS": -0.416433874671753,
+        "NA": 0.3695408745882356,
+        "TR": -1.3873423998772283,
+        "PCS": -0.416433874671753
+      },
+      "gradient_inf": 1.9585924992959747e-08
+    },
+    "gradient": 7.46278060320682e-07,
+    "source": "https://nexus.leagueoflegends.com/en-us/2015/09/everything-you-need-to-know-about-the-20/",
+    "groups": [],
+    "main_groups": [
+      [
+        "ahqesportsclub",
+        "cloud9",
+        "fnatic",
+        "invictusgaming"
+      ],
+      [
+        "bangkoktitans",
+        "edwardgaming",
+        "h2kgaming",
+        "sktelecomt1"
+      ],
+      [
+        "counterlogicgaming",
+        "flashwolves",
+        "kootigers",
+        "paingaming"
+      ],
+      [
+        "ktrolster",
+        "lgdgaming",
+        "origen",
+        "teamsolomid"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "ahqesportsclub",
+        "cloud9",
+        "fnatic",
+        "invictusgaming"
+      ],
+      [
+        "bangkoktitans",
+        "edwardgaming",
+        "h2kgaming",
+        "sktelecomt1"
+      ],
+      [
+        "counterlogicgaming",
+        "flashwolves",
+        "kootigers",
+        "paingaming"
+      ],
+      [
+        "ktrolster",
+        "lgdgaming",
+        "origen",
+        "teamsolomid"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "sktelecomt1": [
+        1,
+        1
+      ],
+      "kootigers": [
+        2,
+        2
+      ],
+      "origen": [
+        3,
+        4
+      ],
+      "fnatic": [
+        3,
+        4
+      ],
+      "flashwolves": [
+        5,
+        8
+      ],
+      "ahqesportsclub": [
+        5,
+        8
+      ],
+      "edwardgaming": [
+        5,
+        8
+      ],
+      "ktrolster": [
+        5,
+        8
+      ],
+      "cloud9": [
+        9,
+        12
+      ],
+      "invictusgaming": [
+        13,
+        16
+      ],
+      "h2kgaming": [
+        9,
+        12
+      ],
+      "bangkoktitans": [
+        13,
+        16
+      ],
+      "counterlogicgaming": [
+        9,
+        12
+      ],
+      "paingaming": [
+        13,
+        16
+      ],
+      "lgdgaming": [
+        9,
+        12
+      ],
+      "teamsolomid": [
+        13,
+        16
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2016_MSI",
+    "season": 6,
+    "year": 2016,
+    "event": "MSI",
+    "seed": 2016,
+    "samples": 14000605,
+    "start_date": "2016-05-04",
+    "teams": [
+      "clg",
+      "flashwolves",
+      "g2esports",
+      "royalnevergiveup",
+      "sktelecomt1",
+      "supermassive"
+    ],
+    "display": {
+      "royalnevergiveup": "Royal Never Give Up",
+      "clg": "CLG",
+      "g2esports": "G2 Esports",
+      "flashwolves": "Flash Wolves",
+      "sktelecomt1": "SK Telecom T1",
+      "supermassive": "SuperMassive"
+    },
+    "regions": {
+      "clg": "NA",
+      "flashwolves": "LMS",
+      "g2esports": "EU",
+      "royalnevergiveup": "CN",
+      "sktelecomt1": "KR",
+      "supermassive": "TR"
+    },
+    "strength": {
+      "clg": 0.8975366398850311,
+      "flashwolves": 1.9550270578288558,
+      "g2esports": 2.020601899814306,
+      "royalnevergiveup": 1.4544943826819743,
+      "sktelecomt1": 2.799574817617393,
+      "supermassive": 1.221123200903262
+    },
+    "training_series": 423,
+    "training_maps": 807,
+    "latest_training_date": "2016-04-29",
+    "prior_audit": {
+      "series": 72,
+      "maps": 93,
+      "last_date": "2015-10-25",
+      "missing_team_regions": {},
+      "counts": {
+        "EU": 41,
+        "NA": 24,
+        "TR": 5,
+        "KR": 42,
+        "CN": 34,
+        "LMS": 28,
+        "SEA": 6,
+        "BR": 6
+      },
+      "strength": {
+        "BR": -0.21904077167521838,
+        "CN": 0.1568526543308064,
+        "EU": 0.5217507831652191,
+        "KR": 1.766036331729743,
+        "LMS": 0.15389274159940527,
+        "NA": -0.3801630903615779,
+        "SEA": -1.291751005624548,
+        "TR": -0.7075776431638297,
+        "PCS": -0.10122086085188062,
+        "VN": -1.291751005624548
+      },
+      "gradient_inf": 5.195983991956865e-07
+    },
+    "gradient": 1.0836819792636732e-06,
+    "source": "https://en.wikipedia.org/wiki/2016_Mid-Season_Invitational",
+    "groups": [],
+    "main_groups": [],
+    "direct": [
+      "clg",
+      "flashwolves",
+      "g2esports",
+      "royalnevergiveup",
+      "sktelecomt1",
+      "supermassive"
+    ],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [],
+    "kind": "msi_old",
+    "actual_ranks": {
+      "sktelecomt1": [
+        1,
+        1
+      ],
+      "clg": [
+        2,
+        2
+      ],
+      "royalnevergiveup": [
+        3,
+        4
+      ],
+      "flashwolves": [
+        3,
+        4
+      ],
+      "g2esports": [
+        5,
+        5
+      ],
+      "supermassive": [
+        6,
+        6
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2016_Worlds",
+    "season": 6,
+    "year": 2016,
+    "event": "Worlds",
+    "seed": 2016,
+    "samples": 14000605,
+    "start_date": "2016-09-29",
+    "teams": [
+      "ahqesports",
+      "albusnoxluna",
+      "clg",
+      "cloud9",
+      "edwardgaming",
+      "flashwolves",
+      "g2esports",
+      "h2kgaming",
+      "imay",
+      "intzesports",
+      "roxtigers",
+      "royalnevergiveup",
+      "samsunggalaxy",
+      "sktelecomt1",
+      "splyce",
+      "teamsolomid"
+    ],
+    "display": {
+      "g2esports": "G2 Esports",
+      "clg": "CLG",
+      "roxtigers": "ROX Tigers",
+      "albusnoxluna": "Albus NoX Luna",
+      "h2kgaming": "H2k-Gaming",
+      "ahqesports": "ahq eSports",
+      "intzesports": "INTZ eSports",
+      "edwardgaming": "Edward Gaming",
+      "samsunggalaxy": "Samsung Galaxy",
+      "splyce": "Splyce",
+      "teamsolomid": "Team SoloMid",
+      "royalnevergiveup": "Royal Never Give Up",
+      "sktelecomt1": "SK Telecom T1",
+      "cloud9": "Cloud 9",
+      "flashwolves": "Flash Wolves",
+      "imay": "I MAY"
+    },
+    "regions": {
+      "ahqesports": "LMS",
+      "albusnoxluna": "CIS",
+      "clg": "NA",
+      "cloud9": "NA",
+      "edwardgaming": "CN",
+      "flashwolves": "LMS",
+      "g2esports": "EU",
+      "h2kgaming": "EU",
+      "imay": "CN",
+      "intzesports": "BR",
+      "roxtigers": "KR",
+      "royalnevergiveup": "CN",
+      "samsunggalaxy": "KR",
+      "sktelecomt1": "KR",
+      "splyce": "EU",
+      "teamsolomid": "NA"
+    },
+    "strength": {
+      "ahqesports": 1.159469213257765,
+      "albusnoxluna": 0.8271789372394794,
+      "clg": 0.6967919024042168,
+      "cloud9": 1.0456888572387633,
+      "edwardgaming": 1.9928317186065916,
+      "flashwolves": 1.443736611460109,
+      "g2esports": 1.4991989994378587,
+      "h2kgaming": 0.9295081729031203,
+      "imay": 1.1078359272873337,
+      "intzesports": 0.37665378720246717,
+      "roxtigers": 2.935204362747458,
+      "royalnevergiveup": 1.4754136876658253,
+      "samsunggalaxy": 2.107054438475335,
+      "sktelecomt1": 2.453322183642711,
+      "splyce": 0.9576004555547798,
+      "teamsolomid": 1.6404537887350148
+    },
+    "training_series": 910,
+    "training_maps": 1944,
+    "latest_training_date": "2016-09-05",
+    "prior_audit": {
+      "series": 72,
+      "maps": 93,
+      "last_date": "2015-10-25",
+      "missing_team_regions": {},
+      "counts": {
+        "EU": 41,
+        "NA": 24,
+        "TR": 5,
+        "KR": 42,
+        "CN": 34,
+        "LMS": 28,
+        "SEA": 6,
+        "BR": 6
+      },
+      "strength": {
+        "BR": -0.21904077167521838,
+        "CN": 0.1568526543308064,
+        "EU": 0.5217507831652191,
+        "KR": 1.766036331729743,
+        "LMS": 0.15389274159940527,
+        "NA": -0.3801630903615779,
+        "SEA": -1.291751005624548,
+        "TR": -0.7075776431638297,
+        "PCS": -0.10122086085188062,
+        "VN": -1.291751005624548
+      },
+      "gradient_inf": 5.195983991956865e-07
+    },
+    "gradient": 1.604475171917974e-06,
+    "source": "https://en.wikipedia.org/wiki/2016_League_of_Legends_World_Championship",
+    "groups": [],
+    "main_groups": [
+      [
+        "ahqesports",
+        "edwardgaming",
+        "h2kgaming",
+        "intzesports"
+      ],
+      [
+        "albusnoxluna",
+        "clg",
+        "g2esports",
+        "roxtigers"
+      ],
+      [
+        "cloud9",
+        "flashwolves",
+        "imay",
+        "sktelecomt1"
+      ],
+      [
+        "royalnevergiveup",
+        "samsunggalaxy",
+        "splyce",
+        "teamsolomid"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "ahqesports",
+        "edwardgaming",
+        "h2kgaming",
+        "intzesports"
+      ],
+      [
+        "albusnoxluna",
+        "clg",
+        "g2esports",
+        "roxtigers"
+      ],
+      [
+        "cloud9",
+        "flashwolves",
+        "imay",
+        "sktelecomt1"
+      ],
+      [
+        "royalnevergiveup",
+        "samsunggalaxy",
+        "splyce",
+        "teamsolomid"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "sktelecomt1": [
+        1,
+        1
+      ],
+      "samsunggalaxy": [
+        2,
+        2
+      ],
+      "roxtigers": [
+        3,
+        4
+      ],
+      "h2kgaming": [
+        3,
+        4
+      ],
+      "cloud9": [
+        5,
+        8
+      ],
+      "royalnevergiveup": [
+        5,
+        8
+      ],
+      "edwardgaming": [
+        5,
+        8
+      ],
+      "albusnoxluna": [
+        5,
+        8
+      ],
+      "ahqesports": [
+        9,
+        12
+      ],
+      "intzesports": [
+        13,
+        16
+      ],
+      "clg": [
+        9,
+        12
+      ],
+      "g2esports": [
+        13,
+        16
+      ],
+      "imay": [
+        9,
+        12
+      ],
+      "flashwolves": [
+        13,
+        16
+      ],
+      "teamsolomid": [
+        9,
+        12
+      ],
+      "splyce": [
+        13,
+        16
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2017_MSI",
+    "season": 7,
+    "year": 2017,
+    "event": "MSI",
+    "seed": 2017,
+    "samples": 14000605,
+    "start_date": "2017-04-28",
+    "teams": [
+      "direwolves",
+      "flashwolves",
+      "g2esports",
+      "gigabytemarines",
+      "isurusgaming",
+      "lyongaming",
+      "rampage",
+      "redcanids",
+      "sktelecomt1",
+      "supermassive",
+      "teamsolomid",
+      "teamwe",
+      "virtuspro"
+    ],
+    "display": {
+      "redcanids": "Red Canids",
+      "direwolves": "Dire Wolves",
+      "supermassive": "SuperMassive",
+      "rampage": "Rampage",
+      "virtuspro": "Virtus.pro",
+      "lyongaming": "Lyon Gaming",
+      "gigabytemarines": "GIGABYTE Marines",
+      "isurusgaming": "Isurus Gaming",
+      "teamsolomid": "Team SoloMid",
+      "flashwolves": "Flash Wolves",
+      "g2esports": "G2 Esports",
+      "sktelecomt1": "SK Telecom T1",
+      "teamwe": "Team WE"
+    },
+    "regions": {
+      "direwolves": "OCE",
+      "flashwolves": "LMS",
+      "g2esports": "EU",
+      "gigabytemarines": "SEA",
+      "isurusgaming": "LAS",
+      "lyongaming": "LAN",
+      "rampage": "JP",
+      "redcanids": "BR",
+      "sktelecomt1": "KR",
+      "supermassive": "TR",
+      "teamsolomid": "NA",
+      "teamwe": "CN",
+      "virtuspro": "CIS"
+    },
+    "strength": {
+      "direwolves": 0.0,
+      "flashwolves": 3.0803314823716663,
+      "g2esports": 1.3758455236859277,
+      "gigabytemarines": 0.0,
+      "isurusgaming": 0.0,
+      "lyongaming": 0.0,
+      "rampage": 0.0,
+      "redcanids": 0.46518179750927874,
+      "sktelecomt1": 2.7881607888430024,
+      "supermassive": -0.807173164187676,
+      "teamsolomid": 1.3864350296156236,
+      "teamwe": 1.0436915468724646,
+      "virtuspro": 0.12707279176683337
+    },
+    "training_series": 549,
+    "training_maps": 1281,
+    "latest_training_date": "2017-04-23",
+    "prior_audit": {
+      "series": 88,
+      "maps": 108,
+      "last_date": "2016-10-23",
+      "missing_team_regions": {},
+      "counts": {
+        "CN": 41,
+        "NA": 38,
+        "EU": 35,
+        "LMS": 26,
+        "KR": 50,
+        "TR": 10,
+        "CIS": 10,
+        "BR": 6
+      },
+      "strength": {
+        "BR": -1.021920393222254,
+        "CIS": -0.07685266489106236,
+        "CN": 0.2803159676314539,
+        "EU": -0.121171263958033,
+        "KR": 1.4627209194374506,
+        "LMS": -0.055505552705796865,
+        "NA": 0.3395861518959175,
+        "TR": -0.807173164187676,
+        "PCS": -0.055505552705796865
+      },
+      "gradient_inf": 1.0041970699425917e-07
+    },
+    "gradient": 4.587855217730308e-06,
+    "source": "https://nexus.leagueoflegends.com/en-us/2017/02/2017-mid-season-invitational-update/",
+    "groups": [
+      [
+        "direwolves",
+        "rampage",
+        "redcanids",
+        "supermassive"
+      ],
+      [
+        "gigabytemarines",
+        "isurusgaming",
+        "lyongaming",
+        "virtuspro"
+      ]
+    ],
+    "main_groups": [],
+    "direct": [
+      "g2esports",
+      "sktelecomt1",
+      "teamwe"
+    ],
+    "byes": [
+      "flashwolves",
+      "teamsolomid"
+    ],
+    "opening": [],
+    "main_groups_observed": [],
+    "kind": "msi_old",
+    "pi_bye_opponents": {
+      "teamsolomid": 1,
+      "flashwolves": 0
+    },
+    "actual_ranks": {
+      "sktelecomt1": [
+        1,
+        1
+      ],
+      "g2esports": [
+        2,
+        2
+      ],
+      "flashwolves": [
+        3,
+        4
+      ],
+      "teamwe": [
+        3,
+        4
+      ],
+      "teamsolomid": [
+        5,
+        5
+      ],
+      "gigabytemarines": [
+        6,
+        6
+      ],
+      "supermassive": [
+        7,
+        7
+      ],
+      "redcanids": [
+        8,
+        9
+      ],
+      "lyongaming": [
+        8,
+        9
+      ],
+      "virtuspro": [
+        10,
+        11
+      ],
+      "direwolves": [
+        10,
+        11
+      ],
+      "rampage": [
+        12,
+        13
+      ],
+      "isurusgaming": [
+        12,
+        13
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2017_Worlds",
+    "season": 7,
+    "year": 2017,
+    "event": "Worlds",
+    "seed": 2017,
+    "samples": 14000605,
+    "start_date": "2017-09-23",
+    "teams": [
+      "1907fenerbahce",
+      "ahqesportsclub",
+      "cloud9",
+      "direwolves",
+      "edwardgaming",
+      "flashwolves",
+      "fnatic",
+      "g2esports",
+      "gambitesports",
+      "gigabytemarines",
+      "hongkongattitude",
+      "immortals",
+      "kaoslatingamers",
+      "longzhugaming",
+      "lyongaming",
+      "misfits",
+      "rampage",
+      "royalnevergiveup",
+      "samsunggalaxy",
+      "sktelecomt1",
+      "teamoneesports",
+      "teamsolomid",
+      "teamwe",
+      "younggeneration"
+    ],
+    "display": {
+      "teamwe": "Team WE",
+      "lyongaming": "Lyon Gaming",
+      "cloud9": "Cloud 9",
+      "teamoneesports": "Team oNe eSports",
+      "gambitesports": "Gambit Esports",
+      "direwolves": "Dire Wolves",
+      "younggeneration": "Young Generation",
+      "kaoslatingamers": "Kaos Latin Gamers",
+      "rampage": "Rampage",
+      "hongkongattitude": "Hong Kong Attitude",
+      "fnatic": "Fnatic",
+      "1907fenerbahce": "1907 Fenerbahce",
+      "royalnevergiveup": "Royal Never Give Up",
+      "g2esports": "G2 Esports",
+      "samsunggalaxy": "Samsung Galaxy",
+      "longzhugaming": "Longzhu Gaming",
+      "immortals": "Immortals",
+      "gigabytemarines": "GIGABYTE Marines",
+      "sktelecomt1": "SK Telecom T1",
+      "edwardgaming": "Edward Gaming",
+      "ahqesportsclub": "ahq e-Sports Club",
+      "flashwolves": "Flash Wolves",
+      "teamsolomid": "Team SoloMid",
+      "misfits": "Misfits"
+    },
+    "regions": {
+      "1907fenerbahce": "TR",
+      "ahqesportsclub": "LMS",
+      "cloud9": "NA",
+      "direwolves": "OCE",
+      "edwardgaming": "CN",
+      "flashwolves": "LMS",
+      "fnatic": "EU",
+      "g2esports": "EU",
+      "gambitesports": "CIS",
+      "gigabytemarines": "SEA",
+      "hongkongattitude": "LMS",
+      "immortals": "NA",
+      "kaoslatingamers": "LAS",
+      "longzhugaming": "KR",
+      "lyongaming": "LAN",
+      "misfits": "EU",
+      "rampage": "JP",
+      "royalnevergiveup": "CN",
+      "samsunggalaxy": "KR",
+      "sktelecomt1": "KR",
+      "teamoneesports": "BR",
+      "teamsolomid": "NA",
+      "teamwe": "CN",
+      "younggeneration": "SEA"
+    },
+    "strength": {
+      "1907fenerbahce": 1.2801133523182466,
+      "ahqesportsclub": 0.9712681589848916,
+      "cloud9": 1.1218063276075434,
+      "direwolves": -0.3837933283711667,
+      "edwardgaming": 1.2012782473768133,
+      "flashwolves": 1.4490131185678874,
+      "fnatic": 0.7718959160466748,
+      "g2esports": 0.861624871040608,
+      "gambitesports": 0.5360963697029794,
+      "gigabytemarines": 0.8100268063718403,
+      "hongkongattitude": 0.4668684976953739,
+      "immortals": 1.1283674980550047,
+      "kaoslatingamers": 0.0,
+      "longzhugaming": 2.1085299654642906,
+      "lyongaming": 0.3276605602653957,
+      "misfits": 0.07290017615347394,
+      "rampage": -0.31393720194567465,
+      "royalnevergiveup": 1.269418925614003,
+      "samsunggalaxy": 2.102342820494549,
+      "sktelecomt1": 2.3048719287458383,
+      "teamoneesports": 0.3189386471313465,
+      "teamsolomid": 1.5499864213007413,
+      "teamwe": 1.2226398680892248,
+      "younggeneration": 0.0
+    },
+    "training_series": 1256,
+    "training_maps": 2780,
+    "latest_training_date": "2017-09-16",
+    "prior_audit": {
+      "series": 88,
+      "maps": 108,
+      "last_date": "2016-10-23",
+      "missing_team_regions": {},
+      "counts": {
+        "CN": 41,
+        "NA": 38,
+        "EU": 35,
+        "LMS": 26,
+        "KR": 50,
+        "TR": 10,
+        "CIS": 10,
+        "BR": 6
+      },
+      "strength": {
+        "BR": -1.021920393222254,
+        "CIS": -0.07685266489106236,
+        "CN": 0.2803159676314539,
+        "EU": -0.121171263958033,
+        "KR": 1.4627209194374506,
+        "LMS": -0.055505552705796865,
+        "NA": 0.3395861518959175,
+        "TR": -0.807173164187676,
+        "PCS": -0.055505552705796865
+      },
+      "gradient_inf": 1.0041970699425917e-07
+    },
+    "gradient": 1.202265776462097e-06,
+    "source": "https://nexus.leagueoflegends.com/en-us/2017/09/worlds-2017-play-in-round-up/",
+    "groups": [
+      [
+        "1907fenerbahce",
+        "hongkongattitude",
+        "rampage"
+      ],
+      [
+        "cloud9",
+        "direwolves",
+        "teamoneesports"
+      ],
+      [
+        "fnatic",
+        "kaoslatingamers",
+        "younggeneration"
+      ],
+      [
+        "gambitesports",
+        "lyongaming",
+        "teamwe"
+      ]
+    ],
+    "main_groups": [
+      [
+        "g2esports",
+        "royalnevergiveup",
+        "samsunggalaxy"
+      ],
+      [
+        "ahqesportsclub",
+        "edwardgaming",
+        "sktelecomt1"
+      ],
+      [
+        "flashwolves",
+        "misfits",
+        "teamsolomid"
+      ],
+      [
+        "gigabytemarines",
+        "immortals",
+        "longzhugaming"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "1907fenerbahce",
+        "g2esports",
+        "royalnevergiveup",
+        "samsunggalaxy"
+      ],
+      [
+        "ahqesportsclub",
+        "cloud9",
+        "edwardgaming",
+        "sktelecomt1"
+      ],
+      [
+        "flashwolves",
+        "misfits",
+        "teamsolomid",
+        "teamwe"
+      ],
+      [
+        "fnatic",
+        "gigabytemarines",
+        "immortals",
+        "longzhugaming"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "samsunggalaxy": [
+        1,
+        1
+      ],
+      "sktelecomt1": [
+        2,
+        2
+      ],
+      "royalnevergiveup": [
+        3,
+        4
+      ],
+      "teamwe": [
+        3,
+        4
+      ],
+      "longzhugaming": [
+        5,
+        8
+      ],
+      "misfits": [
+        5,
+        8
+      ],
+      "fnatic": [
+        5,
+        8
+      ],
+      "cloud9": [
+        5,
+        8
+      ],
+      "g2esports": [
+        9,
+        12
+      ],
+      "1907fenerbahce": [
+        13,
+        16
+      ],
+      "ahqesportsclub": [
+        9,
+        12
+      ],
+      "edwardgaming": [
+        13,
+        16
+      ],
+      "teamsolomid": [
+        9,
+        12
+      ],
+      "flashwolves": [
+        13,
+        16
+      ],
+      "gigabytemarines": [
+        9,
+        12
+      ],
+      "immortals": [
+        13,
+        16
+      ],
+      "lyongaming": [
+        17,
+        20
+      ],
+      "hongkongattitude": [
+        17,
+        20
+      ],
+      "teamoneesports": [
+        17,
+        20
+      ],
+      "younggeneration": [
+        17,
+        20
+      ],
+      "rampage": [
+        21,
+        24
+      ],
+      "gambitesports": [
+        21,
+        24
+      ],
+      "direwolves": [
+        21,
+        24
+      ],
+      "kaoslatingamers": [
+        21,
+        24
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2018_MSI",
+    "season": 8,
+    "year": 2018,
+    "event": "MSI",
+    "seed": 2018,
+    "samples": 14000605,
+    "start_date": "2018-05-03",
+    "teams": [
+      "ascensiongaming",
+      "bausupermassive",
+      "direwolves",
+      "evosesports",
+      "flashwolves",
+      "fnatic",
+      "gambitesports",
+      "kabumesports",
+      "kaoslatingamers",
+      "kingzonedragonx",
+      "pentagram",
+      "rainbow7",
+      "royalnevergiveup",
+      "teamliquid"
+    ],
+    "display": {
+      "gambitesports": "Gambit Esports",
+      "kaoslatingamers": "Kaos Latin Gamers",
+      "rainbow7": "Rainbow7",
+      "ascensiongaming": "Ascension Gaming",
+      "bausupermassive": "BAUSuperMassive",
+      "direwolves": "Dire Wolves",
+      "kabumesports": "KaBuM! e-Sports",
+      "pentagram": "Pentagram",
+      "evosesports": "EVOS Esports",
+      "flashwolves": "Flash Wolves",
+      "fnatic": "Fnatic",
+      "royalnevergiveup": "Royal Never Give Up",
+      "kingzonedragonx": "Kingzone DragonX",
+      "teamliquid": "Team Liquid"
+    },
+    "regions": {
+      "ascensiongaming": "SEA",
+      "bausupermassive": "TR",
+      "direwolves": "OCE",
+      "evosesports": "VN",
+      "flashwolves": "LMS",
+      "fnatic": "EU",
+      "gambitesports": "CIS",
+      "kabumesports": "BR",
+      "kaoslatingamers": "LAS",
+      "kingzonedragonx": "KR",
+      "pentagram": "JP",
+      "rainbow7": "LAN",
+      "royalnevergiveup": "CN",
+      "teamliquid": "NA"
+    },
+    "strength": {
+      "ascensiongaming": 0.15135595155535225,
+      "bausupermassive": 1.8195738397981187,
+      "direwolves": 0.644181210304507,
+      "evosesports": 1.2731929486994382,
+      "flashwolves": 1.7534571572875124,
+      "fnatic": 2.4481240308069325,
+      "gambitesports": 0.7682209306379086,
+      "kabumesports": 0.1886609006806326,
+      "kaoslatingamers": 0.9242855750608285,
+      "kingzonedragonx": 3.5753084092366594,
+      "pentagram": -0.3242597074512052,
+      "rainbow7": 1.1608463603770784,
+      "royalnevergiveup": 2.3019904574363634,
+      "teamliquid": 1.8056317746804533
+    },
+    "training_series": 980,
+    "training_maps": 1758,
+    "latest_training_date": "2018-04-28",
+    "prior_audit": {
+      "series": 147,
+      "maps": 191,
+      "last_date": "2017-10-29",
+      "missing_team_regions": {},
+      "counts": {
+        "BR": 15,
+        "OCE": 11,
+        "TR": 28,
+        "JP": 10,
+        "CIS": 10,
+        "LAN": 13,
+        "SEA": 39,
+        "LAS": 10,
+        "NA": 48,
+        "LMS": 37,
+        "EU": 55,
+        "KR": 49,
+        "CN": 57
+      },
+      "strength": {
+        "BR": -0.6736180982798963,
+        "CIS": -1.1028324218005678,
+        "CN": 1.4940717197763176,
+        "EU": 1.0410389017005166,
+        "JP": -1.521743982578833,
+        "KR": 2.007013264953766,
+        "LAN": -0.3261945615799278,
+        "LAS": -0.6766559539955217,
+        "LMS": 0.04731256004527474,
+        "NA": 0.7505299526002286,
+        "OCE": -1.0586230007835293,
+        "SEA": 0.15135595155535225,
+        "TR": -0.13165433161317955,
+        "PCS": 0.10070324779386715,
+        "VN": 0.15135595155535225,
+        "LATAM": -0.47856908002149046,
+        "LCP": -1.521743982578833
+      },
+      "gradient_inf": 2.435271692080576e-07
+    },
+    "gradient": 3.0067842415881785e-06,
+    "source": "https://nexus.leagueoflegends.com/en-us/2018/03/msi-2018-format-update/",
+    "groups": [
+      [
+        "ascensiongaming",
+        "gambitesports",
+        "kaoslatingamers",
+        "rainbow7"
+      ],
+      [
+        "bausupermassive",
+        "direwolves",
+        "kabumesports",
+        "pentagram"
+      ]
+    ],
+    "main_groups": [],
+    "direct": [
+      "fnatic",
+      "kingzonedragonx",
+      "royalnevergiveup",
+      "teamliquid"
+    ],
+    "byes": [
+      "evosesports",
+      "flashwolves"
+    ],
+    "opening": [],
+    "main_groups_observed": [],
+    "kind": "msi_old",
+    "pi_bye_opponents": {
+      "evosesports": 1,
+      "flashwolves": 0
+    },
+    "actual_ranks": {
+      "royalnevergiveup": [
+        1,
+        1
+      ],
+      "kingzonedragonx": [
+        2,
+        2
+      ],
+      "fnatic": [
+        3,
+        4
+      ],
+      "flashwolves": [
+        3,
+        4
+      ],
+      "teamliquid": [
+        5,
+        5
+      ],
+      "evosesports": [
+        6,
+        6
+      ],
+      "bausupermassive": [
+        7,
+        8
+      ],
+      "gambitesports": [
+        7,
+        8
+      ],
+      "kabumesports": [
+        9,
+        9
+      ],
+      "rainbow7": [
+        10,
+        10
+      ],
+      "ascensiongaming": [
+        11,
+        13
+      ],
+      "direwolves": [
+        11,
+        13
+      ],
+      "kaoslatingamers": [
+        11,
+        13
+      ],
+      "pentagram": [
+        14,
+        14
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2018_Worlds",
+    "season": 8,
+    "year": 2018,
+    "event": "Worlds",
+    "seed": 2018,
+    "samples": 14000605,
+    "start_date": "2018-10-01",
+    "teams": [
+      "100thieves",
+      "afreecafreecs",
+      "ascensiongaming",
+      "bausupermassive",
+      "cloud9",
+      "detonationfocusme",
+      "direwolves",
+      "edwardgaming",
+      "flashwolves",
+      "fnatic",
+      "g2esports",
+      "gambitesports",
+      "gengesports",
+      "grex",
+      "infinityesports",
+      "invictusgaming",
+      "kabumesports",
+      "kaoslatingamers",
+      "ktrolster",
+      "madteam",
+      "phongvubuffalo",
+      "royalnevergiveup",
+      "teamliquid",
+      "teamvitality"
+    ],
+    "display": {
+      "cloud9": "Cloud9",
+      "kabumesports": "KaBuM! e-Sports",
+      "gambitesports": "Gambit Esports",
+      "grex": "G-Rex",
+      "detonationfocusme": "Detonation FocusMe",
+      "kaoslatingamers": "Kaos Latin Gamers",
+      "edwardgaming": "Edward Gaming",
+      "infinityesports": "Infinity eSports",
+      "g2esports": "G2 Esports",
+      "bausupermassive": "BAUSuperMassive",
+      "direwolves": "Dire Wolves",
+      "ascensiongaming": "Ascension Gaming",
+      "ktrolster": "KT Rolster",
+      "teamliquid": "Team Liquid",
+      "madteam": "MAD Team",
+      "phongvubuffalo": "Phong Vu Buffalo",
+      "flashwolves": "Flash Wolves",
+      "afreecafreecs": "Afreeca Freecs",
+      "royalnevergiveup": "Royal Never Give Up",
+      "gengesports": "Gen.G eSports",
+      "teamvitality": "Team Vitality",
+      "100thieves": "100 Thieves",
+      "fnatic": "Fnatic",
+      "invictusgaming": "Invictus Gaming"
+    },
+    "regions": {
+      "100thieves": "NA",
+      "afreecafreecs": "KR",
+      "ascensiongaming": "SEA",
+      "bausupermassive": "TR",
+      "cloud9": "NA",
+      "detonationfocusme": "JP",
+      "direwolves": "OCE",
+      "edwardgaming": "CN",
+      "flashwolves": "LMS",
+      "fnatic": "EU",
+      "g2esports": "EU",
+      "gambitesports": "CIS",
+      "gengesports": "KR",
+      "grex": "LMS",
+      "infinityesports": "LAN",
+      "invictusgaming": "CN",
+      "kabumesports": "BR",
+      "kaoslatingamers": "LAS",
+      "ktrolster": "KR",
+      "madteam": "LMS",
+      "phongvubuffalo": "VN",
+      "royalnevergiveup": "CN",
+      "teamliquid": "NA",
+      "teamvitality": "EU"
+    },
+    "strength": {
+      "100thieves": 0.9321809492859935,
+      "afreecafreecs": 2.37355503636214,
+      "ascensiongaming": -0.7681424159080886,
+      "bausupermassive": 1.0024735963878686,
+      "cloud9": 1.171982045495986,
+      "detonationfocusme": -0.08857523664392762,
+      "direwolves": 0.6459590093444711,
+      "edwardgaming": 2.1988034164497607,
+      "flashwolves": 2.142682108997568,
+      "fnatic": 1.9604642641350405,
+      "g2esports": 1.2773052401139167,
+      "gambitesports": 0.5194874794049174,
+      "gengesports": 2.589146418614735,
+      "grex": 0.3060620144123733,
+      "infinityesports": 0.57176643728229,
+      "invictusgaming": 2.8824069189282246,
+      "kabumesports": 0.7918670214074971,
+      "kaoslatingamers": 0.5448761262439586,
+      "ktrolster": 2.6799165796225277,
+      "madteam": 0.35473902494715426,
+      "phongvubuffalo": 1.4259956921377743,
+      "royalnevergiveup": 2.6881036655495953,
+      "teamliquid": 1.6205846835632927,
+      "teamvitality": 1.3800331688367284
+    },
+    "training_series": 2141,
+    "training_maps": 3770,
+    "latest_training_date": "2018-09-22",
+    "prior_audit": {
+      "series": 147,
+      "maps": 191,
+      "last_date": "2017-10-29",
+      "missing_team_regions": {},
+      "counts": {
+        "BR": 15,
+        "OCE": 11,
+        "TR": 28,
+        "JP": 10,
+        "CIS": 10,
+        "LAN": 13,
+        "SEA": 39,
+        "LAS": 10,
+        "NA": 48,
+        "LMS": 37,
+        "EU": 55,
+        "KR": 49,
+        "CN": 57
+      },
+      "strength": {
+        "BR": -0.6736180982798963,
+        "CIS": -1.1028324218005678,
+        "CN": 1.4940717197763176,
+        "EU": 1.0410389017005166,
+        "JP": -1.521743982578833,
+        "KR": 2.007013264953766,
+        "LAN": -0.3261945615799278,
+        "LAS": -0.6766559539955217,
+        "LMS": 0.04731256004527474,
+        "NA": 0.7505299526002286,
+        "OCE": -1.0586230007835293,
+        "SEA": 0.15135595155535225,
+        "TR": -0.13165433161317955,
+        "PCS": 0.10070324779386715,
+        "VN": 0.15135595155535225,
+        "LATAM": -0.47856908002149046,
+        "LCP": -1.521743982578833
+      },
+      "gradient_inf": 2.435271692080576e-07
+    },
+    "gradient": 3.863911775425777e-06,
+    "source": "https://en.wikipedia.org/wiki/2018_League_of_Legends_World_Championship",
+    "groups": [
+      [
+        "ascensiongaming",
+        "bausupermassive",
+        "g2esports"
+      ],
+      [
+        "cloud9",
+        "detonationfocusme",
+        "kabumesports"
+      ],
+      [
+        "direwolves",
+        "edwardgaming",
+        "infinityesports"
+      ],
+      [
+        "gambitesports",
+        "grex",
+        "kaoslatingamers"
+      ]
+    ],
+    "main_groups": [
+      [
+        "100thieves",
+        "fnatic",
+        "invictusgaming"
+      ],
+      [
+        "afreecafreecs",
+        "flashwolves",
+        "phongvubuffalo"
+      ],
+      [
+        "gengesports",
+        "royalnevergiveup",
+        "teamvitality"
+      ],
+      [
+        "ktrolster",
+        "madteam",
+        "teamliquid"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "100thieves",
+        "fnatic",
+        "grex",
+        "invictusgaming"
+      ],
+      [
+        "afreecafreecs",
+        "flashwolves",
+        "g2esports",
+        "phongvubuffalo"
+      ],
+      [
+        "cloud9",
+        "gengesports",
+        "royalnevergiveup",
+        "teamvitality"
+      ],
+      [
+        "edwardgaming",
+        "ktrolster",
+        "madteam",
+        "teamliquid"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "invictusgaming": [
+        1,
+        1
+      ],
+      "fnatic": [
+        2,
+        2
+      ],
+      "g2esports": [
+        3,
+        4
+      ],
+      "cloud9": [
+        3,
+        4
+      ],
+      "ktrolster": [
+        5,
+        8
+      ],
+      "royalnevergiveup": [
+        5,
+        8
+      ],
+      "afreecafreecs": [
+        5,
+        8
+      ],
+      "edwardgaming": [
+        5,
+        8
+      ],
+      "100thieves": [
+        9,
+        12
+      ],
+      "grex": [
+        13,
+        16
+      ],
+      "flashwolves": [
+        9,
+        12
+      ],
+      "phongvubuffalo": [
+        13,
+        16
+      ],
+      "teamvitality": [
+        9,
+        12
+      ],
+      "gengesports": [
+        13,
+        16
+      ],
+      "teamliquid": [
+        9,
+        12
+      ],
+      "madteam": [
+        13,
+        16
+      ],
+      "gambitesports": [
+        17,
+        20
+      ],
+      "detonationfocusme": [
+        17,
+        20
+      ],
+      "infinityesports": [
+        17,
+        20
+      ],
+      "bausupermassive": [
+        17,
+        20
+      ],
+      "ascensiongaming": [
+        21,
+        24
+      ],
+      "direwolves": [
+        21,
+        24
+      ],
+      "kabumesports": [
+        21,
+        24
+      ],
+      "kaoslatingamers": [
+        21,
+        24
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2019_MSI",
+    "season": 9,
+    "year": 2019,
+    "event": "MSI",
+    "seed": 2019,
+    "samples": 14000605,
+    "start_date": "2019-05-01",
+    "teams": [
+      "1907fenerbahce",
+      "bombers",
+      "dashingbuffalo",
+      "detonationfocusme",
+      "flashwolves",
+      "g2esports",
+      "intzesports",
+      "invictusgaming",
+      "isurusgaming",
+      "mega",
+      "sktelecomt1",
+      "teamliquid",
+      "vegasquadron"
+    ],
+    "display": {
+      "dashingbuffalo": "Dashing Buffalo",
+      "bombers": "Bombers",
+      "1907fenerbahce": "1907 Fenerbahce",
+      "isurusgaming": "Isurus Gaming",
+      "mega": "MEGA",
+      "detonationfocusme": "Detonation FocusMe",
+      "vegasquadron": "Vega Squadron",
+      "intzesports": "INTZ eSports",
+      "teamliquid": "Team Liquid",
+      "flashwolves": "Flash Wolves",
+      "g2esports": "G2 Esports",
+      "sktelecomt1": "SK Telecom T1",
+      "invictusgaming": "Invictus Gaming"
+    },
+    "regions": {
+      "1907fenerbahce": "TR",
+      "bombers": "OCE",
+      "dashingbuffalo": "VN",
+      "detonationfocusme": "JP",
+      "flashwolves": "LMS",
+      "g2esports": "EU",
+      "intzesports": "BR",
+      "invictusgaming": "CN",
+      "isurusgaming": "LATAM",
+      "mega": "SEA",
+      "sktelecomt1": "KR",
+      "teamliquid": "NA",
+      "vegasquadron": "CIS"
+    },
+    "strength": {
+      "1907fenerbahce": 2.7292891963586268,
+      "bombers": 1.6868074296931328,
+      "dashingbuffalo": 1.4481297592709157,
+      "detonationfocusme": 1.603597676115514,
+      "flashwolves": 0.8013580578411525,
+      "g2esports": 2.5530154770577367,
+      "intzesports": 0.15879486647190855,
+      "invictusgaming": 2.685533618747616,
+      "isurusgaming": 0.43702395402397226,
+      "mega": 0.845139752404002,
+      "sktelecomt1": 2.5545271855902287,
+      "teamliquid": 2.0770591975220905,
+      "vegasquadron": 1.7322571215059082
+    },
+    "training_series": 1048,
+    "training_maps": 1652,
+    "latest_training_date": "2019-04-21",
+    "prior_audit": {
+      "series": 149,
+      "maps": 193,
+      "last_date": "2018-11-03",
+      "missing_team_regions": {},
+      "counts": {
+        "CIS": 18,
+        "LAS": 10,
+        "LAN": 14,
+        "SEA": 10,
+        "TR": 19,
+        "OCE": 10,
+        "BR": 11,
+        "JP": 14,
+        "VN": 20,
+        "LMS": 45,
+        "EU": 61,
+        "CN": 65,
+        "KR": 44,
+        "NA": 45
+      },
+      "strength": {
+        "BR": -0.7256177598117002,
+        "CIS": -0.05304005645545664,
+        "CN": 1.5164275725180614,
+        "EU": 1.1844244254375216,
+        "JP": -0.8020499024801276,
+        "KR": 0.758273310675463,
+        "LAN": 0.05797999306624415,
+        "LAS": -1.2516429191921141,
+        "LMS": 0.16738059523131235,
+        "NA": 0.7848457460488566,
+        "OCE": -0.488443735064774,
+        "SEA": -1.1083619858916145,
+        "TR": -0.02411721950210534,
+        "VN": -0.016058064579566374,
+        "PCS": -0.06457260133649251,
+        "LATAM": -0.4876962203747384,
+        "LCP": -0.339701762538621
+      },
+      "gradient_inf": 4.535140739614363e-07
+    },
+    "gradient": 1.6110162960325525e-06,
+    "source": "https://esports-assets.s3-us-west-2.amazonaws.com/production/files/rules/2019-MSI-Ruleset-v20.0.pdf",
+    "groups": [
+      [
+        "1907fenerbahce",
+        "bombers",
+        "dashingbuffalo",
+        "isurusgaming"
+      ],
+      [
+        "detonationfocusme",
+        "intzesports",
+        "mega",
+        "vegasquadron"
+      ]
+    ],
+    "main_groups": [],
+    "direct": [
+      "g2esports",
+      "invictusgaming",
+      "sktelecomt1"
+    ],
+    "byes": [
+      "flashwolves",
+      "teamliquid"
+    ],
+    "opening": [],
+    "main_groups_observed": [],
+    "kind": "msi_old",
+    "pi_bye_opponents": {
+      "teamliquid": 0,
+      "flashwolves": 1
+    },
+    "actual_ranks": {
+      "g2esports": [
+        1,
+        1
+      ],
+      "teamliquid": [
+        2,
+        2
+      ],
+      "invictusgaming": [
+        3,
+        4
+      ],
+      "sktelecomt1": [
+        3,
+        4
+      ],
+      "flashwolves": [
+        5,
+        5
+      ],
+      "dashingbuffalo": [
+        6,
+        6
+      ],
+      "vegasquadron": [
+        7,
+        7
+      ],
+      "detonationfocusme": [
+        8,
+        9
+      ],
+      "1907fenerbahce": [
+        8,
+        9
+      ],
+      "isurusgaming": [
+        10,
+        12
+      ],
+      "mega": [
+        10,
+        12
+      ],
+      "bombers": [
+        10,
+        12
+      ],
+      "intzesports": [
+        13,
+        13
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2019_Worlds",
+    "season": 9,
+    "year": 2019,
+    "event": "Worlds",
+    "seed": 2019,
+    "samples": 14000605,
+    "start_date": "2019-10-02",
+    "teams": [
+      "ahqesportsclub",
+      "cloud9",
+      "clutchgaming",
+      "damwongaming",
+      "detonationfocusme",
+      "flamengoesports",
+      "fnatic",
+      "funplusphoenix",
+      "g2esports",
+      "gamesports",
+      "griffin",
+      "hongkongattitude",
+      "invictusgaming",
+      "isurusgaming",
+      "jteam",
+      "lowkeyesportsvietnam",
+      "mammothesports",
+      "mega",
+      "royalnevergiveup",
+      "royalyouth",
+      "sktelecomt1",
+      "splyce",
+      "teamliquid",
+      "unicornsoflove"
+    ],
+    "display": {
+      "clutchgaming": "Clutch Gaming",
+      "unicornsoflove": "Unicorns Of Love",
+      "detonationfocusme": "Detonation FocusMe",
+      "splyce": "Splyce",
+      "mammothesports": "Mammoth eSports",
+      "isurusgaming": "Isurus Gaming",
+      "royalyouth": "Royal Youth",
+      "damwongaming": "DAMWON Gaming",
+      "mega": "MEGA",
+      "hongkongattitude": "Hong Kong Attitude",
+      "flamengoesports": "Flamengo eSports",
+      "lowkeyesportsvietnam": "Lowkey Esports.Vietnam",
+      "fnatic": "Fnatic",
+      "sktelecomt1": "SK Telecom T1",
+      "royalnevergiveup": "Royal Never Give Up",
+      "invictusgaming": "Invictus Gaming",
+      "ahqesportsclub": "ahq e-Sports Club",
+      "teamliquid": "Team Liquid",
+      "jteam": "J Team",
+      "funplusphoenix": "Funplus Phoenix",
+      "gamesports": "GAM Esports",
+      "griffin": "Griffin",
+      "g2esports": "G2 Esports",
+      "cloud9": "Cloud9"
+    },
+    "regions": {
+      "ahqesportsclub": "LMS",
+      "cloud9": "NA",
+      "clutchgaming": "NA",
+      "damwongaming": "KR",
+      "detonationfocusme": "JP",
+      "flamengoesports": "BR",
+      "fnatic": "EU",
+      "funplusphoenix": "CN",
+      "g2esports": "EU",
+      "gamesports": "VN",
+      "griffin": "KR",
+      "hongkongattitude": "LMS",
+      "invictusgaming": "CN",
+      "isurusgaming": "LATAM",
+      "jteam": "LMS",
+      "lowkeyesportsvietnam": "VN",
+      "mammothesports": "OCE",
+      "mega": "SEA",
+      "royalnevergiveup": "CN",
+      "royalyouth": "TR",
+      "sktelecomt1": "KR",
+      "splyce": "EU",
+      "teamliquid": "NA",
+      "unicornsoflove": "CIS"
+    },
+    "strength": {
+      "ahqesportsclub": 0.741634293945326,
+      "cloud9": 1.3155155748435179,
+      "clutchgaming": 0.9450699788775765,
+      "damwongaming": 2.0138643439442663,
+      "detonationfocusme": 0.9101046403157341,
+      "flamengoesports": 0.568488346488422,
+      "fnatic": 2.3214157389191787,
+      "funplusphoenix": 3.012141010303975,
+      "g2esports": 2.4342207824608515,
+      "gamesports": 1.0834677751519628,
+      "griffin": 2.256042806004305,
+      "hongkongattitude": 0.8955512039913163,
+      "invictusgaming": 1.9997108850329273,
+      "isurusgaming": 0.34500546493721285,
+      "jteam": 1.3306486925286096,
+      "lowkeyesportsvietnam": 0.7324400775516048,
+      "mammothesports": 0.5412477432464385,
+      "mega": 0.7538168119151646,
+      "royalnevergiveup": 2.322818705448452,
+      "royalyouth": 1.570218238530313,
+      "sktelecomt1": 2.455257044453016,
+      "splyce": 1.4545331978311336,
+      "teamliquid": 1.745650337532951,
+      "unicornsoflove": 1.5581818648332866
+    },
+    "training_series": 2223,
+    "training_maps": 3531,
+    "latest_training_date": "2019-09-16",
+    "prior_audit": {
+      "series": 149,
+      "maps": 193,
+      "last_date": "2018-11-03",
+      "missing_team_regions": {},
+      "counts": {
+        "CIS": 18,
+        "LAS": 10,
+        "LAN": 14,
+        "SEA": 10,
+        "TR": 19,
+        "OCE": 10,
+        "BR": 11,
+        "JP": 14,
+        "VN": 20,
+        "LMS": 45,
+        "EU": 61,
+        "CN": 65,
+        "KR": 44,
+        "NA": 45
+      },
+      "strength": {
+        "BR": -0.7256177598117002,
+        "CIS": -0.05304005645545664,
+        "CN": 1.5164275725180614,
+        "EU": 1.1844244254375216,
+        "JP": -0.8020499024801276,
+        "KR": 0.758273310675463,
+        "LAN": 0.05797999306624415,
+        "LAS": -1.2516429191921141,
+        "LMS": 0.16738059523131235,
+        "NA": 0.7848457460488566,
+        "OCE": -0.488443735064774,
+        "SEA": -1.1083619858916145,
+        "TR": -0.02411721950210534,
+        "VN": -0.016058064579566374,
+        "PCS": -0.06457260133649251,
+        "LATAM": -0.4876962203747384,
+        "LCP": -0.339701762538621
+      },
+      "gradient_inf": 4.535140739614363e-07
+    },
+    "gradient": 6.363938233139299e-06,
+    "source": "https://en.wikipedia.org/wiki/2019_League_of_Legends_World_Championship",
+    "groups": [
+      [
+        "clutchgaming",
+        "mammothesports",
+        "unicornsoflove"
+      ],
+      [
+        "damwongaming",
+        "flamengoesports",
+        "royalyouth"
+      ],
+      [
+        "detonationfocusme",
+        "isurusgaming",
+        "splyce"
+      ],
+      [
+        "hongkongattitude",
+        "lowkeyesportsvietnam",
+        "mega"
+      ]
+    ],
+    "main_groups": [
+      [
+        "ahqesportsclub",
+        "invictusgaming",
+        "teamliquid"
+      ],
+      [
+        "cloud9",
+        "g2esports",
+        "griffin"
+      ],
+      [
+        "fnatic",
+        "royalnevergiveup",
+        "sktelecomt1"
+      ],
+      [
+        "funplusphoenix",
+        "gamesports",
+        "jteam"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "ahqesportsclub",
+        "damwongaming",
+        "invictusgaming",
+        "teamliquid"
+      ],
+      [
+        "cloud9",
+        "g2esports",
+        "griffin",
+        "hongkongattitude"
+      ],
+      [
+        "clutchgaming",
+        "fnatic",
+        "royalnevergiveup",
+        "sktelecomt1"
+      ],
+      [
+        "funplusphoenix",
+        "gamesports",
+        "jteam",
+        "splyce"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "funplusphoenix": [
+        1,
+        1
+      ],
+      "g2esports": [
+        2,
+        2
+      ],
+      "invictusgaming": [
+        3,
+        4
+      ],
+      "sktelecomt1": [
+        3,
+        4
+      ],
+      "griffin": [
+        5,
+        8
+      ],
+      "fnatic": [
+        5,
+        8
+      ],
+      "splyce": [
+        5,
+        8
+      ],
+      "damwongaming": [
+        5,
+        8
+      ],
+      "teamliquid": [
+        9,
+        12
+      ],
+      "ahqesportsclub": [
+        13,
+        16
+      ],
+      "cloud9": [
+        9,
+        12
+      ],
+      "hongkongattitude": [
+        13,
+        16
+      ],
+      "royalnevergiveup": [
+        9,
+        12
+      ],
+      "clutchgaming": [
+        13,
+        16
+      ],
+      "jteam": [
+        9,
+        12
+      ],
+      "gamesports": [
+        13,
+        16
+      ],
+      "lowkeyesportsvietnam": [
+        17,
+        20
+      ],
+      "royalyouth": [
+        17,
+        20
+      ],
+      "isurusgaming": [
+        17,
+        20
+      ],
+      "unicornsoflove": [
+        17,
+        20
+      ],
+      "mammothesports": [
+        21,
+        24
+      ],
+      "flamengoesports": [
+        21,
+        24
+      ],
+      "detonationfocusme": [
+        21,
+        24
+      ],
+      "mega": [
+        21,
+        24
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2020_MSC",
+    "season": 10,
+    "year": 2020,
+    "event": "MSC",
+    "seed": 2020,
+    "samples": 14000605,
+    "start_date": "2020-05-28",
+    "teams": [
+      "damwongaming",
+      "dragonx",
+      "funplusphoenix",
+      "gengesports",
+      "invictusgaming",
+      "jdgaming",
+      "t1",
+      "topesports"
+    ],
+    "display": {
+      "funplusphoenix": "Funplus Phoenix",
+      "t1": "T1",
+      "topesports": "Top Esports",
+      "damwongaming": "DAMWON Gaming",
+      "jdgaming": "JD Gaming",
+      "gengesports": "Gen.G eSports",
+      "invictusgaming": "Invictus Gaming",
+      "dragonx": "DragonX"
+    },
+    "regions": {
+      "damwongaming": "KR",
+      "dragonx": "KR",
+      "funplusphoenix": "CN",
+      "gengesports": "KR",
+      "invictusgaming": "CN",
+      "jdgaming": "CN",
+      "t1": "KR",
+      "topesports": "CN"
+    },
+    "strength": {
+      "damwongaming": 1.4296614111512032,
+      "dragonx": 1.8868158379560211,
+      "funplusphoenix": 2.477752372758954,
+      "gengesports": 1.911799435287679,
+      "invictusgaming": 2.1608544300909163,
+      "jdgaming": 2.79024717447166,
+      "t1": 2.2461529973171337,
+      "topesports": 2.3196532773214478
+    },
+    "training_series": 1061,
+    "training_maps": 1674,
+    "latest_training_date": "2020-05-19",
+    "prior_audit": {
+      "series": 148,
+      "maps": 195,
+      "last_date": "2019-11-10",
+      "missing_team_regions": {},
+      "counts": {
+        "VN": 39,
+        "OCE": 11,
+        "TR": 15,
+        "LATAM": 14,
+        "SEA": 10,
+        "JP": 10,
+        "CIS": 26,
+        "BR": 11,
+        "NA": 46,
+        "LMS": 40,
+        "EU": 66,
+        "KR": 58,
+        "CN": 44
+      },
+      "strength": {
+        "BR": -1.0792508429206122,
+        "CIS": 0.08290561487246698,
+        "CN": 1.5811380733342604,
+        "EU": 1.099140146905533,
+        "JP": -0.3565244120969882,
+        "KR": 1.3399032146411458,
+        "LATAM": -0.48315738662839497,
+        "LMS": -0.20004321047214754,
+        "NA": 0.3003420982688822,
+        "OCE": -0.35682885024301453,
+        "SEA": -0.8599092394450126,
+        "TR": -0.7172369611168178,
+        "VN": -0.3504782450992993,
+        "PCS": -0.33201641626672057,
+        "LCP": -0.3517121567314807
+      },
+      "gradient_inf": 3.56080142496773e-07
+    },
+    "gradient": 1.1141466665920419e-06,
+    "source": "https://www.leagueoflegends.com/ko-kr/news/esports/2020-msc-information/",
+    "groups": [
+      [
+        "damwongaming",
+        "funplusphoenix",
+        "t1",
+        "topesports"
+      ],
+      [
+        "dragonx",
+        "gengesports",
+        "invictusgaming",
+        "jdgaming"
+      ]
+    ],
+    "main_groups": [],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [],
+    "kind": "msc",
+    "actual_ranks": {
+      "topesports": [
+        1,
+        1
+      ],
+      "funplusphoenix": [
+        2,
+        2
+      ],
+      "jdgaming": [
+        3,
+        4
+      ],
+      "gengesports": [
+        3,
+        4
+      ],
+      "damwongaming": [
+        5,
+        6
+      ],
+      "t1": [
+        7,
+        8
+      ],
+      "dragonx": [
+        5,
+        6
+      ],
+      "invictusgaming": [
+        7,
+        8
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2020_Worlds",
+    "season": 10,
+    "year": 2020,
+    "event": "Worlds",
+    "seed": 2020,
+    "samples": 14000605,
+    "start_date": "2020-09-25",
+    "teams": [
+      "damwongaming",
+      "dragonx",
+      "flyquest",
+      "fnatic",
+      "g2esports",
+      "gengesports",
+      "intzesports",
+      "jdgaming",
+      "legacyesports",
+      "lgdgaming",
+      "machiesports",
+      "madlions",
+      "paparasupermassive",
+      "psgtalon",
+      "rainbow7",
+      "rogue",
+      "suning",
+      "teamliquid",
+      "topesports",
+      "tsm",
+      "unicornsoflove",
+      "v3esports"
+    ],
+    "display": {
+      "madlions": "MAD Lions",
+      "intzesports": "INTZ e-Sports",
+      "psgtalon": "PSG Talon",
+      "rainbow7": "Rainbow7",
+      "legacyesports": "Legacy eSports",
+      "lgdgaming": "LGD Gaming",
+      "teamliquid": "Team Liquid",
+      "v3esports": "V3 Esports",
+      "paparasupermassive": "Papara SuperMassive",
+      "unicornsoflove": "Unicorns Of Love",
+      "flyquest": "FlyQuest",
+      "topesports": "Top Esports",
+      "dragonx": "DragonX",
+      "rogue": "Rogue",
+      "damwongaming": "DAMWON Gaming",
+      "jdgaming": "JD Gaming",
+      "gengesports": "Gen.G eSports",
+      "tsm": "TSM",
+      "fnatic": "Fnatic",
+      "machiesports": "Machi E-Sports",
+      "g2esports": "G2 Esports",
+      "suning": "Suning"
+    },
+    "regions": {
+      "damwongaming": "KR",
+      "dragonx": "KR",
+      "flyquest": "NA",
+      "fnatic": "EU",
+      "g2esports": "EU",
+      "gengesports": "KR",
+      "intzesports": "BR",
+      "jdgaming": "CN",
+      "legacyesports": "OCE",
+      "lgdgaming": "CN",
+      "machiesports": "PCS",
+      "madlions": "EU",
+      "paparasupermassive": "TR",
+      "psgtalon": "PCS",
+      "rainbow7": "LATAM",
+      "rogue": "EU",
+      "suning": "CN",
+      "teamliquid": "NA",
+      "topesports": "CN",
+      "tsm": "NA",
+      "unicornsoflove": "CIS",
+      "v3esports": "JP"
+    },
+    "strength": {
+      "damwongaming": 2.6096797066939654,
+      "dragonx": 2.1247652190537147,
+      "flyquest": 0.9733936098235263,
+      "fnatic": 1.5680402607866868,
+      "g2esports": 1.9638456770277857,
+      "gengesports": 2.332552045060498,
+      "intzesports": -0.714934385613413,
+      "jdgaming": 2.6157019400544157,
+      "legacyesports": 1.1667957561131401,
+      "lgdgaming": 1.8153928722328678,
+      "machiesports": 1.1985175141552147,
+      "madlions": 1.3252311275657744,
+      "paparasupermassive": -0.07882263632570602,
+      "psgtalon": 1.1355565534414749,
+      "rainbow7": 0.14107148253874552,
+      "rogue": 1.5289276062100552,
+      "suning": 2.1309372221868292,
+      "teamliquid": 1.0852839891030295,
+      "topesports": 2.7097160314276993,
+      "tsm": 0.9654791712265096,
+      "unicornsoflove": 2.574237575319769,
+      "v3esports": 0.6487660970461684
+    },
+    "training_series": 2162,
+    "training_maps": 3427,
+    "latest_training_date": "2020-09-09",
+    "prior_audit": {
+      "series": 148,
+      "maps": 195,
+      "last_date": "2019-11-10",
+      "missing_team_regions": {},
+      "counts": {
+        "VN": 39,
+        "OCE": 11,
+        "TR": 15,
+        "LATAM": 14,
+        "SEA": 10,
+        "JP": 10,
+        "CIS": 26,
+        "BR": 11,
+        "NA": 46,
+        "LMS": 40,
+        "EU": 66,
+        "KR": 58,
+        "CN": 44
+      },
+      "strength": {
+        "BR": -1.0792508429206122,
+        "CIS": 0.08290561487246698,
+        "CN": 1.5811380733342604,
+        "EU": 1.099140146905533,
+        "JP": -0.3565244120969882,
+        "KR": 1.3399032146411458,
+        "LATAM": -0.48315738662839497,
+        "LMS": -0.20004321047214754,
+        "NA": 0.3003420982688822,
+        "OCE": -0.35682885024301453,
+        "SEA": -0.8599092394450126,
+        "TR": -0.7172369611168178,
+        "VN": -0.3504782450992993,
+        "PCS": -0.33201641626672057,
+        "LCP": -0.3517121567314807
+      },
+      "gradient_inf": 3.56080142496773e-07
+    },
+    "gradient": 3.3951467482973285e-06,
+    "source": "https://lolesports.com/en-US/news/worlds-2020-primer",
+    "groups": [
+      [
+        "intzesports",
+        "legacyesports",
+        "madlions",
+        "paparasupermassive",
+        "teamliquid"
+      ],
+      [
+        "lgdgaming",
+        "psgtalon",
+        "rainbow7",
+        "unicornsoflove",
+        "v3esports"
+      ]
+    ],
+    "main_groups": [
+      [
+        "damwongaming",
+        "jdgaming",
+        "rogue"
+      ],
+      [
+        "dragonx",
+        "flyquest",
+        "topesports"
+      ],
+      [
+        "fnatic",
+        "gengesports",
+        "tsm"
+      ],
+      [
+        "g2esports",
+        "machiesports",
+        "suning"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "damwongaming",
+        "jdgaming",
+        "psgtalon",
+        "rogue"
+      ],
+      [
+        "dragonx",
+        "flyquest",
+        "topesports",
+        "unicornsoflove"
+      ],
+      [
+        "fnatic",
+        "gengesports",
+        "lgdgaming",
+        "tsm"
+      ],
+      [
+        "g2esports",
+        "machiesports",
+        "suning",
+        "teamliquid"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "damwongaming": [
+        1,
+        1
+      ],
+      "suning": [
+        2,
+        2
+      ],
+      "g2esports": [
+        3,
+        4
+      ],
+      "topesports": [
+        3,
+        4
+      ],
+      "dragonx": [
+        5,
+        8
+      ],
+      "jdgaming": [
+        5,
+        8
+      ],
+      "fnatic": [
+        5,
+        8
+      ],
+      "gengesports": [
+        5,
+        8
+      ],
+      "psgtalon": [
+        9,
+        12
+      ],
+      "rogue": [
+        13,
+        16
+      ],
+      "flyquest": [
+        9,
+        12
+      ],
+      "unicornsoflove": [
+        13,
+        16
+      ],
+      "lgdgaming": [
+        9,
+        12
+      ],
+      "tsm": [
+        13,
+        16
+      ],
+      "teamliquid": [
+        9,
+        12
+      ],
+      "machiesports": [
+        13,
+        16
+      ],
+      "rainbow7": [
+        19,
+        20
+      ],
+      "madlions": [
+        19,
+        20
+      ],
+      "legacyesports": [
+        17,
+        18
+      ],
+      "paparasupermassive": [
+        17,
+        18
+      ],
+      "intzesports": [
+        21,
+        22
+      ],
+      "v3esports": [
+        21,
+        22
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2021_MSI",
+    "season": 11,
+    "year": 2021,
+    "event": "MSI",
+    "seed": 2021,
+    "samples": 14000605,
+    "start_date": "2021-05-06",
+    "teams": [
+      "cloud9",
+      "detonationfocusme",
+      "dwgkia",
+      "infinityesports",
+      "istanbulwildcats",
+      "madlions",
+      "paingaming",
+      "pentanetgg",
+      "psgtalon",
+      "royalnevergiveup",
+      "unicornsoflove"
+    ],
+    "display": {
+      "dwgkia": "DWG KIA",
+      "cloud9": "Cloud9",
+      "infinityesports": "Infinity eSports",
+      "detonationfocusme": "Detonation FocusMe",
+      "royalnevergiveup": "Royal Never Give Up",
+      "pentanetgg": "Pentanet.GG",
+      "unicornsoflove": "Unicorns Of Love",
+      "istanbulwildcats": "Istanbul Wildcats",
+      "paingaming": "paiN Gaming",
+      "madlions": "MAD Lions",
+      "psgtalon": "PSG Talon"
+    },
+    "regions": {
+      "cloud9": "NA",
+      "detonationfocusme": "JP",
+      "dwgkia": "KR",
+      "infinityesports": "LATAM",
+      "istanbulwildcats": "TR",
+      "madlions": "EU",
+      "paingaming": "BR",
+      "pentanetgg": "OCE",
+      "psgtalon": "PCS",
+      "royalnevergiveup": "CN",
+      "unicornsoflove": "CIS"
+    },
+    "strength": {
+      "cloud9": 1.345898115176524,
+      "detonationfocusme": 0.7172009693280643,
+      "dwgkia": 2.4489110965109204,
+      "infinityesports": 0.5365536617306804,
+      "istanbulwildcats": 1.0634892004719245,
+      "madlions": 1.1811557416184617,
+      "paingaming": 0.10332395921613577,
+      "pentanetgg": 1.7214684880696773,
+      "psgtalon": 3.533742670448014,
+      "royalnevergiveup": 2.357884796169162,
+      "unicornsoflove": 1.2318457939811347
+    },
+    "training_series": 1076,
+    "training_maps": 1693,
+    "latest_training_date": "2021-04-18",
+    "prior_audit": {
+      "series": 91,
+      "maps": 115,
+      "last_date": "2020-10-31",
+      "missing_team_regions": {},
+      "counts": {
+        "CN": 57,
+        "KR": 41,
+        "EU": 41,
+        "BR": 5,
+        "PCS": 17,
+        "LATAM": 7,
+        "OCE": 8,
+        "NA": 23,
+        "JP": 5,
+        "TR": 12,
+        "CIS": 14
+      },
+      "strength": {
+        "BR": -0.7693703498923634,
+        "CIS": -0.1062331016819114,
+        "CN": 0.8990947015877402,
+        "EU": 0.3391934660577607,
+        "JP": -0.6974437841895695,
+        "KR": 1.035239033559421,
+        "LATAM": -0.40200978064302,
+        "NA": 0.12066486767928934,
+        "OCE": -0.19551353642425556,
+        "PCS": 0.004055233603349967,
+        "TR": -0.22767674965644077,
+        "LCP": -0.1553763613495863
+      },
+      "gradient_inf": 2.4412662800316065e-07
+    },
+    "gradient": 6.756841101074329e-07,
+    "source": "https://lolesports.com/en-US/news/msi-2021-is-heading-to-reykjavik-iceland",
+    "groups": [
+      [
+        "cloud9",
+        "detonationfocusme",
+        "dwgkia",
+        "infinityesports"
+      ],
+      [
+        "istanbulwildcats",
+        "madlions",
+        "paingaming",
+        "psgtalon"
+      ],
+      [
+        "pentanetgg",
+        "royalnevergiveup",
+        "unicornsoflove"
+      ]
+    ],
+    "main_groups": [],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [],
+    "kind": "msi_rumble",
+    "actual_ranks": {
+      "royalnevergiveup": [
+        1,
+        1
+      ],
+      "dwgkia": [
+        2,
+        2
+      ],
+      "psgtalon": [
+        3,
+        4
+      ],
+      "madlions": [
+        3,
+        4
+      ],
+      "cloud9": [
+        5,
+        5
+      ],
+      "pentanetgg": [
+        6,
+        6
+      ],
+      "detonationfocusme": [
+        7,
+        9
+      ],
+      "infinityesports": [
+        10,
+        11
+      ],
+      "paingaming": [
+        7,
+        9
+      ],
+      "istanbulwildcats": [
+        10,
+        11
+      ],
+      "unicornsoflove": [
+        7,
+        9
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2021_Worlds",
+    "season": 11,
+    "year": 2021,
+    "event": "Worlds",
+    "seed": 2021,
+    "samples": 14000605,
+    "start_date": "2021-10-05",
+    "teams": [
+      "100thieves",
+      "beyondgaming",
+      "cloud9",
+      "detonationfocusme",
+      "dwgkia",
+      "edwardgaming",
+      "fnatic",
+      "funplusphoenix",
+      "galatasarayesports",
+      "gengesports",
+      "hanwhalifeesports",
+      "infinityesports",
+      "lngesports",
+      "madlions",
+      "peace",
+      "psgtalon",
+      "redcanids",
+      "rogue",
+      "royalnevergiveup",
+      "t1",
+      "teamliquid",
+      "unicornsoflove"
+    ],
+    "display": {
+      "hanwhalifeesports": "Hanwha Life eSports",
+      "lngesports": "LNG Esports",
+      "infinityesports": "Infinity eSports",
+      "redcanids": "RED Canids",
+      "peace": "PEACE",
+      "unicornsoflove": "Unicorns Of Love",
+      "detonationfocusme": "Detonation FocusMe",
+      "galatasarayesports": "Galatasaray Esports",
+      "beyondgaming": "Beyond Gaming",
+      "cloud9": "Cloud9",
+      "dwgkia": "DWG KIA",
+      "funplusphoenix": "Funplus Phoenix",
+      "royalnevergiveup": "Royal Never Give Up",
+      "psgtalon": "PSG Talon",
+      "fnatic": "Fnatic",
+      "gengesports": "Gen.G eSports",
+      "t1": "T1",
+      "edwardgaming": "Edward Gaming",
+      "100thieves": "100 Thieves",
+      "teamliquid": "Team Liquid",
+      "madlions": "MAD Lions",
+      "rogue": "Rogue"
+    },
+    "regions": {
+      "100thieves": "NA",
+      "beyondgaming": "PCS",
+      "cloud9": "NA",
+      "detonationfocusme": "JP",
+      "dwgkia": "KR",
+      "edwardgaming": "CN",
+      "fnatic": "EU",
+      "funplusphoenix": "CN",
+      "galatasarayesports": "TR",
+      "gengesports": "KR",
+      "hanwhalifeesports": "KR",
+      "infinityesports": "LATAM",
+      "lngesports": "CN",
+      "madlions": "EU",
+      "peace": "OCE",
+      "psgtalon": "PCS",
+      "redcanids": "BR",
+      "rogue": "EU",
+      "royalnevergiveup": "CN",
+      "t1": "KR",
+      "teamliquid": "NA",
+      "unicornsoflove": "CIS"
+    },
+    "strength": {
+      "100thieves": 0.9742353740938808,
+      "beyondgaming": 1.5960252187362625,
+      "cloud9": 0.9022916519154688,
+      "detonationfocusme": 0.7493981701951167,
+      "dwgkia": 2.181875506516104,
+      "edwardgaming": 2.2770853821193398,
+      "fnatic": 0.9164474190966925,
+      "funplusphoenix": 2.28567078706804,
+      "galatasarayesports": 0.9667368966575666,
+      "gengesports": 1.423736623975424,
+      "hanwhalifeesports": 1.1663638507009886,
+      "infinityesports": 0.3354594930304611,
+      "lngesports": 1.6364354608088258,
+      "madlions": 1.5839396539262116,
+      "peace": 0.45208048656870814,
+      "psgtalon": 2.1556271972720644,
+      "redcanids": 0.05778040679298079,
+      "rogue": 0.9053038151905657,
+      "royalnevergiveup": 2.1650427936807195,
+      "t1": 1.5523734601210166,
+      "teamliquid": 0.839105909441319,
+      "unicornsoflove": 0.7807993242574968
+    },
+    "training_series": 2220,
+    "training_maps": 3415,
+    "latest_training_date": "2021-09-05",
+    "prior_audit": {
+      "series": 91,
+      "maps": 115,
+      "last_date": "2020-10-31",
+      "missing_team_regions": {},
+      "counts": {
+        "CN": 57,
+        "KR": 41,
+        "EU": 41,
+        "BR": 5,
+        "PCS": 17,
+        "LATAM": 7,
+        "OCE": 8,
+        "NA": 23,
+        "JP": 5,
+        "TR": 12,
+        "CIS": 14
+      },
+      "strength": {
+        "BR": -0.7693703498923634,
+        "CIS": -0.1062331016819114,
+        "CN": 0.8990947015877402,
+        "EU": 0.3391934660577607,
+        "JP": -0.6974437841895695,
+        "KR": 1.035239033559421,
+        "LATAM": -0.40200978064302,
+        "NA": 0.12066486767928934,
+        "OCE": -0.19551353642425556,
+        "PCS": 0.004055233603349967,
+        "TR": -0.22767674965644077,
+        "LCP": -0.1553763613495863
+      },
+      "gradient_inf": 2.4412662800316065e-07
+    },
+    "gradient": 1.99480173640465e-06,
+    "source": "https://lolesports.com/en-US/news/worlds-2021-primer",
+    "groups": [
+      [
+        "beyondgaming",
+        "cloud9",
+        "detonationfocusme",
+        "galatasarayesports",
+        "unicornsoflove"
+      ],
+      [
+        "hanwhalifeesports",
+        "infinityesports",
+        "lngesports",
+        "peace",
+        "redcanids"
+      ]
+    ],
+    "main_groups": [
+      [
+        "100thieves",
+        "edwardgaming",
+        "t1"
+      ],
+      [
+        "dwgkia",
+        "funplusphoenix",
+        "rogue"
+      ],
+      [
+        "fnatic",
+        "psgtalon",
+        "royalnevergiveup"
+      ],
+      [
+        "gengesports",
+        "madlions",
+        "teamliquid"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "100thieves",
+        "detonationfocusme",
+        "edwardgaming",
+        "t1"
+      ],
+      [
+        "cloud9",
+        "dwgkia",
+        "funplusphoenix",
+        "rogue"
+      ],
+      [
+        "fnatic",
+        "hanwhalifeesports",
+        "psgtalon",
+        "royalnevergiveup"
+      ],
+      [
+        "gengesports",
+        "lngesports",
+        "madlions",
+        "teamliquid"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "edwardgaming": [
+        1,
+        1
+      ],
+      "dwgkia": [
+        2,
+        2
+      ],
+      "t1": [
+        3,
+        4
+      ],
+      "gengesports": [
+        3,
+        4
+      ],
+      "hanwhalifeesports": [
+        5,
+        8
+      ],
+      "royalnevergiveup": [
+        5,
+        8
+      ],
+      "madlions": [
+        5,
+        8
+      ],
+      "cloud9": [
+        5,
+        8
+      ],
+      "100thieves": [
+        9,
+        12
+      ],
+      "detonationfocusme": [
+        13,
+        16
+      ],
+      "rogue": [
+        9,
+        12
+      ],
+      "funplusphoenix": [
+        13,
+        16
+      ],
+      "psgtalon": [
+        9,
+        12
+      ],
+      "fnatic": [
+        13,
+        16
+      ],
+      "lngesports": [
+        9,
+        12
+      ],
+      "teamliquid": [
+        13,
+        16
+      ],
+      "galatasarayesports": [
+        19,
+        20
+      ],
+      "redcanids": [
+        19,
+        20
+      ],
+      "beyondgaming": [
+        17,
+        18
+      ],
+      "peace": [
+        17,
+        18
+      ],
+      "unicornsoflove": [
+        21,
+        22
+      ],
+      "infinityesports": [
+        21,
+        22
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2022_MSI",
+    "season": 12,
+    "year": 2022,
+    "event": "MSI",
+    "seed": 2022,
+    "samples": 14000605,
+    "start_date": "2022-05-10",
+    "teams": [
+      "detonationfocusme",
+      "evilgeniuses",
+      "g2esports",
+      "istanbulwildcats",
+      "order",
+      "psgtalon",
+      "redcanids",
+      "royalnevergiveup",
+      "saigonbuffalo",
+      "t1",
+      "teamaze"
+    ],
+    "display": {
+      "t1": "T1",
+      "saigonbuffalo": "Saigon Buffalo",
+      "teamaze": "Team Aze",
+      "detonationfocusme": "Detonation FocusMe",
+      "order": "ORDER",
+      "g2esports": "G2 Esports",
+      "evilgeniuses": "Evil Geniuses",
+      "redcanids": "RED Canids",
+      "psgtalon": "PSG Talon",
+      "istanbulwildcats": "Istanbul Wildcats",
+      "royalnevergiveup": "Royal Never Give Up"
+    },
+    "regions": {
+      "detonationfocusme": "JP",
+      "evilgeniuses": "NA",
+      "g2esports": "EU",
+      "istanbulwildcats": "TR",
+      "order": "OCE",
+      "psgtalon": "PCS",
+      "redcanids": "BR",
+      "royalnevergiveup": "CN",
+      "saigonbuffalo": "VN",
+      "t1": "KR",
+      "teamaze": "LATAM"
+    },
+    "strength": {
+      "detonationfocusme": 2.1441279640724713,
+      "evilgeniuses": 1.614594447664147,
+      "g2esports": 1.6834816611340317,
+      "istanbulwildcats": 1.303918867385124,
+      "order": 0.5166741701231378,
+      "psgtalon": 2.24099440264203,
+      "redcanids": -0.1460756878803785,
+      "royalnevergiveup": 2.096116980472339,
+      "saigonbuffalo": 0.37678727811358237,
+      "t1": 3.138724121307332,
+      "teamaze": -0.09201750539653707
+    },
+    "training_series": 1086,
+    "training_maps": 1736,
+    "latest_training_date": "2022-04-24",
+    "prior_audit": {
+      "series": 154,
+      "maps": 189,
+      "last_date": "2021-11-06",
+      "missing_team_regions": {},
+      "counts": {
+        "KR": 76,
+        "NA": 47,
+        "LATAM": 10,
+        "JP": 17,
+        "CN": 68,
+        "OCE": 31,
+        "CIS": 14,
+        "TR": 15,
+        "BR": 15,
+        "EU": 46,
+        "PCS": 39
+      },
+      "strength": {
+        "BR": -0.7849155769326414,
+        "CIS": -0.8758546661578461,
+        "CN": 1.2522680066364915,
+        "EU": 0.4223248474923622,
+        "JP": -0.09471669311805549,
+        "KR": 1.528677871376496,
+        "LATAM": -1.2772569005577041,
+        "NA": 0.5248106262922617,
+        "OCE": -0.6074154565607931,
+        "PCS": 0.20530976904290044,
+        "TR": -0.29323182751347177,
+        "LCP": 0.11423030731546739
+      },
+      "gradient_inf": 2.3774733276527016e-07
+    },
+    "gradient": 1.0392068417464095e-06,
+    "source": "https://lolesports.com/en-US/news/msi-updates---group-draw-results-adjusted-dates-and-venue",
+    "groups": [
+      [
+        "detonationfocusme",
+        "saigonbuffalo",
+        "t1",
+        "teamaze"
+      ],
+      [
+        "evilgeniuses",
+        "g2esports",
+        "order"
+      ],
+      [
+        "istanbulwildcats",
+        "psgtalon",
+        "redcanids",
+        "royalnevergiveup"
+      ]
+    ],
+    "main_groups": [],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [],
+    "kind": "msi_rumble",
+    "actual_ranks": {
+      "royalnevergiveup": [
+        1,
+        1
+      ],
+      "t1": [
+        2,
+        2
+      ],
+      "evilgeniuses": [
+        3,
+        4
+      ],
+      "g2esports": [
+        3,
+        4
+      ],
+      "psgtalon": [
+        5,
+        5
+      ],
+      "saigonbuffalo": [
+        6,
+        6
+      ],
+      "detonationfocusme": [
+        7,
+        9
+      ],
+      "teamaze": [
+        10,
+        11
+      ],
+      "order": [
+        7,
+        9
+      ],
+      "redcanids": [
+        7,
+        9
+      ],
+      "istanbulwildcats": [
+        10,
+        11
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2022_Worlds",
+    "season": 12,
+    "year": 2022,
+    "event": "Worlds",
+    "seed": 2022,
+    "samples": 14000605,
+    "start_date": "2022-09-29",
+    "teams": [
+      "100thieves",
+      "beyondgaming",
+      "chiefesportsclub",
+      "cloud9",
+      "ctbcflyingoyster",
+      "detonationfocusme",
+      "drx",
+      "dwgkia",
+      "edwardgaming",
+      "evilgeniuses",
+      "fnatic",
+      "g2esports",
+      "gamesports",
+      "gengesports",
+      "istanbulwildcats",
+      "isurus",
+      "jdgaming",
+      "loud",
+      "madlions",
+      "rogue",
+      "royalnevergiveup",
+      "saigonbuffalo",
+      "t1",
+      "topesports"
+    ],
+    "display": {
+      "isurus": "Isurus",
+      "madlions": "MAD Lions",
+      "fnatic": "Fnatic",
+      "evilgeniuses": "Evil Geniuses",
+      "loud": "LOUD",
+      "beyondgaming": "Beyond Gaming",
+      "istanbulwildcats": "Istanbul Wildcats",
+      "chiefesportsclub": "Chief Esports Club",
+      "detonationfocusme": "Detonation FocusMe",
+      "saigonbuffalo": "Saigon Buffalo",
+      "drx": "DRX",
+      "royalnevergiveup": "Royal Never Give Up",
+      "cloud9": "Cloud9",
+      "g2esports": "G2 Esports",
+      "dwgkia": "DWG KIA",
+      "ctbcflyingoyster": "CTBC Flying Oyster",
+      "100thieves": "100 Thieves",
+      "jdgaming": "JD Gaming",
+      "t1": "T1",
+      "edwardgaming": "Edward Gaming",
+      "gengesports": "Gen.G eSports",
+      "rogue": "Rogue",
+      "topesports": "Top Esports",
+      "gamesports": "GAM Esports"
+    },
+    "regions": {
+      "100thieves": "NA",
+      "beyondgaming": "PCS",
+      "chiefesportsclub": "OCE",
+      "cloud9": "NA",
+      "ctbcflyingoyster": "PCS",
+      "detonationfocusme": "JP",
+      "drx": "KR",
+      "dwgkia": "KR",
+      "edwardgaming": "CN",
+      "evilgeniuses": "NA",
+      "fnatic": "EU",
+      "g2esports": "EU",
+      "gamesports": "VN",
+      "gengesports": "KR",
+      "istanbulwildcats": "TR",
+      "isurus": "LATAM",
+      "jdgaming": "CN",
+      "loud": "BR",
+      "madlions": "EU",
+      "rogue": "EU",
+      "royalnevergiveup": "CN",
+      "saigonbuffalo": "VN",
+      "t1": "KR",
+      "topesports": "CN"
+    },
+    "strength": {
+      "100thieves": 1.150096112129249,
+      "beyondgaming": 0.9210758246123746,
+      "chiefesportsclub": 1.4439292273919528,
+      "cloud9": 1.3163934602082283,
+      "ctbcflyingoyster": 1.5280218057144395,
+      "detonationfocusme": 1.5984248624025064,
+      "drx": 1.571419262144413,
+      "dwgkia": 2.1321919976450543,
+      "edwardgaming": 2.2882812193298485,
+      "evilgeniuses": 1.2616169643147417,
+      "fnatic": 1.1079912379512489,
+      "g2esports": 1.5700074756340114,
+      "gamesports": 1.5118131408063165,
+      "gengesports": 3.174097650250196,
+      "istanbulwildcats": 0.7403341256176897,
+      "isurus": -0.5774935759039347,
+      "jdgaming": 2.5958718824282574,
+      "loud": 0.4737521319508505,
+      "madlions": 0.8748825451623543,
+      "rogue": 1.3412838379583842,
+      "royalnevergiveup": 2.3810329510515373,
+      "saigonbuffalo": 0.8142591433987967,
+      "t1": 2.5413486459398498,
+      "topesports": 2.5851239425192634
+    },
+    "training_series": 2212,
+    "training_maps": 3573,
+    "latest_training_date": "2022-09-11",
+    "prior_audit": {
+      "series": 154,
+      "maps": 189,
+      "last_date": "2021-11-06",
+      "missing_team_regions": {},
+      "counts": {
+        "KR": 76,
+        "NA": 47,
+        "LATAM": 10,
+        "JP": 17,
+        "CN": 68,
+        "OCE": 31,
+        "CIS": 14,
+        "TR": 15,
+        "BR": 15,
+        "EU": 46,
+        "PCS": 39
+      },
+      "strength": {
+        "BR": -0.7849155769326414,
+        "CIS": -0.8758546661578461,
+        "CN": 1.2522680066364915,
+        "EU": 0.4223248474923622,
+        "JP": -0.09471669311805549,
+        "KR": 1.528677871376496,
+        "LATAM": -1.2772569005577041,
+        "NA": 0.5248106262922617,
+        "OCE": -0.6074154565607931,
+        "PCS": 0.20530976904290044,
+        "TR": -0.29323182751347177,
+        "LCP": 0.11423030731546739
+      },
+      "gradient_inf": 2.3774733276527016e-07
+    },
+    "gradient": 3.751206144153585e-06,
+    "source": "https://lolesports.com/en-US/news/worlds-2022-primer",
+    "groups": [
+      [
+        "beyondgaming",
+        "chiefesportsclub",
+        "detonationfocusme",
+        "evilgeniuses",
+        "fnatic",
+        "loud"
+      ],
+      [
+        "drx",
+        "istanbulwildcats",
+        "isurus",
+        "madlions",
+        "royalnevergiveup",
+        "saigonbuffalo"
+      ]
+    ],
+    "main_groups": [
+      [
+        "100thieves",
+        "ctbcflyingoyster",
+        "gengesports"
+      ],
+      [
+        "cloud9",
+        "edwardgaming",
+        "t1"
+      ],
+      [
+        "gamesports",
+        "rogue",
+        "topesports"
+      ],
+      [
+        "dwgkia",
+        "g2esports",
+        "jdgaming"
+      ]
+    ],
+    "direct": [],
+    "byes": [],
+    "opening": [],
+    "main_groups_observed": [
+      [
+        "100thieves",
+        "ctbcflyingoyster",
+        "gengesports",
+        "royalnevergiveup"
+      ],
+      [
+        "cloud9",
+        "edwardgaming",
+        "fnatic",
+        "t1"
+      ],
+      [
+        "drx",
+        "gamesports",
+        "rogue",
+        "topesports"
+      ],
+      [
+        "dwgkia",
+        "evilgeniuses",
+        "g2esports",
+        "jdgaming"
+      ]
+    ],
+    "kind": "worlds_groups",
+    "actual_ranks": {
+      "drx": [
+        1,
+        1
+      ],
+      "t1": [
+        2,
+        2
+      ],
+      "jdgaming": [
+        3,
+        4
+      ],
+      "gengesports": [
+        3,
+        4
+      ],
+      "rogue": [
+        5,
+        8
+      ],
+      "royalnevergiveup": [
+        5,
+        8
+      ],
+      "dwgkia": [
+        5,
+        8
+      ],
+      "edwardgaming": [
+        5,
+        8
+      ],
+      "100thieves": [
+        9,
+        12
+      ],
+      "ctbcflyingoyster": [
+        13,
+        16
+      ],
+      "fnatic": [
+        9,
+        12
+      ],
+      "cloud9": [
+        13,
+        16
+      ],
+      "topesports": [
+        9,
+        12
+      ],
+      "gamesports": [
+        13,
+        16
+      ],
+      "evilgeniuses": [
+        9,
+        12
+      ],
+      "g2esports": [
+        13,
+        16
+      ],
+      "saigonbuffalo": [
+        19,
+        20
+      ],
+      "loud": [
+        19,
+        20
+      ],
+      "madlions": [
+        17,
+        18
+      ],
+      "detonationfocusme": [
+        17,
+        18
+      ],
+      "beyondgaming": [
+        21,
+        22
+      ],
+      "chiefesportsclub": [
+        23,
+        24
+      ],
+      "isurus": [
+        21,
+        22
+      ],
+      "istanbulwildcats": [
+        23,
+        24
+      ]
+    },
+    "tiers": []
+  },
+  {
+    "id": "2023_MSI",
+    "season": 13,
+    "year": 2023,
+    "event": "MSI",
+    "seed": 2023,
+    "samples": 14000605,
+    "start_date": "2023-05-02",
+    "teams": [
+      "bilibiligaming",
+      "cloud9",
+      "detonationfocusme",
+      "g2esports",
+      "gamesports",
+      "gengesports",
+      "goldenguardians",
+      "jdgaming",
+      "loud",
+      "madlions",
+      "movistarr7",
+      "psgtalon",
+      "t1"
+    ],
+    "display": {
+      "psgtalon": "PSG Talon",
+      "detonationfocusme": "Detonation FocusMe",
+      "g2esports": "G2 Esports",
+      "loud": "LOUD",
+      "bilibiligaming": "Bilibili Gaming",
+      "movistarr7": "Movistar R7",
+      "goldenguardians": "Golden Guardians",
+      "gamesports": "GAM Esports",
+      "gengesports": "Gen.G eSports",
+      "madlions": "MAD Lions",
+      "t1": "T1",
+      "cloud9": "Cloud9",
+      "jdgaming": "JD Gaming"
+    },
+    "regions": {
+      "bilibiligaming": "CN",
+      "cloud9": "NA",
+      "detonationfocusme": "JP",
+      "g2esports": "EU",
+      "gamesports": "VN",
+      "gengesports": "KR",
+      "goldenguardians": "NA",
+      "jdgaming": "CN",
+      "loud": "BR",
+      "madlions": "EU",
+      "movistarr7": "LATAM",
+      "psgtalon": "PCS",
+      "t1": "KR"
+    },
+    "strength": {
+      "bilibiligaming": 2.4999641946783826,
+      "cloud9": 1.7236737233921946,
+      "detonationfocusme": 1.8977932544302798,
+      "g2esports": 1.3413949051565677,
+      "gamesports": 1.0767285670170117,
+      "gengesports": 3.422895159796696,
+      "goldenguardians": 0.7588476872441925,
+      "jdgaming": 3.230312468986859,
+      "loud": 0.8713570438817128,
+      "madlions": 1.0451348068832278,
+      "movistarr7": 0.048190325987651744,
+      "psgtalon": 1.4050232224650867,
+      "t1": 3.659338781324778
+    },
+    "training_series": 865,
+    "training_maps": 1658,
+    "latest_training_date": "2023-04-29",
+    "prior_audit": {
+      "series": 160,
+      "maps": 190,
+      "last_date": "2022-10-29",
+      "missing_team_regions": {},
+      "counts": {
+        "KR": 68,
+        "VN": 31,
+        "LATAM": 11,
+        "JP": 20,
+        "OCE": 13,
+        "EU": 60,
+        "NA": 49,
+        "BR": 16,
+        "PCS": 27,
+        "TR": 11,
+        "CN": 74
+      },
+      "strength": {
+        "BR": -0.4584499843514419,
+        "CN": 1.7563753043925665,
+        "EU": 0.5141311779628881,
+        "JP": 0.03548975049376415,
+        "KR": 2.295696390162839,
+        "LATAM": -0.7628137244880395,
+        "NA": 0.256907283002166,
+        "OCE": -1.7307273090574005,
+        "PCS": -0.3571600242970227,
+        "TR": -1.3695186932893368,
+        "VN": -0.17993017053098145,
+        "LCP": -0.18604308887954815
+      },
+      "gradient_inf": 2.625944420242554e-06
+    },
+    "gradient": 2.098504503611487e-06,
+    "source": "https://lolesports.com/en-US/news/deep-dive-lol-esports-international-event-formats",
+    "groups": [],
+    "main_groups": [],
+    "direct": [
+      "cloud9",
+      "gengesports",
+      "jdgaming",
+      "madlions",
+      "t1"
+    ],
+    "byes": [],
+    "opening": [
+      [
+        "bilibiligaming",
+        "movistarr7",
+        "goldenguardians",
+        "gamesports"
+      ],
+      [
+        "g2esports",
+        "loud",
+        "psgtalon",
+        "detonationfocusme"
+      ]
+    ],
+    "main_groups_observed": [],
+    "kind": "msi_double",
+    "actual_ranks": {
+      "jdgaming": [
+        1,
+        1
+      ],
+      "bilibiligaming": [
+        2,
+        2
+      ],
+      "madlions": [
+        7,
+        8
+      ],
+      "goldenguardians": [
+        7,
+        8
+      ],
+      "g2esports": [
+        5,
+        6
+      ],
+      "cloud9": [
+        5,
+        6
+      ],
+      "gengesports": [
+        4,
+        4
+      ],
+      "t1": [
+        3,
+        3
+      ],
+      "gamesports": [
+        12,
+        13
+      ],
+      "detonationfocusme": [
+        12,
+        13
+      ],
+      "movistarr7": [
+        10,
+        11
+      ],
+      "loud": [
+        10,
+        11
+      ],
+      "psgtalon": [
+        9,
+        9
+      ]
+    },
+    "tiers": [
+      [
+        "gengesports",
+        "jdgaming"
+      ],
+      [
+        "madlions",
+        "cloud9"
+      ],
+      [
+        "t1"
+      ]
+    ]
+  },
+  {
+    "id": "2023_Worlds",
+    "season": 13,
+    "year": 2023,
+    "event": "Worlds",
+    "seed": 2023,
+    "samples": 14000605,
+    "start_date": "2023-10-10",
+    "teams": [
+      "bilibiligaming",
+      "cloud9",
+      "ctbcflyingoyster",
+      "detonationfocusme",
+      "dpluskia",
+      "fnatic",
+      "g2esports",
+      "gamesports",
+      "gengesports",
+      "jdgaming",
+      "ktrolster",
+      "lngesports",
+      "loud",
+      "madlions",
+      "movistarr7",
+      "nrg",
+      "psgtalon",
+      "t1",
+      "teambds",
+      "teamliquid",
+      "teamwhales",
+      "weibogaming"
+    ],
+    "display": {
+      "psgtalon": "PSG Talon",
+      "movistarr7": "Movistar R7",
+      "loud": "LOUD",
+      "gamesports": "GAM Esports",
+      "detonationfocusme": "Detonation FocusMe",
+      "ctbcflyingoyster": "CTBC Flying Oyster",
+      "teambds": "Team BDS",
+      "teamwhales": "Team Whales",
+      "t1": "T1",
+      "teamliquid": "Team Liquid",
+      "cloud9": "Cloud9",
+      "madlions": "MAD Lions",
+      "gengesports": "Gen.G eSports",
+      "jdgaming": "JD Gaming",
+      "g2esports": "G2 Esports",
+      "dpluskia": "Dplus KIA",
+      "weibogaming": "Weibo Gaming",
+      "nrg": "NRG",
+      "lngesports": "LNG Esports",
+      "fnatic": "Fnatic",
+      "bilibiligaming": "Bilibili Gaming",
+      "ktrolster": "KT Rolster"
+    },
+    "regions": {
+      "bilibiligaming": "CN",
+      "cloud9": "NA",
+      "ctbcflyingoyster": "PCS",
+      "detonationfocusme": "JP",
+      "dpluskia": "KR",
+      "fnatic": "EU",
+      "g2esports": "EU",
+      "gamesports": "VN",
+      "gengesports": "KR",
+      "jdgaming": "CN",
+      "ktrolster": "KR",
+      "lngesports": "CN",
+      "loud": "BR",
+      "madlions": "EU",
+      "movistarr7": "LATAM",
+      "nrg": "NA",
+      "psgtalon": "PCS",
+      "t1": "KR",
+      "teambds": "EU",
+      "teamliquid": "NA",
+      "teamwhales": "VN",
+      "weibogaming": "CN"
+    },
+    "strength": {
+      "bilibiligaming": 2.936411939244648,
+      "cloud9": 1.3304943186564813,
+      "ctbcflyingoyster": 0.6639011925305088,
+      "detonationfocusme": 1.2534318633980883,
+      "dpluskia": 2.582917278780102,
+      "fnatic": 1.2281193290352197,
+      "g2esports": 2.1674279344142233,
+      "gamesports": 0.5489956165285761,
+      "gengesports": 3.3957525030764346,
+      "jdgaming": 3.5369450510542784,
+      "ktrolster": 3.267886947692872,
+      "lngesports": 2.9256254293916086,
+      "loud": 1.0320990059099215,
+      "madlions": 1.0185535067529958,
+      "movistarr7": 0.6811281766574926,
+      "nrg": 0.8500553434465874,
+      "psgtalon": 1.4222798590559544,
+      "t1": 2.7419255495922865,
+      "teambds": 1.3233820920724952,
+      "teamliquid": 0.553644797832955,
+      "teamwhales": -0.08048386787603842,
+      "weibogaming": 2.56402611046315
+    },
+    "training_series": 1677,
+    "training_maps": 3312,
+    "latest_training_date": "2023-10-09",
+    "prior_audit": {
+      "series": 160,
+      "maps": 190,
+      "last_date": "2022-10-29",
+      "missing_team_regions": {},
+      "counts": {
+        "KR": 68,
+        "VN": 31,
+        "LATAM": 11,
+        "JP": 20,
+        "OCE": 13,
+        "EU": 60,
+        "NA": 49,
+        "BR": 16,
+        "PCS": 27,
+        "TR": 11,
+        "CN": 74
+      },
+      "strength": {
+        "BR": -0.4584499843514419,
+        "CN": 1.7563753043925665,
+        "EU": 0.5141311779628881,
+        "JP": 0.03548975049376415,
+        "KR": 2.295696390162839,
+        "LATAM": -0.7628137244880395,
+        "NA": 0.256907283002166,
+        "OCE": -1.7307273090574005,
+        "PCS": -0.3571600242970227,
+        "TR": -1.3695186932893368,
+        "VN": -0.17993017053098145,
+        "LCP": -0.18604308887954815
+      },
+      "gradient_inf": 2.625944420242554e-06
+    },
+    "gradient": 1.3303845943779535e-06,
+    "source": "https://lolesports.com/en-GB/news/worlds-2023-primer",
+    "groups": [],
+    "main_groups": [],
+    "direct": [
+      "bilibiligaming",
+      "cloud9",
+      "dpluskia",
+      "fnatic",
+      "g2esports",
+      "gengesports",
+      "jdgaming",
+      "ktrolster",
+      "lngesports",
+      "madlions",
+      "nrg",
+      "t1",
+      "teamliquid",
+      "weibogaming"
+    ],
+    "byes": [],
+    "opening": [
+      [
+        "psgtalon",
+        "movistarr7",
+        "loud",
+        "gamesports"
+      ],
+      [
+        "detonationfocusme",
+        "ctbcflyingoyster",
+        "teambds",
+        "teamwhales"
+      ]
+    ],
+    "main_groups_observed": [],
+    "kind": "worlds_swiss",
+    "actual_ranks": {
+      "t1": [
+        1,
+        1
+      ],
+      "weibogaming": [
+        2,
+        2
+      ],
+      "bilibiligaming": [
+        3,
+        4
+      ],
+      "jdgaming": [
+        3,
+        4
+      ],
+      "nrg": [
+        5,
+        8
+      ],
+      "gengesports": [
+        5,
+        8
+      ],
+      "ktrolster": [
+        5,
+        8
+      ],
+      "lngesports": [
+        5,
+        8
+      ],
+      "cloud9": [
+        12,
+        14
+      ],
+      "dpluskia": [
+        9,
+        11
+      ],
+      "fnatic": [
+        9,
+        11
+      ],
+      "g2esports": [
+        9,
+        11
+      ],
+      "gamesports": [
+        12,
+        14
+      ],
+      "madlions": [
+        12,
+        14
+      ],
+      "teambds": [
+        15,
+        16
+      ],
+      "teamliquid": [
+        15,
+        16
+      ],
+      "movistarr7": [
+        21,
+        22
+      ],
+      "detonationfocusme": [
+        21,
+        22
+      ],
+      "loud": [
+        19,
+        20
+      ],
+      "ctbcflyingoyster": [
+        19,
+        20
+      ],
+      "teamwhales": [
+        17,
+        18
+      ],
+      "psgtalon": [
+        17,
+        18
+      ]
+    },
+    "tiers": [
+      [
+        "gengesports",
+        "jdgaming",
+        "g2esports",
+        "nrg"
+      ],
+      [
+        "t1",
+        "bilibiligaming",
+        "fnatic",
+        "cloud9"
+      ],
+      [
+        "ktrolster",
+        "lngesports",
+        "madlions",
+        "teamliquid"
+      ],
+      [
+        "dpluskia",
+        "weibogaming"
+      ]
+    ]
+  },
+  {
+    "id": "2024_MSI",
+    "season": 14,
+    "year": 2024,
+    "event": "MSI",
+    "seed": 2024,
+    "samples": 14000605,
+    "start_date": "2024-05-01",
+    "teams": [
+      "bilibiligaming",
+      "estralesports",
+      "flyquest",
+      "fnatic",
+      "g2esports",
+      "gamesports",
+      "gengesports",
+      "loud",
+      "psgtalon",
+      "t1",
+      "teamliquid",
+      "topesports"
+    ],
+    "display": {
+      "flyquest": "FlyQuest",
+      "psgtalon": "PSG Talon",
+      "t1": "T1",
+      "estralesports": "Estral Esports",
+      "fnatic": "Fnatic",
+      "gamesports": "GAM Esports",
+      "topesports": "Top Esports",
+      "loud": "LOUD",
+      "teamliquid": "Team Liquid",
+      "gengesports": "Gen.G eSports",
+      "bilibiligaming": "Bilibili Gaming",
+      "g2esports": "G2 Esports"
+    },
+    "regions": {
+      "bilibiligaming": "CN",
+      "estralesports": "LATAM",
+      "flyquest": "NA",
+      "fnatic": "EU",
+      "g2esports": "EU",
+      "gamesports": "VN",
+      "gengesports": "KR",
+      "loud": "BR",
+      "psgtalon": "PCS",
+      "t1": "KR",
+      "teamliquid": "NA",
+      "topesports": "CN"
+    },
+    "strength": {
+      "bilibiligaming": 3.28648910123657,
+      "estralesports": 0.9159245363698734,
+      "flyquest": 0.9312416138048697,
+      "fnatic": 0.7778978294627784,
+      "g2esports": 1.632918696483874,
+      "gamesports": 1.2126237128798356,
+      "gengesports": 3.5074605428088694,
+      "loud": 0.5362627311508342,
+      "psgtalon": 2.0374927662904883,
+      "t1": 3.1500038821682574,
+      "teamliquid": 0.9386034420981467,
+      "topesports": 2.8839880480569655
+    },
+    "training_series": 762,
+    "training_maps": 1561,
+    "latest_training_date": "2024-04-28",
+    "prior_audit": {
+      "series": 63,
+      "maps": 148,
+      "last_date": "2023-11-19",
+      "missing_team_regions": {},
+      "counts": {
+        "PCS": 25,
+        "JP": 8,
+        "EU": 52,
+        "BR": 12,
+        "CN": 70,
+        "LATAM": 11,
+        "NA": 36,
+        "VN": 24,
+        "KR": 58
+      },
+      "strength": {
+        "BR": -0.6210039660360581,
+        "CN": 1.414488455022695,
+        "EU": 0.18612419114756823,
+        "JP": -1.4943560287633841,
+        "KR": 1.7260877335427862,
+        "LATAM": -1.1713447546771278,
+        "NA": 0.085021033816751,
+        "PCS": -0.11293538312293465,
+        "VN": -0.012081280930295276,
+        "LCP": -0.264354097377325
+      },
+      "gradient_inf": 7.908892843966342e-07
+    },
+    "gradient": 9.413929343837779e-07,
+    "source": "https://lolesports.com/en-US/news/msi-2024-primer",
+    "groups": [],
+    "main_groups": [],
+    "direct": [
+      "bilibiligaming",
+      "g2esports",
+      "gengesports",
+      "teamliquid"
+    ],
+    "byes": [],
+    "opening": [
+      [
+        "t1",
+        "estralesports",
+        "flyquest",
+        "psgtalon"
+      ],
+      [
+        "topesports",
+        "loud",
+        "fnatic",
+        "gamesports"
+      ]
+    ],
+    "main_groups_observed": [],
+    "kind": "msi_double",
+    "actual_ranks": {
+      "gengesports": [
+        1,
+        1
+      ],
+      "bilibiligaming": [
+        2,
+        2
+      ],
+      "fnatic": [
+        7,
+        8
+      ],
+      "psgtalon": [
+        7,
+        8
+      ],
+      "topesports": [
+        5,
+        6
+      ],
+      "teamliquid": [
+        5,
+        6
+      ],
+      "g2esports": [
+        4,
+        4
+      ],
+      "t1": [
+        3,
+        3
+      ],
+      "estralesports": [
+        11,
+        12
+      ],
+      "loud": [
+        11,
+        12
+      ],
+      "flyquest": [
+        9,
+        10
+      ],
+      "gamesports": [
+        9,
+        10
+      ]
+    },
+    "tiers": [
+      [
+        "gengesports",
+        "bilibiligaming"
+      ],
+      [
+        "g2esports",
+        "teamliquid"
+      ]
+    ]
+  },
+  {
+    "id": "2024_Worlds",
+    "season": 14,
+    "year": 2024,
+    "event": "Worlds",
+    "seed": 2024,
+    "samples": 14000605,
+    "start_date": "2024-09-25",
+    "teams": [
+      "100thieves",
+      "bilibiligaming",
+      "dpluskia",
+      "flyquest",
+      "fnatic",
+      "g2esports",
+      "gamesports",
+      "gengesports",
+      "hanwhalifeesports",
+      "lngesports",
+      "madlionskoi",
+      "movistarr7",
+      "paingaming",
+      "psgtalon",
+      "softbankhawksgaming",
+      "t1",
+      "teamliquid",
+      "topesports",
+      "vikingsesports",
+      "weibogaming"
+    ],
+    "display": {
+      "madlionskoi": "MAD Lions KOI",
+      "vikingsesports": "Vikings Esports",
+      "psgtalon": "PSG Talon",
+      "paingaming": "paiN Gaming",
+      "gamesports": "GAM Esports",
+      "softbankhawksgaming": "SoftBank Hawks Gaming",
+      "100thieves": "100 Thieves",
+      "movistarr7": "Movistar R7",
+      "bilibiligaming": "Bilibili Gaming",
+      "topesports": "Top Esports",
+      "t1": "T1",
+      "gengesports": "Gen.G eSports",
+      "weibogaming": "Weibo Gaming",
+      "fnatic": "Fnatic",
+      "dpluskia": "Dplus KIA",
+      "teamliquid": "Team Liquid",
+      "lngesports": "LNG Esports",
+      "hanwhalifeesports": "Hanwha Life eSports",
+      "flyquest": "FlyQuest",
+      "g2esports": "G2 Esports"
+    },
+    "regions": {
+      "100thieves": "NA",
+      "bilibiligaming": "CN",
+      "dpluskia": "KR",
+      "flyquest": "NA",
+      "fnatic": "EU",
+      "g2esports": "EU",
+      "gamesports": "VN",
+      "gengesports": "KR",
+      "hanwhalifeesports": "KR",
+      "lngesports": "CN",
+      "madlionskoi": "EU",
+      "movistarr7": "LATAM",
+      "paingaming": "BR",
+      "psgtalon": "PCS",
+      "softbankhawksgaming": "JP",
+      "t1": "KR",
+      "teamliquid": "NA",
+      "topesports": "CN",
+      "vikingsesports": "VN",
+      "weibogaming": "CN"
+    },
+    "strength": {
+      "100thieves": 0.4173064399010667,
+      "bilibiligaming": 2.886205625838492,
+      "dpluskia": 2.3472159611817913,
+      "flyquest": 1.353490992407835,
+      "fnatic": 1.2136333873530698,
+      "g2esports": 1.8776907893635923,
+      "gamesports": 0.9915887762560737,
+      "gengesports": 3.6994551128178856,
+      "hanwhalifeesports": 3.2004936367482877,
+      "lngesports": 1.9660478885740964,
+      "madlionskoi": 0.5918188061202141,
+      "movistarr7": -0.16139937971946106,
+      "paingaming": 0.6479095046350272,
+      "psgtalon": 2.244405300358824,
+      "softbankhawksgaming": 1.319169987002687,
+      "t1": 2.53942718979959,
+      "teamliquid": 1.5581677224991952,
+      "topesports": 2.735981768334244,
+      "vikingsesports": 0.8970357833608007,
+      "weibogaming": 1.7605908978870957
+    },
+    "training_series": 1453,
+    "training_maps": 3129,
+    "latest_training_date": "2024-09-14",
+    "prior_audit": {
+      "series": 63,
+      "maps": 148,
+      "last_date": "2023-11-19",
+      "missing_team_regions": {},
+      "counts": {
+        "PCS": 25,
+        "JP": 8,
+        "EU": 52,
+        "BR": 12,
+        "CN": 70,
+        "LATAM": 11,
+        "NA": 36,
+        "VN": 24,
+        "KR": 58
+      },
+      "strength": {
+        "BR": -0.6210039660360581,
+        "CN": 1.414488455022695,
+        "EU": 0.18612419114756823,
+        "JP": -1.4943560287633841,
+        "KR": 1.7260877335427862,
+        "LATAM": -1.1713447546771278,
+        "NA": 0.085021033816751,
+        "PCS": -0.11293538312293465,
+        "VN": -0.012081280930295276,
+        "LCP": -0.264354097377325
+      },
+      "gradient_inf": 7.908892843966342e-07
+    },
+    "gradient": 1.032744785411932e-06,
+    "source": "https://lolesports.com/en-US/news/worlds-2024-primer",
+    "groups": [],
+    "main_groups": [],
+    "direct": [
+      "bilibiligaming",
+      "dpluskia",
+      "flyquest",
+      "fnatic",
+      "g2esports",
+      "gengesports",
+      "hanwhalifeesports",
+      "lngesports",
+      "t1",
+      "teamliquid",
+      "topesports",
+      "weibogaming"
+    ],
+    "byes": [],
+    "opening": [
+      [
+        "madlionskoi",
+        "vikingsesports",
+        "psgtalon",
+        "paingaming"
+      ],
+      [
+        "gamesports",
+        "softbankhawksgaming",
+        "100thieves",
+        "movistarr7"
+      ]
+    ],
+    "main_groups_observed": [],
+    "kind": "worlds_swiss",
+    "actual_ranks": {
+      "t1": [
+        1,
+        1
+      ],
+      "bilibiligaming": [
+        2,
+        2
+      ],
+      "weibogaming": [
+        3,
+        4
+      ],
+      "gengesports": [
+        3,
+        4
+      ],
+      "lngesports": [
+        5,
+        8
+      ],
+      "hanwhalifeesports": [
+        5,
+        8
+      ],
+      "topesports": [
+        5,
+        8
+      ],
+      "flyquest": [
+        5,
+        8
+      ],
+      "dpluskia": [
+        9,
+        11
+      ],
+      "fnatic": [
+        12,
+        14
+      ],
+      "g2esports": [
+        9,
+        11
+      ],
+      "gamesports": [
+        12,
+        14
+      ],
+      "madlionskoi": [
+        15,
+        16
+      ],
+      "paingaming": [
+        15,
+        16
+      ],
+      "psgtalon": [
+        12,
+        14
+      ],
+      "teamliquid": [
+        9,
+        11
+      ],
+      "vikingsesports": [
+        19,
+        20
+      ],
+      "softbankhawksgaming": [
+        19,
+        20
+      ],
+      "movistarr7": [
+        17,
+        18
+      ],
+      "100thieves": [
+        17,
+        18
+      ]
+    },
+    "tiers": [
+      [
+        "hanwhalifeesports",
+        "bilibiligaming",
+        "g2esports",
+        "flyquest"
+      ],
+      [
+        "gengesports",
+        "topesports",
+        "fnatic",
+        "teamliquid"
+      ],
+      [
+        "dpluskia",
+        "lngesports",
+        "t1",
+        "weibogaming"
+      ],
+      []
+    ]
+  },
+  {
+    "id": "2025_MSI",
+    "season": 15,
+    "year": 2025,
+    "event": "MSI",
+    "seed": 2025,
+    "samples": 14000605,
+    "start_date": "2025-06-27",
+    "teams": [
+      "anyoneslegend",
+      "bilibiligaming",
+      "ctbcflyingoyster",
+      "flyquest",
+      "furia",
+      "g2esports",
+      "gamesports",
+      "gengesports",
+      "movistarkoi",
+      "t1"
+    ],
+    "display": {
+      "furia": "FURIA",
+      "g2esports": "G2 Esports",
+      "bilibiligaming": "Bilibili Gaming",
+      "gamesports": "GAM Esports",
+      "gengesports": "Gen.G eSports",
+      "anyoneslegend": "Anyone s Legend",
+      "flyquest": "FlyQuest",
+      "movistarkoi": "Movistar KOI",
+      "ctbcflyingoyster": "CTBC Flying Oyster",
+      "t1": "T1"
+    },
+    "regions": {
+      "anyoneslegend": "CN",
+      "bilibiligaming": "CN",
+      "ctbcflyingoyster": "LCP",
+      "flyquest": "LTA",
+      "furia": "LTA",
+      "g2esports": "EU",
+      "gamesports": "LCP",
+      "gengesports": "KR",
+      "movistarkoi": "EU",
+      "t1": "KR"
+    },
+    "strength": {
+      "anyoneslegend": 2.0404371920694144,
+      "bilibiligaming": 1.879468648042655,
+      "ctbcflyingoyster": 1.6101934432076983,
+      "flyquest": 2.131114647379889,
+      "furia": 0.2060961910524226,
+      "g2esports": 1.1135392978754262,
+      "gamesports": 0.845579087641841,
+      "gengesports": 2.9263595454910027,
+      "movistarkoi": 1.172545061974916,
+      "t1": 2.211170978695311
+    },
+    "training_series": 679,
+    "training_maps": 1579,
+    "latest_training_date": "2025-06-15",
+    "prior_audit": {
+      "series": 75,
+      "maps": 185,
+      "last_date": "2024-11-02",
+      "missing_team_regions": {},
+      "counts": {
+        "NA": 51,
+        "PCS": 28,
+        "KR": 91,
+        "LATAM": 12,
+        "EU": 59,
+        "VN": 23,
+        "CN": 85,
+        "BR": 17,
+        "JP": 4
+      },
+      "strength": {
+        "BR": -0.43701606573092805,
+        "CN": 1.1509270113373735,
+        "EU": 0.20859971505387526,
+        "JP": -1.3711642213669135,
+        "KR": 1.2235382303057118,
+        "LATAM": -0.6530371398558835,
+        "NA": 0.19438110037959638,
+        "PCS": 0.11184804851494265,
+        "VN": -0.4280766786377751,
+        "LCP": -0.22179409337669248
+      },
+      "gradient_inf": 2.727983358929986e-07
+    },
+    "gradient": 3.51971129797235e-06,
+    "source": "https://lolesports.com/en-US/news/msi-2025-primer",
+    "groups": [],
+    "main_groups": [],
+    "direct": [
+      "anyoneslegend",
+      "ctbcflyingoyster",
+      "flyquest",
+      "gengesports",
+      "movistarkoi",
+      "t1"
+    ],
+    "byes": [],
+    "opening": [
+      [
+        "bilibiligaming",
+        "gamesports",
+        "furia",
+        "g2esports"
+      ]
+    ],
+    "main_groups_observed": [],
+    "kind": "msi_double",
+    "actual_ranks": {
+      "gengesports": [
+        1,
+        1
+      ],
+      "t1": [
+        2,
+        2
+      ],
+      "g2esports": [
+        7,
+        8
+      ],
+      "movistarkoi": [
+        7,
+        8
+      ],
+      "ctbcflyingoyster": [
+        5,
+        6
+      ],
+      "flyquest": [
+        5,
+        6
+      ],
+      "bilibiligaming": [
+        4,
+        4
+      ],
+      "anyoneslegend": [
+        3,
+        3
+      ],
+      "furia": [
+        10,
+        10
+      ],
+      "gamesports": [
+        9,
+        9
+      ]
+    },
+    "tiers": [
+      [
+        "gengesports",
+        "movistarkoi"
+      ],
+      [
+        "ctbcflyingoyster",
+        "anyoneslegend"
+      ],
+      [
+        "flyquest",
+        "t1"
+      ]
+    ]
+  },
+  {
+    "id": "2025_Worlds",
+    "season": 15,
+    "year": 2025,
+    "event": "Worlds",
+    "seed": 2025,
+    "samples": 14000605,
+    "start_date": "2025-10-14",
+    "teams": [
+      "100thieves",
+      "anyoneslegend",
+      "bilibiligaming",
+      "ctbcflyingoyster",
+      "flyquest",
+      "fnatic",
+      "g2esports",
+      "gengesports",
+      "hanwhalifeesports",
+      "invictusgaming",
+      "ktrolster",
+      "movistarkoi",
+      "psgtalon",
+      "t1",
+      "teamsecretwhales",
+      "topesports",
+      "vivokeydstars"
+    ],
+    "display": {
+      "invictusgaming": "Invictus Gaming",
+      "t1": "T1",
+      "teamsecretwhales": "Team Secret Whales",
+      "vivokeydstars": "Vivo Keyd Stars",
+      "ctbcflyingoyster": "CTBC Flying Oyster",
+      "fnatic": "Fnatic",
+      "ktrolster": "KT Rolster",
+      "movistarkoi": "Movistar KOI",
+      "bilibiligaming": "Bilibili Gaming",
+      "100thieves": "100 Thieves",
+      "flyquest": "FlyQuest",
+      "hanwhalifeesports": "Hanwha Life eSports",
+      "anyoneslegend": "Anyone s Legend",
+      "g2esports": "G2 Esports",
+      "topesports": "Top Esports",
+      "gengesports": "Gen.G eSports",
+      "psgtalon": "PSG Talon"
+    },
+    "regions": {
+      "100thieves": "LTA",
+      "anyoneslegend": "CN",
+      "bilibiligaming": "CN",
+      "ctbcflyingoyster": "LCP",
+      "flyquest": "LTA",
+      "fnatic": "EU",
+      "g2esports": "EU",
+      "gengesports": "KR",
+      "hanwhalifeesports": "KR",
+      "invictusgaming": "CN",
+      "ktrolster": "KR",
+      "movistarkoi": "EU",
+      "psgtalon": "LCP",
+      "t1": "KR",
+      "teamsecretwhales": "LCP",
+      "topesports": "CN",
+      "vivokeydstars": "LTA"
+    },
+    "strength": {
+      "100thieves": 0.797043429247068,
+      "anyoneslegend": 2.315097214619905,
+      "bilibiligaming": 2.2045243255892655,
+      "ctbcflyingoyster": 1.5445551508925435,
+      "flyquest": 1.8776729452016307,
+      "fnatic": 1.030614896104107,
+      "g2esports": 1.5422019570541143,
+      "gengesports": 2.901069257808833,
+      "hanwhalifeesports": 2.435705077062899,
+      "invictusgaming": 2.068259020714949,
+      "ktrolster": 1.603652026296806,
+      "movistarkoi": 1.1025566015558466,
+      "psgtalon": 0.3409862286489166,
+      "t1": 2.340079048450531,
+      "teamsecretwhales": 0.6090570897693092,
+      "topesports": 2.2894594374056374,
+      "vivokeydstars": 0.5842332618911579
+    },
+    "training_series": 1012,
+    "training_maps": 2525,
+    "latest_training_date": "2025-09-28",
+    "prior_audit": {
+      "series": 75,
+      "maps": 185,
+      "last_date": "2024-11-02",
+      "missing_team_regions": {},
+      "counts": {
+        "NA": 51,
+        "PCS": 28,
+        "KR": 91,
+        "LATAM": 12,
+        "EU": 59,
+        "VN": 23,
+        "CN": 85,
+        "BR": 17,
+        "JP": 4
+      },
+      "strength": {
+        "BR": -0.43701606573092805,
+        "CN": 1.1509270113373735,
+        "EU": 0.20859971505387526,
+        "JP": -1.3711642213669135,
+        "KR": 1.2235382303057118,
+        "LATAM": -0.6530371398558835,
+        "NA": 0.19438110037959638,
+        "PCS": 0.11184804851494265,
+        "VN": -0.4280766786377751,
+        "LCP": -0.22179409337669248
+      },
+      "gradient_inf": 2.727983358929986e-07
+    },
+    "gradient": 9.014715195987399e-07,
+    "source": "https://lolesports.com/en-US/news/worlds-2025-primer",
+    "groups": [],
+    "main_groups": [],
+    "direct": [
+      "100thieves",
+      "anyoneslegend",
+      "bilibiligaming",
+      "ctbcflyingoyster",
+      "flyquest",
+      "fnatic",
+      "g2esports",
+      "gengesports",
+      "hanwhalifeesports",
+      "ktrolster",
+      "movistarkoi",
+      "psgtalon",
+      "teamsecretwhales",
+      "topesports",
+      "vivokeydstars"
+    ],
+    "byes": [],
+    "opening": [
+      [
+        "invictusgaming",
+        "t1"
+      ]
+    ],
+    "main_groups_observed": [],
+    "kind": "worlds_swiss",
+    "actual_ranks": {
+      "t1": [
+        1,
+        1
+      ],
+      "ktrolster": [
+        2,
+        2
+      ],
+      "gengesports": [
+        3,
+        4
+      ],
+      "topesports": [
+        3,
+        4
+      ],
+      "hanwhalifeesports": [
+        5,
+        8
+      ],
+      "ctbcflyingoyster": [
+        5,
+        8
+      ],
+      "g2esports": [
+        5,
+        8
+      ],
+      "anyoneslegend": [
+        5,
+        8
+      ],
+      "100thieves": [
+        12,
+        14
+      ],
+      "bilibiligaming": [
+        9,
+        11
+      ],
+      "flyquest": [
+        9,
+        11
+      ],
+      "fnatic": [
+        15,
+        16
+      ],
+      "movistarkoi": [
+        9,
+        11
+      ],
+      "psgtalon": [
+        15,
+        16
+      ],
+      "teamsecretwhales": [
+        12,
+        14
+      ],
+      "vivokeydstars": [
+        12,
+        14
+      ],
+      "invictusgaming": [
+        17,
+        17
+      ]
+    },
+    "tiers": [
+      [
+        "gengesports",
+        "bilibiligaming",
+        "g2esports",
+        "flyquest",
+        "ctbcflyingoyster"
+      ],
+      [
+        "hanwhalifeesports",
+        "anyoneslegend",
+        "movistarkoi",
+        "vivokeydstars",
+        "teamsecretwhales"
+      ],
+      [
+        "ktrolster",
+        "topesports",
+        "fnatic",
+        "100thieves",
+        "psgtalon"
+      ]
+    ]
+  }
+]

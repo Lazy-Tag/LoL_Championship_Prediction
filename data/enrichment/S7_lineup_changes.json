@@ -1,0 +1,382 @@
+[
+  {
+    "team": "younggeneration",
+    "previous_observed": "2017-09-25 09:28:00",
+    "next_observed": "2017-09-26 05:48:00",
+    "previous_players": [
+      "Bigkoro",
+      "Naul",
+      "Palette",
+      "Ren",
+      "Venus"
+    ],
+    "next_players": [
+      "Bigkoro",
+      "Naul",
+      "Palette",
+      "Venus",
+      "yT"
+    ],
+    "gameid": "TRLH1/1002360441"
+  },
+  {
+    "team": "hongkongattitude",
+    "previous_observed": "2017-09-28 07:07:00",
+    "next_observed": "2017-09-28 07:59:00",
+    "previous_players": [
+      "GodKwai",
+      "Kaiwing",
+      "Mission",
+      "Riris",
+      "Unified"
+    ],
+    "next_players": [
+      "Gemini",
+      "Kaiwing",
+      "Mission",
+      "Riris",
+      "Unified"
+    ],
+    "gameid": "TRLH1/1002360527"
+  },
+  {
+    "team": "teamoneesports",
+    "previous_observed": "2017-09-29 03:51:00",
+    "next_observed": "2017-09-29 04:49:00",
+    "previous_players": [
+      "4LaN",
+      "Absolut",
+      "Brucer",
+      "Edger",
+      "RedBert"
+    ],
+    "next_players": [
+      "4LaN",
+      "Absolut",
+      "Edger",
+      "Marfz",
+      "RedBert"
+    ],
+    "gameid": "TRLH1/1002360553"
+  },
+  {
+    "team": "teamwe",
+    "previous_observed": "2017-09-29 07:43:00",
+    "next_observed": "2017-09-29 08:37:00",
+    "previous_players": [
+      "957",
+      "Ben",
+      "Condi",
+      "Mystic",
+      "xiye"
+    ],
+    "next_players": [
+      "957",
+      "Condi",
+      "Mystic",
+      "Zero",
+      "xiye"
+    ],
+    "gameid": "TRLH1/1002360565"
+  },
+  {
+    "team": "teamwe",
+    "previous_observed": "2017-09-29 08:37:00",
+    "next_observed": "2017-10-06 08:22:00",
+    "previous_players": [
+      "957",
+      "Condi",
+      "Mystic",
+      "Zero",
+      "xiye"
+    ],
+    "next_players": [
+      "957",
+      "Ben",
+      "Condi",
+      "Mystic",
+      "xiye"
+    ],
+    "gameid": "TRLH1/1002380197"
+  },
+  {
+    "team": "ahqesportsclub",
+    "previous_observed": "2017-10-06 11:19:00",
+    "next_observed": "2017-10-07 10:55:00",
+    "previous_players": [
+      "Albis",
+      "Anex",
+      "Mountain",
+      "Westdoor",
+      "Ziv"
+    ],
+    "next_players": [
+      "Albis",
+      "Anex",
+      "Chawy",
+      "Mountain",
+      "Ziv"
+    ],
+    "gameid": "TRLH1/1002390407"
+  },
+  {
+    "team": "samsunggalaxy",
+    "previous_observed": "2017-10-07 10:03:00",
+    "next_observed": "2017-10-08 10:57:00",
+    "previous_players": [
+      "Ambition",
+      "CoreJJ",
+      "Crown",
+      "CuVee",
+      "Ruler"
+    ],
+    "next_players": [
+      "CoreJJ",
+      "Crown",
+      "CuVee",
+      "Haru",
+      "Ruler"
+    ],
+    "gameid": "TRLH1/1002390478"
+  },
+  {
+    "team": "gigabytemarines",
+    "previous_observed": "2017-10-08 09:12:00",
+    "next_observed": "2017-10-12 03:38:00",
+    "previous_players": [
+      "Archie",
+      "Levi",
+      "Nevan",
+      "Noway",
+      "Optimus"
+    ],
+    "next_players": [
+      "Archie",
+      "Levi",
+      "Noway",
+      "Optimus",
+      "Sya"
+    ],
+    "gameid": "TRLH1/1002380319"
+  },
+  {
+    "team": "longzhugaming",
+    "previous_observed": "2017-10-12 06:46:00",
+    "next_observed": "2017-10-12 08:52:00",
+    "previous_players": [
+      "Bdd",
+      "Cuzz",
+      "GorillA",
+      "Khan",
+      "PraY"
+    ],
+    "next_players": [
+      "Bdd",
+      "Cuzz",
+      "GorillA",
+      "PraY",
+      "Rascal"
+    ],
+    "gameid": "TRLH1/1002380337"
+  },
+  {
+    "team": "samsunggalaxy",
+    "previous_observed": "2017-10-08 10:57:00",
+    "next_observed": "2017-10-13 04:49:00",
+    "previous_players": [
+      "CoreJJ",
+      "Crown",
+      "CuVee",
+      "Haru",
+      "Ruler"
+    ],
+    "next_players": [
+      "Ambition",
+      "CoreJJ",
+      "Crown",
+      "CuVee",
+      "Ruler"
+    ],
+    "gameid": "TRLH1/1002380358"
+  },
+  {
+    "team": "ahqesportsclub",
+    "previous_observed": "2017-10-07 10:55:00",
+    "next_observed": "2017-10-15 03:54:00",
+    "previous_players": [
+      "Albis",
+      "Anex",
+      "Chawy",
+      "Mountain",
+      "Ziv"
+    ],
+    "next_players": [
+      "Albis",
+      "Anex",
+      "Mountain",
+      "Westdoor",
+      "Ziv"
+    ],
+    "gameid": "TRLH1/1002390761"
+  },
+  {
+    "team": "ahqesportsclub",
+    "previous_observed": "2017-10-15 03:54:00",
+    "next_observed": "2017-10-15 05:56:00",
+    "previous_players": [
+      "Albis",
+      "Anex",
+      "Mountain",
+      "Westdoor",
+      "Ziv"
+    ],
+    "next_players": [
+      "Albis",
+      "Anex",
+      "Chawy",
+      "Mountain",
+      "Ziv"
+    ],
+    "gameid": "TRLH1/1002380481"
+  },
+  {
+    "team": "sktelecomt1",
+    "previous_observed": "2017-10-15 03:54:00",
+    "next_observed": "2017-10-15 06:45:00",
+    "previous_players": [
+      "Bang",
+      "Faker",
+      "Huni",
+      "Peanut",
+      "Wolf"
+    ],
+    "next_players": [
+      "Bang",
+      "Blank",
+      "Faker",
+      "Huni",
+      "Wolf"
+    ],
+    "gameid": "TRLH1/1002380485"
+  },
+  {
+    "team": "ahqesportsclub",
+    "previous_observed": "2017-10-15 05:56:00",
+    "next_observed": "2017-10-15 07:47:00",
+    "previous_players": [
+      "Albis",
+      "Anex",
+      "Chawy",
+      "Mountain",
+      "Ziv"
+    ],
+    "next_players": [
+      "Albis",
+      "Anex",
+      "Mountain",
+      "Westdoor",
+      "Ziv"
+    ],
+    "gameid": "TRLH1/1002380496"
+  },
+  {
+    "team": "longzhugaming",
+    "previous_observed": "2017-10-12 08:52:00",
+    "next_observed": "2017-10-19 07:40:00",
+    "previous_players": [
+      "Bdd",
+      "Cuzz",
+      "GorillA",
+      "PraY",
+      "Rascal"
+    ],
+    "next_players": [
+      "Bdd",
+      "Cuzz",
+      "GorillA",
+      "Khan",
+      "PraY"
+    ],
+    "gameid": "TRLH3/1002290025"
+  },
+  {
+    "team": "sktelecomt1",
+    "previous_observed": "2017-10-15 08:36:00",
+    "next_observed": "2017-10-20 05:14:00",
+    "previous_players": [
+      "Bang",
+      "Blank",
+      "Faker",
+      "Huni",
+      "Wolf"
+    ],
+    "next_players": [
+      "Bang",
+      "Faker",
+      "Huni",
+      "Peanut",
+      "Wolf"
+    ],
+    "gameid": "TRLH3/1002300059"
+  },
+  {
+    "team": "sktelecomt1",
+    "previous_observed": "2017-10-20 08:54:00",
+    "next_observed": "2017-10-20 09:42:00",
+    "previous_players": [
+      "Bang",
+      "Faker",
+      "Huni",
+      "Peanut",
+      "Wolf"
+    ],
+    "next_players": [
+      "Bang",
+      "Blank",
+      "Faker",
+      "Huni",
+      "Wolf"
+    ],
+    "gameid": "TRLH3/1002300076"
+  },
+  {
+    "team": "sktelecomt1",
+    "previous_observed": "2017-10-28 09:35:00",
+    "next_observed": "2017-10-28 10:22:00",
+    "previous_players": [
+      "Bang",
+      "Blank",
+      "Faker",
+      "Huni",
+      "Wolf"
+    ],
+    "next_players": [
+      "Bang",
+      "Faker",
+      "Huni",
+      "Peanut",
+      "Wolf"
+    ],
+    "gameid": "TRLH1/1002410090"
+  },
+  {
+    "team": "sktelecomt1",
+    "previous_observed": "2017-11-04 08:10:00",
+    "next_observed": "2017-11-04 09:04:00",
+    "previous_players": [
+      "Bang",
+      "Faker",
+      "Huni",
+      "Peanut",
+      "Wolf"
+    ],
+    "next_players": [
+      "Bang",
+      "Blank",
+      "Faker",
+      "Huni",
+      "Wolf"
+    ],
+    "gameid": "TRLH3/1002320098"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "region": "KR",
+    "label": "韩国",
+    "source_regions": [
+      "LCK"
+    ],
+    "mean_strength": 1.6961934412180069,
+    "teams": [
+      "GEN",
+      "HLE",
+      "DK",
+      "T1"
+    ],
+    "team_count": 4,
+    "title_probability": 0.874364929229844,
+    "rank": 1,
+    "tied": false,
+    "undifferentiated": false
+  },
+  {
+    "region": "CN",
+    "label": "中国",
+    "source_regions": [
+      "LPL"
+    ],
+    "mean_strength": 1.1616736737881135,
+    "teams": [
+      "BLG",
+      "AL",
+      "IG",
+      "TES"
+    ],
+    "team_count": 4,
+    "title_probability": 0.11676059713133825,
+    "rank": 2,
+    "tied": false,
+    "undifferentiated": false
+  },
+  {
+    "region": "EU",
+    "label": "欧洲",
+    "source_regions": [
+      "LEC"
+    ],
+    "mean_strength": 0.49582645083247273,
+    "teams": [
+      "G2",
+      "KC",
+      "MKOI"
+    ],
+    "team_count": 3,
+    "title_probability": 0.006564002055625453,
+    "rank": 3,
+    "tied": false,
+    "undifferentiated": false
+  },
+  {
+    "region": "AMERICAS",
+    "label": "美洲",
+    "source_regions": [
+      "CBLOL",
+      "LCS"
+    ],
+    "mean_strength": 0.14554678575064273,
+    "teams": [
+      "TLAW",
+      "LYON",
+      "C9",
+      "LOS",
+      "FUR"
+    ],
+    "team_count": 5,
+    "title_probability": 0.0023060432031330076,
+    "rank": 4,
+    "tied": false,
+    "undifferentiated": false
+  },
+  {
+    "region": "LCP",
+    "label": "太平洋（LCP）",
+    "source_regions": [
+      "LCP"
+    ],
+    "mean_strength": -0.6740296705826774,
+    "teams": [
+      "TSW",
+      "CFO",
+      "MVK"
+    ],
+    "team_count": 3,
+    "title_probability": 4.428380059290295e-06,
+    "rank": 5,
+    "tied": false,
+    "undifferentiated": false
+  }
+]

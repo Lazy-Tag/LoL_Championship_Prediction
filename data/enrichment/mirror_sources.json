@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2016_LoL_esports_match_data_from_OraclesElixir.csv",
+    "raw_path": "data/raw/enrichment/worlds_2016.csv",
+    "scope": "Worlds only",
+    "checked_utc": "2026-10-14T17:24:31.040378+00:00",
+    "status": "ok",
+    "sha256": "b441c7a0ecebbc6802d4b491bd946b7b91cc3bb05fe18cfd88e12d80c1097ba3",
+    "bytes": 558380
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2017_LoL_esports_match_data_from_OraclesElixir.csv",
+    "raw_path": "data/raw/enrichment/worlds_2017.csv",
+    "scope": "Worlds only",
+    "checked_utc": "2026-10-14T17:24:31.040863+00:00",
+    "status": "ok",
+    "sha256": "33f5354f50e7314d0145305be35751a391641584cba41c9f688d8a22866cb607",
+    "bytes": 897885
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2018_LoL_esports_match_data_from_OraclesElixir.csv",
+    "raw_path": "data/raw/enrichment/worlds_2018.csv",
+    "scope": "Worlds only",
+    "checked_utc": "2026-10-14T17:24:31.041327+00:00",
+    "status": "ok",
+    "sha256": "a32ce16430eb593ea337478b3f4f1898762d24b228db9894d7bcd450daeaf5f8",
+    "bytes": 899822
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2019_LoL_esports_match_data_from_OraclesElixir.csv",
+    "raw_path": "data/raw/enrichment/worlds_2019.csv",
+    "scope": "Worlds only",
+    "checked_utc": "2026-10-14T17:24:31.041749+00:00",
+    "status": "ok",
+    "sha256": "0b2f95dc8dafe7ff1587770a9ac77746502867cf171aed7026ceca60257908b6",
+    "bytes": 924068
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2020_LoL_esports_match_data_from_OraclesElixir.csv",
+    "raw_path": "data/raw/enrichment/worlds_2020.csv",
+    "scope": "Worlds only",
+    "checked_utc": "2026-10-14T17:24:31.042144+00:00",
+    "status": "ok",
+    "sha256": "3894f254d3eda6d86ea0ad13c8c312c65f1c8955a84e066f1037154545d503ed",
+    "bytes": 874737
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2021_LoL_esports_match_data_from_OraclesElixir.csv",
+    "raw_path": "data/raw/enrichment/worlds_2021.csv",
+    "scope": "Worlds only",
+    "checked_utc": "2026-10-14T17:24:31.042520+00:00",
+    "status": "ok",
+    "sha256": "bb8272810f3f673ca86e367d6ea135f9f5158fa89ac77f15a35f405cae8fd979",
+    "bytes": 931447
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2022_LoL_esports_match_data_from_OraclesElixir.csv",
+    "raw_path": "data/raw/enrichment/worlds_2022.csv",
+    "scope": "Worlds only",
+    "checked_utc": "2026-10-14T17:24:31.042918+00:00",
+    "status": "ok",
+    "sha256": "250b9ed3d313de677328b2745def73b6162cdaee1ad95291984f2699999e9116",
+    "bytes": 975350
+  },
+  {
+    "url": "https://raw.githubusercontent.com/cbplexiglass/LoL-Esports-Regional-Analyses/main/2025_LoL_esports_match_data_from_OraclesElixir.csv",
+    "raw_path": "data/raw/enrichment/oe_2025.csv.gz",
+    "scope": "2025 multiple leagues; not certified complete",
+    "checked_utc": "2026-10-14T17:24:31.043335+00:00",
+    "status": "ok",
+    "sha256": "1adfa81d8ea54cd62b332d18f8a4089cb64331da448b11f0ff7084fac55ed406",
+    "bytes": 79130187
+  }
+]

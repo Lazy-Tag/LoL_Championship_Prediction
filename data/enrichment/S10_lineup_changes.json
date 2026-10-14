@@ -1,0 +1,42 @@
+[
+  {
+    "team": "psgtalon",
+    "previous_observed": "2020-09-26 12:01:00",
+    "next_observed": "2020-09-27 09:47:00",
+    "previous_players": [
+      "Dee",
+      "Hanabi",
+      "Kaiwing",
+      "Kongyue",
+      "Uniboy"
+    ],
+    "next_players": [
+      "Hanabi",
+      "Kaiwing",
+      "Kongyue",
+      "Uniboy",
+      "Unified"
+    ],
+    "gameid": "ESPORTSTMNT03/1531188"
+  },
+  {
+    "team": "psgtalon",
+    "previous_observed": "2020-09-27 12:02:00",
+    "next_observed": "2020-10-03 09:50:00",
+    "previous_players": [
+      "Hanabi",
+      "Kaiwing",
+      "Kongyue",
+      "Uniboy",
+      "Unified"
+    ],
+    "next_players": [
+      "Hanabi",
+      "Kaiwing",
+      "River",
+      "Tank",
+      "Unified"
+    ],
+    "gameid": "ESPORTSTMNT03/1551557"
+  }
+]

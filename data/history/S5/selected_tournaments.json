@@ -1,0 +1,290 @@
+[
+  {
+    "trname": "IEM San Jose 2015",
+    "region": "WR",
+    "nbgames": "11",
+    "avgtime": "2373",
+    "firstgame": "2015-11-21",
+    "lastgame": "2015-11-23"
+  },
+  {
+    "trname": "World Championship 2015",
+    "region": "WR",
+    "nbgames": "73",
+    "avgtime": "2158",
+    "firstgame": "2015-10-01",
+    "lastgame": "2015-10-31"
+  },
+  {
+    "trname": "LCK Spring Promotion 2015",
+    "region": "KR",
+    "nbgames": "8",
+    "avgtime": "2225",
+    "firstgame": "2015-09-11",
+    "lastgame": "2015-09-12"
+  },
+  {
+    "trname": "NA LCS Spring Promotion 2015",
+    "region": "NA",
+    "nbgames": "7",
+    "avgtime": "2361",
+    "firstgame": "2015-09-06",
+    "lastgame": "2015-09-07"
+  },
+  {
+    "trname": "EU LCS Spring Promotion 2015",
+    "region": "EUW",
+    "nbgames": "8",
+    "avgtime": "2028",
+    "firstgame": "2015-09-05",
+    "lastgame": "2015-09-05"
+  },
+  {
+    "trname": "LPL Regional Qualifiers 2015",
+    "region": "CN",
+    "nbgames": "14",
+    "avgtime": "2460",
+    "firstgame": "2015-09-04",
+    "lastgame": "2015-09-05"
+  },
+  {
+    "trname": "LCK Regional Qualifier 2015",
+    "region": "KR",
+    "nbgames": "12",
+    "avgtime": "2269",
+    "firstgame": "2015-09-02",
+    "lastgame": "2015-09-05"
+  },
+  {
+    "trname": "IWC Desafio 2015",
+    "region": "WR",
+    "nbgames": "9",
+    "avgtime": "2577",
+    "firstgame": "2015-08-29",
+    "lastgame": "2015-09-05"
+  },
+  {
+    "trname": "EU Regional Qualifiers 2015",
+    "region": "EUW",
+    "nbgames": "11",
+    "avgtime": "2221",
+    "firstgame": "2015-08-29",
+    "lastgame": "2015-08-31"
+  },
+  {
+    "trname": "NA Regional Qualifiers 2015",
+    "region": "NA",
+    "nbgames": "14",
+    "avgtime": "2154",
+    "firstgame": "2015-08-29",
+    "lastgame": "2015-08-31"
+  },
+  {
+    "trname": "IWC Turkey 2015",
+    "region": "WR",
+    "nbgames": "16",
+    "avgtime": "2213",
+    "firstgame": "2015-08-26",
+    "lastgame": "2015-08-29"
+  },
+  {
+    "trname": "LCK Summer Playoffs 2015",
+    "region": "KR",
+    "nbgames": "14",
+    "avgtime": "2199",
+    "firstgame": "2015-08-16",
+    "lastgame": "2015-08-29"
+  },
+  {
+    "trname": "LPL Summer Playoffs 2015",
+    "region": "CN",
+    "nbgames": "37",
+    "avgtime": "2088",
+    "firstgame": "2015-08-11",
+    "lastgame": "2015-08-23"
+  },
+  {
+    "trname": "NA LCS Summer Playoffs 2015",
+    "region": "NA",
+    "nbgames": "21",
+    "avgtime": "2331",
+    "firstgame": "2015-08-08",
+    "lastgame": "2015-08-23"
+  },
+  {
+    "trname": "EU LCS Summer Playoffs 2015",
+    "region": "EUW",
+    "nbgames": "23",
+    "avgtime": "2271",
+    "firstgame": "2015-08-08",
+    "lastgame": "2015-08-23"
+  },
+  {
+    "trname": "LMS Regional 2015",
+    "region": "TW",
+    "nbgames": "13",
+    "avgtime": "2243",
+    "firstgame": "2015-08-14",
+    "lastgame": "2015-08-16"
+  },
+  {
+    "trname": "LCK Summer 2015",
+    "region": "KR",
+    "nbgames": "217",
+    "avgtime": "2320",
+    "firstgame": "2015-05-20",
+    "lastgame": "2015-08-13"
+  },
+  {
+    "trname": "LPL Summer 2015",
+    "region": "CN",
+    "nbgames": "264",
+    "avgtime": "2152",
+    "firstgame": "2015-05-22",
+    "lastgame": "2015-08-09"
+  },
+  {
+    "trname": "NA LCS Summer 2015",
+    "region": "NA",
+    "nbgames": "93",
+    "avgtime": "2335",
+    "firstgame": "2015-05-30",
+    "lastgame": "2015-07-26"
+  },
+  {
+    "trname": "LMS Summer Playoffs 2015",
+    "region": "TW",
+    "nbgames": "11",
+    "avgtime": "2329",
+    "firstgame": "2015-07-24",
+    "lastgame": "2015-07-26"
+  },
+  {
+    "trname": "EU LCS Summer 2015",
+    "region": "EUW",
+    "nbgames": "91",
+    "avgtime": "2265",
+    "firstgame": "2015-05-28",
+    "lastgame": "2015-07-24"
+  },
+  {
+    "trname": "Mid-Season Invitational 2015",
+    "region": "WR",
+    "nbgames": "28",
+    "avgtime": "2006",
+    "firstgame": "2015-05-07",
+    "lastgame": "2015-05-10"
+  },
+  {
+    "trname": "LCK Spring Playoffs 2015",
+    "region": "KR",
+    "nbgames": "11",
+    "avgtime": "2254",
+    "firstgame": "2015-04-17",
+    "lastgame": "2015-05-02"
+  },
+  {
+    "trname": "LPL Spring Playoffs 2015",
+    "region": "CN",
+    "nbgames": "32",
+    "avgtime": "2064",
+    "firstgame": "2015-04-14",
+    "lastgame": "2015-04-26"
+  },
+  {
+    "trname": "International Wildcard 2015",
+    "region": "WR",
+    "nbgames": "7",
+    "avgtime": "2540",
+    "firstgame": "2015-04-24",
+    "lastgame": "2015-04-25"
+  },
+  {
+    "trname": "NA LCS Spring Playoffs 2015",
+    "region": "NA",
+    "nbgames": "25",
+    "avgtime": "2121",
+    "firstgame": "2015-04-04",
+    "lastgame": "2015-04-19"
+  },
+  {
+    "trname": "EU LCS Spring Playoffs 2015",
+    "region": "EUW",
+    "nbgames": "27",
+    "avgtime": "2149",
+    "firstgame": "2015-04-04",
+    "lastgame": "2015-04-19"
+  },
+  {
+    "trname": "LMS Spring Playoffs 2015",
+    "region": "TW",
+    "nbgames": "10",
+    "avgtime": "2454",
+    "firstgame": "2015-04-10",
+    "lastgame": "2015-04-12"
+  },
+  {
+    "trname": "LPL Spring 2015",
+    "region": "CN",
+    "nbgames": "264",
+    "avgtime": "2183",
+    "firstgame": "2015-01-16",
+    "lastgame": "2015-04-12"
+  },
+  {
+    "trname": "Champions Spring 2015",
+    "region": "KR",
+    "nbgames": "128",
+    "avgtime": "2415",
+    "firstgame": "2015-01-07",
+    "lastgame": "2015-04-11"
+  },
+  {
+    "trname": "NA LCS Spring 2015",
+    "region": "NA",
+    "nbgames": "92",
+    "avgtime": "2275",
+    "firstgame": "2015-01-25",
+    "lastgame": "2015-03-30"
+  },
+  {
+    "trname": "EU LCS Spring 2015",
+    "region": "EUW",
+    "nbgames": "91",
+    "avgtime": "2355",
+    "firstgame": "2015-01-23",
+    "lastgame": "2015-03-28"
+  },
+  {
+    "trname": "IEM Katowice 2015",
+    "region": "WR",
+    "nbgames": "19",
+    "avgtime": "2142",
+    "firstgame": "2015-03-13",
+    "lastgame": "2015-03-15"
+  },
+  {
+    "trname": "IEM Cologne 2014",
+    "region": "WR",
+    "nbgames": "14",
+    "avgtime": "2316",
+    "firstgame": "2014-12-19",
+    "lastgame": "2014-12-21"
+  },
+  {
+    "trname": "OGN Champions Preseason 2015",
+    "region": "KR",
+    "nbgames": "36",
+    "avgtime": "2225",
+    "firstgame": "2014-12-03",
+    "lastgame": "2014-12-20"
+  },
+  {
+    "trname": "IEM San Jose 2014",
+    "region": "WR",
+    "nbgames": "12",
+    "avgtime": "2287",
+    "firstgame": "2014-12-06",
+    "lastgame": "2014-12-07"
+  }
+]

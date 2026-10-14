@@ -1,0 +1,418 @@
+[
+  {
+    "trname": "Worlds Main Event 2023",
+    "region": "WR",
+    "nbgames": "79",
+    "avgtime": "1869",
+    "firstgame": "2023-10-19",
+    "lastgame": "2023-11-19"
+  },
+  {
+    "trname": "Worlds Play-In 2023",
+    "region": "WR",
+    "nbgames": "31",
+    "avgtime": "1933",
+    "firstgame": "2023-10-10",
+    "lastgame": "2023-10-15"
+  },
+  {
+    "trname": "Worlds Qualifying Series 2023",
+    "region": "WR",
+    "nbgames": "3",
+    "avgtime": "1688",
+    "firstgame": "2023-10-09",
+    "lastgame": "2023-10-09"
+  },
+  {
+    "trname": "LEC Season Finals 2023",
+    "region": "EUW",
+    "nbgames": "33",
+    "avgtime": "1785",
+    "firstgame": "2023-08-19",
+    "lastgame": "2023-09-10"
+  },
+  {
+    "trname": "CBLOL Split 2 Playoffs 2023",
+    "region": "BR",
+    "nbgames": "32",
+    "avgtime": "2013",
+    "firstgame": "2023-08-11",
+    "lastgame": "2023-09-09"
+  },
+  {
+    "trname": "PCS Summer Playoffs 2023",
+    "region": "WR",
+    "nbgames": "47",
+    "avgtime": "1978",
+    "firstgame": "2023-08-11",
+    "lastgame": "2023-09-09"
+  },
+  {
+    "trname": "VCS Summer Playoffs 2023",
+    "region": "VN",
+    "nbgames": "43",
+    "avgtime": "1839",
+    "firstgame": "2023-08-12",
+    "lastgame": "2023-09-09"
+  },
+  {
+    "trname": "LCK Regional Finals 2023",
+    "region": "KR",
+    "nbgames": "11",
+    "avgtime": "1886",
+    "firstgame": "2023-08-24",
+    "lastgame": "2023-08-26"
+  },
+  {
+    "trname": "LLA Closing Playoffs 2023",
+    "region": "LAT",
+    "nbgames": "34",
+    "avgtime": "1930",
+    "firstgame": "2023-07-25",
+    "lastgame": "2023-08-26"
+  },
+  {
+    "trname": "LCK Summer Playoffs 2023",
+    "region": "KR",
+    "nbgames": "31",
+    "avgtime": "1910",
+    "firstgame": "2023-08-08",
+    "lastgame": "2023-08-20"
+  },
+  {
+    "trname": "LCS Championship 2023",
+    "region": "NA",
+    "nbgames": "49",
+    "avgtime": "1913",
+    "firstgame": "2023-07-27",
+    "lastgame": "2023-08-20"
+  },
+  {
+    "trname": "LJL Summer Playoffs 2023",
+    "region": "JP",
+    "nbgames": "40",
+    "avgtime": "1838",
+    "firstgame": "2023-07-22",
+    "lastgame": "2023-08-20"
+  },
+  {
+    "trname": "LPL Regional Finals 2023",
+    "region": "CN",
+    "nbgames": "13",
+    "avgtime": "1641",
+    "firstgame": "2023-08-06",
+    "lastgame": "2023-08-08"
+  },
+  {
+    "trname": "PCS Summer 2023",
+    "region": "PCS",
+    "nbgames": "91",
+    "avgtime": "1799",
+    "firstgame": "2023-06-30",
+    "lastgame": "2023-08-07"
+  },
+  {
+    "trname": "CBLOL Split 2 2023",
+    "region": "BR",
+    "nbgames": "90",
+    "avgtime": "1982",
+    "firstgame": "2023-06-10",
+    "lastgame": "2023-08-06"
+  },
+  {
+    "trname": "LCK Summer 2023",
+    "region": "KR",
+    "nbgames": "206",
+    "avgtime": "1865",
+    "firstgame": "2023-06-07",
+    "lastgame": "2023-08-06"
+  },
+  {
+    "trname": "VCS Summer 2023",
+    "region": "VN",
+    "nbgames": "102",
+    "avgtime": "1818",
+    "firstgame": "2023-06-23",
+    "lastgame": "2023-08-06"
+  },
+  {
+    "trname": "LPL Summer Playoffs 2023",
+    "region": "CN",
+    "nbgames": "52",
+    "avgtime": "1858",
+    "firstgame": "2023-07-20",
+    "lastgame": "2023-08-05"
+  },
+  {
+    "trname": "LCO Split 2 Playoffs 2023",
+    "region": "OCE",
+    "nbgames": "20",
+    "avgtime": "1800",
+    "firstgame": "2023-07-17",
+    "lastgame": "2023-07-30"
+  },
+  {
+    "trname": "LEC Summer Playoffs 2023",
+    "region": "EUW",
+    "nbgames": "16",
+    "avgtime": "1844",
+    "firstgame": "2023-07-24",
+    "lastgame": "2023-07-30"
+  },
+  {
+    "trname": "LEC Summer Groups 2023",
+    "region": "EUW",
+    "nbgames": "22",
+    "avgtime": "1913",
+    "firstgame": "2023-07-15",
+    "lastgame": "2023-07-23"
+  },
+  {
+    "trname": "LCS Summer 2023",
+    "region": "NA",
+    "nbgames": "92",
+    "avgtime": "1877",
+    "firstgame": "2023-06-14",
+    "lastgame": "2023-07-21"
+  },
+  {
+    "trname": "LLA Closing 2023",
+    "region": "LAT",
+    "nbgames": "61",
+    "avgtime": "1942",
+    "firstgame": "2023-06-06",
+    "lastgame": "2023-07-19"
+  },
+  {
+    "trname": "LPL Summer 2023",
+    "region": "CN",
+    "nbgames": "324",
+    "avgtime": "1817",
+    "firstgame": "2023-05-29",
+    "lastgame": "2023-07-17"
+  },
+  {
+    "trname": "LJL Summer 2023",
+    "region": "JP",
+    "nbgames": "67",
+    "avgtime": "1830",
+    "firstgame": "2023-06-10",
+    "lastgame": "2023-07-16"
+  },
+  {
+    "trname": "LCO Split 2 2023",
+    "region": "OCE",
+    "nbgames": "57",
+    "avgtime": "1698",
+    "firstgame": "2023-06-05",
+    "lastgame": "2023-07-12"
+  },
+  {
+    "trname": "LEC Summer 2023",
+    "region": "EUW",
+    "nbgames": "45",
+    "avgtime": "1924",
+    "firstgame": "2023-06-17",
+    "lastgame": "2023-07-03"
+  },
+  {
+    "trname": "MSI 2023",
+    "region": "WR",
+    "nbgames": "76",
+    "avgtime": "1807",
+    "firstgame": "2023-05-02",
+    "lastgame": "2023-05-21"
+  },
+  {
+    "trname": "LCO Split 1 Stage 2 2023",
+    "region": "OCE",
+    "nbgames": "41",
+    "avgtime": "1679",
+    "firstgame": "2023-02-27",
+    "lastgame": "2023-04-29"
+  },
+  {
+    "trname": "LEC Spring Playoffs 2023",
+    "region": "EUW",
+    "nbgames": "17",
+    "avgtime": "1819",
+    "firstgame": "2023-04-17",
+    "lastgame": "2023-04-23"
+  },
+  {
+    "trname": "VCS Spring Playoffs 2023",
+    "region": "VN",
+    "nbgames": "25",
+    "avgtime": "1806",
+    "firstgame": "2023-04-14",
+    "lastgame": "2023-04-23"
+  },
+  {
+    "trname": "LEC Spring Groups 2023",
+    "region": "EUW",
+    "nbgames": "24",
+    "avgtime": "1808",
+    "firstgame": "2023-04-08",
+    "lastgame": "2023-04-16"
+  },
+  {
+    "trname": "CBLOL Split 1 Playoffs 2023",
+    "region": "BR",
+    "nbgames": "30",
+    "avgtime": "2147",
+    "firstgame": "2023-03-24",
+    "lastgame": "2023-04-15"
+  },
+  {
+    "trname": "LJL Spring Playoffs 2023",
+    "region": "JP",
+    "nbgames": "19",
+    "avgtime": "1775",
+    "firstgame": "2023-04-01",
+    "lastgame": "2023-04-15"
+  },
+  {
+    "trname": "LPL Spring Playoffs 2023",
+    "region": "CN",
+    "nbgames": "50",
+    "avgtime": "1888",
+    "firstgame": "2023-03-30",
+    "lastgame": "2023-04-15"
+  },
+  {
+    "trname": "LLA Opening Playoffs 2023",
+    "region": "LAT",
+    "nbgames": "35",
+    "avgtime": "1998",
+    "firstgame": "2023-03-14",
+    "lastgame": "2023-04-14"
+  },
+  {
+    "trname": "VCS Spring 2023",
+    "region": "VN",
+    "nbgames": "139",
+    "avgtime": "1917",
+    "firstgame": "2023-02-24",
+    "lastgame": "2023-04-10"
+  },
+  {
+    "trname": "LCK Spring Playoffs 2023",
+    "region": "KR",
+    "nbgames": "33",
+    "avgtime": "2054",
+    "firstgame": "2023-03-22",
+    "lastgame": "2023-04-09"
+  },
+  {
+    "trname": "LCS Spring Playoffs 2023",
+    "region": "NA",
+    "nbgames": "30",
+    "avgtime": "1937",
+    "firstgame": "2023-03-23",
+    "lastgame": "2023-04-09"
+  },
+  {
+    "trname": "PCS Spring Playoffs 2023",
+    "region": "WR",
+    "nbgames": "45",
+    "avgtime": "1948",
+    "firstgame": "2023-03-23",
+    "lastgame": "2023-04-09"
+  },
+  {
+    "trname": "LEC Spring Season 2023",
+    "region": "EUW",
+    "nbgames": "46",
+    "avgtime": "1951",
+    "firstgame": "2023-03-11",
+    "lastgame": "2023-03-27"
+  },
+  {
+    "trname": "LJL Spring 2023",
+    "region": "JP",
+    "nbgames": "133",
+    "avgtime": "1844",
+    "firstgame": "2023-01-28",
+    "lastgame": "2023-03-26"
+  },
+  {
+    "trname": "LPL Spring 2023",
+    "region": "CN",
+    "nbgames": "329",
+    "avgtime": "1910",
+    "firstgame": "2023-01-14",
+    "lastgame": "2023-03-26"
+  },
+  {
+    "trname": "CBLOL Split 1 2023",
+    "region": "BR",
+    "nbgames": "90",
+    "avgtime": "2018",
+    "firstgame": "2023-01-21",
+    "lastgame": "2023-03-19"
+  },
+  {
+    "trname": "LCK Spring 2023",
+    "region": "KR",
+    "nbgames": "218",
+    "avgtime": "1931",
+    "firstgame": "2023-01-18",
+    "lastgame": "2023-03-19"
+  },
+  {
+    "trname": "LCS Spring 2023",
+    "region": "NA",
+    "nbgames": "93",
+    "avgtime": "2034",
+    "firstgame": "2023-01-26",
+    "lastgame": "2023-03-17"
+  },
+  {
+    "trname": "PCS Spring 2023",
+    "region": "PCS",
+    "nbgames": "92",
+    "avgtime": "1975",
+    "firstgame": "2023-02-03",
+    "lastgame": "2023-03-12"
+  },
+  {
+    "trname": "LLA Opening 2023",
+    "region": "LAT",
+    "nbgames": "63",
+    "avgtime": "1941",
+    "firstgame": "2023-01-24",
+    "lastgame": "2023-03-08"
+  },
+  {
+    "trname": "LEC Winter Playoffs 2023",
+    "region": "EUW",
+    "nbgames": "16",
+    "avgtime": "1823",
+    "firstgame": "2023-02-20",
+    "lastgame": "2023-02-26"
+  },
+  {
+    "trname": "LEC Winter Groups 2023",
+    "region": "EUW",
+    "nbgames": "24",
+    "avgtime": "1853",
+    "firstgame": "2023-02-11",
+    "lastgame": "2023-02-19"
+  },
+  {
+    "trname": "LCO Split 1 2023",
+    "region": "OCE",
+    "nbgames": "28",
+    "avgtime": "1462",
+    "firstgame": "2023-01-23",
+    "lastgame": "2023-02-07"
+  },
+  {
+    "trname": "LEC Winter 2023",
+    "region": "EUW",
+    "nbgames": "45",
+    "avgtime": "1990",
+    "firstgame": "2023-01-21",
+    "lastgame": "2023-02-06"
+  }
+]

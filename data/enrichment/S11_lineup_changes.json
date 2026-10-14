@@ -1,0 +1,102 @@
+[
+  {
+    "team": "beyondgaming",
+    "previous_observed": "2021-10-05 16:11:00",
+    "next_observed": "2021-10-06 14:35:00",
+    "previous_players": [
+      "1116",
+      "Doggo",
+      "HuSha",
+      "Kino",
+      "PK"
+    ],
+    "next_players": [
+      "1116",
+      "Doggo",
+      "HuSha",
+      "Kino",
+      "Liang"
+    ],
+    "gameid": "ESPORTSTMNT04_1970501"
+  },
+  {
+    "team": "redcanids",
+    "previous_observed": "2021-10-08 18:09:00",
+    "next_observed": "2021-10-08 19:01:00",
+    "previous_players": [
+      "Aegis",
+      "Grevthar",
+      "Guigo",
+      "Jojo",
+      "TitaN"
+    ],
+    "next_players": [
+      "Aegis",
+      "Avenger",
+      "Guigo",
+      "Jojo",
+      "TitaN"
+    ],
+    "gameid": "ESPORTSTMNT04_1960555"
+  },
+  {
+    "team": "beyondgaming",
+    "previous_observed": "2021-10-08 14:52:00",
+    "next_observed": "2021-10-09 10:20:00",
+    "previous_players": [
+      "1116",
+      "Doggo",
+      "HuSha",
+      "Kino",
+      "Liang"
+    ],
+    "next_players": [
+      "Doggo",
+      "HuSha",
+      "Kino",
+      "Liang",
+      "PK"
+    ],
+    "gameid": "ESPORTSTMNT04_1970653"
+  },
+  {
+    "team": "gengesports",
+    "previous_observed": "2021-10-12 17:21:00",
+    "next_observed": "2021-10-13 15:03:00",
+    "previous_players": [
+      "Bdd",
+      "Clid",
+      "Life",
+      "Rascal",
+      "Ruler"
+    ],
+    "next_players": [
+      "Bdd",
+      "Burdol",
+      "Clid",
+      "Life",
+      "Ruler"
+    ],
+    "gameid": "ESPORTSTMNT04_1970915"
+  },
+  {
+    "team": "gengesports",
+    "previous_observed": "2021-10-18 12:49:00",
+    "next_observed": "2021-10-25 11:21:00",
+    "previous_players": [
+      "Bdd",
+      "Burdol",
+      "Clid",
+      "Life",
+      "Ruler"
+    ],
+    "next_players": [
+      "Bdd",
+      "Clid",
+      "Life",
+      "Rascal",
+      "Ruler"
+    ],
+    "gameid": "ESPORTSTMNT04_1961309"
+  }
+]

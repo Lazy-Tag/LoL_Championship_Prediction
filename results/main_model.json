@@ -1,0 +1,13 @@
+{
+  "main_model": "dynamic90",
+  "half_life_days": 90,
+  "predictions": "results/model_experiments/predictions.json",
+  "probability_field": "dynamic90",
+  "historical_configs": "results/model_experiments/event_configs.json",
+  "historical_summary": "results/model_experiments/event_summary.json",
+  "s16_result": "results/model_experiments/dynamic90/2026_Worlds.json",
+  "s16_states": "results/model_experiments/s16_states.json",
+  "cutoff": "2026-10-14",
+  "reference": "2026-10-19",
+  "baseline_results_retained": true
+}

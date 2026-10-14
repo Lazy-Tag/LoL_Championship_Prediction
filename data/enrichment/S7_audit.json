@@ -1,0 +1,874 @@
+{
+  "season": 7,
+  "source_url": "https://raw.githubusercontent.com/ZD2525/Basic-Exploratory-Data-Analysis/main/2017_LoL_esports_match_data_from_OraclesElixir.csv",
+  "source_note": "Public GitHub mirror of OE; not an independent scoring source",
+  "sha256": "33f5354f50e7314d0145305be35751a391641584cba41c9f688d8a22866cb607",
+  "source_latest_date": "2017-11-04 09:04:00",
+  "base_series": 1344,
+  "base_maps": 2899,
+  "eligible_normalized_maps": 119,
+  "matched_series": 61,
+  "matched_maps": 92,
+  "additional_maps": 0,
+  "field_counts": {
+    "timestamp": 119,
+    "patch": 119,
+    "complete_ten_players": 119,
+    "gamelength": 119,
+    "kills": 119,
+    "deaths": 119,
+    "totalgold": 119,
+    "golddiffat10": 119,
+    "golddiffat15": 119,
+    "xpdiffat15": 119,
+    "csdiffat15": 119,
+    "dragons": 119,
+    "barons": 119,
+    "towers": 119,
+    "firstdragon": 118,
+    "firstbaron": 119
+  },
+  "rejected": [],
+  "conflicts": [
+    {
+      "date": "2017-09-23",
+      "league": "WCS",
+      "teams": [
+        "lyongaming",
+        "teamwe"
+      ],
+      "map_ids": [
+        "TRLH1/1002360213"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-23",
+      "league": "WCS",
+      "teams": [
+        "cloud9",
+        "teamoneesports"
+      ],
+      "map_ids": [
+        "TRLH1/1002360222"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-23",
+      "league": "WCS",
+      "teams": [
+        "gambitesports",
+        "lyongaming"
+      ],
+      "map_ids": [
+        "TRLH1/1002360229"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-23",
+      "league": "WCS",
+      "teams": [
+        "cloud9",
+        "direwolves"
+      ],
+      "map_ids": [
+        "TRLH1/1002360235"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-23",
+      "league": "WCS",
+      "teams": [
+        "gambitesports",
+        "teamwe"
+      ],
+      "map_ids": [
+        "TRLH1/1002360244"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-24",
+      "league": "WCS",
+      "teams": [
+        "cloud9",
+        "teamoneesports"
+      ],
+      "map_ids": [
+        "TRLH1/1002360287"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-24",
+      "league": "WCS",
+      "teams": [
+        "lyongaming",
+        "teamwe"
+      ],
+      "map_ids": [
+        "TRLH1/1002360296"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-24",
+      "league": "WCS",
+      "teams": [
+        "cloud9",
+        "direwolves"
+      ],
+      "map_ids": [
+        "TRLH1/1002360302"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-24",
+      "league": "WCS",
+      "teams": [
+        "gambitesports",
+        "lyongaming"
+      ],
+      "map_ids": [
+        "TRLH1/1002360310"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-24",
+      "league": "WCS",
+      "teams": [
+        "direwolves",
+        "teamoneesports"
+      ],
+      "map_ids": [
+        "TRLH1/1002360317",
+        "TRLH1/1002360332"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-24",
+      "league": "WCS",
+      "teams": [
+        "gambitesports",
+        "teamwe"
+      ],
+      "map_ids": [
+        "TRLH1/1002360324"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-25",
+      "league": "WCS",
+      "teams": [
+        "hongkongattitude",
+        "rampage"
+      ],
+      "map_ids": [
+        "TRLH1/1002360372"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-25",
+      "league": "WCS",
+      "teams": [
+        "fnatic",
+        "kaoslatingamers"
+      ],
+      "map_ids": [
+        "TRLH1/1002360382"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-25",
+      "league": "WCS",
+      "teams": [
+        "1907fenerbahce",
+        "hongkongattitude"
+      ],
+      "map_ids": [
+        "TRLH1/1002360389"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-25",
+      "league": "WCS",
+      "teams": [
+        "1907fenerbahce",
+        "rampage"
+      ],
+      "map_ids": [
+        "TRLH1/1002360404"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-26",
+      "league": "WCS",
+      "teams": [
+        "hongkongattitude",
+        "rampage"
+      ],
+      "map_ids": [
+        "TRLH1/1002360429"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-26",
+      "league": "WCS",
+      "teams": [
+        "1907fenerbahce",
+        "rampage"
+      ],
+      "map_ids": [
+        "TRLH1/1002360452"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-26",
+      "league": "WCS",
+      "teams": [
+        "fnatic",
+        "kaoslatingamers"
+      ],
+      "map_ids": [
+        "TRLH1/1002360463"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-09-26",
+      "league": "WCS",
+      "teams": [
+        "1907fenerbahce",
+        "hongkongattitude"
+      ],
+      "map_ids": [
+        "TRLH1/1002360472",
+        "TRLH1/1002360489"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-10-12",
+      "league": "WCS",
+      "teams": [
+        "fnatic",
+        "immortals"
+      ],
+      "map_ids": [
+        "TRLH1/1002380330",
+        "TRLH1/1002390592"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-10-12",
+      "league": "WCS",
+      "teams": [
+        "fnatic",
+        "gigabytemarines"
+      ],
+      "map_ids": [
+        "TRLH1/1002380336",
+        "TRLH1/1002390599"
+      ],
+      "reason": "nearby score/date ambiguity"
+    },
+    {
+      "date": "2017-10-14",
+      "league": "WCS",
+      "teams": [
+        "misfits",
+        "teamsolomid"
+      ],
+      "map_ids": [
+        "TRLH1/1002380421",
+        "TRLH1/1002380443"
+      ],
+      "reason": "nearby score/date ambiguity"
+    }
+  ],
+  "matched": [
+    {
+      "detail": "https://gol.gg/game/stats/8958/page-game/",
+      "map_ids": [
+        "TRLH1/1002360251"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8965/page-game/",
+      "map_ids": [
+        "TRLH1/1002360365"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8969/page-game/",
+      "map_ids": [
+        "TRLH1/1002360398"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8972/page-game/",
+      "map_ids": [
+        "TRLH1/1002360441"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8976/page-game/",
+      "map_ids": [
+        "TRLH1/1002360478"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8979/page-summary/",
+      "map_ids": [
+        "TRLH1/1002360512",
+        "TRLH1/1002360515",
+        "TRLH1/1002360516"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8984/page-summary/",
+      "map_ids": [
+        "TRLH1/1002360518",
+        "TRLH1/1002360526",
+        "TRLH1/1002360527"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8987/page-summary/",
+      "map_ids": [
+        "TRLH1/1002360538",
+        "TRLH1/1002360552",
+        "TRLH1/1002360553",
+        "TRLH1/1002360554"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8992/page-summary/",
+      "map_ids": [
+        "TRLH1/1002360555",
+        "TRLH1/1002360564",
+        "TRLH1/1002360565"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8995/page-game/",
+      "map_ids": [
+        "TRLH1/1002390182"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8996/page-game/",
+      "map_ids": [
+        "TRLH1/1002390191"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8997/page-game/",
+      "map_ids": [
+        "TRLH1/1002390201"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8998/page-game/",
+      "map_ids": [
+        "TRLH1/1002390211"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/8999/page-game/",
+      "map_ids": [
+        "TRLH1/1002390223"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9000/page-game/",
+      "map_ids": [
+        "TRLH1/1002390235"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9001/page-game/",
+      "map_ids": [
+        "TRLH1/1002380186"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9002/page-game/",
+      "map_ids": [
+        "TRLH1/1002380197"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9003/page-game/",
+      "map_ids": [
+        "TRLH1/1002380204"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9004/page-game/",
+      "map_ids": [
+        "TRLH1/1002380208"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9005/page-game/",
+      "map_ids": [
+        "TRLH1/1002380216"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9006/page-game/",
+      "map_ids": [
+        "TRLH1/1002380220"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9007/page-game/",
+      "map_ids": [
+        "TRLH1/1002390351"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9008/page-game/",
+      "map_ids": [
+        "TRLH1/1002390361"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9009/page-game/",
+      "map_ids": [
+        "TRLH1/1002390376"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9010/page-game/",
+      "map_ids": [
+        "TRLH1/1002390388"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9011/page-game/",
+      "map_ids": [
+        "TRLH1/1002390407"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9012/page-game/",
+      "map_ids": [
+        "TRLH1/1002390418"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9013/page-game/",
+      "map_ids": [
+        "TRLH1/1002390437"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9014/page-game/",
+      "map_ids": [
+        "TRLH1/1002390449"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9015/page-game/",
+      "map_ids": [
+        "TRLH1/1002390457"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9016/page-game/",
+      "map_ids": [
+        "TRLH1/1002390468"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9017/page-game/",
+      "map_ids": [
+        "TRLH1/1002390478"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9018/page-game/",
+      "map_ids": [
+        "TRLH1/1002390488"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9019/page-game/",
+      "map_ids": [
+        "TRLH1/1002380319"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9020/page-game/",
+      "map_ids": [
+        "TRLH1/1002380323"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9022/page-game/",
+      "map_ids": [
+        "TRLH1/1002380331"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9024/page-game/",
+      "map_ids": [
+        "TRLH1/1002380337"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9025/page-game/",
+      "map_ids": [
+        "TRLH1/1002390613"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9026/page-game/",
+      "map_ids": [
+        "TRLH1/1002380358"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9027/page-game/",
+      "map_ids": [
+        "TRLH1/1002380365"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9028/page-game/",
+      "map_ids": [
+        "TRLH1/1002380366"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9029/page-game/",
+      "map_ids": [
+        "TRLH1/1002380372"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9030/page-game/",
+      "map_ids": [
+        "TRLH1/1002380375"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9031/page-game/",
+      "map_ids": [
+        "TRLH1/1002390678"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9032/page-game/",
+      "map_ids": [
+        "TRLH1/1002380411"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9033/page-game/",
+      "map_ids": [
+        "TRLH1/1002380417"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9035/page-game/",
+      "map_ids": [
+        "TRLH1/1002380428"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9036/page-game/",
+      "map_ids": [
+        "TRLH1/1002380436"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9037/page-game/",
+      "map_ids": [
+        "TRLH1/1002390761"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9038/page-game/",
+      "map_ids": [
+        "TRLH1/1002380472"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9039/page-game/",
+      "map_ids": [
+        "TRLH1/1002380481"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9040/page-game/",
+      "map_ids": [
+        "TRLH1/1002380485"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9041/page-game/",
+      "map_ids": [
+        "TRLH1/1002380496"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9042/page-game/",
+      "map_ids": [
+        "TRLH1/1002380500"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9046/page-summary/",
+      "map_ids": [
+        "TRLH3/1002290025",
+        "TRLH3/1002290033",
+        "TRLH3/1002290034"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9051/page-summary/",
+      "map_ids": [
+        "TRLH3/1002300059",
+        "TRLH3/1002300075",
+        "TRLH3/1002300076",
+        "TRLH3/1002300078",
+        "TRLH3/1002300079"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9056/page-summary/",
+      "map_ids": [
+        "TRLH3/1002300088",
+        "TRLH3/1002300094",
+        "TRLH3/1002300096",
+        "TRLH3/1002300097"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9061/page-summary/",
+      "map_ids": [
+        "TRLH3/1002300111",
+        "TRLH3/1002300123",
+        "TRLH3/1002300125",
+        "TRLH3/1002300127",
+        "TRLH3/1002300130"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9066/page-summary/",
+      "map_ids": [
+        "TRLH1/1002410083",
+        "TRLH1/1002410086",
+        "TRLH1/1002410088",
+        "TRLH1/1002410090",
+        "TRLH1/1002410092"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9071/page-summary/",
+      "map_ids": [
+        "TRLH1/1002410104",
+        "TRLH1/1002410111",
+        "TRLH1/1002410112",
+        "TRLH1/1002410113"
+      ],
+      "date_offset": 0
+    },
+    {
+      "detail": "https://gol.gg/game/stats/9075/page-summary/",
+      "map_ids": [
+        "TRLH3/1002320090",
+        "TRLH3/1002320097",
+        "TRLH3/1002320098"
+      ],
+      "date_offset": 0
+    }
+  ],
+  "aliases": {
+    "ktrolster": "ktrolster",
+    "hongkongattitude": "hongkongattitude",
+    "royalnevergiveup": "royalnevergiveup",
+    "teamroccat": "teamroccat",
+    "misfits": "misfits",
+    "redcanids": "redcanids",
+    "kaoslatingamers": "kaoslatingamers",
+    "snakeesports": "snakeesports",
+    "misfitsacademy": "misfitsacademy",
+    "virtuspro": "virtuspro",
+    "edwardgaming": "edwardgaming",
+    "phoenix1": "phoenix1",
+    "ever8winners": "ever8winners",
+    "detonationfocusme": "detonationfocusme",
+    "furiousgaming": "furiousgaming",
+    "qgreapers": "qgreapers",
+    "ascensiongaming": "ascensiongaming",
+    "mysteriousmonkeys": "mysteriousmonkeys",
+    "teamjustalpha": "teamjustalpha",
+    "legacyesports": "legacyesports",
+    "teamenvyus": "teamenvyus",
+    "teamvitality": "teamvitality",
+    "rampage": "rampage",
+    "g2esports": "g2esports",
+    "clg": "clg",
+    "omg": "omg",
+    "intzesports": "intzesports",
+    "vegasquadron": "vegasquadron",
+    "jinairgreenwings": "jinairgreenwings",
+    "cjentus": "cjentus",
+    "echofox": "echofox",
+    "fnaticacademy": "fnaticacademy",
+    "invictusgaming": "invictusgaming",
+    "flashwolves": "flashwolves",
+    "gambitesports": "gambitesports",
+    "immortals": "immortals",
+    "dangaming": "dangaming",
+    "flyquest": "flyquest",
+    "ahqesportsclub": "ahqesportsclub",
+    "lyongaming": "lyongaming",
+    "machiesports": "machiesports",
+    "vicigaming": "vicigaming",
+    "sktelecomt1": "sktelecomt1",
+    "suninggaming": "suninggaming",
+    "samsunggalaxy": "samsunggalaxy",
+    "mineski": "mineski",
+    "unicornsoflove": "unicornsoflove",
+    "newbee": "newbee",
+    "teamoneesports": "teamoneesports",
+    "bbqolivers": "bbqolivers",
+    "eunited": "eunited",
+    "kabumesports": "kabumesports",
+    "dignitas": "dignitas",
+    "isurusgaming": "isurusgaming",
+    "gigabytemarines": "gigabytemarines",
+    "cnbesportsclub": "cnbesportsclub",
+    "direwolves": "direwolves",
+    "fcschalke04": "fcschalke04",
+    "natusvincere": "natusvincere",
+    "tshow": "tshow",
+    "mvp": "mvp",
+    "splyce": "splyce",
+    "teamaurora": "teamaurora",
+    "teamwe": "teamwe",
+    "raisegaming": "raisegaming",
+    "darkpassage": "darkpassage",
+    "imay": "imay",
+    "h2kgaming": "h2kgaming",
+    "singaming": "singaming",
+    "origen": "origen",
+    "1907fenerbahce": "1907fenerbahce",
+    "fireball": "fireball",
+    "roxtigers": "roxtigers",
+    "goldcoinunited": "goldcoinunited",
+    "remobraveesports": "remobraveesports",
+    "teamsolomid": "teamsolomid",
+    "supermassive": "supermassive",
+    "paingaming": "paingaming",
+    "jdgaming": "jdgaming",
+    "younggeneration": "younggeneration",
+    "fnatic": "fnatic",
+    "m19team": "m19team",
+    "ninjasinpyjamas": "ninjasinpyjamas",
+    "justtoyshavok": "justtoyshavok",
+    "extremegamers": "extremegamers",
+    "kongdoomonster": "kongdoomonster",
+    "gametalents": "gametalents",
+    "operationkino": "operationkino",
+    "crewesportsclub": "crewesportsclub",
+    "unsoldstuffgaming": "unsoldstuffgaming",
+    "giants": "giants",
+    "teamliquid": "teamliquid",
+    "rox": "rox",
+    "afreecafreecs": "afreecafreecs",
+    "keydstars": "keydstars",
+    "longzhugaming": "longzhugaming",
+    "wayispider": "wayispider",
+    "cloud9": "cloud9",
+    "lgdgaming": "lgdgaming",
+    "progamingesports": "progamingesports",
+    "vaevictisesports": "vaevictisesports",
+    "jteam": "jteam",
+    "cloud9kia": "cloud9",
+    "redkalunga": "redcanids",
+    "fenerbahaeesports": "1907fenerbahce",
+    "misfitsgaming": "misfits",
+    "gamesports": "gigabytemarines",
+    "tsm": "teamsolomid"
+  },
+  "observed_lineup_changes": 19
+}

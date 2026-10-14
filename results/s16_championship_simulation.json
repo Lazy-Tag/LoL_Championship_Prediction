@@ -1,0 +1,417 @@
+{
+  "simulations": 14000605,
+  "seed": 2026,
+  "waived_draw_groups": 0,
+  "seconds": 25.3783,
+  "counts": [
+    [
+      112148,
+      14000605,
+      8947242,
+      3081333,
+      720353
+    ],
+    [
+      1275557,
+      14000605,
+      12131133,
+      7488730,
+      3554474
+    ],
+    [
+      30169,
+      14000605,
+      6961861,
+      1748616,
+      290687
+    ],
+    [
+      28855,
+      14000605,
+      6600130,
+      1642405,
+      276948
+    ],
+    [
+      7202042,
+      14000605,
+      13675065,
+      11840393,
+      9448002
+    ],
+    [
+      2582342,
+      14000605,
+      12932901,
+      9372549,
+      5518531
+    ],
+    [
+      1705732,
+      14000605,
+      12570159,
+      8313499,
+      4296498
+    ],
+    [
+      950816,
+      14000605,
+      11778797,
+      6808115,
+      2944132
+    ],
+    [
+      89366,
+      14000605,
+      8584353,
+      2789138,
+      614274
+    ],
+    [
+      190,
+      14000605,
+      2203483,
+      185175,
+      9147
+    ],
+    [
+      7574,
+      10984638,
+      4027756,
+      783308,
+      100204
+    ],
+    [
+      11147,
+      14000605,
+      5741493,
+      1147368,
+      147701
+    ],
+    [
+      4648,
+      14000605,
+      4630791,
+      757764,
+      79242
+    ],
+    [
+      15,
+      2253806,
+      276548,
+      18317,
+      606
+    ],
+    [
+      0,
+      14000605,
+      273668,
+      4561,
+      50
+    ],
+    [
+      0,
+      14000605,
+      3832,
+      4,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      4,
+      14000605,
+      624070,
+      19773,
+      330
+    ],
+    [
+      0,
+      762158,
+      41558,
+      1372,
+      31
+    ]
+  ],
+  "half_life_days": 90,
+  "cutoff": "2026-10-14",
+  "reference_date": "2026-10-19",
+  "rng": "std::mt19937_64 seeded with 2026; rejection-sampled bounded integers; Fisher-Yates shuffles; top 53 bits for uniform [0,1)",
+  "draw_assumption": "Random draw order. Place each team in earliest available slot permitting a complete legal assignment; backtrack for lookahead. Round 1 fixed pool matchups with no same-region games. Later rounds same record and no rematches. If impossible, waive no-rematch for that group and use original random order. This operationalizes the rule; referee discretion is not uniquely probabilized by the rulebook.",
+  "uncertainty": "Intervals are pointwise 95% Monte Carlo sampling intervals only, not model/data/draw-procedure uncertainty. Zero sampled wins does not imply impossible.",
+  "input_sha256": "ed946353e1a08790a0c75c386ab37e62e1f89fdaf92f8887b8a6d7e3c21a2794",
+  "teams": [
+    {
+      "team": "GEN",
+      "name": "Gen.G Esports",
+      "champion_count": 7202042,
+      "championship_probability": 0.5144093415963096,
+      "mc_95_wilson_interval": [
+        0.514147540914282,
+        0.5146711343711249
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.9767481476693328,
+      "semifinal_probability": 0.8457058105703289,
+      "final_probability": 0.6748281234989488
+    },
+    {
+      "team": "HLE",
+      "name": "Hanwha Life Esports",
+      "champion_count": 2582342,
+      "championship_probability": 0.18444502933980353,
+      "mc_95_wilson_interval": [
+        0.18424195752911263,
+        0.18464827431316747
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.9237387241479922,
+      "semifinal_probability": 0.6694388563922773,
+      "final_probability": 0.3941637522092795
+    },
+    {
+      "team": "T1",
+      "name": "T1",
+      "champion_count": 1705732,
+      "championship_probability": 0.12183273508537666,
+      "mc_95_wilson_interval": [
+        0.12166150414609452,
+        0.1220041735462019
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.8978297009307812,
+      "semifinal_probability": 0.5937956966859647,
+      "final_probability": 0.30687945270936506
+    },
+    {
+      "team": "BLG",
+      "name": "BILIBILI GAMING",
+      "champion_count": 1275557,
+      "championship_probability": 0.09110727714980889,
+      "mc_95_wilson_interval": [
+        0.09095665659982935,
+        0.0912581220821099
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.8664720560290073,
+      "semifinal_probability": 0.5348861709904679,
+      "final_probability": 0.2538800287559002
+    },
+    {
+      "team": "DK",
+      "name": "Dplus KIA",
+      "champion_count": 950816,
+      "championship_probability": 0.06791249378151873,
+      "mc_95_wilson_interval": [
+        0.06778082369321549,
+        0.06804440098041921
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.8413062864069089,
+      "semifinal_probability": 0.4862729146347604,
+      "final_probability": 0.21028605549545895
+    },
+    {
+      "team": "AL",
+      "name": "Anyone's Legend",
+      "champion_count": 112148,
+      "championship_probability": 0.008010225272407872,
+      "mc_95_wilson_interval": [
+        0.007963667195876885,
+        0.008057053331263372
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.6390610977168487,
+      "semifinal_probability": 0.22008570343924425,
+      "final_probability": 0.051451562271773256
+    },
+    {
+      "team": "G2",
+      "name": "G2 Esports",
+      "champion_count": 89366,
+      "championship_probability": 0.0063830098770731696,
+      "mc_95_wilson_interval": [
+        0.006341429648703161,
+        0.00642486098071185
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.6131415749533681,
+      "semifinal_probability": 0.19921553390014218,
+      "final_probability": 0.043874818266782044
+    },
+    {
+      "team": "TES",
+      "name": "TOP ESPORTS",
+      "champion_count": 30169,
+      "championship_probability": 0.002154835451753692,
+      "mc_95_wilson_interval": [
+        0.002130682462412214,
+        0.0021792616365997864
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.4972542972250128,
+      "semifinal_probability": 0.124895745576709,
+      "final_probability": 0.020762459907982547
+    },
+    {
+      "team": "IG",
+      "name": "Invictus Gaming",
+      "champion_count": 28855,
+      "championship_probability": 0.0020609823646906686,
+      "mc_95_wilson_interval": [
+        0.0020373631175532214,
+        0.002084874858835174
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.47141748517296217,
+      "semifinal_probability": 0.1173095734077206,
+      "final_probability": 0.019781145171940785
+    },
+    {
+      "team": "TLAW",
+      "name": "Team Liquid Alienware",
+      "champion_count": 11147,
+      "championship_probability": 0.0007961798793694987,
+      "mc_95_wilson_interval": [
+        0.0007815419028067805,
+        0.0008110917970071863
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.4100889211573357,
+      "semifinal_probability": 0.08195131567528689,
+      "final_probability": 0.010549615534471547
+    },
+    {
+      "team": "KC",
+      "name": "Karmine Corp",
+      "champion_count": 7574,
+      "championship_probability": 0.0005409766220816887,
+      "mc_95_wilson_interval": [
+        0.000528932917324169,
+        0.0005532944079584878
+      ],
+      "swiss_probability": 0.7845830948019746,
+      "quarterfinal_probability": 0.2876844250659168,
+      "semifinal_probability": 0.05594815366907359,
+      "final_probability": 0.007157119281631044
+    },
+    {
+      "team": "LYON",
+      "name": "LYON",
+      "champion_count": 4648,
+      "championship_probability": 0.0003319856534771176,
+      "mc_95_wilson_interval": [
+        0.0003225792661910486,
+        0.00034166623656750703
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.3307564923087252,
+      "semifinal_probability": 0.05412366108464599,
+      "final_probability": 0.00565989826868196
+    },
+    {
+      "team": "MKOI",
+      "name": "Movistar KOI",
+      "champion_count": 190,
+      "championship_probability": 1.3570842117179936e-05,
+      "mc_95_wilson_interval": [
+        1.1773522394466615e-05,
+        1.5642532376241416e-05
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.15738484158363156,
+      "semifinal_probability": 0.013226214152888393,
+      "final_probability": 0.0006533289097149731
+    },
+    {
+      "team": "C9",
+      "name": "Cloud9 Kia",
+      "champion_count": 15,
+      "championship_probability": 1.0713822724089423e-06,
+      "mc_95_wilson_interval": [
+        6.492998988284591e-07,
+        1.7678420414907552e-06
+      ],
+      "swiss_probability": 0.1609791862565939,
+      "quarterfinal_probability": 0.01975257497800988,
+      "semifinal_probability": 0.001308300605580973,
+      "final_probability": 4.328384380532127e-05
+    },
+    {
+      "team": "LOS",
+      "name": "LOS",
+      "champion_count": 4,
+      "championship_probability": 2.8570193930905126e-07,
+      "mc_95_wilson_interval": [
+        1.1110391013539878e-07,
+        7.346777951308045e-07
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.04457450231614991,
+      "semifinal_probability": 0.0014122961114894678,
+      "final_probability": 2.3570409992996733e-05
+    },
+    {
+      "team": "TSW",
+      "name": "Team Secret Whales",
+      "champion_count": 0,
+      "championship_probability": 0.0,
+      "mc_95_wilson_interval": [
+        2.6469779601696886e-23,
+        2.743779834287447e-07
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.01954686958170736,
+      "semifinal_probability": 0.0003257716362971457,
+      "final_probability": 3.5712742413631413e-06
+    },
+    {
+      "team": "CFO",
+      "name": "CTBC Flying Oyster",
+      "champion_count": 0,
+      "championship_probability": 0.0,
+      "mc_95_wilson_interval": [
+        2.6469779601696886e-23,
+        2.743779834287447e-07
+      ],
+      "swiss_probability": 1.0,
+      "quarterfinal_probability": 0.00027370245785807113,
+      "semifinal_probability": 2.8570193930905126e-07,
+      "final_probability": 0.0
+    },
+    {
+      "team": "MVK",
+      "name": "MVK Esports",
+      "champion_count": 0,
+      "championship_probability": 0.0,
+      "mc_95_wilson_interval": [
+        2.6469779601696886e-23,
+        2.743779834287447e-07
+      ],
+      "swiss_probability": 2.1427645448178846e-07,
+      "quarterfinal_probability": 0.0,
+      "semifinal_probability": 0.0,
+      "final_probability": 0.0
+    },
+    {
+      "team": "FUR",
+      "name": "FURIA",
+      "champion_count": 0,
+      "championship_probability": 0.0,
+      "mc_95_wilson_interval": [
+        2.6469779601696886e-23,
+        2.743779834287447e-07
+      ],
+      "swiss_probability": 0.05443750466497698,
+      "quarterfinal_probability": 0.0029683002984513883,
+      "semifinal_probability": 9.799576518300459e-05,
+      "final_probability": 2.2141900296451474e-06
+    }
+  ],
+  "verification": "Stage totals, nested advancement, fair-team baseline within 6 standard deviations, play-in versus exact within 6 standard deviations; 20000 forbidden-opponent graphs tested against independent matching search."
+}

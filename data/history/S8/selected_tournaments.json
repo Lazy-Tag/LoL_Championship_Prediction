@@ -1,0 +1,546 @@
+[
+  {
+    "trname": "World Championship 2018",
+    "region": "WR",
+    "nbgames": "77",
+    "avgtime": "1950",
+    "firstgame": "2018-10-10",
+    "lastgame": "2018-11-03"
+  },
+  {
+    "trname": "World Championship Play-In 2018",
+    "region": "WR",
+    "nbgames": "42",
+    "avgtime": "1897",
+    "firstgame": "2018-10-01",
+    "lastgame": "2018-10-07"
+  },
+  {
+    "trname": "VCS Summer Playoffs 2018",
+    "region": "VN",
+    "nbgames": "13",
+    "avgtime": "1810",
+    "firstgame": "2018-09-07",
+    "lastgame": "2018-09-22"
+  },
+  {
+    "trname": "LMS Regional Qualifiers 2018",
+    "region": "TW",
+    "nbgames": "12",
+    "avgtime": "1906",
+    "firstgame": "2018-09-20",
+    "lastgame": "2018-09-22"
+  },
+  {
+    "trname": "LCK Spring Promotion 2019",
+    "region": "KR",
+    "nbgames": "14",
+    "avgtime": "2303",
+    "firstgame": "2018-09-18",
+    "lastgame": "2018-09-22"
+  },
+  {
+    "trname": "LCK Regional Qualifiers 2018",
+    "region": "KR",
+    "nbgames": "13",
+    "avgtime": "2043",
+    "firstgame": "2018-09-12",
+    "lastgame": "2018-09-16"
+  },
+  {
+    "trname": "NA LCS Regional Qualifiers 2018",
+    "region": "NA",
+    "nbgames": "9",
+    "avgtime": "1981",
+    "firstgame": "2018-09-14",
+    "lastgame": "2018-09-16"
+  },
+  {
+    "trname": "EU LCS Regional Qualifiers 2018",
+    "region": "EUW",
+    "nbgames": "14",
+    "avgtime": "2101",
+    "firstgame": "2018-09-14",
+    "lastgame": "2018-09-16"
+  },
+  {
+    "trname": "LPL Regional Qualifiers 2018",
+    "region": "CN",
+    "nbgames": "9",
+    "avgtime": "2191",
+    "firstgame": "2018-09-15",
+    "lastgame": "2018-09-16"
+  },
+  {
+    "trname": "TCL Summer Playoffs 2018",
+    "region": "TR",
+    "nbgames": "20",
+    "avgtime": "2000",
+    "firstgame": "2018-08-25",
+    "lastgame": "2018-09-16"
+  },
+  {
+    "trname": "LJL Summer Playoffs 2018",
+    "region": "JP",
+    "nbgames": "7",
+    "avgtime": "2049",
+    "firstgame": "2018-09-08",
+    "lastgame": "2018-09-15"
+  },
+  {
+    "trname": "LMS Summer Playoffs 2018",
+    "region": "TW",
+    "nbgames": "10",
+    "avgtime": "1993",
+    "firstgame": "2018-09-07",
+    "lastgame": "2018-09-15"
+  },
+  {
+    "trname": "LPL Summer Playoffs 2018",
+    "region": "CN",
+    "nbgames": "32",
+    "avgtime": "1956",
+    "firstgame": "2018-09-05",
+    "lastgame": "2018-09-14"
+  },
+  {
+    "trname": "CLS Closing Playoffs 2018",
+    "region": "LAS",
+    "nbgames": "18",
+    "avgtime": "2058",
+    "firstgame": "2018-08-30",
+    "lastgame": "2018-09-09"
+  },
+  {
+    "trname": "NA LCS Summer Playoffs 2018",
+    "region": "NA",
+    "nbgames": "25",
+    "avgtime": "2059",
+    "firstgame": "2018-08-25",
+    "lastgame": "2018-09-09"
+  },
+  {
+    "trname": "EU LCS Summer Playoffs 2018",
+    "region": "EUW",
+    "nbgames": "24",
+    "avgtime": "1948",
+    "firstgame": "2018-08-24",
+    "lastgame": "2018-09-09"
+  },
+  {
+    "trname": "LLN Summer Playoffs 2018",
+    "region": "LAN",
+    "nbgames": "19",
+    "avgtime": "2163",
+    "firstgame": "2018-08-31",
+    "lastgame": "2018-09-08"
+  },
+  {
+    "trname": "LCK Summer Playoffs 2018",
+    "region": "KR",
+    "nbgames": "16",
+    "avgtime": "2298",
+    "firstgame": "2018-08-12",
+    "lastgame": "2018-09-08"
+  },
+  {
+    "trname": "CBLOL Winter Playoffs 2018",
+    "region": "BR",
+    "nbgames": "16",
+    "avgtime": "1980",
+    "firstgame": "2018-08-11",
+    "lastgame": "2018-09-08"
+  },
+  {
+    "trname": "OPL Split 2 Playoffs 2018",
+    "region": "OCE",
+    "nbgames": "15",
+    "avgtime": "2111",
+    "firstgame": "2018-08-24",
+    "lastgame": "2018-09-02"
+  },
+  {
+    "trname": "LCL Summer Playoffs 2018",
+    "region": "CIS",
+    "nbgames": "13",
+    "avgtime": "2132",
+    "firstgame": "2018-08-25",
+    "lastgame": "2018-09-02"
+  },
+  {
+    "trname": "LPL Summer 2018",
+    "region": "CN",
+    "nbgames": "328",
+    "avgtime": "2008",
+    "firstgame": "2018-06-11",
+    "lastgame": "2018-09-02"
+  },
+  {
+    "trname": "LLN Summer 2018",
+    "region": "LAN",
+    "nbgames": "56",
+    "avgtime": "2031",
+    "firstgame": "2018-06-17",
+    "lastgame": "2018-08-26"
+  },
+  {
+    "trname": "CLS Closing 2018",
+    "region": "LAS",
+    "nbgames": "84",
+    "avgtime": "1991",
+    "firstgame": "2018-06-16",
+    "lastgame": "2018-08-26"
+  },
+  {
+    "trname": "NA LCS Summer 2018",
+    "region": "NA",
+    "nbgames": "94",
+    "avgtime": "2148",
+    "firstgame": "2018-06-16",
+    "lastgame": "2018-08-21"
+  },
+  {
+    "trname": "TCL Summer 2018",
+    "region": "TR",
+    "nbgames": "112",
+    "avgtime": "2016",
+    "firstgame": "2018-06-16",
+    "lastgame": "2018-08-20"
+  },
+  {
+    "trname": "VCS Summer 2018",
+    "region": "VN",
+    "nbgames": "130",
+    "avgtime": "1779",
+    "firstgame": "2018-06-21",
+    "lastgame": "2018-08-19"
+  },
+  {
+    "trname": "EU LCS Summer 2018",
+    "region": "EUW",
+    "nbgames": "93",
+    "avgtime": "2003",
+    "firstgame": "2018-06-15",
+    "lastgame": "2018-08-19"
+  },
+  {
+    "trname": "LCL Summer 2018",
+    "region": "CIS",
+    "nbgames": "58",
+    "avgtime": "2151",
+    "firstgame": "2018-07-21",
+    "lastgame": "2018-08-19"
+  },
+  {
+    "trname": "OPL Split 2 2018",
+    "region": "OCE",
+    "nbgames": "94",
+    "avgtime": "1952",
+    "firstgame": "2018-06-08",
+    "lastgame": "2018-08-18"
+  },
+  {
+    "trname": "LMS Summer 2018",
+    "region": "TW",
+    "nbgames": "136",
+    "avgtime": "2089",
+    "firstgame": "2018-06-23",
+    "lastgame": "2018-08-18"
+  },
+  {
+    "trname": "LJL Summer 2018",
+    "region": "JP",
+    "nbgames": "75",
+    "avgtime": "2064",
+    "firstgame": "2018-06-22",
+    "lastgame": "2018-08-11"
+  },
+  {
+    "trname": "LCK Summer 2018",
+    "region": "KR",
+    "nbgames": "218",
+    "avgtime": "2100",
+    "firstgame": "2018-06-12",
+    "lastgame": "2018-08-09"
+  },
+  {
+    "trname": "CBLOL Winter 2018",
+    "region": "BR",
+    "nbgames": "70",
+    "avgtime": "1993",
+    "firstgame": "2018-06-09",
+    "lastgame": "2018-08-05"
+  },
+  {
+    "trname": "LCK-LPL-LMS Rift-Rivals 2018",
+    "region": "WR",
+    "nbgames": "20",
+    "avgtime": "1902",
+    "firstgame": "2018-07-05",
+    "lastgame": "2018-07-08"
+  },
+  {
+    "trname": "LLN-CLS-CBLOL Rift-Rivals 2018",
+    "region": "WR",
+    "nbgames": "21",
+    "avgtime": "2024",
+    "firstgame": "2018-07-04",
+    "lastgame": "2018-07-08"
+  },
+  {
+    "trname": "LCL-TCL-VCS Rift-Rivals 2018",
+    "region": "WR",
+    "nbgames": "19",
+    "avgtime": "1925",
+    "firstgame": "2018-07-04",
+    "lastgame": "2018-07-07"
+  },
+  {
+    "trname": "NA LCS-EULCS Rift-Rivals 2018",
+    "region": "WR",
+    "nbgames": "13",
+    "avgtime": "1896",
+    "firstgame": "2018-07-05",
+    "lastgame": "2018-07-07"
+  },
+  {
+    "trname": "SEA-LJL-OPL Rift-Rivals 2018",
+    "region": "WR",
+    "nbgames": "19",
+    "avgtime": "1881",
+    "firstgame": "2018-07-02",
+    "lastgame": "2018-07-05"
+  },
+  {
+    "trname": "Mid-Season Invitational 2018",
+    "region": "WR",
+    "nbgames": "43",
+    "avgtime": "2064",
+    "firstgame": "2018-05-11",
+    "lastgame": "2018-05-20"
+  },
+  {
+    "trname": "MSI Play-In 2018",
+    "region": "WR",
+    "nbgames": "31",
+    "avgtime": "1931",
+    "firstgame": "2018-05-03",
+    "lastgame": "2018-05-09"
+  },
+  {
+    "trname": "LPL Spring Playoffs 2018",
+    "region": "CN",
+    "nbgames": "30",
+    "avgtime": "2062",
+    "firstgame": "2018-04-12",
+    "lastgame": "2018-04-28"
+  },
+  {
+    "trname": "TCL Spring Playoffs 2018",
+    "region": "TR",
+    "nbgames": "21",
+    "avgtime": "1867",
+    "firstgame": "2018-04-07",
+    "lastgame": "2018-04-22"
+  },
+  {
+    "trname": "LCK Summer Promotion 2018",
+    "region": "KR",
+    "nbgames": "17",
+    "avgtime": "2249",
+    "firstgame": "2018-04-17",
+    "lastgame": "2018-04-22"
+  },
+  {
+    "trname": "LMS Spring Playoffs 2018",
+    "region": "TW",
+    "nbgames": "10",
+    "avgtime": "2068",
+    "firstgame": "2018-04-14",
+    "lastgame": "2018-04-22"
+  },
+  {
+    "trname": "LLN Spring Playoffs 2018",
+    "region": "LAN",
+    "nbgames": "21",
+    "avgtime": "2223",
+    "firstgame": "2018-03-31",
+    "lastgame": "2018-04-21"
+  },
+  {
+    "trname": "LJL Spring Playoffs 2018",
+    "region": "JP",
+    "nbgames": "7",
+    "avgtime": "2382",
+    "firstgame": "2018-04-07",
+    "lastgame": "2018-04-14"
+  },
+  {
+    "trname": "LCK Spring Playoffs 2018",
+    "region": "KR",
+    "nbgames": "15",
+    "avgtime": "2141",
+    "firstgame": "2018-03-31",
+    "lastgame": "2018-04-14"
+  },
+  {
+    "trname": "CLS Opening Playoffs 2018",
+    "region": "LAS",
+    "nbgames": "20",
+    "avgtime": "2128",
+    "firstgame": "2018-03-29",
+    "lastgame": "2018-04-14"
+  },
+  {
+    "trname": "LPL Spring 2018",
+    "region": "CN",
+    "nbgames": "317",
+    "avgtime": "2058",
+    "firstgame": "2018-01-15",
+    "lastgame": "2018-04-08"
+  },
+  {
+    "trname": "NA LCS Spring Playoffs 2018",
+    "region": "NA",
+    "nbgames": "22",
+    "avgtime": "2017",
+    "firstgame": "2018-03-24",
+    "lastgame": "2018-04-08"
+  },
+  {
+    "trname": "EU LCS Spring Playoffs 2018",
+    "region": "EUW",
+    "nbgames": "24",
+    "avgtime": "2045",
+    "firstgame": "2018-03-23",
+    "lastgame": "2018-04-08"
+  },
+  {
+    "trname": "VCS Spring Playoffs 2018",
+    "region": "VN",
+    "nbgames": "13",
+    "avgtime": "2091",
+    "firstgame": "2018-03-30",
+    "lastgame": "2018-04-07"
+  },
+  {
+    "trname": "CBLOL Summer Playoffs 2018",
+    "region": "BR",
+    "nbgames": "18",
+    "avgtime": "2203",
+    "firstgame": "2018-03-17",
+    "lastgame": "2018-04-07"
+  },
+  {
+    "trname": "LCL Spring Playoffs 2018",
+    "region": "CIS",
+    "nbgames": "12",
+    "avgtime": "1966",
+    "firstgame": "2018-03-17",
+    "lastgame": "2018-04-01"
+  },
+  {
+    "trname": "LMS Spring 2018",
+    "region": "TW",
+    "nbgames": "133",
+    "avgtime": "2254",
+    "firstgame": "2018-01-20",
+    "lastgame": "2018-04-01"
+  },
+  {
+    "trname": "OPL Split 1 Playoffs 2018",
+    "region": "OCE",
+    "nbgames": "19",
+    "avgtime": "2038",
+    "firstgame": "2018-03-23",
+    "lastgame": "2018-03-31"
+  },
+  {
+    "trname": "LJL Spring 2018",
+    "region": "JP",
+    "nbgames": "69",
+    "avgtime": "2114",
+    "firstgame": "2018-02-09",
+    "lastgame": "2018-03-30"
+  },
+  {
+    "trname": "TCL Spring 2018",
+    "region": "TR",
+    "nbgames": "112",
+    "avgtime": "1948",
+    "firstgame": "2018-01-20",
+    "lastgame": "2018-03-26"
+  },
+  {
+    "trname": "CLS Opening 2018",
+    "region": "LAS",
+    "nbgames": "84",
+    "avgtime": "2082",
+    "firstgame": "2018-01-20",
+    "lastgame": "2018-03-25"
+  },
+  {
+    "trname": "LCK Spring 2018",
+    "region": "KR",
+    "nbgames": "214",
+    "avgtime": "2284",
+    "firstgame": "2018-01-16",
+    "lastgame": "2018-03-25"
+  },
+  {
+    "trname": "LLN Spring 2018",
+    "region": "LAN",
+    "nbgames": "43",
+    "avgtime": "2159",
+    "firstgame": "2018-01-20",
+    "lastgame": "2018-03-24"
+  },
+  {
+    "trname": "OPL Split 1 2018",
+    "region": "OCE",
+    "nbgames": "93",
+    "avgtime": "2025",
+    "firstgame": "2018-01-20",
+    "lastgame": "2018-03-18"
+  },
+  {
+    "trname": "NA LCS Spring 2018",
+    "region": "NA",
+    "nbgames": "95",
+    "avgtime": "2269",
+    "firstgame": "2018-01-20",
+    "lastgame": "2018-03-18"
+  },
+  {
+    "trname": "VCS Spring 2018",
+    "region": "VN",
+    "nbgames": "134",
+    "avgtime": "1917",
+    "firstgame": "2018-01-18",
+    "lastgame": "2018-03-18"
+  },
+  {
+    "trname": "EU LCS Spring 2018",
+    "region": "EUW",
+    "nbgames": "91",
+    "avgtime": "2327",
+    "firstgame": "2018-01-19",
+    "lastgame": "2018-03-17"
+  },
+  {
+    "trname": "CBLOL Summer 2018",
+    "region": "BR",
+    "nbgames": "66",
+    "avgtime": "2168",
+    "firstgame": "2018-01-20",
+    "lastgame": "2018-03-11"
+  },
+  {
+    "trname": "LCL Spring 2018",
+    "region": "CIS",
+    "nbgames": "58",
+    "avgtime": "2092",
+    "firstgame": "2018-02-10",
+    "lastgame": "2018-03-11"
+  }
+]

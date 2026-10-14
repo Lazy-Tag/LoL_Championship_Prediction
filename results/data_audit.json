@@ -1,0 +1,619 @@
+{
+  "cutoff": "2026-10-14T16:00:00Z (end of Oct 14 Asia/Shanghai); completed events only",
+  "weight_reference": "2026-10-19",
+  "date_resolution": "UTC scheduled series start day; EWC qualifiers use source match date",
+  "counts": {
+    "LPL": {
+      "series": 249,
+      "maps": 687,
+      "first": "2026-01-14",
+      "last": "2026-09-19",
+      "best_of": {
+        "3": 194,
+        "5": 55
+      }
+    },
+    "LCK": {
+      "series": 188,
+      "maps": 503,
+      "first": "2026-01-14",
+      "last": "2026-09-13",
+      "best_of": {
+        "3": 154,
+        "5": 34
+      }
+    },
+    "LCP": {
+      "series": 97,
+      "maps": 283,
+      "first": "2026-01-16",
+      "last": "2026-08-30",
+      "best_of": {
+        "3": 66,
+        "5": 31
+      }
+    },
+    "LEC": {
+      "series": 186,
+      "maps": 383,
+      "first": "2026-01-17",
+      "last": "2026-09-20",
+      "best_of": {
+        "1": 66,
+        "3": 100,
+        "5": 20
+      }
+    },
+    "CBLOL": {
+      "series": 117,
+      "maps": 275,
+      "first": "2026-01-17",
+      "last": "2026-10-10",
+      "best_of": {
+        "1": 28,
+        "3": 62,
+        "5": 27
+      }
+    },
+    "LCS": {
+      "series": 95,
+      "maps": 260,
+      "first": "2026-01-24",
+      "last": "2026-10-04",
+      "best_of": {
+        "3": 68,
+        "1": 1,
+        "5": 26
+      }
+    },
+    "Americas Cup": {
+      "series": 6,
+      "maps": 19,
+      "first": "2026-03-04",
+      "last": "2026-03-08",
+      "best_of": {
+        "3": 2,
+        "5": 4
+      }
+    },
+    "First Stand": {
+      "series": 13,
+      "maps": 45,
+      "first": "2026-03-16",
+      "last": "2026-03-22",
+      "best_of": {
+        "5": 13
+      }
+    },
+    "EWC Qualifiers": {
+      "series": 75,
+      "maps": 181,
+      "first": "2026-04-14",
+      "last": "2026-06-14",
+      "best_of": {
+        "3": 68,
+        "5": 7
+      }
+    },
+    "MSI": {
+      "series": 20,
+      "maps": 71,
+      "first": "2026-06-28",
+      "last": "2026-07-12",
+      "best_of": {
+        "5": 20
+      }
+    },
+    "Esports World Cup": {
+      "series": 28,
+      "maps": 51,
+      "first": "2026-07-15",
+      "last": "2026-07-19",
+      "best_of": {
+        "1": 12,
+        "3": 15,
+        "5": 1
+      }
+    },
+    "DCGI": {
+      "series": 25,
+      "maps": 62,
+      "first": "2026-10-03",
+      "last": "2026-10-14",
+      "best_of": {
+        "1": 6,
+        "3": 14,
+        "5": 5
+      }
+    }
+  },
+  "tournaments": [
+    {
+      "trname": "Demacia Cup Global Invitational 2026",
+      "region": "WR",
+      "nbgames": "62",
+      "avgtime": "1816",
+      "firstgame": "2026-10-03",
+      "lastgame": "2026-10-14",
+      "parsed_maps": 62,
+      "source": "https://gol.gg/tournament/tournament-matchlist/Demacia%20Cup%20Global%20Invitational%202026/"
+    },
+    {
+      "trname": "CBLOL 2026 Split 2 Playoffs",
+      "region": "BR",
+      "nbgames": "40",
+      "avgtime": "1980",
+      "firstgame": "2026-09-05",
+      "lastgame": "2026-10-10",
+      "parsed_maps": 40,
+      "source": "https://gol.gg/tournament/tournament-matchlist/CBLOL%202026%20Split%202%20Playoffs/"
+    },
+    {
+      "trname": "LCS 2026 Summer Playoffs",
+      "region": "NA",
+      "nbgames": "39",
+      "avgtime": "1975",
+      "firstgame": "2026-09-12",
+      "lastgame": "2026-10-04",
+      "parsed_maps": 39,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCS%202026%20Summer%20Playoffs/"
+    },
+    {
+      "trname": "LEC 2026 Summer Playoffs",
+      "region": "EUW",
+      "nbgames": "31",
+      "avgtime": "1967",
+      "firstgame": "2026-09-05",
+      "lastgame": "2026-09-20",
+      "parsed_maps": 31,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LEC%202026%20Summer%20Playoffs/"
+    },
+    {
+      "trname": "LPL 2026 Regional Finals",
+      "region": "CN",
+      "nbgames": "12",
+      "avgtime": "2025",
+      "firstgame": "2026-09-17",
+      "lastgame": "2026-09-19",
+      "parsed_maps": 12,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LPL%202026%20Regional%20Finals/"
+    },
+    {
+      "trname": "LCK 2026 Season Playoffs",
+      "region": "KR",
+      "nbgames": "41",
+      "avgtime": "1995",
+      "firstgame": "2026-08-29",
+      "lastgame": "2026-09-13",
+      "parsed_maps": 41,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCK%202026%20Season%20Playoffs/"
+    },
+    {
+      "trname": "LPL 2026 Grand Finals",
+      "region": "CN",
+      "nbgames": "55",
+      "avgtime": "1866",
+      "firstgame": "2026-08-28",
+      "lastgame": "2026-09-13",
+      "parsed_maps": 55,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LPL%202026%20Grand%20Finals/"
+    },
+    {
+      "trname": "LCS 2026 Summer",
+      "region": "NA",
+      "nbgames": "64",
+      "avgtime": "1918",
+      "firstgame": "2026-07-25",
+      "lastgame": "2026-09-06",
+      "parsed_maps": 64,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCS%202026%20Summer/"
+    },
+    {
+      "trname": "CBLOL 2026 Split 2",
+      "region": "BR",
+      "nbgames": "62",
+      "avgtime": "1913",
+      "firstgame": "2026-07-25",
+      "lastgame": "2026-08-30",
+      "parsed_maps": 62,
+      "source": "https://gol.gg/tournament/tournament-matchlist/CBLOL%202026%20Split%202/"
+    },
+    {
+      "trname": "LCP 2026 Split 3",
+      "region": "WR",
+      "nbgames": "80",
+      "avgtime": "1957",
+      "firstgame": "2026-07-25",
+      "lastgame": "2026-08-30",
+      "parsed_maps": 80,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCP%202026%20Split%203/"
+    },
+    {
+      "trname": "LEC 2026 Summer Season",
+      "region": "EUW",
+      "nbgames": "106",
+      "avgtime": "2003",
+      "firstgame": "2026-07-24",
+      "lastgame": "2026-08-30",
+      "parsed_maps": 106,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LEC%202026%20Summer%20Season/"
+    },
+    {
+      "trname": "LCK 2026 Season Play-In",
+      "region": "KR",
+      "nbgames": "14",
+      "avgtime": "1943",
+      "firstgame": "2026-08-26",
+      "lastgame": "2026-08-28",
+      "parsed_maps": 14,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCK%202026%20Season%20Play-In/"
+    },
+    {
+      "trname": "LCK 2026 Rounds 3-4",
+      "region": "KR",
+      "nbgames": "99",
+      "avgtime": "1938",
+      "firstgame": "2026-07-29",
+      "lastgame": "2026-08-23",
+      "parsed_maps": 99,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCK%202026%20Rounds%203-4/"
+    },
+    {
+      "trname": "LPL 2026 Split 3",
+      "region": "CN",
+      "nbgames": "167",
+      "avgtime": "1920",
+      "firstgame": "2026-07-22",
+      "lastgame": "2026-08-23",
+      "parsed_maps": 167,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LPL%202026%20Split%203/"
+    },
+    {
+      "trname": "Esports World Cup 2026",
+      "region": "WR",
+      "nbgames": "51",
+      "avgtime": "1957",
+      "firstgame": "2026-07-15",
+      "lastgame": "2026-07-19",
+      "parsed_maps": 51,
+      "source": "https://gol.gg/tournament/tournament-matchlist/Esports%20World%20Cup%202026/"
+    },
+    {
+      "trname": "MSI 2026",
+      "region": "WR",
+      "nbgames": "71",
+      "avgtime": "1952",
+      "firstgame": "2026-06-28",
+      "lastgame": "2026-07-12",
+      "parsed_maps": 71,
+      "source": "https://gol.gg/tournament/tournament-matchlist/MSI%202026/"
+    },
+    {
+      "trname": "EWC 2026 Online Qualifier - South America",
+      "region": "WR",
+      "nbgames": "30",
+      "avgtime": "1987",
+      "firstgame": "2026-06-07",
+      "lastgame": "2026-06-14",
+      "parsed_maps": 30,
+      "source": "https://gol.gg/tournament/tournament-matchlist/EWC%202026%20Online%20Qualifier%20-%20South%20America/"
+    },
+    {
+      "trname": "LCK 2026 Road to MSI",
+      "region": "KR",
+      "nbgames": "20",
+      "avgtime": "2069",
+      "firstgame": "2026-06-06",
+      "lastgame": "2026-06-14",
+      "parsed_maps": 20,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCK%202026%20Road%20to%20MSI/"
+    },
+    {
+      "trname": "LCS 2026 Spring Playoffs",
+      "region": "NA",
+      "nbgames": "29",
+      "avgtime": "1981",
+      "firstgame": "2026-05-23",
+      "lastgame": "2026-06-14",
+      "parsed_maps": 29,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCS%202026%20Spring%20Playoffs/"
+    },
+    {
+      "trname": "LPL 2026 Split 2 Playoffs",
+      "region": "CN",
+      "nbgames": "68",
+      "avgtime": "1967",
+      "firstgame": "2026-05-23",
+      "lastgame": "2026-06-14",
+      "parsed_maps": 68,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LPL%202026%20Split%202%20Playoffs/"
+    },
+    {
+      "trname": "LCP 2026 Split 2 Playoffs",
+      "region": "WR",
+      "nbgames": "32",
+      "avgtime": "1887",
+      "firstgame": "2026-05-23",
+      "lastgame": "2026-06-07",
+      "parsed_maps": 32,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCP%202026%20Split%202%20Playoffs/"
+    },
+    {
+      "trname": "LEC 2026 Spring Playoffs",
+      "region": "EUW",
+      "nbgames": "30",
+      "avgtime": "1981",
+      "firstgame": "2026-05-23",
+      "lastgame": "2026-06-07",
+      "parsed_maps": 30,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LEC%202026%20Spring%20Playoffs/"
+    },
+    {
+      "trname": "CBLOL 2026 Split 1 Playoffs",
+      "region": "BR",
+      "nbgames": "39",
+      "avgtime": "1946",
+      "firstgame": "2026-05-09",
+      "lastgame": "2026-06-06",
+      "parsed_maps": 39,
+      "source": "https://gol.gg/tournament/tournament-matchlist/CBLOL%202026%20Split%201%20Playoffs/"
+    },
+    {
+      "trname": "LCK 2026 Rounds 1-2",
+      "region": "KR",
+      "nbgames": "204",
+      "avgtime": "1889",
+      "firstgame": "2026-04-01",
+      "lastgame": "2026-05-31",
+      "parsed_maps": 204,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCK%202026%20Rounds%201-2/"
+    },
+    {
+      "trname": "EWC 2026 Online Qualifier - Korea",
+      "region": "WR",
+      "nbgames": "34",
+      "avgtime": "1828",
+      "firstgame": "2026-05-04",
+      "lastgame": "2026-05-26",
+      "parsed_maps": 34,
+      "source": "https://gol.gg/tournament/tournament-matchlist/EWC%202026%20Online%20Qualifier%20-%20Korea/"
+    },
+    {
+      "trname": "EWC 2026 Online Qualifier - APAC",
+      "region": "WR",
+      "nbgames": "35",
+      "avgtime": "1882",
+      "firstgame": "2026-05-05",
+      "lastgame": "2026-05-20",
+      "parsed_maps": 35,
+      "source": "https://gol.gg/tournament/tournament-matchlist/EWC%202026%20Online%20Qualifier%20-%20APAC/"
+    },
+    {
+      "trname": "EWC 2026 Online Qualifier - EMEA",
+      "region": "WR",
+      "nbgames": "49",
+      "avgtime": "1986",
+      "firstgame": "2026-04-28",
+      "lastgame": "2026-05-17",
+      "parsed_maps": 49,
+      "source": "https://gol.gg/tournament/tournament-matchlist/EWC%202026%20Online%20Qualifier%20-%20EMEA/"
+    },
+    {
+      "trname": "LCP 2026 Split 2",
+      "region": "WR",
+      "nbgames": "69",
+      "avgtime": "1949",
+      "firstgame": "2026-04-04",
+      "lastgame": "2026-05-17",
+      "parsed_maps": 69,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCP%202026%20Split%202/"
+    },
+    {
+      "trname": "LCS 2026 Spring",
+      "region": "NA",
+      "nbgames": "69",
+      "avgtime": "1970",
+      "firstgame": "2026-04-04",
+      "lastgame": "2026-05-17",
+      "parsed_maps": 69,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCS%202026%20Spring/"
+    },
+    {
+      "trname": "LPL 2026 Split 2",
+      "region": "CN",
+      "nbgames": "171",
+      "avgtime": "1942",
+      "firstgame": "2026-04-04",
+      "lastgame": "2026-05-17",
+      "parsed_maps": 171,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LPL%202026%20Split%202/"
+    },
+    {
+      "trname": "LEC 2026 Spring Season",
+      "region": "EUW",
+      "nbgames": "111",
+      "avgtime": "2049",
+      "firstgame": "2026-03-28",
+      "lastgame": "2026-05-10",
+      "parsed_maps": 111,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LEC%202026%20Spring%20Season/"
+    },
+    {
+      "trname": "CBLOL 2026 Split 1",
+      "region": "BR",
+      "nbgames": "66",
+      "avgtime": "1975",
+      "firstgame": "2026-03-28",
+      "lastgame": "2026-05-03",
+      "parsed_maps": 66,
+      "source": "https://gol.gg/tournament/tournament-matchlist/CBLOL%202026%20Split%201/"
+    },
+    {
+      "trname": "EWC 2026 Qualifier NA",
+      "region": "WR",
+      "nbgames": "33",
+      "avgtime": "1944",
+      "firstgame": "2026-04-14",
+      "lastgame": "2026-04-29",
+      "parsed_maps": 33,
+      "source": "https://gol.gg/tournament/tournament-matchlist/EWC%202026%20Qualifier%20NA/"
+    },
+    {
+      "trname": "2026 First Stand",
+      "region": "WR",
+      "nbgames": "45",
+      "avgtime": "1829",
+      "firstgame": "2026-03-16",
+      "lastgame": "2026-03-22",
+      "parsed_maps": 45,
+      "source": "https://gol.gg/tournament/tournament-matchlist/2026%20First%20Stand/"
+    },
+    {
+      "trname": "Americas Cup 2026",
+      "region": "WR",
+      "nbgames": "19",
+      "avgtime": "2021",
+      "firstgame": "2026-03-04",
+      "lastgame": "2026-03-08",
+      "parsed_maps": 19,
+      "source": "https://gol.gg/tournament/tournament-matchlist/Americas%20Cup%202026/"
+    },
+    {
+      "trname": "LPL 2026 Split 1 Playoffs",
+      "region": "CN",
+      "nbgames": "77",
+      "avgtime": "1976",
+      "firstgame": "2026-02-09",
+      "lastgame": "2026-03-08",
+      "parsed_maps": 77,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LPL%202026%20Split%201%20Playoffs/"
+    },
+    {
+      "trname": "CBLOL Cup 2026",
+      "region": "BR",
+      "nbgames": "68",
+      "avgtime": "2012",
+      "firstgame": "2026-01-17",
+      "lastgame": "2026-03-01",
+      "parsed_maps": 68,
+      "source": "https://gol.gg/tournament/tournament-matchlist/CBLOL%20Cup%202026/"
+    },
+    {
+      "trname": "LCK Cup 2026",
+      "region": "KR",
+      "nbgames": "125",
+      "avgtime": "1956",
+      "firstgame": "2026-01-14",
+      "lastgame": "2026-03-01",
+      "parsed_maps": 125,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCK%20Cup%202026/"
+    },
+    {
+      "trname": "LCP 2026 Split 1 Playoffs",
+      "region": "WR",
+      "nbgames": "32",
+      "avgtime": "1905",
+      "firstgame": "2026-02-12",
+      "lastgame": "2026-03-01",
+      "parsed_maps": 32,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCP%202026%20Split%201%20Playoffs/"
+    },
+    {
+      "trname": "LCS 2026 Lock-In",
+      "region": "NA",
+      "nbgames": "59",
+      "avgtime": "1994",
+      "firstgame": "2026-01-24",
+      "lastgame": "2026-03-01",
+      "parsed_maps": 59,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCS%202026%20Lock-In/"
+    },
+    {
+      "trname": "LEC 2026 Versus Playoffs",
+      "region": "EUW",
+      "nbgames": "39",
+      "avgtime": "2032",
+      "firstgame": "2026-02-16",
+      "lastgame": "2026-03-01",
+      "parsed_maps": 39,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LEC%202026%20Versus%20Playoffs/"
+    },
+    {
+      "trname": "LCP 2026 Split 1",
+      "region": "WR",
+      "nbgames": "70",
+      "avgtime": "1984",
+      "firstgame": "2026-01-16",
+      "lastgame": "2026-02-08",
+      "parsed_maps": 70,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LCP%202026%20Split%201/"
+    },
+    {
+      "trname": "LEC 2026 Versus Season",
+      "region": "EUW",
+      "nbgames": "66",
+      "avgtime": "2013",
+      "firstgame": "2026-01-17",
+      "lastgame": "2026-02-08",
+      "parsed_maps": 66,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LEC%202026%20Versus%20Season/"
+    },
+    {
+      "trname": "LPL 2026 Split 1",
+      "region": "CN",
+      "nbgames": "137",
+      "avgtime": "1983",
+      "firstgame": "2026-01-14",
+      "lastgame": "2026-02-07",
+      "parsed_maps": 137,
+      "source": "https://gol.gg/tournament/tournament-matchlist/LPL%202026%20Split%201/"
+    }
+  ],
+  "unmatched_gol": [],
+  "unmatched_official": [],
+  "aliases": {
+    "AG.AL": "Anyone's Legend",
+    "Anyone s Legend": "Anyone's Legend",
+    "MIBR.LOS": "LOS",
+    "Los Grandes": "LOS",
+    "LØS": "LOS",
+    "Team Secret": "Team Secret Whales",
+    "Secret Whales": "Team Secret Whales",
+    "Gen.G": "Gen.G Esports",
+    "Cloud9": "Cloud9 Kia",
+    "Deep Cross Gaming": "Relove Deep Cross Gaming",
+    "JD Gaming": "Beijing JDG Esports",
+    "LNG Esports": "Suzhou LNG Esports",
+    "Ninjas in Pyjamas": "Shenzhen NINJAS IN PYJAMAS",
+    "RED Canids": "RED Kalunga",
+    "Team Liquid": "Team Liquid Alienware",
+    "Team WE": "Xi'an Team WE",
+    "Weibo Gaming": "WeiboGaming"
+  },
+  "excluded": [
+    "2025 matches",
+    "tier-2 domestic leagues",
+    "national-team events (Asian Games, CACG)",
+    "KeSPA Cup (domestic non-league cup)",
+    "promotion tournaments (tier-1/tier-2 mixed qualifiers)",
+    "unplayed future matches"
+  ],
+  "resolved_conflicts": [
+    {
+      "official_id": "115548147900553473",
+      "gol": {
+        "tournament": "LCK 2026 Rounds 3-4",
+        "team1": "Gen.G",
+        "team2": "Dplus KIA",
+        "wins1": 1,
+        "wins2": 1,
+        "stage": "WEEK10",
+        "date": "2026-08-01",
+        "source": "https://gol.gg/tournament/tournament-matchlist/LCK%202026%20Rounds%203-4/",
+        "detail": "https://gol.gg/game/stats/80675/page-summary/"
+      },
+      "resolution": "GOL lists invalid completed BO3 score 1-1; retain official Riot 0-2, independently corroborated.",
+      "corroboration": "https://www.reddit.com/r/leagueoflegends/comments/1vcm8sk/geng_vs_dplus_kia_lck_2026_season_rounds_34/"
+    }
+  ]
+}

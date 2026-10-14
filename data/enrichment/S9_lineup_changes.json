@@ -1,0 +1,202 @@
+[
+  {
+    "team": "hongkongattitude",
+    "previous_observed": "2019-10-03 11:46:00",
+    "next_observed": "2019-10-03 15:39:00",
+    "previous_players": [
+      "3z",
+      "Crash",
+      "Kaiwing",
+      "Mission",
+      "MnM"
+    ],
+    "next_players": [
+      "3z",
+      "Crash",
+      "Kaiwing",
+      "Mission",
+      "Unified"
+    ],
+    "gameid": "ESPORTSTMNT06/1070475"
+  },
+  {
+    "team": "gamesports",
+    "previous_observed": "2019-10-12 17:15:00",
+    "next_observed": "2019-10-14 15:56:00",
+    "previous_players": [
+      "Hieu3",
+      "Kiaya",
+      "Levi",
+      "Zeros",
+      "Zin"
+    ],
+    "next_players": [
+      "Kiaya",
+      "Levi",
+      "Slay",
+      "Zeros",
+      "Zin"
+    ],
+    "gameid": "ESPORTSTMNT06/1061161"
+  },
+  {
+    "team": "cloud9",
+    "previous_observed": "2019-10-13 16:45:00",
+    "next_observed": "2019-10-14 18:02:00",
+    "previous_players": [
+      "Licorice",
+      "Nisqy",
+      "Sneaky",
+      "Svenskeren",
+      "Zeyzal"
+    ],
+    "next_players": [
+      "Blaber",
+      "Licorice",
+      "Nisqy",
+      "Sneaky",
+      "Zeyzal"
+    ],
+    "gameid": "ESPORTSTMNT06/1061189"
+  },
+  {
+    "team": "cloud9",
+    "previous_observed": "2019-10-15 16:44:00",
+    "next_observed": "2019-10-18 12:29:00",
+    "previous_players": [
+      "Blaber",
+      "Licorice",
+      "Nisqy",
+      "Sneaky",
+      "Zeyzal"
+    ],
+    "next_players": [
+      "Licorice",
+      "Nisqy",
+      "Sneaky",
+      "Svenskeren",
+      "Zeyzal"
+    ],
+    "gameid": "ESPORTSTMNT06/1071527"
+  },
+  {
+    "team": "cloud9",
+    "previous_observed": "2019-10-18 15:23:00",
+    "next_observed": "2019-10-18 16:19:00",
+    "previous_players": [
+      "Licorice",
+      "Nisqy",
+      "Sneaky",
+      "Svenskeren",
+      "Zeyzal"
+    ],
+    "next_players": [
+      "Blaber",
+      "Deftly",
+      "Licorice",
+      "Nisqy",
+      "Zeyzal"
+    ],
+    "gameid": "ESPORTSTMNT06/1071560"
+  },
+  {
+    "team": "invictusgaming",
+    "previous_observed": "2019-10-14 12:44:00",
+    "next_observed": "2019-10-20 11:37:00",
+    "previous_players": [
+      "Baolan",
+      "JackeyLove",
+      "Leyan",
+      "Rookie",
+      "TheShy"
+    ],
+    "next_players": [
+      "Baolan",
+      "JackeyLove",
+      "Ning",
+      "Rookie",
+      "TheShy"
+    ],
+    "gameid": "ESPORTSTMNT06/1071696"
+  },
+  {
+    "team": "ahqesportsclub",
+    "previous_observed": "2019-10-20 13:43:00",
+    "next_observed": "2019-10-20 15:32:00",
+    "previous_players": [
+      "Alex",
+      "Rainbow",
+      "Wako",
+      "Ysera",
+      "Ziv"
+    ],
+    "next_players": [
+      "Alex",
+      "Apex",
+      "Wako",
+      "Ysera",
+      "Ziv"
+    ],
+    "gameid": "ESPORTSTMNT06/1071724"
+  },
+  {
+    "team": "sktelecomt1",
+    "previous_observed": "2019-10-27 11:45:00",
+    "next_observed": "2019-10-27 12:34:00",
+    "previous_players": [
+      "Clid",
+      "Effort",
+      "Faker",
+      "Khan",
+      "Teddy"
+    ],
+    "next_players": [
+      "Clid",
+      "Faker",
+      "Khan",
+      "Mata",
+      "Teddy"
+    ],
+    "gameid": "ESPORTSTMNT06/1062065"
+  },
+  {
+    "team": "sktelecomt1",
+    "previous_observed": "2019-10-27 12:34:00",
+    "next_observed": "2019-10-27 13:27:00",
+    "previous_players": [
+      "Clid",
+      "Faker",
+      "Khan",
+      "Mata",
+      "Teddy"
+    ],
+    "next_players": [
+      "Clid",
+      "Effort",
+      "Faker",
+      "Khan",
+      "Teddy"
+    ],
+    "gameid": "ESPORTSTMNT06/1062070"
+  },
+  {
+    "team": "sktelecomt1",
+    "previous_observed": "2019-11-03 12:47:00",
+    "next_observed": "2019-11-03 13:42:00",
+    "previous_players": [
+      "Clid",
+      "Effort",
+      "Faker",
+      "Khan",
+      "Teddy"
+    ],
+    "next_players": [
+      "Clid",
+      "Faker",
+      "Khan",
+      "Mata",
+      "Teddy"
+    ],
+    "gameid": "ESPORTSTMNT06/1062265"
+  }
+]
