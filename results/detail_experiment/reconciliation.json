@@ -1,0 +1,6298 @@
+[
+  {
+    "season": 4,
+    "counts": {
+      "matched_series": 0,
+      "matched_maps": 0
+    },
+    "unmatched": []
+  },
+  {
+    "season": 5,
+    "counts": {
+      "matched_series": 0,
+      "matched_maps": 0
+    },
+    "unmatched": []
+  },
+  {
+    "season": 6,
+    "counts": {
+      "candidate_maps": 1493,
+      "unknown_name_or_date_maps": 468,
+      "unmatched_or_ambiguous_maps": 104,
+      "matched_series": 457,
+      "matched_maps": 921
+    },
+    "unmatched": [
+      {
+        "date": "2016-01-14",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "flashwolves"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-01-21",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "hongkongesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-01-22",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "taipeiassassins"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-01-29",
+        "league": "LMS",
+        "teams": [
+          "hongkongesports",
+          "taipeiassassins"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-02-05",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "hongkongesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-02-19",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "taipeiassassins"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-02-25",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "hongkongesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-03-12",
+        "league": "LMS",
+        "teams": [
+          "hongkongesports",
+          "taipeiassassins"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-03-19",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "hongkongesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-03-20",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "taipeiassassins"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-03-25",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "taipeiassassins"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-03-27",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "flashwolves"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-05-27",
+        "league": "LCK",
+        "teams": [
+          "jinairgreenwings",
+          "longzhugaming"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-05-28",
+        "league": "LCK",
+        "teams": [
+          "jinairgreenwings",
+          "longzhugaming"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-03",
+        "league": "LCK",
+        "teams": [
+          "ktrolster",
+          "sktelecomt1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-04",
+        "league": "LCK",
+        "teams": [
+          "ktrolster",
+          "sktelecomt1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-10",
+        "league": "LCK",
+        "teams": [
+          "escever",
+          "mvp"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-11",
+        "league": "LCK",
+        "teams": [
+          "escever",
+          "mvp"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-24",
+        "league": "LCK",
+        "teams": [
+          "cjentus",
+          "ktrolster"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-25",
+        "league": "LCK",
+        "teams": [
+          "cjentus",
+          "ktrolster"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-08",
+        "league": "LCK",
+        "teams": [
+          "ktrolster",
+          "sktelecomt1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-09",
+        "league": "LCK",
+        "teams": [
+          "ktrolster",
+          "sktelecomt1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-15",
+        "league": "LCK",
+        "teams": [
+          "roxtigers",
+          "samsunggalaxy"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-16",
+        "league": "LCK",
+        "teams": [
+          "roxtigers",
+          "samsunggalaxy"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-22",
+        "league": "LCK",
+        "teams": [
+          "afreecafreecs",
+          "sktelecomt1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-23",
+        "league": "LCK",
+        "teams": [
+          "afreecafreecs",
+          "sktelecomt1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-29",
+        "league": "LCK",
+        "teams": [
+          "mvp",
+          "samsunggalaxy"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-30",
+        "league": "LCK",
+        "teams": [
+          "mvp",
+          "samsunggalaxy"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-08-05",
+        "league": "LCK",
+        "teams": [
+          "escever",
+          "jinairgreenwings"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-08-06",
+        "league": "LCK",
+        "teams": [
+          "escever",
+          "jinairgreenwings"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-16",
+        "league": "LMS",
+        "teams": [
+          "hongkongesports",
+          "jteam"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-18",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "flashwolves"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-26",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "hongkongesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-09",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "jteam"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-10",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "hongkongesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-16",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "jteam"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-16",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "hongkongesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-17",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "jteam"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-23",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "hongkongesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-08-05",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "jteam"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-08-06",
+        "league": "LMS",
+        "teams": [
+          "ahqesports",
+          "flashwolves"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-08-07",
+        "league": "LMS",
+        "teams": [
+          "hongkongesports",
+          "jteam"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-10",
+        "league": "NALCS",
+        "teams": [
+          "immortals",
+          "nrgesports"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-17",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "teamsolomid"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-17",
+        "league": "NALCS",
+        "teams": [
+          "phoenix1",
+          "teamliquid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-06-24",
+        "league": "NALCS",
+        "teams": [
+          "clg",
+          "immortals"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-01",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-01",
+        "league": "NALCS",
+        "teams": [
+          "echofox",
+          "envyus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-02",
+        "league": "NALCS",
+        "teams": [
+          "echofox",
+          "envyus"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-08",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "teamsolomid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-08",
+        "league": "NALCS",
+        "teams": [
+          "envyus",
+          "immortals"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-15",
+        "league": "NALCS",
+        "teams": [
+          "clg",
+          "immortals"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-15",
+        "league": "NALCS",
+        "teams": [
+          "nrgesports",
+          "phoenix1"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-22",
+        "league": "NALCS",
+        "teams": [
+          "immortals",
+          "nrgesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-29",
+        "league": "NALCS",
+        "teams": [
+          "immortals",
+          "teamsolomid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2016-07-29",
+        "league": "NALCS",
+        "teams": [
+          "envyus",
+          "phoenix1"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 7,
+    "counts": {
+      "candidate_maps": 2678,
+      "unknown_name_or_date_maps": 1246,
+      "unmatched_or_ambiguous_maps": 123,
+      "matched_series": 554,
+      "matched_maps": 1309
+    },
+    "unmatched": [
+      {
+        "date": "2017-06-02",
+        "league": "NALCS",
+        "teams": [
+          "immortals",
+          "phoenix1"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-09",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "phoenix1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-03",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "supermassive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-05",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "darkpassage"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-10",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "supermassive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-12",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-16",
+        "league": "NALCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-18",
+        "league": "LMS",
+        "teams": [
+          "jteam",
+          "raisegaming"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-17",
+        "league": "TCL",
+        "teams": [
+          "supermassive",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-19",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-23",
+        "league": "NALCS",
+        "teams": [
+          "echofox",
+          "phoenix1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-06-30",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "teamsolomid"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-02",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "supermassive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-14",
+        "league": "NALCS",
+        "teams": [
+          "echofox",
+          "immortals"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-16",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "darkpassage"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-17",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "supermassive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-21",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "phoenix1"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-23",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-24",
+        "league": "TCL",
+        "teams": [
+          "supermassive",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-28",
+        "league": "NALCS",
+        "teams": [
+          "echofox",
+          "phoenix1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-28",
+        "league": "NALCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-07-29",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-08-06",
+        "league": "LMS",
+        "teams": [
+          "flashwolves",
+          "raisegaming"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-08-06",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "teamaurora"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-08-13",
+        "league": "TCL",
+        "teams": [
+          "supermassive",
+          "teamaurora"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-09-11",
+        "league": "LCK",
+        "teams": [
+          "bbqolivers",
+          "cjentus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-09-12",
+        "league": "LCK",
+        "teams": [
+          "bbqolivers",
+          "cjentus"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-09-12",
+        "league": "LCK",
+        "teams": [
+          "ever8winners",
+          "kongdoomonster"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-03-10",
+        "league": "NALCS",
+        "teams": [
+          "flyquest",
+          "phoenix1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-01-20",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "teamsolomid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-01-20",
+        "league": "NALCS",
+        "teams": [
+          "echofox",
+          "phoenix1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-01-27",
+        "league": "NALCS",
+        "teams": [
+          "dignitas",
+          "teamsolomid"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-03",
+        "league": "NALCS",
+        "teams": [
+          "immortals",
+          "phoenix1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-10",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-10",
+        "league": "NALCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-17",
+        "league": "NALCS",
+        "teams": [
+          "dignitas",
+          "flyquest"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-01-21",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "supermassive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-01-29",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "darkpassage"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-01-30",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-05",
+        "league": "TCL",
+        "teams": [
+          "supermassive",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-06",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "supermassive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-11",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-13",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "supermassive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-02-19",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "darkpassage"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-03-03",
+        "league": "NALCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-03-04",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-03-10",
+        "league": "NALCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-03-05",
+        "league": "TCL",
+        "teams": [
+          "supermassive",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-04-08",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "teamaurora"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-03-11",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "supermassive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-03-13",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "teamaurora"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-04-22",
+        "league": "TCL",
+        "teams": [
+          "crewesportsclub",
+          "supermassive"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2017-05-14",
+        "league": "MSI",
+        "teams": [
+          "flashwolves",
+          "teamsolomid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 8,
+    "counts": {
+      "candidate_maps": 2461,
+      "unknown_name_or_date_maps": 1145,
+      "unmatched_or_ambiguous_maps": 20,
+      "matched_series": 723,
+      "matched_maps": 1296
+    },
+    "unmatched": [
+      {
+        "date": "2018-06-12",
+        "league": "LCK",
+        "teams": [
+          "gengesports",
+          "kingzonedragonx"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-06-13",
+        "league": "LCK",
+        "teams": [
+          "gengesports",
+          "kingzonedragonx"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-06-19",
+        "league": "LCK",
+        "teams": [
+          "griffin",
+          "jinairgreenwings"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-06-20",
+        "league": "LCK",
+        "teams": [
+          "griffin",
+          "jinairgreenwings"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-06-26",
+        "league": "LCK",
+        "teams": [
+          "hanwhalifeesports",
+          "mvp"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-06-27",
+        "league": "LCK",
+        "teams": [
+          "hanwhalifeesports",
+          "mvp"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-06-30",
+        "league": "CBLoL",
+        "teams": [
+          "flamengoesports",
+          "progamingesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-07-24",
+        "league": "LCK",
+        "teams": [
+          "bbqolivers",
+          "sktelecomt1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-07-25",
+        "league": "LCK",
+        "teams": [
+          "bbqolivers",
+          "sktelecomt1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-08-20",
+        "league": "NALCS",
+        "teams": [
+          "echofox",
+          "teamsolomid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-08-20",
+        "league": "NALCS",
+        "teams": [
+          "100thieves",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-08-20",
+        "league": "NALCS",
+        "teams": [
+          "flyquest",
+          "teamsolomid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-08-20",
+        "league": "NALCS",
+        "teams": [
+          "100thieves",
+          "echofox"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-09-15",
+        "league": "NALCS",
+        "teams": [
+          "echofox",
+          "teamsolomid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2018-03-18",
+        "league": "NALCS",
+        "teams": [
+          "100thieves",
+          "echofox"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 9,
+    "counts": {
+      "candidate_maps": 2119,
+      "unknown_name_or_date_maps": 987,
+      "unmatched_or_ambiguous_maps": 14,
+      "matched_series": 627,
+      "matched_maps": 1118
+    },
+    "unmatched": [
+      {
+        "date": "2019-01-25",
+        "league": "LMS",
+        "teams": [
+          "ahqesportsclub",
+          "grex"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2019-02-11",
+        "league": "CBLoL",
+        "teams": [
+          "flamengoesports",
+          "progamingesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2019-03-24",
+        "league": "LCK",
+        "teams": [
+          "afreecafreecs",
+          "kingzonedragonx"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2019-03-24",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2019-05-04",
+        "league": "MSI",
+        "teams": [
+          "detonationfocusme",
+          "intzesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2019-05-05",
+        "league": "MSI",
+        "teams": [
+          "detonationfocusme",
+          "intzesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2019-05-18",
+        "league": "MSI",
+        "teams": [
+          "g2esports",
+          "sktelecomt1"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2019-09-15",
+        "league": "LEC",
+        "teams": [
+          "fnatic",
+          "splyce"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 10,
+    "counts": {
+      "candidate_maps": 3526,
+      "unknown_name_or_date_maps": 1045,
+      "unmatched_or_ambiguous_maps": 92,
+      "matched_series": 1471,
+      "matched_maps": 2389
+    },
+    "unmatched": [
+      {
+        "date": "2020-01-26",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-01-28",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-01-28",
+        "league": "LCS",
+        "teams": [
+          "teamliquid",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-02",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-04",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-09",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-11",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-16",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-18",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-18",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-23",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-25",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-02-25",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-01",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-03",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-08",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-10",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-15",
+        "league": "PCS",
+        "teams": [
+          "liyabesports",
+          "resurgence"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-21",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-21",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "cloud9"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-21",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-22",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-22",
+        "league": "PCS",
+        "teams": [
+          "jteam",
+          "liyabesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-22",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-22",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-22",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-22",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-03-29",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-04-12",
+        "league": "LCL",
+        "teams": [
+          "rox",
+          "unicornsoflove"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-05-05",
+        "league": "TCL",
+        "teams": [
+          "darkpassage",
+          "istanbulwildcats"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-05-19",
+        "league": "CBLOL",
+        "teams": [
+          "intzesports",
+          "teamoneesports"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-05-20",
+        "league": "CBLOL",
+        "teams": [
+          "intzesports",
+          "teamoneesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-05-29",
+        "league": "MSC",
+        "teams": [
+          "dragonx",
+          "gengesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-05-29",
+        "league": "MSC",
+        "teams": [
+          "dragonx",
+          "jdgaming"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-06-13",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-06-13",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-06-20",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-06-27",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-07-04",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-07-11",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-07-11",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-07-18",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-07-18",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-07-25",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-07-25",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-01",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-01",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-02",
+        "league": "PCS",
+        "teams": [
+          "hongkongattitude",
+          "novaesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-02",
+        "league": "PCS",
+        "teams": [
+          "alphaesports",
+          "novaesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-02",
+        "league": "VCS",
+        "teams": [
+          "gamesports",
+          "saigonbuffalo"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-08",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-08",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-14",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-15",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-23",
+        "league": "PCS",
+        "teams": [
+          "ahqesportsclub",
+          "jteam"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-08-30",
+        "league": "LCK",
+        "teams": [
+          "dragonx",
+          "gengesports"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-09-05",
+        "league": "LCS",
+        "teams": [
+          "teamliquid",
+          "tsm"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-09-06",
+        "league": "LCS",
+        "teams": [
+          "teamliquid",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-09-06",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "tsm"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-09-07",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "tsm"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-09-27",
+        "league": "WLDs",
+        "teams": [
+          "lgdgaming",
+          "v3esports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-10-08",
+        "league": "WLDs",
+        "teams": [
+          "g2esports",
+          "suning"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2020-11-29",
+        "league": "VCS",
+        "teams": [
+          "overpoweresports",
+          "saigonbuffalo"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 11,
+    "counts": {
+      "candidate_maps": 3713,
+      "unknown_name_or_date_maps": 1189,
+      "unmatched_or_ambiguous_maps": 146,
+      "matched_series": 1473,
+      "matched_maps": 2378
+    },
+    "unmatched": [
+      {
+        "date": "2021-01-16",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-16",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-16",
+        "league": "LPL",
+        "teams": [
+          "lgdgaming",
+          "victoryfive"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-17",
+        "league": "LPL",
+        "teams": [
+          "lgdgaming",
+          "victoryfive"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-18",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-23",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-23",
+        "league": "LCS",
+        "teams": [
+          "teamliquid",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-23",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-23",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "tsm"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-24",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-29",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "cloud9"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-30",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "cloud9"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-31",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "kaoslatingamers"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-31",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-01-31",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-01",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-01",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "xtenesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-06",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-06",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-07",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-08",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-08",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-13",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-13",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-13",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-14",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-15",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "kaoslatingamers"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-20",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-20",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-20",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-21",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "furiousgaming"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-21",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-22",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-22",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-25",
+        "league": "CBLOL",
+        "teams": [
+          "rensgaesports",
+          "voraxliberty"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-25",
+        "league": "CBLOL",
+        "teams": [
+          "loud",
+          "voraxliberty"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-27",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-27",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-02-28",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-01",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "xtenesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-06",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-06",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-07",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-08",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-08",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "furiousgaming"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-13",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-13",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-13",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-14",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "estralesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-15",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "furiousgaming"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-03-21",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "furiousgaming"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-04-11",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-04-12",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-05-09",
+        "league": "MSI",
+        "teams": [
+          "royalnevergiveup",
+          "unicornsoflove"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-05-09",
+        "league": "MSI",
+        "teams": [
+          "pentanetgg",
+          "unicornsoflove"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-05-09",
+        "league": "MSI",
+        "teams": [
+          "pentanetgg",
+          "royalnevergiveup"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-05-19",
+        "league": "VCS",
+        "teams": [
+          "bursttheskyesports",
+          "luxuryesports"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-05",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-05",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-06",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-12",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-12",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-13",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-19",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-20",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-20",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "estralesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-20",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-21",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-26",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-26",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-27",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-27",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-06-28",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "kaoslatingamers"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-03",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-03",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-04",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-05",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-10",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-10",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-11",
+        "league": "PCS",
+        "teams": [
+          "berjayadragons",
+          "impunity"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-17",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-18",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-24",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-07-31",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-02",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-07",
+        "league": "PCS",
+        "teams": [
+          "boomesports",
+          "jteam"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-09",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-14",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-14",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "isurus"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-15",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-15",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-20",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "tsm"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-21",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-21",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "teamliquid"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-21",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "furiousgaming"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-22",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "furiousgaming"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-22",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-08-22",
+        "league": "PCS",
+        "teams": [
+          "jteam",
+          "machiesports"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-09-01",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "kaoslatingamers"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-09-01",
+        "league": "LLA",
+        "teams": [
+          "kaoslatingamers",
+          "xtenesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-09-02",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "xtenesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-09-04",
+        "league": "LLA",
+        "teams": [
+          "furiousgaming",
+          "xtenesports"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-10-15",
+        "league": "WLDs",
+        "teams": [
+          "cloud9",
+          "rogue"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-10-15",
+        "league": "WLDs",
+        "teams": [
+          "funplusphoenix",
+          "rogue"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-10-17",
+        "league": "WLDs",
+        "teams": [
+          "hanwhalifeesports",
+          "royalnevergiveup"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2021-10-18",
+        "league": "WLDs",
+        "teams": [
+          "gengesports",
+          "teamliquid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 12,
+    "counts": {
+      "candidate_maps": 3731,
+      "unknown_name_or_date_maps": 1045,
+      "unmatched_or_ambiguous_maps": 144,
+      "matched_series": 1572,
+      "matched_maps": 2542
+    },
+    "unmatched": [
+      {
+        "date": "2022-01-15",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-15",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-15",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-16",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-22",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-22",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-22",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-22",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-23",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-28",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "teamliquid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-01-29",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "teamliquid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-06",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-06",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-07",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-13",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-20",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-26",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-27",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-27",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-27",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-02-28",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-06",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-07",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-13",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-13",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-13",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "globantemerald"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-20",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-25",
+        "league": "VCS",
+        "teams": [
+          "luxuryesports",
+          "saigonbuffalo"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-25",
+        "league": "VCS",
+        "teams": [
+          "bursttheskyesports",
+          "sbtcesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-26",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-27",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-28",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-28",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-28",
+        "league": "LCO",
+        "teams": [
+          "peace",
+          "pentanetgg"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-03-28",
+        "league": "LCO",
+        "teams": [
+          "direwolves",
+          "order"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-04-16",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "teamaze"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-06",
+        "league": "VCS",
+        "teams": [
+          "bursttheskyesports",
+          "geniusesports"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-06",
+        "league": "VCS",
+        "teams": [
+          "asesports",
+          "teamflash"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-07",
+        "league": "VCS",
+        "teams": [
+          "bursttheskyesports",
+          "teamflash"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-07",
+        "league": "VCS",
+        "teams": [
+          "asesports",
+          "geniusesports"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-08",
+        "league": "VCS",
+        "teams": [
+          "bursttheskyesports",
+          "geniusesports"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-10",
+        "league": "MSI",
+        "teams": [
+          "istanbulwildcats",
+          "royalnevergiveup"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-12",
+        "league": "MSI",
+        "teams": [
+          "redcanids",
+          "royalnevergiveup"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-14",
+        "league": "MSI",
+        "teams": [
+          "evilgeniuses",
+          "g2esports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-14",
+        "league": "MSI",
+        "teams": [
+          "evilgeniuses",
+          "order"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-05-14",
+        "league": "MSI",
+        "teams": [
+          "g2esports",
+          "order"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-06-18",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-06-19",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-07-16",
+        "league": "TCL",
+        "teams": [
+          "besiktasesports",
+          "fenerbahceesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-07-17",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-07-24",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-07-31",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-04",
+        "league": "PCS",
+        "teams": [
+          "jteam",
+          "metafalconteam"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-07",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-13",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-14",
+        "league": "LEC",
+        "teams": [
+          "fnatic",
+          "misfitsgaming"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-15",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-21",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "teamaze"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-22",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "teamaze"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-27",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "isurus"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-08-28",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-09-02",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "tsm"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-09-03",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "tsm"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-09-30",
+        "league": "WLDs",
+        "teams": [
+          "chiefesportsclub",
+          "fnatic"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-09-30",
+        "league": "WLDs",
+        "teams": [
+          "detonationfocusme",
+          "loud"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-09-30",
+        "league": "WLDs",
+        "teams": [
+          "istanbulwildcats",
+          "saigonbuffalo"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-09-30",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "royalnevergiveup"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-01",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "saigonbuffalo"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-01",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "istanbulwildcats"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-02",
+        "league": "WLDs",
+        "teams": [
+          "beyondgaming",
+          "chiefesportsclub"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-02",
+        "league": "WLDs",
+        "teams": [
+          "istanbulwildcats",
+          "royalnevergiveup"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-02",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-03",
+        "league": "WLDs",
+        "teams": [
+          "royalnevergiveup",
+          "saigonbuffalo"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-03",
+        "league": "WLDs",
+        "teams": [
+          "detonationfocusme",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-03",
+        "league": "WLDs",
+        "teams": [
+          "evilgeniuses",
+          "loud"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-03",
+        "league": "WLDs",
+        "teams": [
+          "detonationfocusme",
+          "loud"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-04",
+        "league": "WLDs",
+        "teams": [
+          "detonationfocusme",
+          "loud"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-08",
+        "league": "WLDs",
+        "teams": [
+          "edwardgaming",
+          "t1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-08",
+        "league": "WLDs",
+        "teams": [
+          "gengesports",
+          "royalnevergiveup"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-09",
+        "league": "WLDs",
+        "teams": [
+          "cloud9",
+          "edwardgaming"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-09",
+        "league": "WLDs",
+        "teams": [
+          "gamesports",
+          "topesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-10",
+        "league": "WLDs",
+        "teams": [
+          "ctbcflyingoyster",
+          "royalnevergiveup"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-10",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "topesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-11",
+        "league": "WLDs",
+        "teams": [
+          "ctbcflyingoyster",
+          "gengesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-11",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "gamesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-15",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "rogue"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-16",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "rogue"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-16",
+        "league": "WLDs",
+        "teams": [
+          "gengesports",
+          "royalnevergiveup"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-17",
+        "league": "WLDs",
+        "teams": [
+          "gengesports",
+          "royalnevergiveup"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-23",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "edwardgaming"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-10-24",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "edwardgaming"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-11-05",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "t1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2022-11-06",
+        "league": "WLDs",
+        "teams": [
+          "drx",
+          "t1"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 13,
+    "counts": {
+      "candidate_maps": 3497,
+      "unknown_name_or_date_maps": 1193,
+      "unmatched_or_ambiguous_maps": 202,
+      "matched_series": 1094,
+      "matched_maps": 2102
+    },
+    "unmatched": [
+      {
+        "date": "2023-01-25",
+        "league": "LLA",
+        "teams": [
+          "sixkarma",
+          "thekings"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-01-26",
+        "league": "LLA",
+        "teams": [
+          "sixkarma",
+          "thekings"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-01-27",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-01-27",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-01-28",
+        "league": "LCS",
+        "teams": [
+          "teamliquid",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-01-28",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-01-28",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-01-31",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "teamaze"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-01",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "teamaze"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-02",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "thekings"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-03",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-03",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-03",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-04",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-04",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-07",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-08",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-09",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "thekings"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-10",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-10",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-11",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-11",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-15",
+        "league": "LLA",
+        "teams": [
+          "teamaze",
+          "thekings"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-15",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-16",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-16",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-16",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-17",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-17",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-18",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-18",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-22",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "teamaze"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-24",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-25",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-25",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-02-25",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-01",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "thekings"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-01",
+        "league": "LCO",
+        "teams": [
+          "groundzerogaming",
+          "kangaesports"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-01",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-02",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-03",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "cloud9"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-03",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-03",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-04",
+        "league": "LCS",
+        "teams": [
+          "teamliquid",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-04",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-09",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "teamaze"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-10",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-10",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-11",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-11",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-14",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-15",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-15",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-16",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-16",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-16",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-17",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-17",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-18",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-18",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-18",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-18",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-25",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "goldenguardians"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-26",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-28",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-03-29",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-04-04",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-04-05",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-04-07",
+        "league": "PCS",
+        "teams": [
+          "frankesports",
+          "impunity"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-04-08",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-04-09",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-04-15",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-06",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-07",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-07",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "estralesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-08",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "estralesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-13",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-14",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-15",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "isurus"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-15",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-16",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-17",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-20",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-21",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-22",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-22",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-23",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-24",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-26",
+        "league": "LCO",
+        "teams": [
+          "groundzerogaming",
+          "mammoth"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-27",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "leviatan"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-28",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "leviatan"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-29",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-29",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-29",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-06-30",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-01",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-06",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-07",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "evilgeniuses"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-07",
+        "league": "LCS",
+        "teams": [
+          "immortals",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-07",
+        "league": "VCS",
+        "teams": [
+          "cerberusesports",
+          "teamsecret"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-08",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-08",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-12",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "teamaze"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-12",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-13",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-13",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-14",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "cloud9"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-14",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-15",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "immortals"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-20",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "teamaze"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-20",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-21",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-22",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-22",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-22",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "goldenguardians"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-26",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-27",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-27",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "tsm"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-07-28",
+        "league": "LCS",
+        "teams": [
+          "evilgeniuses",
+          "tsm"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-01",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "teamaze"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-02",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "teamaze"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-03",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "tsm"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-04",
+        "league": "LCS",
+        "teams": [
+          "dignitas",
+          "tsm"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-04",
+        "league": "LCK",
+        "teams": [
+          "liivsandbox",
+          "t1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-08",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-09",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-09",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "sixkarma"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-10",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-13",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-14",
+        "league": "LCS",
+        "teams": [
+          "goldenguardians",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-15",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-16",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-26",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-08-27",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2023-10-07",
+        "league": "PCS",
+        "teams": [
+          "dewishteam",
+          "impunity"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 14,
+    "counts": {
+      "candidate_maps": 3243,
+      "unknown_name_or_date_maps": 990,
+      "unmatched_or_ambiguous_maps": 93,
+      "matched_series": 1019,
+      "matched_maps": 2160
+    },
+    "unmatched": [
+      {
+        "date": "2024-01-17",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-01-18",
+        "league": "LLA",
+        "teams": [
+          "movistarr7",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-01-23",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "leviatan"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-01-24",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "leviatan"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-01-26",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-01-31",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "isurus"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-01-31",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-01",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-06",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-07",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-08",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-09",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "leviatan"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-14",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-15",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-15",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "leviatan"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-16",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "leviatan"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-20",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-21",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "sixkarma"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-21",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-22",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-22",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-23",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "isurus"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-27",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-28",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-28",
+        "league": "LCO",
+        "teams": [
+          "anticesports",
+          "kangaesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-02-29",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-03",
+        "league": "LCS",
+        "teams": [
+          "100thieves",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-04",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-13",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "leviatan"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-14",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "leviatan"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-14",
+        "league": "VCS",
+        "teams": [
+          "mgnblueesports",
+          "teamwhales"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-19",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-20",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-20",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "isurus"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-21",
+        "league": "LLA",
+        "teams": [
+          "allknights",
+          "isurus"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-22",
+        "league": "CBLOL",
+        "teams": [
+          "kabumesports",
+          "paingaming"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-23",
+        "league": "CBLOL",
+        "teams": [
+          "kabumesports",
+          "paingaming"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-25",
+        "league": "LEC",
+        "teams": [
+          "rogue",
+          "skgaming"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-26",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-03-27",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "movistarr7"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-04-04",
+        "league": "VCS",
+        "teams": [
+          "teamsecret",
+          "teamwhales"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-06-12",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-06-15",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "dignitas"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-06-16",
+        "league": "LCS",
+        "teams": [
+          "cloud9",
+          "dignitas"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-06-19",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-06-28",
+        "league": "PCS",
+        "teams": [
+          "jteam",
+          "westpointesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-06-30",
+        "league": "LEC",
+        "teams": [
+          "madlionskoi",
+          "rogue"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-07-10",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-07-11",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "leviatan"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-07-12",
+        "league": "PCS",
+        "teams": [
+          "jteam",
+          "westpointesports"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-07-18",
+        "league": "LLA",
+        "teams": [
+          "isurus",
+          "sixkarma"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-07-24",
+        "league": "LLA",
+        "teams": [
+          "leviatan",
+          "movistarr7"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-07-30",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-07-31",
+        "league": "LLA",
+        "teams": [
+          "estralesports",
+          "movistarr7"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-08-04",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "shopifyrebellion"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2024-08-05",
+        "league": "LCS",
+        "teams": [
+          "flyquest",
+          "shopifyrebellion"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  },
+  {
+    "season": 15,
+    "counts": {
+      "candidate_maps": 2676,
+      "unknown_name_or_date_maps": 171,
+      "unmatched_or_ambiguous_maps": 82,
+      "matched_series": 988,
+      "matched_maps": 2423
+    },
+    "unmatched": [
+      {
+        "date": "2025-01-25",
+        "league": "LCP",
+        "teams": [
+          "ctbcflyingoyster",
+          "gamesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-02-01",
+        "league": "LTA N",
+        "teams": [
+          "dignitas",
+          "disguised"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-02-02",
+        "league": "LTA N",
+        "teams": [
+          "dignitas",
+          "disguised"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-02-03",
+        "league": "LTA N",
+        "teams": [
+          "cloud9",
+          "flyquest"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-02-03",
+        "league": "LTA N",
+        "teams": [
+          "100thieves",
+          "cloud9"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-02-10",
+        "league": "LTA N",
+        "teams": [
+          "flyquest",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-02-22",
+        "league": "LTA",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-02-23",
+        "league": "LTA",
+        "teams": [
+          "cloud9",
+          "teamliquid"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-03-26",
+        "league": "LPL",
+        "teams": [
+          "edwardgaming",
+          "teamwe"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-03-28",
+        "league": "LPL",
+        "teams": [
+          "royalnevergiveup",
+          "ultraprime"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-04-06",
+        "league": "LTA N",
+        "teams": [
+          "disguised",
+          "lyon"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-05-10",
+        "league": "LTA N",
+        "teams": [
+          "100thieves",
+          "shopifyrebellion"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-05-11",
+        "league": "LTA N",
+        "teams": [
+          "100thieves",
+          "shopifyrebellion"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-06-28",
+        "league": "MSI",
+        "teams": [
+          "bilibiligaming",
+          "gamesports"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-06-29",
+        "league": "MSI",
+        "teams": [
+          "bilibiligaming",
+          "g2esports"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-06-30",
+        "league": "MSI",
+        "teams": [
+          "g2esports",
+          "gamesports"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-02",
+        "league": "MSI",
+        "teams": [
+          "g2esports",
+          "gengesports"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-03",
+        "league": "MSI",
+        "teams": [
+          "anyoneslegend",
+          "flyquest"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-03",
+        "league": "MSI",
+        "teams": [
+          "ctbcflyingoyster",
+          "t1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-04",
+        "league": "MSI",
+        "teams": [
+          "ctbcflyingoyster",
+          "t1"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-04",
+        "league": "MSI",
+        "teams": [
+          "anyoneslegend",
+          "gengesports"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-05",
+        "league": "MSI",
+        "teams": [
+          "anyoneslegend",
+          "gengesports"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-05",
+        "league": "MSI",
+        "teams": [
+          "bilibiligaming",
+          "t1"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-06",
+        "league": "MSI",
+        "teams": [
+          "bilibiligaming",
+          "t1"
+        ],
+        "maps": 1,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-08",
+        "league": "MSI",
+        "teams": [
+          "anyoneslegend",
+          "ctbcflyingoyster"
+        ],
+        "maps": 4,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-09",
+        "league": "MSI",
+        "teams": [
+          "bilibiligaming",
+          "flyquest"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-10",
+        "league": "MSI",
+        "teams": [
+          "gengesports",
+          "t1"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-11",
+        "league": "MSI",
+        "teams": [
+          "anyoneslegend",
+          "bilibiligaming"
+        ],
+        "maps": 3,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-12",
+        "league": "MSI",
+        "teams": [
+          "anyoneslegend",
+          "t1"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-07-13",
+        "league": "MSI",
+        "teams": [
+          "gengesports",
+          "t1"
+        ],
+        "maps": 5,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      },
+      {
+        "date": "2025-09-26",
+        "league": "LEC",
+        "teams": [
+          "fnatic",
+          "karminecorp"
+        ],
+        "maps": 2,
+        "reason": "exact date, team pair and complete series score did not uniquely match"
+      }
+    ]
+  }
+]

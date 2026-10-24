@@ -1,0 +1,3602 @@
+[
+  {
+    "season": 4,
+    "date": "2014-09-18",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-09-19",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-09-20",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-09-21",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-09-25",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-09-26",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-09-27",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-09-28",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-10-03",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-10-04",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-10-05",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-10-06",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-10-11",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-10-12",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 4,
+    "date": "2014-10-19",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-05-07",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-05-08",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-05-09",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-05-10",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-01",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-02",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-03",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-04",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-08",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-09",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-10",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-11",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-15",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-16",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-17",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-18",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-24",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-25",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 5,
+    "date": "2015-10-31",
+    "beta": 0.0,
+    "gold_expectation_coefficients": [
+      0.0,
+      0.0
+    ],
+    "prior_training_maps": 0
+  },
+  {
+    "season": 6,
+    "date": "2016-05-04",
+    "beta": 0.36952721094723806,
+    "gold_expectation_coefficients": [
+      0.777359548725818,
+      0.18577796262602175
+    ],
+    "prior_training_maps": 415
+  },
+  {
+    "season": 6,
+    "date": "2016-05-05",
+    "beta": 0.3694136445999365,
+    "gold_expectation_coefficients": [
+      0.7769668805126017,
+      0.1857250474977707
+    ],
+    "prior_training_maps": 415
+  },
+  {
+    "season": 6,
+    "date": "2016-05-06",
+    "beta": 0.3692992775989432,
+    "gold_expectation_coefficients": [
+      0.7765715770919718,
+      0.1856717556329382
+    ],
+    "prior_training_maps": 415
+  },
+  {
+    "season": 6,
+    "date": "2016-05-07",
+    "beta": 0.3691841048678652,
+    "gold_expectation_coefficients": [
+      0.7761736236896847,
+      0.18561808458857987
+    ],
+    "prior_training_maps": 415
+  },
+  {
+    "season": 6,
+    "date": "2016-05-08",
+    "beta": 0.36906812130645417,
+    "gold_expectation_coefficients": [
+      0.7757730054909977,
+      0.1855640319094401
+    ],
+    "prior_training_maps": 415
+  },
+  {
+    "season": 6,
+    "date": "2016-05-13",
+    "beta": 0.36847586086787254,
+    "gold_expectation_coefficients": [
+      0.7737294212722793,
+      0.1852879571953387
+    ],
+    "prior_training_maps": 415
+  },
+  {
+    "season": 6,
+    "date": "2016-05-14",
+    "beta": 0.3683549038854795,
+    "gold_expectation_coefficients": [
+      0.7733125009898187,
+      0.1852315624568
+    ],
+    "prior_training_maps": 415
+  },
+  {
+    "season": 6,
+    "date": "2016-05-15",
+    "beta": 0.36823309970458434,
+    "gold_expectation_coefficients": [
+      0.7728928111224312,
+      0.1851747685514052
+    ],
+    "prior_training_maps": 415
+  },
+  {
+    "season": 6,
+    "date": "2016-09-29",
+    "beta": 0.17208606249915814,
+    "gold_expectation_coefficients": [
+      0.8609339247064662,
+      0.19787768618292956
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-09-30",
+    "beta": 0.17203817366187255,
+    "gold_expectation_coefficients": [
+      0.860630736708494,
+      0.19784803626337918
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-01",
+    "beta": 0.17198994228510514,
+    "gold_expectation_coefficients": [
+      0.8603254212977312,
+      0.1978181630639553
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-02",
+    "beta": 0.17194136612563393,
+    "gold_expectation_coefficients": [
+      0.8600179651540191,
+      0.19778806495312787
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-06",
+    "beta": 0.17174356838970925,
+    "gold_expectation_coefficients": [
+      0.858766464763161,
+      0.19766539037538827
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-07",
+    "beta": 0.17169323426166164,
+    "gold_expectation_coefficients": [
+      0.8584481030705137,
+      0.19763414284393577
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-08",
+    "beta": 0.17164254164738305,
+    "gold_expectation_coefficients": [
+      0.8581275194764786,
+      0.19760266037664131
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-09",
+    "beta": 0.17159148822215453,
+    "gold_expectation_coefficients": [
+      0.8578047002461973,
+      0.19757094126297875
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-14",
+    "beta": 0.17133072674870778,
+    "gold_expectation_coefficients": [
+      0.8561565847300989,
+      0.197408735319951
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-15",
+    "beta": 0.17127745898423694,
+    "gold_expectation_coefficients": [
+      0.8558200599737454,
+      0.19737555975684135
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-16",
+    "beta": 0.1712238138084661,
+    "gold_expectation_coefficients": [
+      0.8554812018024648,
+      0.19734213524727956
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-17",
+    "beta": 0.17116978880311443,
+    "gold_expectation_coefficients": [
+      0.8551399960165142,
+      0.1973084599867352
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-22",
+    "beta": 0.1708938808737083,
+    "gold_expectation_coefficients": [
+      0.8533982518820268,
+      0.19713625841505986
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-23",
+    "beta": 0.1708375254517669,
+    "gold_expectation_coefficients": [
+      0.853042659024443,
+      0.19710104007538995
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 6,
+    "date": "2016-10-30",
+    "beta": 0.17043177764014067,
+    "gold_expectation_coefficients": [
+      0.8504841238630128,
+      0.19684702003052962
+    ],
+    "prior_training_maps": 921
+  },
+  {
+    "season": 7,
+    "date": "2017-04-28",
+    "beta": 0.0336237129015404,
+    "gold_expectation_coefficients": [
+      1.0564068442539007,
+      0.28144744589780435
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-04-29",
+    "beta": 0.03361678699595448,
+    "gold_expectation_coefficients": [
+      1.0560856350495493,
+      0.2814129115977953
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-04-30",
+    "beta": 0.0336098104353032,
+    "gold_expectation_coefficients": [
+      1.0557621413949443,
+      0.2813781136413029
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-01",
+    "beta": 0.03360278287100396,
+    "gold_expectation_coefficients": [
+      1.055436348528502,
+      0.2813430500482235
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-03",
+    "beta": 0.03358857332678335,
+    "gold_expectation_coefficients": [
+      1.054777805747484,
+      0.28127211796045926
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-04",
+    "beta": 0.03358139063932758,
+    "gold_expectation_coefficients": [
+      1.0544450259433935,
+      0.2812362454338625
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-06",
+    "beta": 0.03356686764922889,
+    "gold_expectation_coefficients": [
+      1.0537723742345388,
+      0.2811636772265256
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-10",
+    "beta": 0.03353718108268246,
+    "gold_expectation_coefficients": [
+      1.0523982762649238,
+      0.28101519021175186
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-11",
+    "beta": 0.03352962385137453,
+    "gold_expectation_coefficients": [
+      1.052048663271676,
+      0.28097735816267677
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-12",
+    "beta": 0.033522011643968175,
+    "gold_expectation_coefficients": [
+      1.0516965838529198,
+      0.2809392377339199
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-13",
+    "beta": 0.03351434408660415,
+    "gold_expectation_coefficients": [
+      1.0513420223680594,
+      0.28090082676805445
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-14",
+    "beta": 0.03350662080327385,
+    "gold_expectation_coefficients": [
+      1.0509849631034327,
+      0.2808621230922657
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-19",
+    "beta": 0.033467155185547465,
+    "gold_expectation_coefficients": [
+      1.0491616449995114,
+      0.2806641369267617
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-20",
+    "beta": 0.03345908952906349,
+    "gold_expectation_coefficients": [
+      1.0487892649865376,
+      0.28062363048854194
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-05-21",
+    "beta": 0.0334509654538393,
+    "gold_expectation_coefficients": [
+      1.048414275158562,
+      0.2805828156917797
+    ],
+    "prior_training_maps": 594
+  },
+  {
+    "season": 7,
+    "date": "2017-09-23",
+    "beta": 0.029962808677334533,
+    "gold_expectation_coefficients": [
+      0.7468372226855868,
+      0.3296721479462414
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-09-24",
+    "beta": 0.029958234298667282,
+    "gold_expectation_coefficients": [
+      0.7466358199487985,
+      0.3296309788775076
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-09-25",
+    "beta": 0.029953625968798376,
+    "gold_expectation_coefficients": [
+      0.7464329704674988,
+      0.32958950074913046
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-09-26",
+    "beta": 0.029948983446537816,
+    "gold_expectation_coefficients": [
+      0.7462286646776787,
+      0.32954771131290983
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-09-28",
+    "beta": 0.029939594852327882,
+    "gold_expectation_coefficients": [
+      0.7458156456622524,
+      0.32946318944785985
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-09-29",
+    "beta": 0.02993484829022281,
+    "gold_expectation_coefficients": [
+      0.7456069130542045,
+      0.3294204524460953
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-05",
+    "beta": 0.029905621519474065,
+    "gold_expectation_coefficients": [
+      0.7443227754080185,
+      0.32915721896987304
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-06",
+    "beta": 0.029900623463346907,
+    "gold_expectation_coefficients": [
+      0.7441033692952453,
+      0.32911218940918263
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-07",
+    "beta": 0.029895588457859446,
+    "gold_expectation_coefficients": [
+      0.743882398299928,
+      0.3290668227857629
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-08",
+    "beta": 0.029890516242742842,
+    "gold_expectation_coefficients": [
+      0.7436598522437491,
+      0.32902111666285566
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-12",
+    "beta": 0.02986985002313319,
+    "gold_expectation_coefficients": [
+      0.7427537120396881,
+      0.3288348478695925
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-13",
+    "beta": 0.02986458779826212,
+    "gold_expectation_coefficients": [
+      0.7425231361996305,
+      0.32878740712505133
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-14",
+    "beta": 0.029859286767501863,
+    "gold_expectation_coefficients": [
+      0.7422909231455308,
+      0.32873961191555007
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-15",
+    "beta": 0.029853946658967036,
+    "gold_expectation_coefficients": [
+      0.742057062337757,
+      0.32869145968853514
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-19",
+    "beta": 0.029832189950131982,
+    "gold_expectation_coefficients": [
+      0.7411049289682485,
+      0.3284952289611035
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-20",
+    "beta": 0.029826650315101545,
+    "gold_expectation_coefficients": [
+      0.7408626694886075,
+      0.32844525276381414
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-21",
+    "beta": 0.029821069935279616,
+    "gold_expectation_coefficients": [
+      0.7406186979321459,
+      0.3283949038758089
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-22",
+    "beta": 0.02981544852681303,
+    "gold_expectation_coefficients": [
+      0.740373003397526,
+      0.3283441796244142
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-28",
+    "beta": 0.029780842358868184,
+    "gold_expectation_coefficients": [
+      0.7388620366751544,
+      0.32803179959715784
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-10-29",
+    "beta": 0.029774925655155916,
+    "gold_expectation_coefficients": [
+      0.7386039717253843,
+      0.3279783714847902
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 7,
+    "date": "2017-11-04",
+    "beta": 0.029738504264053323,
+    "gold_expectation_coefficients": [
+      0.7370171295769459,
+      0.327649357957706
+    ],
+    "prior_training_maps": 1233
+  },
+  {
+    "season": 8,
+    "date": "2018-05-03",
+    "beta": -0.011099422149525274,
+    "gold_expectation_coefficients": [
+      0.6231759354848762,
+      0.1492744791106513
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-04",
+    "beta": -0.011096529428255387,
+    "gold_expectation_coefficients": [
+      0.6228728484367553,
+      0.14924794531179278
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-05",
+    "beta": -0.011093615864982436,
+    "gold_expectation_coefficients": [
+      0.6225677164775896,
+      0.1492212147959784
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-06",
+    "beta": -0.011090681320991152,
+    "gold_expectation_coefficients": [
+      0.6222605279831793,
+      0.1491942861708219
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-08",
+    "beta": -0.011084748732233519,
+    "gold_expectation_coefficients": [
+      0.6216399347201431,
+      0.14913982897876205
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-09",
+    "beta": -0.011081750406273303,
+    "gold_expectation_coefficients": [
+      0.6213265065326373,
+      0.14911229758279204
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-11",
+    "beta": -0.011075688982540783,
+    "gold_expectation_coefficients": [
+      0.6206933282488826,
+      0.14905662205127282
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-12",
+    "beta": -0.011072625599037211,
+    "gold_expectation_coefficients": [
+      0.6203735545358924,
+      0.14902847503286587
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-13",
+    "beta": -0.011069540242689743,
+    "gold_expectation_coefficients": [
+      0.6200516419775625,
+      0.1490001199090432
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-14",
+    "beta": -0.011066432768734013,
+    "gold_expectation_coefficients": [
+      0.6197275786860468,
+      0.14897155521569908
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-15",
+    "beta": -0.01106330303164384,
+    "gold_expectation_coefficients": [
+      0.6194013527425392,
+      0.14894277947958728
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-18",
+    "beta": -0.011053778774860943,
+    "gold_expectation_coefficients": [
+      0.6184095793576901,
+      0.14885517114426466
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-19",
+    "beta": -0.011050558514705657,
+    "gold_expectation_coefficients": [
+      0.618074583015863,
+      0.14882553632046028
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-05-20",
+    "beta": -0.011047315252327345,
+    "gold_expectation_coefficients": [
+      0.6177373639806697,
+      0.14879568294920328
+    ],
+    "prior_training_maps": 591
+  },
+  {
+    "season": 8,
+    "date": "2018-10-01",
+    "beta": -0.0002639391585300861,
+    "gold_expectation_coefficients": [
+      0.8040549611812501,
+      0.3422663416499726
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-02",
+    "beta": -0.0002638980629408505,
+    "gold_expectation_coefficients": [
+      0.8037741718000794,
+      0.3422193672091404
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-03",
+    "beta": -0.000263856662570667,
+    "gold_expectation_coefficients": [
+      0.8034914098675445,
+      0.34217204260561096
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-04",
+    "beta": -0.00026381495525794557,
+    "gold_expectation_coefficients": [
+      0.8032066629992658,
+      0.3421243653287177
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-06",
+    "beta": -0.00026373061108893374,
+    "gold_expectation_coefficients": [
+      0.8026311646384512,
+      0.3420279426296697
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-07",
+    "beta": -0.0002636879698398964,
+    "gold_expectation_coefficients": [
+      0.8023403880979136,
+      0.3419791921034237
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-10",
+    "beta": -0.0002635581427840822,
+    "gold_expectation_coefficients": [
+      0.8014557975793649,
+      0.34183075284174397
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-11",
+    "beta": -0.0002635142251771191,
+    "gold_expectation_coefficients": [
+      0.8011568047127676,
+      0.34178053515731055
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-12",
+    "beta": -0.0002634699828310658,
+    "gold_expectation_coefficients": [
+      0.8008557258303937,
+      0.3417299441136347
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-13",
+    "beta": -0.0002634254134573673,
+    "gold_expectation_coefficients": [
+      0.8005525480482637,
+      0.341678977048639
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-14",
+    "beta": -0.00026338051475316464,
+    "gold_expectation_coefficients": [
+      0.8002472584275012,
+      0.341627631282997
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-15",
+    "beta": -0.00026333528440112224,
+    "gold_expectation_coefficients": [
+      0.7999398439744836,
+      0.3415759041200495
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-16",
+    "beta": -0.0002632897200692954,
+    "gold_expectation_coefficients": [
+      0.7996302916409971,
+      0.3415237928457183
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-17",
+    "beta": -0.0002632438194112289,
+    "gold_expectation_coefficients": [
+      0.7993185883244046,
+      0.3414712947284217
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-20",
+    "beta": -0.00026310407579368687,
+    "gold_expectation_coefficients": [
+      0.7983704406369176,
+      0.34131145173858457
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-21",
+    "beta": -0.0002630568060709329,
+    "gold_expectation_coefficients": [
+      0.7980500012792338,
+      0.3412573785805648
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-27",
+    "beta": -0.000262765788079598,
+    "gold_expectation_coefficients": [
+      0.7960803299634129,
+      0.3409244235593836
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-10-28",
+    "beta": -0.00026271602872086485,
+    "gold_expectation_coefficients": [
+      0.7957440856821089,
+      0.340867484794115
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 8,
+    "date": "2018-11-03",
+    "beta": -0.0002624097044632034,
+    "gold_expectation_coefficients": [
+      0.7936775753400174,
+      0.34051690632763526
+    ],
+    "prior_training_maps": 1232
+  },
+  {
+    "season": 9,
+    "date": "2019-05-01",
+    "beta": 0.06300588633981628,
+    "gold_expectation_coefficients": [
+      0.9365860556177917,
+      0.43492961521324214
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-02",
+    "beta": 0.06299316833952094,
+    "gold_expectation_coefficients": [
+      0.9362460531008574,
+      0.4348623944471469
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-05",
+    "beta": 0.06295445326711405,
+    "gold_expectation_coefficients": [
+      0.9352117320659814,
+      0.43465768260142024
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-06",
+    "beta": 0.06294135906779265,
+    "gold_expectation_coefficients": [
+      0.9348621379174509,
+      0.4345884164243209
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-07",
+    "beta": 0.06292816919560827,
+    "gold_expectation_coefficients": [
+      0.9345101087206568,
+      0.43451862954710146
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-10",
+    "beta": 0.06288801895299453,
+    "gold_expectation_coefficients": [
+      0.9334392606982318,
+      0.43430610669196906
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-11",
+    "beta": 0.06287443978104186,
+    "gold_expectation_coefficients": [
+      0.9330773408516619,
+      0.43423419886338505
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-12",
+    "beta": 0.06286076161258873,
+    "gold_expectation_coefficients": [
+      0.9327129104148972,
+      0.4341617511306292
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-13",
+    "beta": 0.062846983771175,
+    "gold_expectation_coefficients": [
+      0.9323459540921228,
+      0.4340887595752461
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-14",
+    "beta": 0.0628331055763998,
+    "gold_expectation_coefficients": [
+      0.9319764565255511,
+      0.43401522025257916
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-17",
+    "beta": 0.0627908620085277,
+    "gold_expectation_coefficients": [
+      0.9308525618605502,
+      0.43379127583841154
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-18",
+    "beta": 0.06277657551705336,
+    "gold_expectation_coefficients": [
+      0.9304727445098309,
+      0.43371550547121945
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-05-19",
+    "beta": 0.06276218521067312,
+    "gold_expectation_coefficients": [
+      0.9300903082052994,
+      0.4336391672156429
+    ],
+    "prior_training_maps": 568
+  },
+  {
+    "season": 9,
+    "date": "2019-10-02",
+    "beta": 0.14369481341459356,
+    "gold_expectation_coefficients": [
+      1.017311434582804,
+      0.16723960771881144
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-03",
+    "beta": 0.14367383035865214,
+    "gold_expectation_coefficients": [
+      1.016945014635745,
+      0.16722307764158723
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-04",
+    "beta": 0.1436526914211627,
+    "gold_expectation_coefficients": [
+      1.0165760297244968,
+      0.16720641677871143
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-05",
+    "beta": 0.14363139549247267,
+    "gold_expectation_coefficients": [
+      1.0162044638800496,
+      0.16718962408386417
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-07",
+    "beta": 0.14358832818702535,
+    "gold_expectation_coefficients": [
+      1.0154535251655017,
+      0.1671556389709283
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-08",
+    "beta": 0.14356655455500256,
+    "gold_expectation_coefficients": [
+      1.0150741200078188,
+      0.16713844441795814
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-12",
+    "beta": 0.1434778335139435,
+    "gold_expectation_coefficients": [
+      1.0135298807749185,
+      0.16706829425420092
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-13",
+    "beta": 0.14345524084112682,
+    "gold_expectation_coefficients": [
+      1.013137084210059,
+      0.16705040821479197
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-14",
+    "beta": 0.14343248086366028,
+    "gold_expectation_coefficients": [
+      1.012741559859185,
+      0.16703238054083816
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-15",
+    "beta": 0.14340955239867978,
+    "gold_expectation_coefficients": [
+      1.0123432910607544,
+      0.1670142100990934
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-17",
+    "beta": 0.14336318523712185,
+    "gold_expectation_coefficients": [
+      1.0115384531346772,
+      0.16697743633386847
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-18",
+    "beta": 0.14333974413711437,
+    "gold_expectation_coefficients": [
+      1.0111318503443132,
+      0.16695883069831116
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-19",
+    "beta": 0.1433161297426637,
+    "gold_expectation_coefficients": [
+      1.0107224357814786,
+      0.16694007767067012
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-20",
+    "beta": 0.14329234083299675,
+    "gold_expectation_coefficients": [
+      1.0103101924465612,
+      0.16692117607169826
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-26",
+    "beta": 0.1431458732195053,
+    "gold_expectation_coefficients": [
+      1.007776367867361,
+      0.16680457924754294
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-10-27",
+    "beta": 0.14312082787180586,
+    "gold_expectation_coefficients": [
+      1.0073438415669211,
+      0.1667846038309789
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-11-02",
+    "beta": 0.14296663453456201,
+    "gold_expectation_coefficients": [
+      1.0046857558358546,
+      0.16666138129924515
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-11-03",
+    "beta": 0.14294026986488553,
+    "gold_expectation_coefficients": [
+      1.0042320879197884,
+      0.16664027048098587
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 9,
+    "date": "2019-11-10",
+    "beta": 0.1427502156161427,
+    "gold_expectation_coefficients": [
+      1.0009688342090153,
+      0.16648773102649775
+    ],
+    "prior_training_maps": 1081
+  },
+  {
+    "season": 10,
+    "date": "2020-05-28",
+    "beta": 0.13720164502700058,
+    "gold_expectation_coefficients": [
+      1.5082280453109616,
+      0.23988432395262224
+    ],
+    "prior_training_maps": 1109
+  },
+  {
+    "season": 10,
+    "date": "2020-05-29",
+    "beta": 0.13718601870472555,
+    "gold_expectation_coefficients": [
+      1.507833747356518,
+      0.2398643028953636
+    ],
+    "prior_training_maps": 1109
+  },
+  {
+    "season": 10,
+    "date": "2020-05-30",
+    "beta": 0.13717027527791897,
+    "gold_expectation_coefficients": [
+      1.507436609754481,
+      0.23984412848071865
+    ],
+    "prior_training_maps": 1109
+  },
+  {
+    "season": 10,
+    "date": "2020-05-31",
+    "beta": 0.13715441389738892,
+    "gold_expectation_coefficients": [
+      1.5070366136239628,
+      0.23982379954709776
+    ],
+    "prior_training_maps": 1109
+  },
+  {
+    "season": 10,
+    "date": "2020-09-25",
+    "beta": 0.2807053981618444,
+    "gold_expectation_coefficients": [
+      1.3036673045622231,
+      0.29492863247833095
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-09-26",
+    "beta": 0.28068601665843357,
+    "gold_expectation_coefficients": [
+      1.303460698767906,
+      0.29491297724612436
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-09-27",
+    "beta": 0.2806664881726388,
+    "gold_expectation_coefficients": [
+      1.3032525621157787,
+      0.29489720154880616
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-09-28",
+    "beta": 0.28064681161184984,
+    "gold_expectation_coefficients": [
+      1.3030428837697543,
+      0.2948813044645745
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-09-29",
+    "beta": 0.2806269858756729,
+    "gold_expectation_coefficients": [
+      1.3028316528247466,
+      0.2948652850646642
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-09-30",
+    "beta": 0.28060700985588033,
+    "gold_expectation_coefficients": [
+      1.3026188583063472,
+      0.2948491424132968
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-03",
+    "beta": 0.2805461688939611,
+    "gold_expectation_coefficients": [
+      1.3019709825201673,
+      0.29479996548637216
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-04",
+    "beta": 0.28052558049897885,
+    "gold_expectation_coefficients": [
+      1.3017518225664848,
+      0.29478332032930443
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-05",
+    "beta": 0.2805048361599587,
+    "gold_expectation_coefficients": [
+      1.3015310431163523,
+      0.294766547134868
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-06",
+    "beta": 0.280483934720601,
+    "gold_expectation_coefficients": [
+      1.3013086327727252,
+      0.29474964492411093
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-08",
+    "beta": 0.280441655874661,
+    "gold_expectation_coefficients": [
+      1.300858873458731,
+      0.2947154495008712
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-09",
+    "beta": 0.28042027611430914,
+    "gold_expectation_coefficients": [
+      1.3006315013352534,
+      0.2946981542933678
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-10",
+    "beta": 0.28039873454597536,
+    "gold_expectation_coefficients": [
+      1.3004024520114297,
+      0.2946807260793934
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-11",
+    "beta": 0.2803770299718746,
+    "gold_expectation_coefficients": [
+      1.3001717137293065,
+      0.2946631638425535
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-15",
+    "beta": 0.2802885573650325,
+    "gold_expectation_coefficients": [
+      1.2992316332929266,
+      0.2945915540696409
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-16",
+    "beta": 0.28026601949750335,
+    "gold_expectation_coefficients": [
+      1.298992271279839,
+      0.2945733062027652
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-17",
+    "beta": 0.2802433112580543,
+    "gold_expectation_coefficients": [
+      1.298751148214297,
+      0.2945549180519968
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-18",
+    "beta": 0.2802204313885829,
+    "gold_expectation_coefficients": [
+      1.29850825181999,
+      0.2945363885461942
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-24",
+    "beta": 0.28007947636750685,
+    "gold_expectation_coefficients": [
+      1.2970129365535097,
+      0.2944221820502221
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-25",
+    "beta": 0.28005535911199236,
+    "gold_expectation_coefficients": [
+      1.296757276759755,
+      0.2944026323837397
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 10,
+    "date": "2020-10-31",
+    "beta": 0.27990678599680646,
+    "gold_expectation_coefficients": [
+      1.295183501736833,
+      0.29428213938737274
+    ],
+    "prior_training_maps": 2303
+  },
+  {
+    "season": 11,
+    "date": "2021-05-06",
+    "beta": 0.19017439328454222,
+    "gold_expectation_coefficients": [
+      1.6553905652760263,
+      0.22670025813025402
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-07",
+    "beta": 0.19015856267284445,
+    "gold_expectation_coefficients": [
+      1.654947862549327,
+      0.2266788685496771
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-08",
+    "beta": 0.19014261245947525,
+    "gold_expectation_coefficients": [
+      1.6545019767042337,
+      0.22665731690379778
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-09",
+    "beta": 0.19012654176228552,
+    "gold_expectation_coefficients": [
+      1.654052886653038,
+      0.22663560199086755
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-10",
+    "beta": 0.19011034969294818,
+    "gold_expectation_coefficients": [
+      1.6536005711952892,
+      0.2266137226006395
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-11",
+    "beta": 0.1900940353569202,
+    "gold_expectation_coefficients": [
+      1.653145009017603,
+      0.22659167751431447
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-14",
+    "beta": 0.19004434970921252,
+    "gold_expectation_coefficients": [
+      1.6517586273333955,
+      0.22652453576135723
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-15",
+    "beta": 0.19002753723532217,
+    "gold_expectation_coefficients": [
+      1.6512898628773631,
+      0.22650181552972848
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-16",
+    "beta": 0.19001059792743555,
+    "gold_expectation_coefficients": [
+      1.650817743434473,
+      0.22647892337783904
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-17",
+    "beta": 0.18999353085290177,
+    "gold_expectation_coefficients": [
+      1.6503422470102385,
+      0.2264558580344416
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-18",
+    "beta": 0.18997633507258194,
+    "gold_expectation_coefficients": [
+      1.6498633514961416,
+      0.2264326182193561
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-21",
+    "beta": 0.1899239660073707,
+    "gold_expectation_coefficients": [
+      1.64840604761645,
+      0.22636183900701676
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-22",
+    "beta": 0.18990624588137756,
+    "gold_expectation_coefficients": [
+      1.6479133323728774,
+      0.22633788832278348
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-05-23",
+    "beta": 0.1898883922552006,
+    "gold_expectation_coefficients": [
+      1.6474171057822808,
+      0.2263137566300276
+    ],
+    "prior_training_maps": 1063
+  },
+  {
+    "season": 11,
+    "date": "2021-10-05",
+    "beta": 0.1424210557459142,
+    "gold_expectation_coefficients": [
+      1.5864103418942106,
+      0.22697628911599552
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-06",
+    "beta": 0.14240964497802286,
+    "gold_expectation_coefficients": [
+      1.5859698307780068,
+      0.22696583040603374
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-07",
+    "beta": 0.14239814788037114,
+    "gold_expectation_coefficients": [
+      1.5855261622302577,
+      0.22695528547058672
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-08",
+    "beta": 0.14238656381437942,
+    "gold_expectation_coefficients": [
+      1.585079315481632,
+      0.22694465356797128
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-09",
+    "beta": 0.14237489213696805,
+    "gold_expectation_coefficients": [
+      1.5846292696540312,
+      0.22693393394978675
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-11",
+    "beta": 0.14235128335289676,
+    "gold_expectation_coefficients": [
+      1.5837194967048354,
+      0.22691222853914003
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-12",
+    "beta": 0.14233934493732137,
+    "gold_expectation_coefficients": [
+      1.583259727281981,
+      0.2269012412157162
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-13",
+    "beta": 0.1423273162924383,
+    "gold_expectation_coefficients": [
+      1.5827966741773911,
+      0.22689016311467067
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-15",
+    "beta": 0.14230298564604868,
+    "gold_expectation_coefficients": [
+      1.581860631117983,
+      0.22686773144081113
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-16",
+    "beta": 0.14229068229848377,
+    "gold_expectation_coefficients": [
+      1.5813875979868353,
+      0.22685637628071298
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-17",
+    "beta": 0.14227828602943646,
+    "gold_expectation_coefficients": [
+      1.5809111948211192,
+      0.22684492716829077
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-18",
+    "beta": 0.14226579615403853,
+    "gold_expectation_coefficients": [
+      1.580431399758473,
+      0.22683338329176714
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-22",
+    "beta": 0.14221488672336247,
+    "gold_expectation_coefficients": [
+      1.5784778594470086,
+      0.22678624364944722
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-23",
+    "beta": 0.14220191837456048,
+    "gold_expectation_coefficients": [
+      1.577980773119274,
+      0.22677421351511326
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-24",
+    "beta": 0.14218885220860694,
+    "gold_expectation_coefficients": [
+      1.5774801614128426,
+      0.22676208358864372
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-25",
+    "beta": 0.1421756875064918,
+    "gold_expectation_coefficients": [
+      1.5769760016958416,
+      0.22674985300514283
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-30",
+    "beta": 0.14210836043664316,
+    "gold_expectation_coefficients": [
+      1.5744011831371907,
+      0.22668715940536466
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-10-31",
+    "beta": 0.14209458913638165,
+    "gold_expectation_coefficients": [
+      1.5738752539284317,
+      0.22667430627062043
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 11,
+    "date": "2021-11-06",
+    "beta": 0.1420097566282288,
+    "gold_expectation_coefficients": [
+      1.570640952192662,
+      0.22659490895729834
+    ],
+    "prior_training_maps": 2156
+  },
+  {
+    "season": 12,
+    "date": "2022-05-10",
+    "beta": 0.2664689282223727,
+    "gold_expectation_coefficients": [
+      2.0200052268256172,
+      0.05116621644688854
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-11",
+    "beta": 0.2664399999030788,
+    "gold_expectation_coefficients": [
+      2.0194264028316025,
+      0.05115067479498213
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-12",
+    "beta": 0.2664108549412795,
+    "gold_expectation_coefficients": [
+      2.018843439222611,
+      0.051135022222474624
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-13",
+    "beta": 0.26638149176807563,
+    "gold_expectation_coefficients": [
+      2.018256308906371,
+      0.051119258006976115
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-14",
+    "beta": 0.26635190880402015,
+    "gold_expectation_coefficients": [
+      2.017664984650859,
+      0.05110338142242773
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-15",
+    "beta": 0.2663221044590598,
+    "gold_expectation_coefficients": [
+      2.017069439084163,
+      0.05108739173909905
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-20",
+    "beta": 0.2661697056189884,
+    "gold_expectation_coefficients": [
+      2.0140274237581175,
+      0.05100572104291594
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-21",
+    "beta": 0.2661385389961321,
+    "gold_expectation_coefficients": [
+      2.013405967665215,
+      0.050989037236710236
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-22",
+    "beta": 0.26610713956008686,
+    "gold_expectation_coefficients": [
+      2.012780094731223,
+      0.050972235120654304
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-23",
+    "beta": 0.2660755056338307,
+    "gold_expectation_coefficients": [
+      2.0121497764613303,
+      0.050955313935588845
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-24",
+    "beta": 0.26604363552920424,
+    "gold_expectation_coefficients": [
+      2.0115149842200637,
+      0.05093827291867373
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-27",
+    "beta": 0.2659465910951947,
+    "gold_expectation_coefficients": [
+      2.0095834752028603,
+      0.05088642319323155
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-28",
+    "beta": 0.2659137591706564,
+    "gold_expectation_coefficients": [
+      2.0089304979074187,
+      0.05086889514692832
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-05-29",
+    "beta": 0.26588068245780094,
+    "gold_expectation_coefficients": [
+      2.0082729013527842,
+      0.05085124339939605
+    ],
+    "prior_training_maps": 1186
+  },
+  {
+    "season": 12,
+    "date": "2022-09-29",
+    "beta": 0.26951383098253007,
+    "gold_expectation_coefficients": [
+      1.7689041335711397,
+      0.17689238024321438
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-09-30",
+    "beta": 0.26949544054673324,
+    "gold_expectation_coefficients": [
+      1.7685884360180453,
+      0.1768739445411394
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-01",
+    "beta": 0.2694769106325251,
+    "gold_expectation_coefficients": [
+      1.7682704116351624,
+      0.17685537049945474
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-02",
+    "beta": 0.2694582402028903,
+    "gold_expectation_coefficients": [
+      1.7679500441392295,
+      0.17683665711210467
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-03",
+    "beta": 0.269439428213423,
+    "gold_expectation_coefficients": [
+      1.7676273171461692,
+      0.17681780336620448
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-04",
+    "beta": 0.26942047361227894,
+    "gold_expectation_coefficients": [
+      1.7673022141706622,
+      0.17679880824200153
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-07",
+    "beta": 0.2693627435077614,
+    "gold_expectation_coefficients": [
+      1.7663124829688759,
+      0.17674096429821368
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-08",
+    "beta": 0.2693432077910185,
+    "gold_expectation_coefficients": [
+      1.7659777091709385,
+      0.1767213933245509
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-09",
+    "beta": 0.269323524090116,
+    "gold_expectation_coefficients": [
+      1.7656404754307218,
+      0.17670167576943707
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-10",
+    "beta": 0.26930369130756404,
+    "gold_expectation_coefficients": [
+      1.7653007646467056,
+      0.17668181057109045
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-13",
+    "beta": 0.2692432873781319,
+    "gold_expectation_coefficients": [
+      1.764266597452065,
+      0.1766213183914568
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-14",
+    "beta": 0.26922284713776,
+    "gold_expectation_coefficients": [
+      1.7639168053886847,
+      0.17660085185891053
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-15",
+    "beta": 0.26920225221060984,
+    "gold_expectation_coefficients": [
+      1.763564449203642,
+      0.17658023226628639
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-16",
+    "beta": 0.26918150145176944,
+    "gold_expectation_coefficients": [
+      1.7632095111644948,
+      0.17655945850834942
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-20",
+    "beta": 0.2690969169173918,
+    "gold_expectation_coefficients": [
+      1.761763582080498,
+      0.1764747994595589
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-21",
+    "beta": 0.2690753695418313,
+    "gold_expectation_coefficients": [
+      1.7613954650412238,
+      0.17645323803675583
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-22",
+    "beta": 0.2690536592936374,
+    "gold_expectation_coefficients": [
+      1.7610246575019781,
+      0.17643151566080043
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-23",
+    "beta": 0.2690317849702604,
+    "gold_expectation_coefficients": [
+      1.7606511409763166,
+      0.17640963117393818
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-29",
+    "beta": 0.268897025038125,
+    "gold_expectation_coefficients": [
+      1.7583521040562229,
+      0.17627485411864444
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-10-30",
+    "beta": 0.26887396780135664,
+    "gold_expectation_coefficients": [
+      1.7579590977828383,
+      0.17625180178938146
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 12,
+    "date": "2022-11-05",
+    "beta": 0.2687319251701766,
+    "gold_expectation_coefficients": [
+      1.755540296638903,
+      0.17610983984706094
+    ],
+    "prior_training_maps": 2422
+  },
+  {
+    "season": 13,
+    "date": "2023-05-02",
+    "beta": 0.25329532280885386,
+    "gold_expectation_coefficients": [
+      1.4921976415164322,
+      0.17595108273237167
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-03",
+    "beta": 0.2532501531124074,
+    "gold_expectation_coefficients": [
+      1.4916339158001388,
+      0.1759453373993362
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-04",
+    "beta": 0.25320470673121015,
+    "gold_expectation_coefficients": [
+      1.491066264088709,
+      0.17593953396800696
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-05",
+    "beta": 0.2531588990171594,
+    "gold_expectation_coefficients": [
+      1.4904946622366058,
+      0.17593367180095124
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-06",
+    "beta": 0.25311275510037645,
+    "gold_expectation_coefficients": [
+      1.4899190859969904,
+      0.17592775025340604
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-07",
+    "beta": 0.2530662726488383,
+    "gold_expectation_coefficients": [
+      1.4893395110220324,
+      0.17592176867319506
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-09",
+    "beta": 0.2529722827426627,
+    "gold_expectation_coefficients": [
+      1.4881682669717524,
+      0.1759096227684985
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-10",
+    "beta": 0.25292477055307594,
+    "gold_expectation_coefficients": [
+      1.4875765486987857,
+      0.17590345710183403
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-11",
+    "beta": 0.25287691035872667,
+    "gold_expectation_coefficients": [
+      1.4869807332959075,
+      0.17589722871797364
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-12",
+    "beta": 0.2528286997563644,
+    "gold_expectation_coefficients": [
+      1.4863807959154673,
+      0.17589093692639876
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-13",
+    "beta": 0.2527801363283321,
+    "gold_expectation_coefficients": [
+      1.4857767116109855,
+      0.17588458102866134
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-14",
+    "beta": 0.252731190583129,
+    "gold_expectation_coefficients": [
+      1.4851684553375686,
+      0.17587816031829506
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-16",
+    "beta": 0.25263230469643666,
+    "gold_expectation_coefficients": [
+      1.4839393262148834,
+      0.17586512159317824
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-17",
+    "beta": 0.2525823054991779,
+    "gold_expectation_coefficients": [
+      1.4833184027877162,
+      0.1758585021245898
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-18",
+    "beta": 0.2525319411700264,
+    "gold_expectation_coefficients": [
+      1.4826932062367584,
+      0.17585181493551263
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-19",
+    "beta": 0.2524812092037878,
+    "gold_expectation_coefficients": [
+      1.4820637110318349,
+      0.1758450592780229
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-20",
+    "beta": 0.25243010708049873,
+    "gold_expectation_coefficients": [
+      1.4814298915471904,
+      0.17583823439562601
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-05-21",
+    "beta": 0.2523786322653768,
+    "gold_expectation_coefficients": [
+      1.4807917220620184,
+      0.17583133952316146
+    ],
+    "prior_training_maps": 1004
+  },
+  {
+    "season": 13,
+    "date": "2023-10-10",
+    "beta": 0.2139193912736606,
+    "gold_expectation_coefficients": [
+      1.3619343171139977,
+      0.1712592245401819
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-11",
+    "beta": 0.21389539077720707,
+    "gold_expectation_coefficients": [
+      1.3615462656163355,
+      0.17123588810629525
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-12",
+    "beta": 0.2138712105493838,
+    "gold_expectation_coefficients": [
+      1.3611554376073363,
+      0.17121237753402166
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-13",
+    "beta": 0.21384684928875922,
+    "gold_expectation_coefficients": [
+      1.3607618148969385,
+      0.17118869157214467
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-14",
+    "beta": 0.21382230568515564,
+    "gold_expectation_coefficients": [
+      1.360365379200961,
+      0.17116482896119486
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-15",
+    "beta": 0.21379757841960162,
+    "gold_expectation_coefficients": [
+      1.3599661121410007,
+      0.17114078843340658
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-19",
+    "beta": 0.2136968060479292,
+    "gold_expectation_coefficients": [
+      1.3583403593905548,
+      0.17104282150578337
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-20",
+    "beta": 0.21367114037684923,
+    "gold_expectation_coefficients": [
+      1.357926656530807,
+      0.1710178720839409
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-21",
+    "beta": 0.213645282942588,
+    "gold_expectation_coefficients": [
+      1.357510010053316,
+      0.17099273696203532
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-22",
+    "beta": 0.2136192323632515,
+    "gold_expectation_coefficients": [
+      1.3570904009179299,
+      0.1709674148130211
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-23",
+    "beta": 0.21359298724776118,
+    "gold_expectation_coefficients": [
+      1.3566678099897387,
+      0.17094190430121126
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-26",
+    "beta": 0.21351307063477895,
+    "gold_expectation_coefficients": [
+      1.35538195367718,
+      0.17086422910161003
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-27",
+    "beta": 0.2134860332784724,
+    "gold_expectation_coefficients": [
+      1.3549472423324695,
+      0.17083795160740764
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-28",
+    "beta": 0.2134587942911263,
+    "gold_expectation_coefficients": [
+      1.3545094520981322,
+      0.17081147894084106
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-10-29",
+    "beta": 0.213431352225519,
+    "gold_expectation_coefficients": [
+      1.3540685632702978,
+      0.1707848097134673
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-11-02",
+    "beta": 0.21331952390144962,
+    "gold_expectation_coefficients": [
+      1.3522736246287919,
+      0.17067613911309407
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-11-03",
+    "beta": 0.21329104440091914,
+    "gold_expectation_coefficients": [
+      1.351816943958147,
+      0.17064846594048977
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-11-04",
+    "beta": 0.21326235293692553,
+    "gold_expectation_coefficients": [
+      1.3513570444810206,
+      0.17062058768708727
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-11-05",
+    "beta": 0.21323344799449218,
+    "gold_expectation_coefficients": [
+      1.3508939058307674,
+      0.17059250290093045
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-11-11",
+    "beta": 0.21305544920300187,
+    "gold_expectation_coefficients": [
+      1.3480458988777577,
+      0.17041957451630968
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-11-12",
+    "beta": 0.21302500665607402,
+    "gold_expectation_coefficients": [
+      1.347559507831846,
+      0.17039000256410666
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 13,
+    "date": "2023-11-19",
+    "beta": 0.21280549135808058,
+    "gold_expectation_coefficients": [
+      1.3440582222378203,
+      0.1701767945920307
+    ],
+    "prior_training_maps": 1973
+  },
+  {
+    "season": 14,
+    "date": "2024-05-01",
+    "beta": 0.1061339140710665,
+    "gold_expectation_coefficients": [
+      1.108858144989839,
+      0.31389358919326793
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-02",
+    "beta": 0.10611472690642047,
+    "gold_expectation_coefficients": [
+      1.1084967296021506,
+      0.3138368758105921
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-03",
+    "beta": 0.10609539852650283,
+    "gold_expectation_coefficients": [
+      1.1081327573786983,
+      0.31377974771046835
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-04",
+    "beta": 0.10607592794608521,
+    "gold_expectation_coefficients": [
+      1.1077662120005196,
+      0.3137222020377485
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-05",
+    "beta": 0.10605631417388375,
+    "gold_expectation_coefficients": [
+      1.1073970770708146,
+      0.31366423592027104
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-07",
+    "beta": 0.10601665305856998,
+    "gold_expectation_coefficients": [
+      1.1066509725806741,
+      0.3135470307769623
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-08",
+    "beta": 0.10599660370239244,
+    "gold_expectation_coefficients": [
+      1.1062739698378232,
+      0.3134877859211903
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-09",
+    "beta": 0.1059764071282518,
+    "gold_expectation_coefficients": [
+      1.1058943111787292,
+      0.3134281089606584
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-10",
+    "beta": 0.10595606231422049,
+    "gold_expectation_coefficients": [
+      1.1055119798181121,
+      0.3133679969372251
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-11",
+    "beta": 0.10593556823216954,
+    "gold_expectation_coefficients": [
+      1.1051269588931947,
+      0.31330744687537315
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-12",
+    "beta": 0.10591492384774472,
+    "gold_expectation_coefficients": [
+      1.1047392314637845,
+      0.31324645578215093
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-14",
+    "beta": 0.10587318000308767,
+    "gold_expectation_coefficients": [
+      1.1039555889442207,
+      0.3131231384422696
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-15",
+    "beta": 0.10585207844280733,
+    "gold_expectation_coefficients": [
+      1.1035596395875023,
+      0.31306080612201453
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-16",
+    "beta": 0.10583082238001,
+    "gold_expectation_coefficients": [
+      1.1031609151933932,
+      0.3129980206230838
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-17",
+    "beta": 0.10580941074886144,
+    "gold_expectation_coefficients": [
+      1.1027593984362167,
+      0.31293477886449184
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-18",
+    "beta": 0.10578784247716158,
+    "gold_expectation_coefficients": [
+      1.1023550719135795,
+      0.31287107774747763
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-05-19",
+    "beta": 0.10576611648632196,
+    "gold_expectation_coefficients": [
+      1.10194791814652,
+      0.3128069141554502
+    ],
+    "prior_training_maps": 1055
+  },
+  {
+    "season": 14,
+    "date": "2024-09-25",
+    "beta": 0.14671820367889027,
+    "gold_expectation_coefficients": [
+      1.443197111964154,
+      0.33657104932345855
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-09-26",
+    "beta": 0.14670370100113228,
+    "gold_expectation_coefficients": [
+      1.4428274083532429,
+      0.336538000168749
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-09-27",
+    "beta": 0.14668908918668241,
+    "gold_expectation_coefficients": [
+      1.4424550386211092,
+      0.3365046993742712
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-09-28",
+    "beta": 0.14667436743719622,
+    "gold_expectation_coefficients": [
+      1.442079984986505,
+      0.33647114505663583
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-09-29",
+    "beta": 0.14665953494884018,
+    "gold_expectation_coefficients": [
+      1.4417022295712745,
+      0.33643733531889863
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-03",
+    "beta": 0.1465990813361111,
+    "gold_expectation_coefficients": [
+      1.4401638291385077,
+      0.3362995037486505
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-04",
+    "beta": 0.14658368290151186,
+    "gold_expectation_coefficients": [
+      1.439772293242784,
+      0.33626438797559627
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-05",
+    "beta": 0.14656816878795076,
+    "gold_expectation_coefficients": [
+      1.4393779462519762,
+      0.3362290051111364
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-06",
+    "beta": 0.14655253815225883,
+    "gold_expectation_coefficients": [
+      1.4389807696044632,
+      0.33619335316094284
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-07",
+    "beta": 0.14653679014551635,
+    "gold_expectation_coefficients": [
+      1.4385807446403291,
+      0.3361574301164138
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-10",
+    "beta": 0.14648883332283208,
+    "gold_expectation_coefficients": [
+      1.437363391771548,
+      0.3360480141147641
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-11",
+    "beta": 0.14647260722651492,
+    "gold_expectation_coefficients": [
+      1.4369517849708373,
+      0.33601098631818765
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-12",
+    "beta": 0.1464562594271251,
+    "gold_expectation_coefficients": [
+      1.4365372350745782,
+      0.33597367716694204
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-13",
+    "beta": 0.14643978904053942,
+    "gold_expectation_coefficients": [
+      1.4361197228302323,
+      0.335936084564846
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-17",
+    "beta": 0.14637266372960514,
+    "gold_expectation_coefficients": [
+      1.4344196618479652,
+      0.33578283720003654
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-18",
+    "beta": 0.1463555669345486,
+    "gold_expectation_coefficients": [
+      1.4339870456005905,
+      0.3357437953753464
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-19",
+    "beta": 0.14633834212069602,
+    "gold_expectation_coefficients": [
+      1.4335513494039847,
+      0.3357044572060145
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-20",
+    "beta": 0.14632098836132015,
+    "gold_expectation_coefficients": [
+      1.4331125533095677,
+      0.33566482048940177
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-26",
+    "beta": 0.14621410526396686,
+    "gold_expectation_coefficients": [
+      1.4304135492015078,
+      0.33542060537223106
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-10-27",
+    "beta": 0.14619582241053153,
+    "gold_expectation_coefficients": [
+      1.4299524868829505,
+      0.33537881582878504
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 14,
+    "date": "2024-11-02",
+    "beta": 0.14608322231033063,
+    "gold_expectation_coefficients": [
+      1.4271168552040485,
+      0.3351213443665523
+    ],
+    "prior_training_maps": 2025
+  },
+  {
+    "season": 15,
+    "date": "2025-06-27",
+    "beta": 0.3569801397954043,
+    "gold_expectation_coefficients": [
+      0.7946428869134958,
+      0.1523066817902959
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-06-28",
+    "beta": 0.35687551612731544,
+    "gold_expectation_coefficients": [
+      0.794443280023934,
+      0.15228016604918693
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-06-29",
+    "beta": 0.35677014850831773,
+    "gold_expectation_coefficients": [
+      0.7942422311175581,
+      0.1522534556936137
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-01",
+    "beta": 0.3565571621623607,
+    "gold_expectation_coefficients": [
+      0.7938357685795738,
+      0.15219944573026692
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-02",
+    "beta": 0.356449533747959,
+    "gold_expectation_coefficients": [
+      0.7936303354774382,
+      0.15217214339757643
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-03",
+    "beta": 0.35634114200774686,
+    "gold_expectation_coefficients": [
+      0.7934234214172038,
+      0.15214464100052427
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-04",
+    "beta": 0.35623198203814305,
+    "gold_expectation_coefficients": [
+      0.7932150165299608,
+      0.15211693715599617
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-05",
+    "beta": 0.3561220489116144,
+    "gold_expectation_coefficients": [
+      0.7930051108931446,
+      0.15208903047255917
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-07",
+    "beta": 0.35589984335788155,
+    "gold_expectation_coefficients": [
+      0.7925807574116273,
+      0.15203260298144544
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-08",
+    "beta": 0.3557875609558474,
+    "gold_expectation_coefficients": [
+      0.7923662894525891,
+      0.15200407934902932
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-09",
+    "beta": 0.35567448544723684,
+    "gold_expectation_coefficients": [
+      0.7921502805151099,
+      0.15197534722816436
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-10",
+    "beta": 0.3555606117847779,
+    "gold_expectation_coefficients": [
+      0.7919327204068355,
+      0.15194640518536057
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-11",
+    "beta": 0.35544593489727117,
+    "gold_expectation_coefficients": [
+      0.7917135988811752,
+      0.15191725177862542
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-07-12",
+    "beta": 0.35533044968960176,
+    "gold_expectation_coefficients": [
+      0.7914929056372154,
+      0.15188788555743427
+    ],
+    "prior_training_maps": 1446
+  },
+  {
+    "season": 15,
+    "date": "2025-10-14",
+    "beta": 0.23409306582965397,
+    "gold_expectation_coefficients": [
+      0.8194929344782383,
+      0.10494125927003789
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-15",
+    "beta": 0.23402263580262567,
+    "gold_expectation_coefficients": [
+      0.8192667190907373,
+      0.10491700268527612
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-16",
+    "beta": 0.2339517050583497,
+    "gold_expectation_coefficients": [
+      0.819038880928712,
+      0.10489257089855974
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-17",
+    "beta": 0.23388027036325695,
+    "gold_expectation_coefficients": [
+      0.8188094092978044,
+      0.1048679627368307
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-18",
+    "beta": 0.23380832846774446,
+    "gold_expectation_coefficients": [
+      0.8185782934473486,
+      0.10484317702055693
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-19",
+    "beta": 0.23373587610617105,
+    "gold_expectation_coefficients": [
+      0.8183455225702914,
+      0.10481821256371755
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-22",
+    "beta": 0.23351542332802755,
+    "gold_expectation_coefficients": [
+      0.8176371708616693,
+      0.10474223479197008
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-23",
+    "beta": 0.23344089612493094,
+    "gold_expectation_coefficients": [
+      0.8173976706774516,
+      0.1047165433823937
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-24",
+    "beta": 0.2333658418869144,
+    "gold_expectation_coefficients": [
+      0.8171564605831266,
+      0.10469066720432924
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-25",
+    "beta": 0.2332902572520816,
+    "gold_expectation_coefficients": [
+      0.8169135294319108,
+      0.10466460503253586
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-28",
+    "beta": 0.23306028710727492,
+    "gold_expectation_coefficients": [
+      0.8161742973165378,
+      0.10458529020358368
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-29",
+    "beta": 0.23298254694567336,
+    "gold_expectation_coefficients": [
+      0.8159243693329022,
+      0.10455847167266578
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-30",
+    "beta": 0.23290425933744607,
+    "gold_expectation_coefficients": [
+      0.815672663705347,
+      0.10453146092286597
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-10-31",
+    "beta": 0.2328254208246365,
+    "gold_expectation_coefficients": [
+      0.815419168945593,
+      0.10450425668928724
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-11-01",
+    "beta": 0.23274602793332141,
+    "gold_expectation_coefficients": [
+      0.8151638735083427,
+      0.10447685770038706
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-11-02",
+    "beta": 0.2326660771736275,
+    "gold_expectation_coefficients": [
+      0.814906765791262,
+      0.10444926267796772
+    ],
+    "prior_training_maps": 2213
+  },
+  {
+    "season": 15,
+    "date": "2025-11-09",
+    "beta": 0.23209050505173573,
+    "gold_expectation_coefficients": [
+      0.8130552813598233,
+      0.10425049981249761
+    ],
+    "prior_training_maps": 2213
+  }
+]

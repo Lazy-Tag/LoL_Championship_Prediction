@@ -66,3 +66,47 @@
 - 主模型指针为 results/main_model.json；底层旧 results/models.json、results/backtest_summary.json、results/event_replay/summary.json 保留为旧模型对照，不再代表主结果。
 - scripts/publish_dynamic.py 统一生成主报告。重新生成旧报告后必须恢复该输出；发布前核对主指针、报告概率和候选原始计数一致。
 - 当前先完成发布报告，后续再继续详细数据补采，不将未完成的数据工作写成已经完成。
+
+## 可复用经验与详细数据实验（2026-10-15）
+
+- 数据入口、实际下载覆盖、失败方式、逐届赛制核验和回测经验统一记录在 [研究经验](docs/RESEARCH_NOTES.md)；继续工作先读对应章节，不从零重复探测失效入口。
+- 新归档覆盖情况见 reports/detailed_data/README.md，不能沿用此前仅有 Worlds 镜像的旧覆盖描述；S16 7–10 月详细数据仍缺。
+- 详细数据模型试验见 scripts/evaluate_detail_features.py 与 reports/detailed_data/model_comparison.md。原动态 69.38%，加经济 68.92%，加经济及红蓝方 68.85%；整体未提升，仍保留 dynamic90 主指针。不得据 S15 单年改善替换主模型。
+- 本轮只以精确同日、队伍及完整比分唯一匹配的详细小局附加特征，没有新增胜负训练样本。缺失日期的早期逐分钟数据暂不进时间模型；未知别名和日期歧义隔离。
+- 经济特征、回归系数每季重置；只用过去日期，当日批量预测后更新；新特征系数只拟合此前国内赛。详细方法在 reports/detailed_data/DETAIL_MODEL.md。
+- 当前新增试验只比较逐场概率，没有重跑整届冠军和名次模拟。报告必须保持此界限。
+
+- 后续详细数据模型设计见 docs/DETAIL_MODEL_REDESIGN.md。先独立检验训练端选边校正，再检验对手校正经济残差与可靠性；不要重复未校正平均经济的简单加分方案。此设计尚未实现或证明提升，用户要求无提升时不覆盖主结果。
+
+- A1／A2 现已完成独立回测：联合选边为69.23%、系列赛对数损失0.57868；加入经济残差为69.38%、0.58114，原动态为69.38%、0.57872。后者整体概率误差变大，保持原主结果。实现与验证为 scripts/dynamic_side_model.py、evaluate_joint_side.py、evaluate_economy_residual.py、verify_dynamic_side.py、verify_economy_residual.py；逐场报告在 reports/detailed_data。仍未重跑整届模拟。
+
+## 状态延续实验
+
+- 用户要求测试近期大场状态与系列赛内连锁。实现 scripts/evaluate_form_chain.py，独立结果 results/form_chain_experiment，读者报告 reports/form_chain/README.md。
+- 原 dynamic90 已吸收此前赛果；近期候选只对每场小局获胜比例相对赛前预期的残差做90天状态修正，不额外重复训练系列赛胜负。仍不测试无可靠时序的同日跨系列赛更新。
+- 系列赛共享状态使用 beta-binomial：赛前对潜在单局胜率积分，实时只用此前小局后验；基线也必须按已知比分算剩余系列赛概率。实时预测与赛前预测分别评价，不能混为冠军预测提升。
+- 本次1300场赛前命中原69.38%、近期／组合69.54%，但概率误差增大；共享状态对306条实时下一局预测的对数损失略好，但区间跨零，首局后第二局反而较差。保留主结果，不将此结果解释为首胜因果效应或整届模拟已提升。
+
+## 共享状态的整届比较
+
+- 已完成 results/chain_events 的23届共享状态正式模拟，每届14,000,605次、种子为年份。reports/form_chain/events 提供完整冠军概率、实际名次、预期名次与赛区排名对照。
+- baseline 为当前 dynamic90，复用校验通过的相同规模原模拟；双方赛前实力、赛制和截止相同。ρ只用每届开赛前国内赛估计，冻结整届；不同系列赛状态独立，不包含近期修正或跨场状态传播。
+- 使用原 scripts/event_simulation.cpp 的隔离扩展，由 build_chain_engine.py 生成本地源码，支持外部 BO3／BO5 概率矩阵，不改动原引擎。run_chain_events.py、report_chain_events.py、verify_chain_events.py 负责运行报告和核验。
+- 冠军对数损失1.60698→1.59906、Brier0.76263→0.75004、命中10/23不变；名次相关0.77502→0.77623，名次绝对误差1.93507→1.94521。小幅混合改善，配对区间跨零，用户主结果和S16不覆盖。不得把本轮写成已证实冠军预测提升。
+
+## 实力不确定性／整届状态独立实验
+
+- 用户要求分别测试两者，已完成 results/latent_events 下 posterior、event_form 两项，各23届×14,000,605次，种子年份；原动态基线复用已验证同规模结果。
+- posterior 使用赛前原联合协方差 HCHᵀ 抽取整届实力；event_form 只在原均值上加独立 N(0,0.35²) 整届偏移，0.35事前固定未校准。两者不叠加，不加入此前系列赛共享状态或近期修正。
+- 对手选择只读取原均值，不能读取隐藏抽样；每次完整赛事重新抽取一次向量，整届固定。隔离引擎由 build_latent_event_engine.py 生成，不修改原引擎。run_latent_events.py／report_latent_events.py／verify_latent_events.py 提供执行、报告和验收。
+- 结果：原10/23、冠军对数损失1.60698、Brier0.76263；posterior 9/23、1.65081、0.73672；event_form 10/23、1.57030、0.74393。两候选预期名次相关及绝对误差都较原模型差。
+- event_form 对数损失收益高度集中于2022 Worlds；剔除该届的事后诊断中，其余22届平均损失差+0.00044。不得称为已证实稳定提升，不因此删除该届主评价。主结果和S16未覆盖。
+- 读者报告 reports/latent_events/README.md 及逐届明细，保留赛区排名、概率、实际名次、预期名次和差异区间。
+
+## S16 赛中更新（2026-10-24）
+
+- 赛中独立结果在 results/live_s16，报告在 reports/s16/live；原赛前快照与 dynamic90 主指针不覆盖。
+- 每个更新日一份 YYYY-MM-DD.md，历史报告保留，汇总页日期倒序；不能每天覆盖同一结果文件。
+- 使用当前已结束赛果更新实力、固定真实瑞士轮战绩及已公布对阵，出线指八强。须同时报告下一轮每场胜率、LPL/LCK 各队出线与出线数量联合分布。
+- 本地每小时检查至北京时间 2026-11-01；当天赛程结束且下一轮抽签就绪后，有新增赛果才每日发布一次。自动任务不提交或推送。
+- scripts/update_live_s16.py、simulate_live.cpp、verify_live_s16.py 为隔离赛中实现；已知淘汰树尚不支持，检测到后停止发布，不能忽略实际签表。

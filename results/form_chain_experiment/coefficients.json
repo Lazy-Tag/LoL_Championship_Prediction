@@ -1,0 +1,2882 @@
+[
+  {
+    "season": 4,
+    "date": "2014-09-18",
+    "form_beta": -0.20269220882513914,
+    "rho": 0.006205572488701407,
+    "rho_combined": 0.00784083782023493,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-09-19",
+    "form_beta": -0.20158264521784072,
+    "rho": 0.006181766929601306,
+    "rho_combined": 0.007810369465637927,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-09-20",
+    "form_beta": -0.2004767036127692,
+    "rho": 0.006157962897495094,
+    "rho_combined": 0.007780237385666612,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-09-21",
+    "form_beta": -0.19937439929098782,
+    "rho": 0.0061341610425102175,
+    "rho_combined": 0.007750108988224415,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-09-25",
+    "form_beta": -0.19500184926719957,
+    "rho": 0.006038989650326294,
+    "rho_combined": 0.007629649510853574,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-09-26",
+    "form_beta": -0.19391794939484572,
+    "rho": 0.0060152091308459605,
+    "rho_combined": 0.007599552489483796,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-09-27",
+    "form_beta": -0.19283777179064424,
+    "rho": 0.005991435044023429,
+    "rho_combined": 0.007569464341288167,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-09-28",
+    "form_beta": -0.19176132950773558,
+    "rho": 0.0059676679266648285,
+    "rho_combined": 0.007539385920058468,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-10-03",
+    "form_beta": -0.18643558273939959,
+    "rho": 0.005848961078020213,
+    "rho_combined": 0.007389169797002634,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-10-04",
+    "form_beta": -0.18538180889653413,
+    "rho": 0.005825250043438044,
+    "rho_combined": 0.007359167764633548,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-10-05",
+    "form_beta": -0.18433185296474375,
+    "rho": 0.005801551276539356,
+    "rho_combined": 0.007329181445289616,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-10-06",
+    "form_beta": -0.18328572549970742,
+    "rho": 0.005777864570967593,
+    "rho_combined": 0.0072992116975898885,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-10-11",
+    "form_beta": -0.17811286317009808,
+    "rho": 0.005659642753326842,
+    "rho_combined": 0.007149641121580515,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-10-12",
+    "form_beta": -0.17708991104250907,
+    "rho": 0.005636045244706197,
+    "rho_combined": 0.007119788520955616,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 4,
+    "date": "2014-10-19",
+    "form_beta": -0.17003870768786816,
+    "rho": 0.005471378626002596,
+    "rho_combined": 0.00691149561756728,
+    "prior_domestic_series": 475
+  },
+  {
+    "season": 5,
+    "date": "2015-05-07",
+    "form_beta": 0.028991158271955,
+    "rho": 0.0734027791047417,
+    "rho_combined": 0.07440592651640925,
+    "prior_domestic_series": 415
+  },
+  {
+    "season": 5,
+    "date": "2015-05-08",
+    "form_beta": 0.02887191700223374,
+    "rho": 0.07328195470756674,
+    "rho_combined": 0.07428344601331047,
+    "prior_domestic_series": 415
+  },
+  {
+    "season": 5,
+    "date": "2015-05-09",
+    "form_beta": 0.02875274251995014,
+    "rho": 0.0731606153447483,
+    "rho_combined": 0.07416044360318427,
+    "prior_domestic_series": 415
+  },
+  {
+    "season": 5,
+    "date": "2015-05-10",
+    "form_beta": 0.028633638293540646,
+    "rho": 0.0730387612688398,
+    "rho_combined": 0.07403691955626836,
+    "prior_domestic_series": 415
+  },
+  {
+    "season": 5,
+    "date": "2015-10-01",
+    "form_beta": -0.08613228356769409,
+    "rho": 0.06831473643091444,
+    "rho_combined": 0.06888236104063676,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-02",
+    "form_beta": -0.08577825821655148,
+    "rho": 0.06824893844161793,
+    "rho_combined": 0.06881624740033175,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-03",
+    "form_beta": -0.08542442414102097,
+    "rho": 0.06818277048977442,
+    "rho_combined": 0.06874976172676137,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-04",
+    "form_beta": -0.08507079169998576,
+    "rho": 0.06811623138443385,
+    "rho_combined": 0.06868290283887048,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-08",
+    "form_beta": -0.08365848462978998,
+    "rho": 0.06784634033477503,
+    "rho_combined": 0.06841171165346958,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-09",
+    "form_beta": -0.08330601489854617,
+    "rho": 0.06777792818525609,
+    "rho_combined": 0.0683429691664988,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-10",
+    "form_beta": -0.08295380843034397,
+    "rho": 0.0677091380180482,
+    "rho_combined": 0.06827384652650492,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-11",
+    "form_beta": -0.08260187539775453,
+    "rho": 0.06763996871677123,
+    "rho_combined": 0.06820434261039796,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-15",
+    "form_beta": -0.08119707994945596,
+    "rho": 0.06735947831361407,
+    "rho_combined": 0.06792249199494103,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-16",
+    "form_beta": -0.08084666554158226,
+    "rho": 0.06728839700566441,
+    "rho_combined": 0.06785106515468033,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-17",
+    "form_beta": -0.08049658490325626,
+    "rho": 0.06721693010528242,
+    "rho_combined": 0.06777925050569167,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-18",
+    "form_beta": -0.08014684796240505,
+    "rho": 0.06714507656818204,
+    "rho_combined": 0.06770704698080333,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-24",
+    "form_beta": -0.07805619480896495,
+    "rho": 0.06670577894796248,
+    "rho_combined": 0.06726560208604575,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-25",
+    "form_beta": -0.0777091382736255,
+    "rho": 0.06663119070740121,
+    "rho_combined": 0.06719064797048394,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 5,
+    "date": "2015-10-31",
+    "form_beta": -0.07563594505127426,
+    "rho": 0.0661753432155194,
+    "rho_combined": 0.06673255619834427,
+    "prior_domestic_series": 872
+  },
+  {
+    "season": 6,
+    "date": "2016-05-04",
+    "form_beta": 0.1791411921835625,
+    "rho": 0.12454841756457431,
+    "rho_combined": 0.12646819896686673,
+    "prior_domestic_series": 402
+  },
+  {
+    "season": 6,
+    "date": "2016-05-05",
+    "form_beta": 0.1785122355488755,
+    "rho": 0.12438304432193477,
+    "rho_combined": 0.12630266414416405,
+    "prior_domestic_series": 402
+  },
+  {
+    "season": 6,
+    "date": "2016-05-06",
+    "form_beta": 0.17788288491247084,
+    "rho": 0.12421688222714503,
+    "rho_combined": 0.12613633535491722,
+    "prior_domestic_series": 402
+  },
+  {
+    "season": 6,
+    "date": "2016-05-07",
+    "form_beta": 0.17725315841378916,
+    "rho": 0.124049930480999,
+    "rho_combined": 0.12596921173804923,
+    "prior_domestic_series": 402
+  },
+  {
+    "season": 6,
+    "date": "2016-05-08",
+    "form_beta": 0.1766230742345216,
+    "rho": 0.12388218830613433,
+    "rho_combined": 0.1258012924404627,
+    "prior_domestic_series": 402
+  },
+  {
+    "season": 6,
+    "date": "2016-05-13",
+    "form_beta": 0.17346792729043883,
+    "rho": 0.12303159671145825,
+    "rho_combined": 0.12494973419016224,
+    "prior_domestic_series": 402
+  },
+  {
+    "season": 6,
+    "date": "2016-05-14",
+    "form_beta": 0.17283608102617642,
+    "rho": 0.12285909791871343,
+    "rho_combined": 0.12477702536218899,
+    "prior_domestic_series": 402
+  },
+  {
+    "season": 6,
+    "date": "2016-05-15",
+    "form_beta": 0.17220400539830502,
+    "rho": 0.12268580436674223,
+    "rho_combined": 0.12460351605725234,
+    "prior_domestic_series": 402
+  },
+  {
+    "season": 6,
+    "date": "2016-09-29",
+    "form_beta": 0.3213123483095444,
+    "rho": 0.0739116407844618,
+    "rho_combined": 0.07493136577873279,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-09-30",
+    "form_beta": 0.3201496716006156,
+    "rho": 0.07385006303593093,
+    "rho_combined": 0.07486965953355683,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-01",
+    "form_beta": 0.3189865325167884,
+    "rho": 0.07378812121804251,
+    "rho_combined": 0.07480758758277796,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-02",
+    "form_beta": 0.3178229648062121,
+    "rho": 0.07372581393875328,
+    "rho_combined": 0.07474514848180953,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-06",
+    "form_beta": 0.3131650843091796,
+    "rho": 0.07347290226246034,
+    "rho_combined": 0.0744916925805588,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-07",
+    "form_beta": 0.31199988128165695,
+    "rho": 0.07340874680414328,
+    "rho_combined": 0.07442739671542017,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-08",
+    "form_beta": 0.31083445301810353,
+    "rho": 0.07334421757067212,
+    "rho_combined": 0.07436272528124288,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-09",
+    "form_beta": 0.3096688335307479,
+    "rho": 0.07327931320963561,
+    "rho_combined": 0.07429767692694242,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-14",
+    "form_beta": 0.3038390594803691,
+    "rho": 0.07294911715482276,
+    "rho_combined": 0.07396673319146262,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-15",
+    "form_beta": 0.30267300786096124,
+    "rho": 0.07288193372138518,
+    "rho_combined": 0.0738993945362641,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-16",
+    "form_beta": 0.3015070034976263,
+    "rho": 0.07281436580811808,
+    "rho_combined": 0.07383166944044108,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-17",
+    "form_beta": 0.30034108046826613,
+    "rho": 0.07274641207745577,
+    "rho_combined": 0.07376355657059841,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-22",
+    "form_beta": 0.29451387714951377,
+    "rho": 0.07240081104954679,
+    "rho_combined": 0.07341712949028781,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-23",
+    "form_beta": 0.29334915693740804,
+    "rho": 0.07233051541715872,
+    "rho_combined": 0.07334666242681201,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 6,
+    "date": "2016-10-30",
+    "form_beta": 0.28520690430149387,
+    "rho": 0.07182732376851793,
+    "rho_combined": 0.07284220990064574,
+    "prior_domestic_series": 826
+  },
+  {
+    "season": 7,
+    "date": "2017-04-28",
+    "form_beta": 0.292044178334774,
+    "rho": 0.10063795204736911,
+    "rho_combined": 0.10264083849054104,
+    "prior_domestic_series": 523
+  },
+  {
+    "season": 7,
+    "date": "2017-04-29",
+    "form_beta": 0.2911384945187694,
+    "rho": 0.10055926624035229,
+    "rho_combined": 0.10256221835381883,
+    "prior_domestic_series": 523
+  },
+  {
+    "season": 7,
+    "date": "2017-04-30",
+    "form_beta": 0.2909279311862063,
+    "rho": 0.10540963351695763,
+    "rho_combined": 0.10729178946233409,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-01",
+    "form_beta": 0.29001746206564283,
+    "rho": 0.10532642840912976,
+    "rho_combined": 0.1072087650835132,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-03",
+    "form_beta": 0.288192778750506,
+    "rho": 0.10515851336175945,
+    "rho_combined": 0.10704120899860801,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-04",
+    "form_beta": 0.2872786129597422,
+    "rho": 0.1050737993300866,
+    "rho_combined": 0.10695667314363337,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-06",
+    "form_beta": 0.2854467551385815,
+    "rho": 0.10490284807114977,
+    "rho_combined": 0.10678607547706677,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-10",
+    "form_beta": 0.28176962611091133,
+    "rho": 0.10455479611431241,
+    "rho_combined": 0.10643871870960221,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-11",
+    "form_beta": 0.2808476949405934,
+    "rho": 0.10446649025978656,
+    "rho_combined": 0.10635058395921138,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-12",
+    "form_beta": 0.2799247545881604,
+    "rho": 0.10437766326350922,
+    "rho_combined": 0.10626192691692926,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-13",
+    "form_beta": 0.2790008304481374,
+    "rho": 0.1042883131377984,
+    "rho_combined": 0.10617274556074685,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-14",
+    "form_beta": 0.2780759480270902,
+    "rho": 0.10419843790417563,
+    "rho_combined": 0.10608303788169239,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-19",
+    "form_beta": 0.27343806189642267,
+    "rho": 0.10374111640382377,
+    "rho_combined": 0.10562653455505433,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-20",
+    "form_beta": 0.2725079713280452,
+    "rho": 0.1036480494070854,
+    "rho_combined": 0.10553362701291504,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-05-21",
+    "form_beta": 0.2715771039173681,
+    "rho": 0.10355444367558149,
+    "rho_combined": 0.10544017925013409,
+    "prior_domestic_series": 524
+  },
+  {
+    "season": 7,
+    "date": "2017-09-23",
+    "form_beta": -0.3221373959061025,
+    "rho": 0.10791684843784462,
+    "rho_combined": 0.1088729469567017,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-09-24",
+    "form_beta": -0.321153940911244,
+    "rho": 0.10785354886178564,
+    "rho_combined": 0.10880994030390274,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-09-25",
+    "form_beta": -0.3201689033957737,
+    "rho": 0.10778984167708053,
+    "rho_combined": 0.10874652719035804,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-09-26",
+    "form_beta": -0.31918230914207524,
+    "rho": 0.10772572483701336,
+    "rho_combined": 0.10868270555860803,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-09-28",
+    "form_beta": -0.3172045544275622,
+    "rho": 0.10759625397437649,
+    "rho_combined": 0.10855382849901059,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-09-29",
+    "form_beta": -0.3162134464019681,
+    "rho": 0.107530895846416,
+    "rho_combined": 0.10848876895225483,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-05",
+    "form_beta": -0.31023724687810306,
+    "rho": 0.10712989953118165,
+    "rho_combined": 0.1080895873233512,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-06",
+    "form_beta": -0.3092365407412954,
+    "rho": 0.1070615729748664,
+    "rho_combined": 0.10802156701189082,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-07",
+    "form_beta": -0.308234572522917,
+    "rho": 0.10699281409103943,
+    "rho_combined": 0.10795311544701991,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-08",
+    "form_beta": -0.3072313699440244,
+    "rho": 0.10692362082766754,
+    "rho_combined": 0.10788423054911324,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-12",
+    "form_beta": -0.3032067753992774,
+    "rho": 0.1066424625379261,
+    "rho_combined": 0.1076043161876796,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-13",
+    "form_beta": -0.30219782174641635,
+    "rho": 0.10657106632032542,
+    "rho_combined": 0.10753323351257216,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-14",
+    "form_beta": -0.301187802964673,
+    "rho": 0.10649922330455092,
+    "rho_combined": 0.10746170505558315,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-15",
+    "form_beta": -0.30017674771501696,
+    "rho": 0.1064269314265131,
+    "rho_combined": 0.10738972873002607,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-19",
+    "form_beta": -0.29612273945430817,
+    "rho": 0.1061332339511202,
+    "rho_combined": 0.10709730327390413,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-20",
+    "form_beta": -0.2951069359320952,
+    "rho": 0.10605866676641744,
+    "rho_combined": 0.10702305648966913,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-21",
+    "form_beta": -0.29409027035383867,
+    "rho": 0.1059836383311929,
+    "rho_combined": 0.10694834939971917,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-22",
+    "form_beta": -0.2930727721653391,
+    "rho": 0.10590814658448668,
+    "rho_combined": 0.10687317992551831,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-28",
+    "form_beta": -0.28695195921333855,
+    "rho": 0.1054453514520893,
+    "rho_combined": 0.10641233726493601,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-10-29",
+    "form_beta": -0.28592946511107575,
+    "rho": 0.10536655901959201,
+    "rho_combined": 0.10633387327079585,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 7,
+    "date": "2017-11-04",
+    "form_beta": -0.2797830909873638,
+    "rho": 0.10488365929754713,
+    "rho_combined": 0.10585296115262266,
+    "prior_domestic_series": 1072
+  },
+  {
+    "season": 8,
+    "date": "2018-05-03",
+    "form_beta": 0.4077782254071103,
+    "rho": 0.07667094345448729,
+    "rho_combined": 0.07826230454722714,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-04",
+    "form_beta": 0.4069372300533296,
+    "rho": 0.0766133340229355,
+    "rho_combined": 0.0782047414862794,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-05",
+    "form_beta": 0.40609327813871154,
+    "rho": 0.07655537326258008,
+    "rho_combined": 0.07814682597345167,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-06",
+    "form_beta": 0.405246378929103,
+    "rho": 0.07649705964578027,
+    "rho_combined": 0.07808855649514246,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-08",
+    "form_beta": 0.4035437768709805,
+    "rho": 0.0763793678901544,
+    "rho_combined": 0.07797094954313312,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-09",
+    "form_beta": 0.40268809373867887,
+    "rho": 0.07631998675191964,
+    "rho_combined": 0.07791160901566951,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-11",
+    "form_beta": 0.40096801434365603,
+    "rho": 0.07620014649195012,
+    "rho_combined": 0.07779184631856843,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-12",
+    "form_beta": 0.4001036392277707,
+    "rho": 0.07613968442595108,
+    "rho_combined": 0.07773142111717492,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-13",
+    "form_beta": 0.3992363883299855,
+    "rho": 0.07607885906336134,
+    "rho_combined": 0.07767063133382072,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-14",
+    "form_beta": 0.39836627282305526,
+    "rho": 0.07601766896554106,
+    "rho_combined": 0.07760947547145743,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-15",
+    "form_beta": 0.3974933041201981,
+    "rho": 0.07595611263829684,
+    "rho_combined": 0.0775479520242385,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-18",
+    "form_beta": 0.394857396582271,
+    "rho": 0.07576923160589652,
+    "rho_combined": 0.07736116120041872,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-19",
+    "form_beta": 0.3939731340486017,
+    "rho": 0.0757061957219348,
+    "rho_combined": 0.07729815248800949,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-05-20",
+    "form_beta": 0.3930860790029833,
+    "rho": 0.0756427862959639,
+    "rho_combined": 0.0772347687253921,
+    "prior_domestic_series": 980
+  },
+  {
+    "season": 8,
+    "date": "2018-10-01",
+    "form_beta": 0.32570050277847407,
+    "rho": 0.04026542203076332,
+    "rho_combined": 0.04151370829423459,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-02",
+    "form_beta": 0.3249966963269353,
+    "rho": 0.04024436002791537,
+    "rho_combined": 0.04149232147490934,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-03",
+    "form_beta": 0.32429054424944836,
+    "rho": 0.040223158546529934,
+    "rho_combined": 0.041470792955093885,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-04",
+    "form_beta": 0.32358205567916964,
+    "rho": 0.040201817117083725,
+    "rho_combined": 0.04144912184110978,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-06",
+    "form_beta": 0.32215810657997146,
+    "rho": 0.040158710767467604,
+    "rho_combined": 0.041405349011763085,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-07",
+    "form_beta": 0.3214426653053326,
+    "rho": 0.04013694447787963,
+    "rho_combined": 0.04138324565891296,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-10",
+    "form_beta": 0.31928259426795363,
+    "rho": 0.04007078379370736,
+    "rho_combined": 0.04131605880339999,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-11",
+    "form_beta": 0.3185580225882788,
+    "rho": 0.040048440413749296,
+    "rho_combined": 0.04129336825333017,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-12",
+    "form_beta": 0.3178311946070061,
+    "rho": 0.040025950891432585,
+    "rho_combined": 0.041270529042669285,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-13",
+    "form_beta": 0.31710212124157167,
+    "rho": 0.04000331439427144,
+    "rho_combined": 0.04124754017755582,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-14",
+    "form_beta": 0.31637081360830954,
+    "rho": 0.03998053020042971,
+    "rho_combined": 0.041224401044978175,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-15",
+    "form_beta": 0.3156372830224604,
+    "rho": 0.03995759751781699,
+    "rho_combined": 0.041201110703096,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-16",
+    "form_beta": 0.3149015409981508,
+    "rho": 0.039934515622086546,
+    "rho_combined": 0.04117766853912973,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-17",
+    "form_beta": 0.31416359924834303,
+    "rho": 0.03991128365263181,
+    "rho_combined": 0.041154073626741366,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-20",
+    "form_beta": 0.31193669575595445,
+    "rho": 0.03984067977002163,
+    "rho_combined": 0.041082364797280974,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-21",
+    "form_beta": 0.3111900761539346,
+    "rho": 0.039816839948941724,
+    "rho_combined": 0.04105815112568639,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-27",
+    "form_beta": 0.3066659152975996,
+    "rho": 0.039670541364309406,
+    "rho_combined": 0.04090955107342375,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-10-28",
+    "form_beta": 0.30590460633234423,
+    "rho": 0.039645607801464644,
+    "rho_combined": 0.040884223824498446,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 8,
+    "date": "2018-11-03",
+    "form_beta": 0.3012943409446199,
+    "rho": 0.03949263151831849,
+    "rho_combined": 0.04072882451208349,
+    "prior_domestic_series": 2061
+  },
+  {
+    "season": 9,
+    "date": "2019-05-01",
+    "form_beta": 0.8173102749680253,
+    "rho": 0.16914299025835014,
+    "rho_combined": 0.17326277943853904,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-02",
+    "form_beta": 0.8156183787730139,
+    "rho": 0.16899958000515705,
+    "rho_combined": 0.1731222151150827,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-05",
+    "form_beta": 0.8105079389748004,
+    "rho": 0.16856431616633646,
+    "rho_combined": 0.17269555169415887,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-06",
+    "form_beta": 0.8087929413782188,
+    "rho": 0.1684175404050404,
+    "rho_combined": 0.1725516634301247,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-07",
+    "form_beta": 0.8070722191363906,
+    "rho": 0.16826991570700653,
+    "rho_combined": 0.17240693648193026,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-10",
+    "form_beta": 0.8018759188883016,
+    "rho": 0.1678219181553497,
+    "rho_combined": 0.17196769308626952,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-11",
+    "form_beta": 0.8001325147283194,
+    "rho": 0.16767086794245195,
+    "rho_combined": 0.17181958101823075,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-12",
+    "form_beta": 0.7983834965707002,
+    "rho": 0.16751895398823552,
+    "rho_combined": 0.17167061514249085,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-13",
+    "form_beta": 0.7966288879367278,
+    "rho": 0.16736617337966833,
+    "rho_combined": 0.17152079248017632,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-14",
+    "form_beta": 0.7948687128127784,
+    "rho": 0.1672125232230706,
+    "rho_combined": 0.17137011006927808,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-17",
+    "form_beta": 0.7895550353483625,
+    "rho": 0.16674632678978285,
+    "rho_combined": 0.1709128749292055,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-18",
+    "form_beta": 0.787772843441361,
+    "rho": 0.1665891698574626,
+    "rho_combined": 0.17075872420395793,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-05-19",
+    "form_beta": 0.7859852119628962,
+    "rho": 0.16643112919345918,
+    "rho_combined": 0.17060369915525328,
+    "prior_domestic_series": 1048
+  },
+  {
+    "season": 9,
+    "date": "2019-10-02",
+    "form_beta": 0.9900444513703825,
+    "rho": 0.09843946374832661,
+    "rho_combined": 0.09862248746052257,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-03",
+    "form_beta": 0.9878478791798861,
+    "rho": 0.09837258554728373,
+    "rho_combined": 0.09855786487942976,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-04",
+    "form_beta": 0.9856444511379362,
+    "rho": 0.09830529077344959,
+    "rho_combined": 0.09849283747292435,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-05",
+    "form_beta": 0.983434198763493,
+    "rho": 0.09823757752497667,
+    "rho_combined": 0.09842740338562728,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-07",
+    "form_beta": 0.9789933499792786,
+    "rho": 0.09810088799607984,
+    "rho_combined": 0.09829530757947585,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-08",
+    "form_beta": 0.9767628194938971,
+    "rho": 0.09803190792070444,
+    "rho_combined": 0.0982286421293417,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-12",
+    "form_beta": 0.9677741196487213,
+    "rho": 0.0977517079344316,
+    "rho_combined": 0.0979578192797743,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-13",
+    "form_beta": 0.9655104765609513,
+    "rho": 0.09768057855169972,
+    "rho_combined": 0.09788906394219511,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-14",
+    "form_beta": 0.9632403187782477,
+    "rho": 0.09760901363407924,
+    "rho_combined": 0.09781988500216335,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-15",
+    "form_beta": 0.9609636835848047,
+    "rho": 0.09753701129967926,
+    "rho_combined": 0.09775028057971256,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-17",
+    "form_beta": 0.9563911329713259,
+    "rho": 0.09739168684095721,
+    "rho_combined": 0.09760978785405529,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-18",
+    "form_beta": 0.9540952949858867,
+    "rho": 0.09731836096188842,
+    "rho_combined": 0.09753889580935758,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-19",
+    "form_beta": 0.9517931344569146,
+    "rho": 0.09724459064679054,
+    "rho_combined": 0.0974675708082604,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-20",
+    "form_beta": 0.9494846915288538,
+    "rho": 0.09717037505357656,
+    "rho_combined": 0.09739581102944364,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-26",
+    "form_beta": 0.9355044231521605,
+    "rho": 0.09671559473379979,
+    "rho_combined": 0.09695601762277435,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-10-27",
+    "form_beta": 0.9331531750677219,
+    "rho": 0.0966381995564014,
+    "rho_combined": 0.09688116237858982,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-11-02",
+    "form_beta": 0.9189225293372968,
+    "rho": 0.096164070912714,
+    "rho_combined": 0.09642252601366967,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-11-03",
+    "form_beta": 0.9165306636160674,
+    "rho": 0.09608340619383235,
+    "rho_combined": 0.09634448548526128,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 9,
+    "date": "2019-11-10",
+    "form_beta": 0.8996332249013254,
+    "rho": 0.09550537260335587,
+    "rho_combined": 0.09578515798274044,
+    "prior_domestic_series": 2130
+  },
+  {
+    "season": 10,
+    "date": "2020-05-28",
+    "form_beta": 0.31615422536110166,
+    "rho": 0.040423014806370915,
+    "rho_combined": 0.042306143434374575,
+    "prior_domestic_series": 1055
+  },
+  {
+    "season": 10,
+    "date": "2020-05-29",
+    "form_beta": 0.31542613460801505,
+    "rho": 0.04038771383509255,
+    "rho_combined": 0.04226979880249062,
+    "prior_domestic_series": 1055
+  },
+  {
+    "season": 10,
+    "date": "2020-05-30",
+    "form_beta": 0.31469583081754027,
+    "rho": 0.04035220546835316,
+    "rho_combined": 0.042233239801106784,
+    "prior_domestic_series": 1055
+  },
+  {
+    "season": 10,
+    "date": "2020-05-31",
+    "form_beta": 0.31396332541929667,
+    "rho": 0.040316488934728854,
+    "rho_combined": 0.042196465610755435,
+    "prior_domestic_series": 1055
+  },
+  {
+    "season": 10,
+    "date": "2020-09-25",
+    "form_beta": 0.6197778830176717,
+    "rho": 0.04284467144081608,
+    "rho_combined": 0.04342945217392184,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-09-26",
+    "form_beta": 0.6183990523044482,
+    "rho": 0.04281810042655824,
+    "rho_combined": 0.043403006593515515,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-09-27",
+    "form_beta": 0.6170158625169975,
+    "rho": 0.04279135933519888,
+    "rho_combined": 0.043376391214612904,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-09-28",
+    "form_beta": 0.6156283334201392,
+    "rho": 0.042764447307482786,
+    "rho_combined": 0.04334960517427357,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-09-29",
+    "form_beta": 0.6142364851517943,
+    "rho": 0.04273736354419024,
+    "rho_combined": 0.04332264768050868,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-09-30",
+    "form_beta": 0.6128403382231306,
+    "rho": 0.0427101071436642,
+    "rho_combined": 0.04329551778005195,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-03",
+    "form_beta": 0.6086263161869878,
+    "rho": 0.04262729393559422,
+    "rho_combined": 0.043213085517534555,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-04",
+    "form_beta": 0.6072131871954062,
+    "rho": 0.04259933876083386,
+    "rho_combined": 0.04318525776107996,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-05",
+    "form_beta": 0.6057958676989489,
+    "rho": 0.04257120669770778,
+    "rho_combined": 0.04315725337253545,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-06",
+    "form_beta": 0.6043743804479599,
+    "rho": 0.04254289696626856,
+    "rho_combined": 0.04312907152002338,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-08",
+    "form_beta": 0.6015189955463094,
+    "rho": 0.042485741127831454,
+    "rho_combined": 0.0430721720794865,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-09",
+    "form_beta": 0.6000851452577924,
+    "rho": 0.042456893356565474,
+    "rho_combined": 0.04304345273314215,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-10",
+    "form_beta": 0.5986472219381613,
+    "rho": 0.042427864501635854,
+    "rho_combined": 0.043014552549216885,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-11",
+    "form_beta": 0.5972052501965982,
+    "rho": 0.04239865376315749,
+    "rho_combined": 0.042985470638332274,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-15",
+    "form_beta": 0.591397384138608,
+    "rho": 0.042279975058317786,
+    "rho_combined": 0.04286730882868265,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-16",
+    "form_beta": 0.5899355523589095,
+    "rho": 0.042249842163684444,
+    "rho_combined": 0.04283730548151116,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-17",
+    "form_beta": 0.5884698275619538,
+    "rho": 0.04221952236815717,
+    "rho_combined": 0.042807115353410495,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-18",
+    "form_beta": 0.5870002596584869,
+    "rho": 0.04218901474908231,
+    "rho_combined": 0.042776737544741865,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-24",
+    "form_beta": 0.5781030652794424,
+    "rho": 0.0420019780591944,
+    "rho_combined": 0.04259048144201345,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-25",
+    "form_beta": 0.5766072055284462,
+    "rho": 0.04197013231132517,
+    "rho_combined": 0.04255876601138034,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 10,
+    "date": "2020-10-31",
+    "form_beta": 0.5675567817840389,
+    "rho": 0.04177494369175697,
+    "rho_combined": 0.04236435957737577,
+    "prior_domestic_series": 2131
+  },
+  {
+    "season": 11,
+    "date": "2021-05-06",
+    "form_beta": 0.7378998363452826,
+    "rho": 0.10928574696995157,
+    "rho_combined": 0.11027396698214724,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-07",
+    "form_beta": 0.7363402489543598,
+    "rho": 0.1091854442541166,
+    "rho_combined": 0.110175445473232,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-08",
+    "form_beta": 0.7347754281975419,
+    "rho": 0.1090845706624859,
+    "rho_combined": 0.110076359854523,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-09",
+    "form_beta": 0.7332053932175098,
+    "rho": 0.10898312428871902,
+    "rho_combined": 0.1099767081915984,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-10",
+    "form_beta": 0.7316301635803636,
+    "rho": 0.10888110324244088,
+    "rho_combined": 0.1098764885689955,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-11",
+    "form_beta": 0.7300497592763178,
+    "rho": 0.10877850564078052,
+    "rho_combined": 0.10977569906953966,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-14",
+    "form_beta": 0.7252777046394621,
+    "rho": 0.10846723488726674,
+    "rho_combined": 0.10946989242977098,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-15",
+    "form_beta": 0.7236768100730366,
+    "rho": 0.1083623125036093,
+    "rho_combined": 0.1093668045792822,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-16",
+    "form_beta": 0.722070847172412,
+    "rho": 0.10825680435640038,
+    "rho_combined": 0.10926313749289687,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-17",
+    "form_beta": 0.7204598384835548,
+    "rho": 0.10815070862779844,
+    "rho_combined": 0.10915888932317677,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-18",
+    "form_beta": 0.7188438069796402,
+    "rho": 0.10804402353888469,
+    "rho_combined": 0.10905405824957366,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-21",
+    "form_beta": 0.7139658117208255,
+    "rho": 0.10772041440255443,
+    "rho_combined": 0.10873604957460459,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-22",
+    "form_beta": 0.7123299272376313,
+    "rho": 0.1076113542481009,
+    "rho_combined": 0.10862886891764859,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-05-23",
+    "form_beta": 0.710689141217469,
+    "rho": 0.10750169600150447,
+    "rho_combined": 0.10852109644073003,
+    "prior_domestic_series": 1076
+  },
+  {
+    "season": 11,
+    "date": "2021-10-05",
+    "form_beta": 0.46461426205289347,
+    "rho": 0.09847750946786686,
+    "rho_combined": 0.10060871764060975,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-06",
+    "form_beta": 0.46350292042659846,
+    "rho": 0.09840525769457777,
+    "rho_combined": 0.10053655128517641,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-07",
+    "form_beta": 0.4623884217930582,
+    "rho": 0.09833256624108752,
+    "rho_combined": 0.10046394397819775,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-08",
+    "form_beta": 0.46127078536167615,
+    "rho": 0.09825943322782725,
+    "rho_combined": 0.10039089383266105,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-09",
+    "form_beta": 0.46015003063109067,
+    "rho": 0.09818585681072776,
+    "rho_combined": 0.10031739895313284,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-11",
+    "form_beta": 0.45789924570981666,
+    "rho": 0.09803736624321607,
+    "rho_combined": 0.100169067411432,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-12",
+    "form_beta": 0.45676925595759976,
+    "rho": 0.09796244838566068,
+    "rho_combined": 0.10009422696688401,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-13",
+    "form_beta": 0.4556362287818254,
+    "rho": 0.09788707967821544,
+    "rho_combined": 0.10001893422720927,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-15",
+    "form_beta": 0.45336114618872,
+    "rho": 0.09773498232452466,
+    "rho_combined": 0.09986698432586788,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-16",
+    "form_beta": 0.45221913349846177,
+    "rho": 0.09765824998905806,
+    "rho_combined": 0.09979032342482994,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-17",
+    "form_beta": 0.4510741688370749,
+    "rho": 0.09758105942909578,
+    "rho_combined": 0.09971320271135649,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-18",
+    "form_beta": 0.44992627427666126,
+    "rho": 0.09750340881180179,
+    "rho_combined": 0.09963562032637206,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-22",
+    "form_beta": 0.44530584832422415,
+    "rho": 0.09718816945136417,
+    "rho_combined": 0.09932063698028946,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-23",
+    "form_beta": 0.4441436451723292,
+    "rho": 0.09710819131411719,
+    "rho_combined": 0.09924071843354754,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-24",
+    "form_beta": 0.44297865043153856,
+    "rho": 0.09702774224814636,
+    "rho_combined": 0.09916032713930993,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-25",
+    "form_beta": 0.44181088812218056,
+    "rho": 0.09694682046695026,
+    "rho_combined": 0.09907946124588732,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-30",
+    "form_beta": 0.43593142280945385,
+    "rho": 0.09653505863362925,
+    "rho_combined": 0.0986679493853282,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-10-31",
+    "form_beta": 0.4347475747190667,
+    "rho": 0.09645126332796906,
+    "rho_combined": 0.09858419789151136,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 11,
+    "date": "2021-11-06",
+    "form_beta": 0.42759098202073526,
+    "rho": 0.09593824477141827,
+    "rho_combined": 0.0980713954789641,
+    "prior_domestic_series": 2150
+  },
+  {
+    "season": 12,
+    "date": "2022-05-10",
+    "form_beta": 0.8738907841239576,
+    "rho": 0.08421645190528103,
+    "rho_combined": 0.08716288280330611,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-11",
+    "form_beta": 0.871994733705173,
+    "rho": 0.08414395655919814,
+    "rho_combined": 0.08709089866267654,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-12",
+    "form_beta": 0.870092569608946,
+    "rho": 0.0840710384577204,
+    "rho_combined": 0.08701849099951811,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-13",
+    "form_beta": 0.8681843172768405,
+    "rho": 0.08399769603890361,
+    "rho_combined": 0.0869456582012478,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-14",
+    "form_beta": 0.8662700026552845,
+    "rho": 0.08392392776477214,
+    "rho_combined": 0.0868723986802936,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-15",
+    "form_beta": 0.8643496521959808,
+    "rho": 0.08384973209320362,
+    "rho_combined": 0.08679871083428709,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-20",
+    "form_beta": 0.8546583235475197,
+    "rho": 0.08347228955116899,
+    "rho_combined": 0.08642379135571368,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-21",
+    "form_beta": 0.8527023418750721,
+    "rho": 0.08339549765162792,
+    "rho_combined": 0.08634750042863464,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-22",
+    "form_beta": 0.8507405236926853,
+    "rho": 0.08331826780217336,
+    "rho_combined": 0.08627077019742047,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-23",
+    "form_beta": 0.8487728994997049,
+    "rho": 0.08324059854083683,
+    "rho_combined": 0.08619359912391877,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-24",
+    "form_beta": 0.846799500300925,
+    "rho": 0.08316248839375602,
+    "rho_combined": 0.08611598567023547,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-27",
+    "form_beta": 0.8408449702908326,
+    "rho": 0.08292549811518424,
+    "rho_combined": 0.08588047585320271,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-28",
+    "form_beta": 0.8388487912106244,
+    "rho": 0.08284560994593944,
+    "rho_combined": 0.08580107774031105,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-05-29",
+    "form_beta": 0.8368469997140155,
+    "rho": 0.08276527369501346,
+    "rho_combined": 0.08572122971797502,
+    "prior_domestic_series": 1086
+  },
+  {
+    "season": 12,
+    "date": "2022-09-29",
+    "form_beta": 1.3778885123740732,
+    "rho": 3.86721945501409e-05,
+    "rho_combined": 0.0069197649870059285,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-09-30",
+    "form_beta": 1.374747540694493,
+    "rho": 3.898638958679203e-05,
+    "rho_combined": 0.006916591913748531,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-01",
+    "form_beta": 1.3715973501461487,
+    "rho": 3.763397538654536e-05,
+    "rho_combined": 0.006913397322623405,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-02",
+    "form_beta": 1.368437989579738,
+    "rho": 4.1811043166712504e-05,
+    "rho_combined": 0.006910181085027456,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-03",
+    "form_beta": 1.365269508626413,
+    "rho": 4.039280197940769e-05,
+    "rho_combined": 0.006906943047950935,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-04",
+    "form_beta": 1.3620919576969586,
+    "rho": 4.125990599412211e-05,
+    "rho_combined": 0.006903683109666083,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-07",
+    "form_beta": 1.3525054008334212,
+    "rho": 4.1467393498924154e-05,
+    "rho_combined": 0.0068937705985414426,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-08",
+    "form_beta": 1.3492920896642189,
+    "rho": 4.1017568795118336e-05,
+    "rho_combined": 0.006890421772984952,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-09",
+    "form_beta": 1.346069972229807,
+    "rho": 3.8474944031291844e-05,
+    "rho_combined": 0.0068870504099250865,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-10",
+    "form_beta": 1.3428391035945029,
+    "rho": 4.093094231573683e-05,
+    "rho_combined": 0.006883656385532753,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-13",
+    "form_beta": 1.3330945526706928,
+    "rho": 3.872563872358774e-05,
+    "rho_combined": 0.006873337021022752,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-14",
+    "form_beta": 1.3298292452539273,
+    "rho": 4.0988948022811113e-05,
+    "rho_combined": 0.006869851060429923,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-15",
+    "form_beta": 1.3265554734746479,
+    "rho": 3.868348459829376e-05,
+    "rho_combined": 0.006866341783057273,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-16",
+    "form_beta": 1.3232732969892333,
+    "rho": 3.832886941828738e-05,
+    "rho_combined": 0.006862809058476076,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-20",
+    "form_beta": 1.310061763567272,
+    "rho": 3.824231460383436e-05,
+    "rho_combined": 0.006848441216604451,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-21",
+    "form_beta": 1.306738484811886,
+    "rho": 3.8220318409766174e-05,
+    "rho_combined": 0.0068447893676129535,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-22",
+    "form_beta": 1.303407175098095,
+    "rho": 3.853150958775274e-05,
+    "rho_combined": 0.006841113278741154,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-23",
+    "form_beta": 1.3000678993246209,
+    "rho": 3.817589736629009e-05,
+    "rho_combined": 0.006837412840066097,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-29",
+    "form_beta": 1.2798686840808682,
+    "rho": 3.8372424433709544e-05,
+    "rho_combined": 0.006814691403956003,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-10-30",
+    "form_beta": 1.2764755244440182,
+    "rho": 3.834910184336931e-05,
+    "rho_combined": 0.006810816790276478,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 12,
+    "date": "2022-11-05",
+    "form_beta": 1.255963255386756,
+    "rho": 3.887967863027376e-05,
+    "rho_combined": 0.0067870305715156875,
+    "prior_domestic_series": 2143
+  },
+  {
+    "season": 13,
+    "date": "2023-05-02",
+    "form_beta": 0.17470906879365847,
+    "rho": 0.019385101923472887,
+    "rho_combined": 0.021585529530315214,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-03",
+    "form_beta": 0.17429872306089136,
+    "rho": 0.01937202275296384,
+    "rho_combined": 0.021571136739666544,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-04",
+    "form_beta": 0.1738871588184887,
+    "rho": 0.019358860907804653,
+    "rho_combined": 0.021556652847841192,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-05",
+    "form_beta": 0.1734743828292848,
+    "rho": 0.01934561602262746,
+    "rho_combined": 0.02154207740234665,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-06",
+    "form_beta": 0.17306040196734732,
+    "rho": 0.019332287675187392,
+    "rho_combined": 0.021527409983254194,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-07",
+    "form_beta": 0.17264522321787276,
+    "rho": 0.01931887548467846,
+    "rho_combined": 0.021512650145467112,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-09",
+    "form_beta": 0.17181130055198882,
+    "rho": 0.019291797996271287,
+    "rho_combined": 0.02148285146805123,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-10",
+    "form_beta": 0.17139257116041237,
+    "rho": 0.019278131905941687,
+    "rho_combined": 0.021467811762160158,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-11",
+    "form_beta": 0.1709726729306232,
+    "rho": 0.019264380403276344,
+    "rho_combined": 0.021452677896729368,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-12",
+    "form_beta": 0.17055161340122763,
+    "rho": 0.019250543078085613,
+    "rho_combined": 0.021437449422781148,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-13",
+    "form_beta": 0.17012940022092668,
+    "rho": 0.019236619563398078,
+    "rho_combined": 0.021422125933524903,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-14",
+    "form_beta": 0.1697060411482793,
+    "rho": 0.019222609444037433,
+    "rho_combined": 0.021406706972913487,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-16",
+    "form_beta": 0.16885591690785853,
+    "rho": 0.01919432785831688,
+    "rho_combined": 0.021375580908556166,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-17",
+    "form_beta": 0.16842916780401954,
+    "rho": 0.019180055593886133,
+    "rho_combined": 0.021359872936007017,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-18",
+    "form_beta": 0.16800130493507676,
+    "rho": 0.01916569516652072,
+    "rho_combined": 0.021344067759978578,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-19",
+    "form_beta": 0.16757233660453205,
+    "rho": 0.019151246190225818,
+    "rho_combined": 0.02132816494316034,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-20",
+    "form_beta": 0.16714227122386704,
+    "rho": 0.019136708268380126,
+    "rho_combined": 0.021312164044229382,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-05-21",
+    "form_beta": 0.16671111731215704,
+    "rho": 0.019122080995211833,
+    "rho_combined": 0.021296064645152622,
+    "prior_domestic_series": 865
+  },
+  {
+    "season": 13,
+    "date": "2023-10-10",
+    "form_beta": 0.602521967544089,
+    "rho": 0.047294617628200676,
+    "rho_combined": 0.05056424292171387,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-11",
+    "form_beta": 0.6008473192994913,
+    "rho": 0.047264626415350196,
+    "rho_combined": 0.050533432467417705,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-12",
+    "form_beta": 0.5991692451165224,
+    "rho": 0.04723444508529018,
+    "rho_combined": 0.05050242569992993,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-13",
+    "form_beta": 0.5974877832760914,
+    "rho": 0.047204072765025945,
+    "rho_combined": 0.05047122161810765,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-14",
+    "form_beta": 0.5958029724063071,
+    "rho": 0.04717350856958095,
+    "rho_combined": 0.05043981927558901,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-15",
+    "form_beta": 0.5941148514795569,
+    "rho": 0.047142751560041274,
+    "rho_combined": 0.05040821770200945,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-19",
+    "form_beta": 0.5873300795093782,
+    "rho": 0.04701777712799633,
+    "rho_combined": 0.050279799900124295,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-20",
+    "form_beta": 0.5856260925378984,
+    "rho": 0.046986042358468365,
+    "rho_combined": 0.05024718774382577,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-21",
+    "form_beta": 0.583919095137884,
+    "rho": 0.046954109243028806,
+    "rho_combined": 0.05021437060813872,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-22",
+    "form_beta": 0.5822086611487403,
+    "rho": 0.04692197691099078,
+    "rho_combined": 0.050181347486356394,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-23",
+    "form_beta": 0.5804955031090862,
+    "rho": 0.046889644443104506,
+    "rho_combined": 0.050148117463901964,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-26",
+    "form_beta": 0.5753385322900884,
+    "rho": 0.046791437094441224,
+    "rho_combined": 0.050047176090008014,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-27",
+    "form_beta": 0.5736138516026904,
+    "rho": 0.046758294955432204,
+    "rho_combined": 0.05001310867845728,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-28",
+    "form_beta": 0.571886397374984,
+    "rho": 0.0467249481193516,
+    "rho_combined": 0.04997882953005255,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-10-29",
+    "form_beta": 0.5701562130534937,
+    "rho": 0.04669139564029884,
+    "rho_combined": 0.049944337636699615,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-11-02",
+    "form_beta": 0.5632090538989467,
+    "rho": 0.046555111431373676,
+    "rho_combined": 0.049804223810087415,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-11-03",
+    "form_beta": 0.561465880888136,
+    "rho": 0.04652051727378032,
+    "rho_combined": 0.04976865394553747,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-11-04",
+    "form_beta": 0.5597202444541707,
+    "rho": 0.04648571204656774,
+    "rho_combined": 0.04973286558477292,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-11-05",
+    "form_beta": 0.5579721900018457,
+    "rho": 0.04645069481556816,
+    "rho_combined": 0.049696857830636716,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-11-11",
+    "form_beta": 0.5474356601092893,
+    "rho": 0.04623608961694225,
+    "rho_combined": 0.04947614973421883,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-11-12",
+    "form_beta": 0.5456719723645731,
+    "rho": 0.04619956341337185,
+    "rho_combined": 0.04943857926067915,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 13,
+    "date": "2023-11-19",
+    "form_beta": 0.5332717503027947,
+    "rho": 0.04593769399665958,
+    "rho_combined": 0.04916917581262873,
+    "prior_domestic_series": 1651
+  },
+  {
+    "season": 14,
+    "date": "2024-05-01",
+    "form_beta": 0.515502747817026,
+    "rho": 0.14371543935582506,
+    "rho_combined": 0.14400652818196408,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-02",
+    "form_beta": 0.5141759552212709,
+    "rho": 0.14359819230699206,
+    "rho_combined": 0.1438932128289201,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-03",
+    "form_beta": 0.5128458903844357,
+    "rho": 0.14348024815259885,
+    "rho_combined": 0.14377922008222688,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-04",
+    "form_beta": 0.5115125800306576,
+    "rho": 0.14336160415890603,
+    "rho_combined": 0.1436645472535849,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-05",
+    "form_beta": 0.5101760512004229,
+    "rho": 0.1432422576471282,
+    "rho_combined": 0.14354919164418156,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-07",
+    "form_beta": 0.5074934478453877,
+    "rho": 0.14300144619368452,
+    "rho_combined": 0.14331642137038134,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-08",
+    "form_beta": 0.506147428969809,
+    "rho": 0.14287997590155846,
+    "rho_combined": 0.14319900136494904,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-09",
+    "form_beta": 0.5047983029129864,
+    "rho": 0.14275779232094965,
+    "rho_combined": 0.14308088789751258,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-10",
+    "form_beta": 0.5034460982739855,
+    "rho": 0.14263489280045882,
+    "rho_combined": 0.14296207832381616,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-11",
+    "form_beta": 0.502090843958528,
+    "rho": 0.14251127467603725,
+    "rho_combined": 0.14284257000792264,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-12",
+    "form_beta": 0.5007325691771815,
+    "rho": 0.1423869353192427,
+    "rho_combined": 0.14272236032208765,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-14",
+    "form_beta": 0.49800707657191057,
+    "rho": 0.1421360824154677,
+    "rho_combined": 0.1424798263682387,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-15",
+    "form_beta": 0.4966399186760402,
+    "rho": 0.1420095636436876,
+    "rho_combined": 0.14235749690067342,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-16",
+    "form_beta": 0.4952698601663185,
+    "rho": 0.1418823132044293,
+    "rho_combined": 0.14223445565543066,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-17",
+    "form_beta": 0.49389693174801313,
+    "rho": 0.14175432851548883,
+    "rho_combined": 0.1421107000615523,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-18",
+    "form_beta": 0.4925211644190079,
+    "rho": 0.14162560702702373,
+    "rho_combined": 0.1419862275563083,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-05-19",
+    "form_beta": 0.49114258946756295,
+    "rho": 0.14149614616568867,
+    "rho_combined": 0.14186102212744697,
+    "prior_domestic_series": 762
+  },
+  {
+    "season": 14,
+    "date": "2024-09-25",
+    "form_beta": 1.0180658069989315,
+    "rho": 0.12267356559532157,
+    "rho_combined": 0.12182365357342483,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-09-26",
+    "form_beta": 1.0151391177271625,
+    "rho": 0.12259685482332956,
+    "rho_combined": 0.1217509514837866,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-09-27",
+    "form_beta": 1.0122071616245762,
+    "rho": 0.1225196578394571,
+    "rho_combined": 0.12167778582553612,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-09-28",
+    "form_beta": 1.0092700083761863,
+    "rho": 0.12244197232770476,
+    "rho_combined": 0.12160415432609714,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-09-29",
+    "form_beta": 1.0063277281977556,
+    "rho": 0.12236379592908561,
+    "rho_combined": 0.12153005471944678,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-03",
+    "form_beta": 0.9945087607424113,
+    "rho": 0.12204613480493182,
+    "rho_combined": 0.12122892975224114,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-04",
+    "form_beta": 0.9915419173082962,
+    "rho": 0.12196546895655004,
+    "rho_combined": 0.12115245550601103,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-05",
+    "form_beta": 0.9885703790472213,
+    "rho": 0.12188429820492275,
+    "rho_combined": 0.12107549951613533,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-06",
+    "form_beta": 0.9855942197193377,
+    "rho": 0.12180262020302915,
+    "rho_combined": 0.12099805948682124,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-07",
+    "form_beta": 0.9826135135654603,
+    "rho": 0.12172043263298081,
+    "rho_combined": 0.12092013316217744,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-10",
+    "form_beta": 0.9736454863700749,
+    "rho": 0.12147078906751804,
+    "rho_combined": 0.12068341359556098,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-11",
+    "form_beta": 0.9706474449615105,
+    "rho": 0.12138653983027965,
+    "rho_combined": 0.12060351928910418,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-12",
+    "form_beta": 0.9676452414577607,
+    "rho": 0.12130176934744592,
+    "rho_combined": 0.12052312730964,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-13",
+    "form_beta": 0.9646389526489715,
+    "rho": 0.12121647528640109,
+    "rho_combined": 0.12044223537592942,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-17",
+    "form_beta": 0.9525744951282098,
+    "rho": 0.12087001681467056,
+    "rho_combined": 0.12011362262627351,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-18",
+    "form_beta": 0.9495489465042798,
+    "rho": 0.12078207003515808,
+    "rho_combined": 0.12003019684369268,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-19",
+    "form_beta": 0.9465197821261471,
+    "rho": 0.12069358574929476,
+    "rho_combined": 0.1199462574961705,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-20",
+    "form_beta": 0.9434870816500239,
+    "rho": 0.12060456167328502,
+    "rho_combined": 0.11986180232028487,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-26",
+    "form_beta": 0.925221128186201,
+    "rho": 0.12005895234030284,
+    "rho_combined": 0.11934410106227533,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-10-27",
+    "form_beta": 0.9221659361937897,
+    "rho": 0.11996608524846461,
+    "rho_combined": 0.1192559702520631,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 14,
+    "date": "2024-11-02",
+    "form_beta": 0.9037770879231735,
+    "rho": 0.11939708249584241,
+    "rho_combined": 0.11871589898674105,
+    "prior_domestic_series": 1422
+  },
+  {
+    "season": 15,
+    "date": "2025-06-27",
+    "form_beta": 0.7762089232446827,
+    "rho": 0.03613448702800552,
+    "rho_combined": 0.03925455947769534,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-06-28",
+    "form_beta": 0.7737445069955043,
+    "rho": 0.036111054490293754,
+    "rho_combined": 0.03923040149082692,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-06-29",
+    "form_beta": 0.771277090488351,
+    "rho": 0.036087473319079626,
+    "rho_combined": 0.03920608898007481,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-01",
+    "form_beta": 0.7663335176602211,
+    "rho": 0.03603986223770307,
+    "rho_combined": 0.03915699723596213,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-02",
+    "form_beta": 0.7638574926057767,
+    "rho": 0.036015830877712186,
+    "rho_combined": 0.03913221647257628,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-03",
+    "form_beta": 0.7613787298132711,
+    "rho": 0.035991648014794625,
+    "rho_combined": 0.039107278103613106,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-04",
+    "form_beta": 0.7588972956727421,
+    "rho": 0.03596731298910026,
+    "rho_combined": 0.03908218133915755,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-05",
+    "form_beta": 0.7564132568648642,
+    "rho": 0.035942825010507155,
+    "rho_combined": 0.039056925440963744,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-07",
+    "form_beta": 0.7514376333820183,
+    "rho": 0.035893387444694155,
+    "rho_combined": 0.03900593313658433,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-08",
+    "form_beta": 0.7489461834599778,
+    "rho": 0.03586843636609331,
+    "rho_combined": 0.038980195219691156,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-09",
+    "form_beta": 0.7464523983625104,
+    "rho": 0.03584332954951911,
+    "rho_combined": 0.0389542950750746,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-10",
+    "form_beta": 0.7439563461200775,
+    "rho": 0.03581806622177116,
+    "rho_combined": 0.03892823191911706,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-11",
+    "form_beta": 0.7414580950119909,
+    "rho": 0.03579264566481655,
+    "rho_combined": 0.03890200505831788,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-07-12",
+    "form_beta": 0.7389577135592454,
+    "rho": 0.03576706717282507,
+    "rho_combined": 0.038875613685020065,
+    "prior_domestic_series": 659
+  },
+  {
+    "season": 15,
+    "date": "2025-10-14",
+    "form_beta": 0.8917937903351455,
+    "rho": 0.028331001433320076,
+    "rho_combined": 0.029506081405078613,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-15",
+    "form_beta": 0.8883273299849427,
+    "rho": 0.028314863711533755,
+    "rho_combined": 0.029489949820551718,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-16",
+    "form_beta": 0.8848616163384089,
+    "rho": 0.028298620785957792,
+    "rho_combined": 0.02947371240687297,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-17",
+    "form_beta": 0.8813967472437221,
+    "rho": 0.028282272104253544,
+    "rho_combined": 0.02945736860391182,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-18",
+    "form_beta": 0.8779328204566877,
+    "rho": 0.028265817122941097,
+    "rho_combined": 0.029440917849050435,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-19",
+    "form_beta": 0.87446993362998,
+    "rho": 0.028249255290599472,
+    "rho_combined": 0.029424359581654555,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-22",
+    "form_beta": 0.8640884876663635,
+    "rho": 0.028198923183181675,
+    "rho_combined": 0.029374034062784393,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-23",
+    "form_beta": 0.8606307347699531,
+    "rho": 0.02818192843999998,
+    "rho_combined": 0.02935704010119866,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-24",
+    "form_beta": 0.8571745081755364,
+    "rho": 0.02816482409005491,
+    "rho_combined": 0.02933993579822091,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-25",
+    "form_beta": 0.8537199046925718,
+    "rho": 0.02814760957760119,
+    "rho_combined": 0.02932272059037778,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-28",
+    "form_beta": 0.8433667982793177,
+    "rho": 0.028095299531200737,
+    "rho_combined": 0.02927040383631573,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-29",
+    "form_beta": 0.8399196516265449,
+    "rho": 0.028077638829146837,
+    "rho_combined": 0.029252739307102718,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-30",
+    "form_beta": 0.8364746092584173,
+    "rho": 0.028059865188429522,
+    "rho_combined": 0.029234961021834593,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-10-31",
+    "form_beta": 0.833031766761852,
+    "rho": 0.028041978054792617,
+    "rho_combined": 0.029217068405522642,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-11-01",
+    "form_beta": 0.8295912194837824,
+    "rho": 0.028023976869701626,
+    "rho_combined": 0.02919906088645085,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-11-02",
+    "form_beta": 0.8261530625209438,
+    "rho": 0.028005861077283038,
+    "rho_combined": 0.02918093789239483,
+    "prior_domestic_series": 949
+  },
+  {
+    "season": 15,
+    "date": "2025-11-09",
+    "form_beta": 0.8021608235263755,
+    "rho": 0.027875794603673662,
+    "rho_combined": 0.02905079533637013,
+    "prior_domestic_series": 949
+  }
+]

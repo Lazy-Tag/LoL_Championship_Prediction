@@ -1,0 +1,1557 @@
+{
+  "parameters": {
+    "half_life_days": 90,
+    "economy_state_sd_thousand_gold": 1.5,
+    "observation_sd_thousand_gold": 3,
+    "minimum_decayed_maps": 5,
+    "maximum_age_days": 90,
+    "regression_prior_precision": 1
+  },
+  "aggregate": {
+    "all": {
+      "dynamic90": {
+        "total_target_series": 1300,
+        "covered_series": 1300,
+        "maps": 1965,
+        "map_correct": 1303.0,
+        "decisive_series": 1300,
+        "series_correct": 902.0,
+        "tied_probability_series": 4,
+        "logloss_sum": 1201.541976586781,
+        "brier_sum": 416.01505385752523,
+        "series_logloss_sum": 752.3378667244643,
+        "series_brier_sum": 257.28402901335136,
+        "by_bo": {
+          "1": {
+            "series": 1030,
+            "correct": 703.0,
+            "accuracy": 0.6825242718446602
+          },
+          "5": {
+            "series": 191,
+            "correct": 140.0,
+            "accuracy": 0.7329842931937173
+          },
+          "3": {
+            "series": 79,
+            "correct": 59.0,
+            "accuracy": 0.7468354430379747
+          }
+        },
+        "map_accuracy": 0.6631043256997455,
+        "series_accuracy": 0.6938461538461539,
+        "map_logloss": 0.6114717438100666,
+        "map_brier": 0.211712495601794,
+        "series_logloss": 0.5787214359418956,
+        "series_brier": 0.1979107915487318,
+        "coverage": 1.0
+      },
+      "joint_side90": {
+        "total_target_series": 1300,
+        "covered_series": 1300,
+        "maps": 1965,
+        "map_correct": 1299.0,
+        "decisive_series": 1300,
+        "series_correct": 900.0,
+        "tied_probability_series": 4,
+        "logloss_sum": 1201.5133083692967,
+        "brier_sum": 416.0438122286911,
+        "series_logloss_sum": 752.282619528158,
+        "series_brier_sum": 257.277118595292,
+        "by_bo": {
+          "1": {
+            "series": 1030,
+            "correct": 703.0,
+            "accuracy": 0.6825242718446602
+          },
+          "5": {
+            "series": 191,
+            "correct": 139.0,
+            "accuracy": 0.7277486910994765
+          },
+          "3": {
+            "series": 79,
+            "correct": 58.0,
+            "accuracy": 0.7341772151898734
+          }
+        },
+        "map_accuracy": 0.6610687022900763,
+        "series_accuracy": 0.6923076923076923,
+        "map_logloss": 0.6114571543864106,
+        "map_brier": 0.2117271309051863,
+        "series_logloss": 0.5786789380985831,
+        "series_brier": 0.1979054758425323,
+        "coverage": 1.0
+      },
+      "economy_residual90": {
+        "total_target_series": 1300,
+        "covered_series": 1300,
+        "maps": 1965,
+        "map_correct": 1306.0,
+        "decisive_series": 1300,
+        "series_correct": 902.0,
+        "tied_probability_series": 4,
+        "logloss_sum": 1203.9633879683654,
+        "brier_sum": 417.18918040045867,
+        "series_logloss_sum": 755.4771371738084,
+        "series_brier_sum": 258.71969115158265,
+        "by_bo": {
+          "1": {
+            "series": 1030,
+            "correct": 705.0,
+            "accuracy": 0.6844660194174758
+          },
+          "5": {
+            "series": 191,
+            "correct": 138.0,
+            "accuracy": 0.7225130890052356
+          },
+          "3": {
+            "series": 79,
+            "correct": 59.0,
+            "accuracy": 0.7468354430379747
+          }
+        },
+        "map_accuracy": 0.6646310432569974,
+        "series_accuracy": 0.6938461538461539,
+        "map_logloss": 0.6127040142332648,
+        "map_brier": 0.21231001547097134,
+        "series_logloss": 0.581136259364468,
+        "series_brier": 0.19901514703967896,
+        "coverage": 1.0
+      }
+    },
+    "economy_ready": {
+      "dynamic90": {
+        "total_target_series": 545,
+        "covered_series": 545,
+        "maps": 857,
+        "map_correct": 566.0,
+        "decisive_series": 545,
+        "series_correct": 383.0,
+        "tied_probability_series": 0,
+        "logloss_sum": 526.2382373227223,
+        "brier_sum": 182.17064157023668,
+        "series_logloss_sum": 315.40424818935014,
+        "series_brier_sum": 107.27282643944041,
+        "by_bo": {
+          "1": {
+            "series": 415,
+            "correct": 292.0,
+            "accuracy": 0.7036144578313253
+          },
+          "5": {
+            "series": 86,
+            "correct": 58.0,
+            "accuracy": 0.6744186046511628
+          },
+          "3": {
+            "series": 44,
+            "correct": 33.0,
+            "accuracy": 0.75
+          }
+        },
+        "map_accuracy": 0.6604434072345391,
+        "series_accuracy": 0.7027522935779816,
+        "map_logloss": 0.614046951368404,
+        "map_brier": 0.21256784313913266,
+        "series_logloss": 0.5787233911731196,
+        "series_brier": 0.19683087420080808,
+        "coverage": 1.0
+      },
+      "joint_side90": {
+        "total_target_series": 545,
+        "covered_series": 545,
+        "maps": 857,
+        "map_correct": 563.0,
+        "decisive_series": 545,
+        "series_correct": 382.0,
+        "tied_probability_series": 0,
+        "logloss_sum": 526.0963495685697,
+        "brier_sum": 182.09574005613518,
+        "series_logloss_sum": 315.1849603193555,
+        "series_brier_sum": 107.14742479967283,
+        "by_bo": {
+          "1": {
+            "series": 415,
+            "correct": 292.0,
+            "accuracy": 0.7036144578313253
+          },
+          "5": {
+            "series": 86,
+            "correct": 57.0,
+            "accuracy": 0.6627906976744186
+          },
+          "3": {
+            "series": 44,
+            "correct": 33.0,
+            "accuracy": 0.75
+          }
+        },
+        "map_accuracy": 0.6569428238039673,
+        "series_accuracy": 0.7009174311926606,
+        "map_logloss": 0.6138813880613416,
+        "map_brier": 0.2124804434727365,
+        "series_logloss": 0.5783210281089092,
+        "series_brier": 0.19660077944894097,
+        "coverage": 1.0
+      },
+      "economy_residual90": {
+        "total_target_series": 545,
+        "covered_series": 545,
+        "maps": 857,
+        "map_correct": 570.0,
+        "decisive_series": 545,
+        "series_correct": 384.0,
+        "tied_probability_series": 0,
+        "logloss_sum": 528.54642916764,
+        "brier_sum": 183.24110822790286,
+        "series_logloss_sum": 318.37947796500606,
+        "series_brier_sum": 108.58999735596338,
+        "by_bo": {
+          "1": {
+            "series": 415,
+            "correct": 294.0,
+            "accuracy": 0.708433734939759
+          },
+          "5": {
+            "series": 86,
+            "correct": 56.0,
+            "accuracy": 0.6511627906976745
+          },
+          "3": {
+            "series": 44,
+            "correct": 34.0,
+            "accuracy": 0.7727272727272727
+          }
+        },
+        "map_accuracy": 0.6651108518086347,
+        "series_accuracy": 0.7045871559633028,
+        "map_logloss": 0.6167402907440374,
+        "map_brier": 0.21381692908740124,
+        "series_logloss": 0.5841825283761579,
+        "series_brier": 0.199247701570575,
+        "coverage": 1.0
+      }
+    }
+  },
+  "by_season": [
+    {
+      "season": 4,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 57,
+          "covered_series": 57,
+          "maps": 78,
+          "map_correct": 52.0,
+          "decisive_series": 57,
+          "series_correct": 40.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 47.863091004607654,
+          "brier_sum": 16.604271349504472,
+          "series_logloss_sum": 32.548344139704845,
+          "series_brier_sum": 11.111840699547251,
+          "by_bo": {
+            "1": {
+              "series": 50,
+              "correct": 35.0,
+              "accuracy": 0.7
+            },
+            "5": {
+              "series": 7,
+              "correct": 5.0,
+              "accuracy": 0.7142857142857143
+            }
+          },
+          "map_accuracy": 0.6666666666666666,
+          "series_accuracy": 0.7017543859649122,
+          "map_logloss": 0.6136293718539443,
+          "map_brier": 0.21287527371159579,
+          "series_logloss": 0.5710235813983306,
+          "series_brier": 0.19494457367626755,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 57,
+          "covered_series": 57,
+          "maps": 78,
+          "map_correct": 52.0,
+          "decisive_series": 57,
+          "series_correct": 40.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 47.863091004284534,
+          "brier_sum": 16.604271349358424,
+          "series_logloss_sum": 32.548344139387844,
+          "series_brier_sum": 11.111840699401082,
+          "by_bo": {
+            "1": {
+              "series": 50,
+              "correct": 35.0,
+              "accuracy": 0.7
+            },
+            "5": {
+              "series": 7,
+              "correct": 5.0,
+              "accuracy": 0.7142857142857143
+            }
+          },
+          "map_accuracy": 0.6666666666666666,
+          "series_accuracy": 0.7017543859649122,
+          "map_logloss": 0.6136293718498017,
+          "map_brier": 0.2128752737097234,
+          "series_logloss": 0.5710235813927692,
+          "series_brier": 0.1949445736737032,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 57,
+          "covered_series": 57,
+          "maps": 78,
+          "map_correct": 52.0,
+          "decisive_series": 57,
+          "series_correct": 40.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 47.863091004284534,
+          "brier_sum": 16.604271349358424,
+          "series_logloss_sum": 32.548344139387844,
+          "series_brier_sum": 11.111840699401082,
+          "by_bo": {
+            "1": {
+              "series": 50,
+              "correct": 35.0,
+              "accuracy": 0.7
+            },
+            "5": {
+              "series": 7,
+              "correct": 5.0,
+              "accuracy": 0.7142857142857143
+            }
+          },
+          "map_accuracy": 0.6666666666666666,
+          "series_accuracy": 0.7017543859649122,
+          "map_logloss": 0.6136293718498017,
+          "map_brier": 0.2128752737097234,
+          "series_logloss": 0.5710235813927692,
+          "series_brier": 0.1949445736737032,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 5,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 74,
+          "covered_series": 74,
+          "maps": 101,
+          "map_correct": 64.0,
+          "decisive_series": 74,
+          "series_correct": 47.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 60.23741098218147,
+          "brier_sum": 20.879248739629645,
+          "series_logloss_sum": 42.10463268431526,
+          "series_brier_sum": 14.635020942485008,
+          "by_bo": {
+            "1": {
+              "series": 64,
+              "correct": 39.0,
+              "accuracy": 0.609375
+            },
+            "5": {
+              "series": 10,
+              "correct": 8.0,
+              "accuracy": 0.8
+            }
+          },
+          "map_accuracy": 0.6336633663366337,
+          "series_accuracy": 0.6351351351351351,
+          "map_logloss": 0.596410009724569,
+          "map_brier": 0.20672523504583806,
+          "series_logloss": 0.5689815227610171,
+          "series_brier": 0.19777055327682444,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 74,
+          "covered_series": 74,
+          "maps": 101,
+          "map_correct": 64.0,
+          "decisive_series": 74,
+          "series_correct": 47.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 60.23741098218148,
+          "brier_sum": 20.879248739629645,
+          "series_logloss_sum": 42.10463268431526,
+          "series_brier_sum": 14.635020942485008,
+          "by_bo": {
+            "1": {
+              "series": 64,
+              "correct": 39.0,
+              "accuracy": 0.609375
+            },
+            "5": {
+              "series": 10,
+              "correct": 8.0,
+              "accuracy": 0.8
+            }
+          },
+          "map_accuracy": 0.6336633663366337,
+          "series_accuracy": 0.6351351351351351,
+          "map_logloss": 0.5964100097245691,
+          "map_brier": 0.20672523504583806,
+          "series_logloss": 0.5689815227610171,
+          "series_brier": 0.19777055327682444,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 74,
+          "covered_series": 74,
+          "maps": 101,
+          "map_correct": 64.0,
+          "decisive_series": 74,
+          "series_correct": 47.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 60.23741098218148,
+          "brier_sum": 20.879248739629645,
+          "series_logloss_sum": 42.10463268431526,
+          "series_brier_sum": 14.635020942485008,
+          "by_bo": {
+            "1": {
+              "series": 64,
+              "correct": 39.0,
+              "accuracy": 0.609375
+            },
+            "5": {
+              "series": 10,
+              "correct": 8.0,
+              "accuracy": 0.8
+            }
+          },
+          "map_accuracy": 0.6336633663366337,
+          "series_accuracy": 0.6351351351351351,
+          "map_logloss": 0.5964100097245691,
+          "map_brier": 0.20672523504583806,
+          "series_logloss": 0.5689815227610171,
+          "series_brier": 0.19777055327682444,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 6,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 90,
+          "covered_series": 90,
+          "maps": 118,
+          "map_correct": 77.0,
+          "decisive_series": 90,
+          "series_correct": 58.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 76.07251553541354,
+          "brier_sum": 26.461062565975098,
+          "series_logloss_sum": 58.41610917062123,
+          "series_brier_sum": 20.44122854835797,
+          "by_bo": {
+            "1": {
+              "series": 80,
+              "correct": 51.0,
+              "accuracy": 0.6375
+            },
+            "5": {
+              "series": 10,
+              "correct": 7.0,
+              "accuracy": 0.7
+            }
+          },
+          "map_accuracy": 0.652542372881356,
+          "series_accuracy": 0.6444444444444445,
+          "map_logloss": 0.6446823350458775,
+          "map_brier": 0.22424629293199236,
+          "series_logloss": 0.6490678796735693,
+          "series_brier": 0.22712476164842188,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 90,
+          "covered_series": 90,
+          "maps": 118,
+          "map_correct": 77.0,
+          "decisive_series": 90,
+          "series_correct": 58.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 76.18198515589718,
+          "brier_sum": 26.509341031398705,
+          "series_logloss_sum": 58.524113461397086,
+          "series_brier_sum": 20.489065373563523,
+          "by_bo": {
+            "1": {
+              "series": 80,
+              "correct": 51.0,
+              "accuracy": 0.6375
+            },
+            "5": {
+              "series": 10,
+              "correct": 7.0,
+              "accuracy": 0.7
+            }
+          },
+          "map_accuracy": 0.652542372881356,
+          "series_accuracy": 0.6444444444444445,
+          "map_logloss": 0.645610043694044,
+          "map_brier": 0.22465543246948055,
+          "series_logloss": 0.6502679273488565,
+          "series_brier": 0.22765628192848358,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 90,
+          "covered_series": 90,
+          "maps": 118,
+          "map_correct": 77.0,
+          "decisive_series": 90,
+          "series_correct": 58.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 76.22417617495236,
+          "brier_sum": 26.561631211091914,
+          "series_logloss_sum": 58.59025517758638,
+          "series_brier_sum": 20.54876175119829,
+          "by_bo": {
+            "1": {
+              "series": 80,
+              "correct": 51.0,
+              "accuracy": 0.6375
+            },
+            "5": {
+              "series": 10,
+              "correct": 7.0,
+              "accuracy": 0.7
+            }
+          },
+          "map_accuracy": 0.652542372881356,
+          "series_accuracy": 0.6444444444444445,
+          "map_logloss": 0.6459675947029861,
+          "map_brier": 0.22509856958552468,
+          "series_logloss": 0.6510028353065154,
+          "series_brier": 0.22831957501331432,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 7,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 197,
+          "map_correct": 127.0,
+          "decisive_series": 149,
+          "series_correct": 98.0,
+          "tied_probability_series": 4,
+          "logloss_sum": 122.59631302922455,
+          "brier_sum": 42.75638728252004,
+          "series_logloss_sum": 89.82505263033129,
+          "series_brier_sum": 31.23281074765791,
+          "by_bo": {
+            "1": {
+              "series": 132,
+              "correct": 84.0,
+              "accuracy": 0.6363636363636364
+            },
+            "5": {
+              "series": 17,
+              "correct": 14.0,
+              "accuracy": 0.8235294117647058
+            }
+          },
+          "map_accuracy": 0.6446700507614214,
+          "series_accuracy": 0.6577181208053692,
+          "map_logloss": 0.622316309793018,
+          "map_brier": 0.2170374988960408,
+          "series_logloss": 0.6028527022169885,
+          "series_brier": 0.20961617951448264,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 197,
+          "map_correct": 127.0,
+          "decisive_series": 149,
+          "series_correct": 98.0,
+          "tied_probability_series": 4,
+          "logloss_sum": 122.60518744007649,
+          "brier_sum": 42.75177532501596,
+          "series_logloss_sum": 89.7935221468081,
+          "series_brier_sum": 31.214750489739412,
+          "by_bo": {
+            "1": {
+              "series": 132,
+              "correct": 84.0,
+              "accuracy": 0.6363636363636364
+            },
+            "5": {
+              "series": 17,
+              "correct": 14.0,
+              "accuracy": 0.8235294117647058
+            }
+          },
+          "map_accuracy": 0.6446700507614214,
+          "series_accuracy": 0.6577181208053692,
+          "map_logloss": 0.62236135756384,
+          "map_brier": 0.21701408794424346,
+          "series_logloss": 0.6026410882336114,
+          "series_brier": 0.2094949697297947,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 197,
+          "map_correct": 127.0,
+          "decisive_series": 149,
+          "series_correct": 98.0,
+          "tied_probability_series": 4,
+          "logloss_sum": 122.58629101608406,
+          "brier_sum": 42.74677036705318,
+          "series_logloss_sum": 89.79258137455052,
+          "series_brier_sum": 31.216748224748024,
+          "by_bo": {
+            "1": {
+              "series": 132,
+              "correct": 84.0,
+              "accuracy": 0.6363636363636364
+            },
+            "5": {
+              "series": 17,
+              "correct": 14.0,
+              "accuracy": 0.8235294117647058
+            }
+          },
+          "map_accuracy": 0.6446700507614214,
+          "series_accuracy": 0.6577181208053692,
+          "map_logloss": 0.6222654366298683,
+          "map_brier": 0.2169886820662598,
+          "series_logloss": 0.6026347743258424,
+          "series_brier": 0.20950837734730218,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 8,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 193,
+          "map_correct": 122.0,
+          "decisive_series": 149,
+          "series_correct": 95.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 121.81378673248287,
+          "brier_sum": 42.64659571340939,
+          "series_logloss_sum": 92.96360073999628,
+          "series_brier_sum": 32.49830901626742,
+          "by_bo": {
+            "1": {
+              "series": 133,
+              "correct": 84.0,
+              "accuracy": 0.631578947368421
+            },
+            "5": {
+              "series": 16,
+              "correct": 11.0,
+              "accuracy": 0.6875
+            }
+          },
+          "map_accuracy": 0.6321243523316062,
+          "series_accuracy": 0.6375838926174496,
+          "map_logloss": 0.6311595167486159,
+          "map_brier": 0.2209668171679243,
+          "series_logloss": 0.623916783489908,
+          "series_brier": 0.21810945648501626,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 193,
+          "map_correct": 122.0,
+          "decisive_series": 149,
+          "series_correct": 95.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 121.91248140831068,
+          "brier_sum": 42.69620568408626,
+          "series_logloss_sum": 93.0420325542835,
+          "series_brier_sum": 32.534573079217544,
+          "by_bo": {
+            "1": {
+              "series": 133,
+              "correct": 84.0,
+              "accuracy": 0.631578947368421
+            },
+            "5": {
+              "series": 16,
+              "correct": 11.0,
+              "accuracy": 0.6875
+            }
+          },
+          "map_accuracy": 0.6321243523316062,
+          "series_accuracy": 0.6375838926174496,
+          "map_logloss": 0.6316708881259621,
+          "map_brier": 0.22122386364811533,
+          "series_logloss": 0.6244431715052583,
+          "series_brier": 0.21835283945783587,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 193,
+          "map_correct": 122.0,
+          "decisive_series": 149,
+          "series_correct": 95.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 121.88709294200132,
+          "brier_sum": 42.68615286458132,
+          "series_logloss_sum": 93.02145296493917,
+          "series_brier_sum": 32.52703646555692,
+          "by_bo": {
+            "1": {
+              "series": 133,
+              "correct": 84.0,
+              "accuracy": 0.631578947368421
+            },
+            "5": {
+              "series": 16,
+              "correct": 11.0,
+              "accuracy": 0.6875
+            }
+          },
+          "map_accuracy": 0.6321243523316062,
+          "series_accuracy": 0.6375838926174496,
+          "map_logloss": 0.6315393416684006,
+          "map_brier": 0.22117177650042133,
+          "series_logloss": 0.6243050534559677,
+          "series_brier": 0.21830225815810012,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 9,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 199,
+          "map_correct": 136.0,
+          "decisive_series": 149,
+          "series_correct": 107.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 122.02941414812575,
+          "brier_sum": 42.09673929387892,
+          "series_logloss_sum": 87.07698890624714,
+          "series_brier_sum": 29.34239470386323,
+          "by_bo": {
+            "1": {
+              "series": 132,
+              "correct": 96.0,
+              "accuracy": 0.7272727272727273
+            },
+            "5": {
+              "series": 17,
+              "correct": 11.0,
+              "accuracy": 0.6470588235294118
+            }
+          },
+          "map_accuracy": 0.6834170854271356,
+          "series_accuracy": 0.7181208053691275,
+          "map_logloss": 0.6132131364227424,
+          "map_brier": 0.21154140348682873,
+          "series_logloss": 0.5844093215184372,
+          "series_brier": 0.1969288235158606,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 199,
+          "map_correct": 133.0,
+          "decisive_series": 149,
+          "series_correct": 106.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 122.18048155644324,
+          "brier_sum": 42.17654785521484,
+          "series_logloss_sum": 87.24412204496221,
+          "series_brier_sum": 29.422578662805012,
+          "by_bo": {
+            "1": {
+              "series": 132,
+              "correct": 96.0,
+              "accuracy": 0.7272727272727273
+            },
+            "5": {
+              "series": 17,
+              "correct": 10.0,
+              "accuracy": 0.5882352941176471
+            }
+          },
+          "map_accuracy": 0.6683417085427136,
+          "series_accuracy": 0.7114093959731543,
+          "map_logloss": 0.6139722691278555,
+          "map_brier": 0.21194245153374291,
+          "series_logloss": 0.585531020435988,
+          "series_brier": 0.1974669708913088,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 149,
+          "covered_series": 149,
+          "maps": 199,
+          "map_correct": 136.0,
+          "decisive_series": 149,
+          "series_correct": 107.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 121.99912102462753,
+          "brier_sum": 42.08858351432172,
+          "series_logloss_sum": 87.05505609938271,
+          "series_brier_sum": 29.33603795756385,
+          "by_bo": {
+            "1": {
+              "series": 132,
+              "correct": 96.0,
+              "accuracy": 0.7272727272727273
+            },
+            "5": {
+              "series": 17,
+              "correct": 11.0,
+              "accuracy": 0.6470588235294118
+            }
+          },
+          "map_accuracy": 0.6834170854271356,
+          "series_accuracy": 0.7181208053691275,
+          "map_logloss": 0.6130609096714951,
+          "map_brier": 0.2115004196699584,
+          "series_logloss": 0.5842621214723672,
+          "series_brier": 0.19688616078901913,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 10,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 101,
+          "covered_series": 101,
+          "maps": 139,
+          "map_correct": 90.0,
+          "decisive_series": 101,
+          "series_correct": 67.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 89.63307575791879,
+          "brier_sum": 31.072255124327384,
+          "series_logloss_sum": 64.44572660878445,
+          "series_brier_sum": 22.181791181628654,
+          "by_bo": {
+            "1": {
+              "series": 87,
+              "correct": 58.0,
+              "accuracy": 0.6666666666666666
+            },
+            "5": {
+              "series": 14,
+              "correct": 9.0,
+              "accuracy": 0.6428571428571429
+            }
+          },
+          "map_accuracy": 0.6474820143884892,
+          "series_accuracy": 0.6633663366336634,
+          "map_logloss": 0.6448422716397035,
+          "map_brier": 0.22354140377213946,
+          "series_logloss": 0.6380765010770738,
+          "series_brier": 0.21962169486761043,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 101,
+          "covered_series": 101,
+          "maps": 139,
+          "map_correct": 90.0,
+          "decisive_series": 101,
+          "series_correct": 67.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 89.35818493609743,
+          "brier_sum": 30.964813683565442,
+          "series_logloss_sum": 64.17422957468459,
+          "series_brier_sum": 22.07730924450288,
+          "by_bo": {
+            "1": {
+              "series": 87,
+              "correct": 58.0,
+              "accuracy": 0.6666666666666666
+            },
+            "5": {
+              "series": 14,
+              "correct": 9.0,
+              "accuracy": 0.6428571428571429
+            }
+          },
+          "map_accuracy": 0.6474820143884892,
+          "series_accuracy": 0.6633663366336634,
+          "map_logloss": 0.6428646398280391,
+          "map_brier": 0.22276844376665786,
+          "series_logloss": 0.6353884116305405,
+          "series_brier": 0.2185872202426028,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 101,
+          "covered_series": 101,
+          "maps": 139,
+          "map_correct": 89.0,
+          "decisive_series": 101,
+          "series_correct": 66.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 89.73653839328533,
+          "brier_sum": 31.13643594274222,
+          "series_logloss_sum": 64.57151671403292,
+          "series_brier_sum": 22.272992504901396,
+          "by_bo": {
+            "1": {
+              "series": 87,
+              "correct": 57.0,
+              "accuracy": 0.6551724137931034
+            },
+            "5": {
+              "series": 14,
+              "correct": 9.0,
+              "accuracy": 0.6428571428571429
+            }
+          },
+          "map_accuracy": 0.6402877697841727,
+          "series_accuracy": 0.6534653465346535,
+          "map_logloss": 0.6455866071459376,
+          "map_brier": 0.224003136278721,
+          "series_logloss": 0.6393219476636923,
+          "series_brier": 0.22052467826635044,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 11,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 157,
+          "covered_series": 157,
+          "maps": 202,
+          "map_correct": 142.0,
+          "decisive_series": 157,
+          "series_correct": 114.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 121.04802689758051,
+          "brier_sum": 41.59718933801235,
+          "series_logloss_sum": 91.11222975503634,
+          "series_brier_sum": 31.01556719061201,
+          "by_bo": {
+            "1": {
+              "series": 143,
+              "correct": 102.0,
+              "accuracy": 0.7132867132867133
+            },
+            "5": {
+              "series": 14,
+              "correct": 12.0,
+              "accuracy": 0.8571428571428571
+            }
+          },
+          "map_accuracy": 0.7029702970297029,
+          "series_accuracy": 0.7261146496815286,
+          "map_logloss": 0.5992476579088144,
+          "map_brier": 0.20592667989115024,
+          "series_logloss": 0.5803326735989576,
+          "series_brier": 0.19755138337969433,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 157,
+          "covered_series": 157,
+          "maps": 202,
+          "map_correct": 142.0,
+          "decisive_series": 157,
+          "series_correct": 114.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 121.02469197518815,
+          "brier_sum": 41.58560445469721,
+          "series_logloss_sum": 91.08254290105486,
+          "series_brier_sum": 31.00805376916013,
+          "by_bo": {
+            "1": {
+              "series": 143,
+              "correct": 102.0,
+              "accuracy": 0.7132867132867133
+            },
+            "5": {
+              "series": 14,
+              "correct": 12.0,
+              "accuracy": 0.8571428571428571
+            }
+          },
+          "map_accuracy": 0.7029702970297029,
+          "series_accuracy": 0.7261146496815286,
+          "map_logloss": 0.5991321384910304,
+          "map_brier": 0.20586932898364957,
+          "series_logloss": 0.5801435853570374,
+          "series_brier": 0.19750352719210273,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 157,
+          "covered_series": 157,
+          "maps": 202,
+          "map_correct": 142.0,
+          "decisive_series": 157,
+          "series_correct": 114.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 121.2974725650059,
+          "brier_sum": 41.79861668494417,
+          "series_logloss_sum": 91.32405598057584,
+          "series_brier_sum": 31.206774084581127,
+          "by_bo": {
+            "1": {
+              "series": 143,
+              "correct": 102.0,
+              "accuracy": 0.7132867132867133
+            },
+            "5": {
+              "series": 14,
+              "correct": 12.0,
+              "accuracy": 0.8571428571428571
+            }
+          },
+          "map_accuracy": 0.7029702970297029,
+          "series_accuracy": 0.7261146496815286,
+          "map_logloss": 0.6004825374505243,
+          "map_brier": 0.20692384497497116,
+          "series_logloss": 0.5816818852265977,
+          "series_brier": 0.1987692616852301,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 12,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 163,
+          "covered_series": 163,
+          "maps": 204,
+          "map_correct": 142.0,
+          "decisive_series": 163,
+          "series_correct": 118.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 109.23172178284864,
+          "brier_sum": 36.74817492607493,
+          "series_logloss_sum": 82.36995238105268,
+          "series_brier_sum": 27.34523824410242,
+          "by_bo": {
+            "1": {
+              "series": 149,
+              "correct": 109.0,
+              "accuracy": 0.7315436241610739
+            },
+            "5": {
+              "series": 14,
+              "correct": 9.0,
+              "accuracy": 0.6428571428571429
+            }
+          },
+          "map_accuracy": 0.696078431372549,
+          "series_accuracy": 0.7239263803680982,
+          "map_logloss": 0.5354496165825914,
+          "map_brier": 0.18013811238272026,
+          "series_logloss": 0.5053371311721023,
+          "series_brier": 0.16776219781657925,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 163,
+          "covered_series": 163,
+          "maps": 204,
+          "map_correct": 142.0,
+          "decisive_series": 163,
+          "series_correct": 118.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 109.21977476557429,
+          "brier_sum": 36.74650940054694,
+          "series_logloss_sum": 82.36886289137905,
+          "series_brier_sum": 27.346507950669018,
+          "by_bo": {
+            "1": {
+              "series": 149,
+              "correct": 109.0,
+              "accuracy": 0.7315436241610739
+            },
+            "5": {
+              "series": 14,
+              "correct": 9.0,
+              "accuracy": 0.6428571428571429
+            }
+          },
+          "map_accuracy": 0.696078431372549,
+          "series_accuracy": 0.7239263803680982,
+          "map_logloss": 0.5353910527724229,
+          "map_brier": 0.18012994804189678,
+          "series_logloss": 0.5053304471863745,
+          "series_brier": 0.16776998742741728,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 163,
+          "covered_series": 163,
+          "maps": 204,
+          "map_correct": 145.0,
+          "decisive_series": 163,
+          "series_correct": 121.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 109.912416063768,
+          "brier_sum": 36.98977727417911,
+          "series_logloss_sum": 83.36971738336123,
+          "series_brier_sum": 27.724768660396435,
+          "by_bo": {
+            "1": {
+              "series": 149,
+              "correct": 112.0,
+              "accuracy": 0.7516778523489933
+            },
+            "5": {
+              "series": 14,
+              "correct": 9.0,
+              "accuracy": 0.6428571428571429
+            }
+          },
+          "map_accuracy": 0.7107843137254902,
+          "series_accuracy": 0.7423312883435583,
+          "map_logloss": 0.5387863532537648,
+          "map_brier": 0.18132243761852507,
+          "series_logloss": 0.5114706587936272,
+          "series_brier": 0.17009060527850575,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 13,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 77,
+          "covered_series": 77,
+          "maps": 186,
+          "map_correct": 124.0,
+          "decisive_series": 77,
+          "series_correct": 56.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 114.21870119402337,
+          "brier_sum": 39.701284931071605,
+          "series_logloss_sum": 44.179751262398064,
+          "series_brier_sum": 15.054135218097885,
+          "by_bo": {
+            "3": {
+              "series": 33,
+              "correct": 24.0,
+              "accuracy": 0.7272727272727273
+            },
+            "5": {
+              "series": 24,
+              "correct": 17.0,
+              "accuracy": 0.7083333333333334
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            }
+          },
+          "map_accuracy": 0.6666666666666666,
+          "series_accuracy": 0.7272727272727273,
+          "map_logloss": 0.614079038677545,
+          "map_brier": 0.21344776844662153,
+          "series_logloss": 0.5737630034077671,
+          "series_brier": 0.19550824958568683,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 77,
+          "covered_series": 77,
+          "maps": 186,
+          "map_correct": 123.0,
+          "decisive_series": 77,
+          "series_correct": 55.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 114.0798481213645,
+          "brier_sum": 39.62986435890396,
+          "series_logloss_sum": 44.03772261712644,
+          "series_brier_sum": 14.99145730956792,
+          "by_bo": {
+            "3": {
+              "series": 33,
+              "correct": 23.0,
+              "accuracy": 0.696969696969697
+            },
+            "5": {
+              "series": 24,
+              "correct": 17.0,
+              "accuracy": 0.7083333333333334
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            }
+          },
+          "map_accuracy": 0.6612903225806451,
+          "series_accuracy": 0.7142857142857143,
+          "map_logloss": 0.6133325167815296,
+          "map_brier": 0.21306378687582772,
+          "series_logloss": 0.5719184755470966,
+          "series_brier": 0.19469425077360936,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 77,
+          "covered_series": 77,
+          "maps": 186,
+          "map_correct": 125.0,
+          "decisive_series": 77,
+          "series_correct": 55.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 114.81812404596994,
+          "brier_sum": 39.9373398243055,
+          "series_logloss_sum": 45.1894024977848,
+          "series_brier_sum": 15.427599196555006,
+          "by_bo": {
+            "3": {
+              "series": 33,
+              "correct": 23.0,
+              "accuracy": 0.696969696969697
+            },
+            "5": {
+              "series": 24,
+              "correct": 17.0,
+              "accuracy": 0.7083333333333334
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            }
+          },
+          "map_accuracy": 0.6720430107526881,
+          "series_accuracy": 0.7142857142857143,
+          "map_logloss": 0.6173017421826341,
+          "map_brier": 0.214716880775836,
+          "series_logloss": 0.5868753571140883,
+          "series_brier": 0.200358431124091,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 14,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 74,
+          "covered_series": 74,
+          "maps": 184,
+          "map_correct": 116.0,
+          "decisive_series": 74,
+          "series_correct": 53.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 116.1035254205016,
+          "brier_sum": 40.66128517914875,
+          "series_logloss_sum": 37.89873311753118,
+          "series_brier_sum": 12.88144829651964,
+          "by_bo": {
+            "3": {
+              "series": 33,
+              "correct": 25.0,
+              "accuracy": 0.7575757575757576
+            },
+            "5": {
+              "series": 21,
+              "correct": 13.0,
+              "accuracy": 0.6190476190476191
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            }
+          },
+          "map_accuracy": 0.6304347826086957,
+          "series_accuracy": 0.7162162162162162,
+          "map_logloss": 0.6309974207635957,
+          "map_brier": 0.2209852455388519,
+          "series_logloss": 0.5121450421287997,
+          "series_brier": 0.17407362562864379,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 74,
+          "covered_series": 74,
+          "maps": 184,
+          "map_correct": 116.0,
+          "decisive_series": 74,
+          "series_correct": 53.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 115.97881383132172,
+          "brier_sum": 40.63475409156593,
+          "series_logloss_sum": 37.93309371163951,
+          "series_brier_sum": 12.891170226256786,
+          "by_bo": {
+            "3": {
+              "series": 33,
+              "correct": 25.0,
+              "accuracy": 0.7575757575757576
+            },
+            "5": {
+              "series": 21,
+              "correct": 13.0,
+              "accuracy": 0.6190476190476191
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            }
+          },
+          "map_accuracy": 0.6304347826086957,
+          "series_accuracy": 0.7162162162162162,
+          "map_logloss": 0.630319640387618,
+          "map_brier": 0.220841054845467,
+          "series_logloss": 0.5126093744816149,
+          "series_brier": 0.17420500305752415,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 74,
+          "covered_series": 74,
+          "maps": 184,
+          "map_correct": 116.0,
+          "decisive_series": 74,
+          "series_correct": 53.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 115.75299671647042,
+          "brier_sum": 40.534945674066336,
+          "series_logloss_sum": 37.70039814928601,
+          "series_brier_sum": 12.790228479396502,
+          "by_bo": {
+            "3": {
+              "series": 33,
+              "correct": 25.0,
+              "accuracy": 0.7575757575757576
+            },
+            "5": {
+              "series": 21,
+              "correct": 13.0,
+              "accuracy": 0.6190476190476191
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            }
+          },
+          "map_accuracy": 0.6304347826086957,
+          "series_accuracy": 0.7162162162162162,
+          "map_logloss": 0.6290923734590784,
+          "map_brier": 0.22029861779383877,
+          "series_logloss": 0.5094648398552163,
+          "series_brier": 0.17284092539725002,
+          "coverage": 1.0
+        }
+      }
+    },
+    {
+      "season": 15,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 60,
+          "covered_series": 60,
+          "maps": 164,
+          "map_correct": 111.0,
+          "decisive_series": 60,
+          "series_correct": 49.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 100.69439410187121,
+          "brier_sum": 34.79055941397302,
+          "series_logloss_sum": 29.396745328445732,
+          "series_brier_sum": 9.544244224211798,
+          "by_bo": {
+            "5": {
+              "series": 27,
+              "correct": 24.0,
+              "accuracy": 0.8888888888888888
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            },
+            "3": {
+              "series": 13,
+              "correct": 10.0,
+              "accuracy": 0.7692307692307693
+            }
+          },
+          "map_accuracy": 0.676829268292683,
+          "series_accuracy": 0.8166666666666667,
+          "map_logloss": 0.6139902079382391,
+          "map_brier": 0.21213755740227452,
+          "series_logloss": 0.4899457554740955,
+          "series_brier": 0.15907073707019664,
+          "coverage": 1.0
+        },
+        "joint_side90": {
+          "total_target_series": 60,
+          "covered_series": 60,
+          "maps": 164,
+          "map_correct": 111.0,
+          "decisive_series": 60,
+          "series_correct": 49.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 100.87135719255696,
+          "brier_sum": 34.86487625470802,
+          "series_logloss_sum": 29.42940080111851,
+          "series_brier_sum": 9.554790847923424,
+          "by_bo": {
+            "5": {
+              "series": 27,
+              "correct": 24.0,
+              "accuracy": 0.8888888888888888
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            },
+            "3": {
+              "series": 13,
+              "correct": 10.0,
+              "accuracy": 0.7692307692307693
+            }
+          },
+          "map_accuracy": 0.676829268292683,
+          "series_accuracy": 0.8166666666666667,
+          "map_logloss": 0.6150692511741278,
+          "map_brier": 0.21259070887017087,
+          "series_logloss": 0.4904900133519752,
+          "series_brier": 0.15924651413205707,
+          "coverage": 1.0
+        },
+        "economy_residual90": {
+          "total_target_series": 60,
+          "covered_series": 60,
+          "maps": 164,
+          "map_correct": 111.0,
+          "decisive_series": 60,
+          "series_correct": 48.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 101.64865703973588,
+          "brier_sum": 35.22540695418568,
+          "series_logloss_sum": 30.20972400860437,
+          "series_brier_sum": 9.921882184798944,
+          "by_bo": {
+            "5": {
+              "series": 27,
+              "correct": 22.0,
+              "accuracy": 0.8148148148148148
+            },
+            "1": {
+              "series": 20,
+              "correct": 15.0,
+              "accuracy": 0.75
+            },
+            "3": {
+              "series": 13,
+              "correct": 11.0,
+              "accuracy": 0.8461538461538461
+            }
+          },
+          "map_accuracy": 0.676829268292683,
+          "series_accuracy": 0.8,
+          "map_logloss": 0.6198088843886335,
+          "map_brier": 0.21478906679381513,
+          "series_logloss": 0.5034954001434061,
+          "series_brier": 0.1653647030799824,
+          "coverage": 1.0
+        }
+      }
+    }
+  ],
+  "audit": [
+    {
+      "season": 4,
+      "economy_maps": 0
+    },
+    {
+      "season": 5,
+      "economy_maps": 0
+    },
+    {
+      "season": 6,
+      "economy_maps": 921
+    },
+    {
+      "season": 7,
+      "economy_maps": 1309
+    },
+    {
+      "season": 8,
+      "economy_maps": 1296
+    },
+    {
+      "season": 9,
+      "economy_maps": 1117
+    },
+    {
+      "season": 10,
+      "economy_maps": 2385
+    },
+    {
+      "season": 11,
+      "economy_maps": 2065
+    },
+    {
+      "season": 12,
+      "economy_maps": 1907
+    },
+    {
+      "season": 13,
+      "economy_maps": 1516
+    },
+    {
+      "season": 14,
+      "economy_maps": 1524
+    },
+    {
+      "season": 15,
+      "economy_maps": 1610
+    }
+  ],
+  "paired_event_logloss_delta_95": {
+    "dynamic90": [
+      0.0006944785407386387,
+      0.004455371751000172
+    ],
+    "joint_side90": [
+      0.0005691902013492124,
+      0.004666154884544269
+    ]
+  }
+}

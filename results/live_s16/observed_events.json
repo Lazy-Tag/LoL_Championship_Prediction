@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "117133830114188936",
+    "start_utc": "2026-10-08T09:00:00Z",
+    "event": "DCGI",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "RED Kalunga",
+        "code": "RED",
+        "wins": 0
+      },
+      {
+        "name": "FlyQuest",
+        "code": "FLY",
+        "wins": 2
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "117133830114188940",
+    "start_utc": "2026-10-08T11:00:00Z",
+    "event": "DCGI",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "Beijing JDG Esports",
+        "code": "JDG",
+        "wins": 2
+      },
+      {
+        "name": "Natus Vincere",
+        "code": "NAVI",
+        "wins": 1
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115565671526468647",
+    "start_utc": "2026-10-10T16:00:00Z",
+    "event": "CBLOL",
+    "stage": "Finals",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "FURIA",
+        "code": "FUR",
+        "wins": 2
+      },
+      {
+        "name": "LOS",
+        "code": "LOS",
+        "wins": 3
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "117133830110912099",
+    "start_utc": "2026-10-12T06:00:00Z",
+    "event": "DCGI",
+    "stage": "Quarterfinals",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "kt Rolster",
+        "code": "KT",
+        "wins": 3
+      },
+      {
+        "name": "Team Vitality",
+        "code": "VIT",
+        "wins": 2
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "117133830110912093",
+    "start_utc": "2026-10-12T09:00:00Z",
+    "event": "DCGI",
+    "stage": "Quarterfinals",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "BNK FEARX",
+        "code": "BFX",
+        "wins": 3
+      },
+      {
+        "name": "Beijing JDG Esports",
+        "code": "JDG",
+        "wins": 2
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "117133830110912105",
+    "start_utc": "2026-10-13T06:00:00Z",
+    "event": "DCGI",
+    "stage": "Quarterfinals",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "Xi'an Team WE",
+        "code": "WE",
+        "wins": 3
+      },
+      {
+        "name": "FlyQuest",
+        "code": "FLY",
+        "wins": 2
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "117133830110912111",
+    "start_utc": "2026-10-13T09:00:00Z",
+    "event": "DCGI",
+    "stage": "Quarterfinals",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "HANJIN BRION",
+        "code": "BRO",
+        "wins": 3
+      },
+      {
+        "name": "LGD GAMING",
+        "code": "LGD",
+        "wins": 1
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "117133830110912117",
+    "start_utc": "2026-10-14T09:00:00Z",
+    "event": "DCGI",
+    "stage": "Semifinals",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "kt Rolster",
+        "code": "KT",
+        "wins": 1
+      },
+      {
+        "name": "BNK FEARX",
+        "code": "BFX",
+        "wins": 3
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "117133830110912123",
+    "start_utc": "2026-10-15T09:00:00Z",
+    "event": "DCGI",
+    "stage": "Semifinals",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "HANJIN BRION",
+        "code": "BRO",
+        "wins": 2
+      },
+      {
+        "name": "Xi'an Team WE",
+        "code": "WE",
+        "wins": 3
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660588583171786",
+    "start_utc": "2026-10-15T18:00:00Z",
+    "event": "Worlds",
+    "stage": "Play-Ins",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "Karmine Corp",
+        "code": "KC",
+        "wins": 3
+      },
+      {
+        "name": "Cloud9 Kia",
+        "code": "C9",
+        "wins": 2
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660588583040710",
+    "start_utc": "2026-10-15T23:00:00Z",
+    "event": "Worlds",
+    "stage": "Play-Ins",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "MVK Esports",
+        "code": "MVK",
+        "wins": 3
+      },
+      {
+        "name": "FURIA",
+        "code": "FUR",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660588583171790",
+    "start_utc": "2026-10-16T18:00:00Z",
+    "event": "Worlds",
+    "stage": "Play-Ins",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "Karmine Corp",
+        "code": "KC",
+        "wins": 3
+      },
+      {
+        "name": "MVK Esports",
+        "code": "MVK",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660588583171794",
+    "start_utc": "2026-10-16T23:00:00Z",
+    "event": "Worlds",
+    "stage": "Play-Ins",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "FURIA",
+        "code": "FUR",
+        "wins": 3
+      },
+      {
+        "name": "Cloud9 Kia",
+        "code": "C9",
+        "wins": 1
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "117133830110912129",
+    "start_utc": "2026-10-17T09:00:00Z",
+    "event": "DCGI",
+    "stage": "Finals",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "Xi'an Team WE",
+        "code": "WE",
+        "wins": 1
+      },
+      {
+        "name": "BNK FEARX",
+        "code": "BFX",
+        "wins": 3
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660588583171798",
+    "start_utc": "2026-10-17T18:00:00Z",
+    "event": "Worlds",
+    "stage": "Play-Ins",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "MVK Esports",
+        "code": "MVK",
+        "wins": 3
+      },
+      {
+        "name": "FURIA",
+        "code": "FUR",
+        "wins": 1
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "116299649498303884",
+    "start_utc": "2026-10-18T18:00:00Z",
+    "event": "Worlds",
+    "stage": "Play-Ins",
+    "state": "completed",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "Karmine Corp",
+        "code": "KC",
+        "wins": 3
+      },
+      {
+        "name": "MVK Esports",
+        "code": "MVK",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095005",
+    "start_utc": "2026-10-23T17:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Invictus Gaming",
+        "code": "IG",
+        "wins": 0
+      },
+      {
+        "name": "Gen.G Esports",
+        "code": "GEN",
+        "wins": 1
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095013",
+    "start_utc": "2026-10-23T18:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "TOP ESPORTS",
+        "code": "TES",
+        "wins": 0
+      },
+      {
+        "name": "Hanwha Life Esports",
+        "code": "HLE",
+        "wins": 1
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095019",
+    "start_utc": "2026-10-23T19:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Movistar KOI",
+        "code": "MKOI",
+        "wins": 1
+      },
+      {
+        "name": "BILIBILI GAMING",
+        "code": "BLG",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095009",
+    "start_utc": "2026-10-23T20:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Karmine Corp",
+        "code": "KC",
+        "wins": 1
+      },
+      {
+        "name": "Anyone's Legend",
+        "code": "AL",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095011",
+    "start_utc": "2026-10-23T21:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Dplus KIA",
+        "code": "DK",
+        "wins": 1
+      },
+      {
+        "name": "G2 Esports",
+        "code": "G2",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095007",
+    "start_utc": "2026-10-23T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Team Liquid Alienware",
+        "code": "TLAW",
+        "wins": 0
+      },
+      {
+        "name": "CTBC Flying Oyster",
+        "code": "CFO",
+        "wins": 1
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095015",
+    "start_utc": "2026-10-23T23:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "LOS",
+        "code": "LOS",
+        "wins": 0
+      },
+      {
+        "name": "T1",
+        "code": "T1",
+        "wins": 1
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095017",
+    "start_utc": "2026-10-24T00:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "completed",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "LYON",
+        "code": "LYON",
+        "wins": 1
+      },
+      {
+        "name": "Team Secret Whales",
+        "code": "TSW",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095029",
+    "start_utc": "2026-10-24T17:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Anyone's Legend",
+        "code": "AL",
+        "wins": 0
+      },
+      {
+        "name": "TOP ESPORTS",
+        "code": "TES",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095021",
+    "start_utc": "2026-10-24T18:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "CTBC Flying Oyster",
+        "code": "CFO",
+        "wins": 0
+      },
+      {
+        "name": "Movistar KOI",
+        "code": "MKOI",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095031",
+    "start_utc": "2026-10-24T19:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "G2 Esports",
+        "code": "G2",
+        "wins": 0
+      },
+      {
+        "name": "LOS",
+        "code": "LOS",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095023",
+    "start_utc": "2026-10-24T20:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "LYON",
+        "code": "LYON",
+        "wins": 0
+      },
+      {
+        "name": "Karmine Corp",
+        "code": "KC",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095033",
+    "start_utc": "2026-10-24T21:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Team Secret Whales",
+        "code": "TSW",
+        "wins": 0
+      },
+      {
+        "name": "Invictus Gaming",
+        "code": "IG",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095025",
+    "start_utc": "2026-10-24T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Gen.G Esports",
+        "code": "GEN",
+        "wins": 0
+      },
+      {
+        "name": "Hanwha Life Esports",
+        "code": "HLE",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095027",
+    "start_utc": "2026-10-24T23:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "T1",
+        "code": "T1",
+        "wins": 0
+      },
+      {
+        "name": "Dplus KIA",
+        "code": "DK",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095035",
+    "start_utc": "2026-10-25T00:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "Team Liquid Alienware",
+        "code": "TLAW",
+        "wins": 0
+      },
+      {
+        "name": "BILIBILI GAMING",
+        "code": "BLG",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095045",
+    "start_utc": "2026-10-25T17:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095047",
+    "start_utc": "2026-10-25T18:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095037",
+    "start_utc": "2026-10-25T19:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095041",
+    "start_utc": "2026-10-25T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095049",
+    "start_utc": "2026-10-26T17:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095051",
+    "start_utc": "2026-10-26T18:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 1,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095053",
+    "start_utc": "2026-10-26T19:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095057",
+    "start_utc": "2026-10-26T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095061",
+    "start_utc": "2026-10-28T20:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095065",
+    "start_utc": "2026-10-28T23:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095069",
+    "start_utc": "2026-10-29T20:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095073",
+    "start_utc": "2026-10-29T23:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095077",
+    "start_utc": "2026-10-30T20:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095081",
+    "start_utc": "2026-10-30T23:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095085",
+    "start_utc": "2026-10-31T17:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095089",
+    "start_utc": "2026-10-31T20:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095093",
+    "start_utc": "2026-10-31T23:00:00Z",
+    "event": "Worlds",
+    "stage": "Swiss",
+    "state": "unstarted",
+    "best_of": 3,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095097",
+    "start_utc": "2026-11-03T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Quarterfinals",
+    "state": "unstarted",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095103",
+    "start_utc": "2026-11-04T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Quarterfinals",
+    "state": "unstarted",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095109",
+    "start_utc": "2026-11-05T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Quarterfinals",
+    "state": "unstarted",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095115",
+    "start_utc": "2026-11-06T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Quarterfinals",
+    "state": "unstarted",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095121",
+    "start_utc": "2026-11-07T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Semifinals",
+    "state": "unstarted",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095127",
+    "start_utc": "2026-11-08T22:00:00Z",
+    "event": "Worlds",
+    "stage": "Semifinals",
+    "state": "unstarted",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  },
+  {
+    "id": "115660540726095133",
+    "start_utc": "2026-11-14T19:00:00Z",
+    "event": "Worlds",
+    "stage": "Finals",
+    "state": "unstarted",
+    "best_of": 5,
+    "teams": [
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      },
+      {
+        "name": "TBD",
+        "code": "TBD",
+        "wins": 0
+      }
+    ],
+    "source": "https://lolesports.com/en-US/schedule"
+  }
+]

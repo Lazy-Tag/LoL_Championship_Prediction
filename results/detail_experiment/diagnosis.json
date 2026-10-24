@@ -1,0 +1,1263 @@
+{
+  "subsets": {
+    "双方都无记录": {
+      "n": 210,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 210,
+          "covered_series": 210,
+          "maps": 285,
+          "map_correct": 185.0,
+          "decisive_series": 210,
+          "series_correct": 139.0,
+          "tied_probability_series": 4,
+          "logloss_sum": 174.19364416386549,
+          "brier_sum": 60.52846312785997,
+          "series_logloss_sum": 121.76536191816818,
+          "series_brier_sum": 42.06442769926519,
+          "by_bo": {
+            "1": {
+              "series": 184,
+              "correct": 118.0,
+              "accuracy": 0.6413043478260869
+            },
+            "5": {
+              "series": 26,
+              "correct": 21.0,
+              "accuracy": 0.8076923076923077
+            }
+          },
+          "map_accuracy": 0.6491228070175439,
+          "series_accuracy": 0.6619047619047619,
+          "map_logloss": 0.6112057689960192,
+          "map_brier": 0.21238057237845603,
+          "series_logloss": 0.5798350567531818,
+          "series_brier": 0.20030679856792946,
+          "coverage": 1.0
+        },
+        "side_economy90": {
+          "total_target_series": 210,
+          "covered_series": 210,
+          "maps": 285,
+          "map_correct": 185.0,
+          "decisive_series": 210,
+          "series_correct": 139.0,
+          "tied_probability_series": 4,
+          "logloss_sum": 174.1642623397346,
+          "brier_sum": 60.518008099008455,
+          "series_logloss_sum": 121.74091674743919,
+          "series_brier_sum": 42.05609950200787,
+          "by_bo": {
+            "1": {
+              "series": 184,
+              "correct": 118.0,
+              "accuracy": 0.6413043478260869
+            },
+            "5": {
+              "series": 26,
+              "correct": 21.0,
+              "accuracy": 0.8076923076923077
+            }
+          },
+          "map_accuracy": 0.6491228070175439,
+          "series_accuracy": 0.6619047619047619,
+          "map_logloss": 0.6111026748762617,
+          "map_brier": 0.21234388806669632,
+          "series_logloss": 0.5797186511782818,
+          "series_brier": 0.20026714048575175,
+          "coverage": 1.0
+        }
+      },
+      "loss_delta_sum": -0.02444517072891541
+    },
+    "跨赛区": {
+      "n": 1244,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 1244,
+          "covered_series": 1244,
+          "maps": 1783,
+          "map_correct": 1199.0,
+          "decisive_series": 1244,
+          "series_correct": 867.0,
+          "tied_probability_series": 4,
+          "logloss_sum": 1077.3142564962977,
+          "brier_sum": 371.4867165851927,
+          "series_logloss_sum": 714.7980685547668,
+          "series_brier_sum": 243.97119769729542,
+          "by_bo": {
+            "1": {
+              "series": 1017,
+              "correct": 695.0,
+              "accuracy": 0.6833824975417896
+            },
+            "5": {
+              "series": 154,
+              "correct": 119.0,
+              "accuracy": 0.7727272727272727
+            },
+            "3": {
+              "series": 73,
+              "correct": 53.0,
+              "accuracy": 0.726027397260274
+            }
+          },
+          "map_accuracy": 0.6724621424565339,
+          "series_accuracy": 0.6969453376205788,
+          "map_logloss": 0.6042143895099819,
+          "map_brier": 0.2083492521509774,
+          "series_logloss": 0.5745965181308414,
+          "series_brier": 0.19611832612322783,
+          "coverage": 1.0
+        },
+        "side_economy90": {
+          "total_target_series": 1244,
+          "covered_series": 1244,
+          "maps": 1783,
+          "map_correct": 1196.0,
+          "decisive_series": 1244,
+          "series_correct": 862.0,
+          "tied_probability_series": 4,
+          "logloss_sum": 1084.5844177966312,
+          "brier_sum": 374.62611912221223,
+          "series_logloss_sum": 721.7883245022051,
+          "series_brier_sum": 246.68650917416568,
+          "by_bo": {
+            "1": {
+              "series": 1017,
+              "correct": 693.0,
+              "accuracy": 0.6814159292035398
+            },
+            "5": {
+              "series": 154,
+              "correct": 118.0,
+              "accuracy": 0.7662337662337663
+            },
+            "3": {
+              "series": 73,
+              "correct": 51.0,
+              "accuracy": 0.6986301369863014
+            }
+          },
+          "map_accuracy": 0.6707795849691531,
+          "series_accuracy": 0.6929260450160771,
+          "map_logloss": 0.6082918776200961,
+          "map_brier": 0.21010999389916557,
+          "series_logloss": 0.5802156949374639,
+          "series_brier": 0.19830105239080842,
+          "coverage": 1.0
+        }
+      },
+      "loss_delta_sum": 6.990255947439491
+    },
+    "同赛区": {
+      "n": 56,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 56,
+          "covered_series": 56,
+          "maps": 182,
+          "map_correct": 104.0,
+          "decisive_series": 56,
+          "series_correct": 35.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 124.22772009048259,
+          "brier_sum": 44.528337272332735,
+          "series_logloss_sum": 37.539798169697306,
+          "series_brier_sum": 13.312831316055915,
+          "by_bo": {
+            "5": {
+              "series": 37,
+              "correct": 21.0,
+              "accuracy": 0.5675675675675675
+            },
+            "1": {
+              "series": 13,
+              "correct": 8.0,
+              "accuracy": 0.6153846153846154
+            },
+            "3": {
+              "series": 6,
+              "correct": 6.0,
+              "accuracy": 1.0
+            }
+          },
+          "map_accuracy": 0.5714285714285714,
+          "series_accuracy": 0.625,
+          "map_logloss": 0.6825698906070472,
+          "map_brier": 0.244661193804026,
+          "series_logloss": 0.6703535387445948,
+          "series_brier": 0.23772913064385562,
+          "coverage": 1.0
+        },
+        "side_economy90": {
+          "total_target_series": 56,
+          "covered_series": 56,
+          "maps": 182,
+          "map_correct": 102.0,
+          "decisive_series": 56,
+          "series_correct": 33.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 126.77970587491191,
+          "brier_sum": 45.68334547920225,
+          "series_logloss_sum": 39.59478041449377,
+          "series_brier_sum": 14.06302292277096,
+          "by_bo": {
+            "5": {
+              "series": 37,
+              "correct": 21.0,
+              "accuracy": 0.5675675675675675
+            },
+            "1": {
+              "series": 13,
+              "correct": 7.0,
+              "accuracy": 0.5384615384615384
+            },
+            "3": {
+              "series": 6,
+              "correct": 5.0,
+              "accuracy": 0.8333333333333334
+            }
+          },
+          "map_accuracy": 0.5604395604395604,
+          "series_accuracy": 0.5892857142857143,
+          "map_logloss": 0.696591790521494,
+          "map_brier": 0.25100739274286954,
+          "series_logloss": 0.7070496502588173,
+          "series_brier": 0.2511254093351957,
+          "coverage": 1.0
+        }
+      },
+      "loss_delta_sum": 2.0549822447964816
+    },
+    "仅一方有记录": {
+      "n": 384,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 384,
+          "covered_series": 384,
+          "maps": 590,
+          "map_correct": 404.0,
+          "decisive_series": 384,
+          "series_correct": 270.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 358.79114976463467,
+          "brier_sum": 123.93781655674348,
+          "series_logloss_sum": 223.64821515509018,
+          "series_brier_sum": 76.81102469432983,
+          "by_bo": {
+            "1": {
+              "series": 299,
+              "correct": 201.0,
+              "accuracy": 0.6722408026755853
+            },
+            "5": {
+              "series": 62,
+              "correct": 51.0,
+              "accuracy": 0.8225806451612904
+            },
+            "3": {
+              "series": 23,
+              "correct": 18.0,
+              "accuracy": 0.782608695652174
+            }
+          },
+          "map_accuracy": 0.6847457627118644,
+          "series_accuracy": 0.703125,
+          "map_logloss": 0.6081205928214147,
+          "map_brier": 0.21006409585888727,
+          "series_logloss": 0.5824172269663807,
+          "series_brier": 0.20002871014148393,
+          "coverage": 1.0
+        },
+        "side_economy90": {
+          "total_target_series": 384,
+          "covered_series": 384,
+          "maps": 590,
+          "map_correct": 403.0,
+          "decisive_series": 384,
+          "series_correct": 270.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 360.7332451655476,
+          "brier_sum": 124.60838422233905,
+          "series_logloss_sum": 224.8466584364209,
+          "series_brier_sum": 77.05982831186252,
+          "by_bo": {
+            "1": {
+              "series": 299,
+              "correct": 201.0,
+              "accuracy": 0.6722408026755853
+            },
+            "5": {
+              "series": 62,
+              "correct": 51.0,
+              "accuracy": 0.8225806451612904
+            },
+            "3": {
+              "series": 23,
+              "correct": 18.0,
+              "accuracy": 0.782608695652174
+            }
+          },
+          "map_accuracy": 0.6830508474576271,
+          "series_accuracy": 0.703125,
+          "map_logloss": 0.6114122799416061,
+          "map_brier": 0.21120065122430348,
+          "series_logloss": 0.5855381730115128,
+          "series_brier": 0.20067663622880863,
+          "coverage": 1.0
+        }
+      },
+      "loss_delta_sum": 1.1984432813307868
+    },
+    "双方有记录但一方不足5局": {
+      "n": 87,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 87,
+          "covered_series": 87,
+          "maps": 124,
+          "map_correct": 73.0,
+          "decisive_series": 87,
+          "series_correct": 55.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 80.16947840264706,
+          "brier_sum": 28.23927927392038,
+          "series_logloss_sum": 54.00509831961759,
+          "series_brier_sum": 18.838906786345444,
+          "by_bo": {
+            "1": {
+              "series": 72,
+              "correct": 46.0,
+              "accuracy": 0.6388888888888888
+            },
+            "5": {
+              "series": 9,
+              "correct": 5.0,
+              "accuracy": 0.5555555555555556
+            },
+            "3": {
+              "series": 6,
+              "correct": 4.0,
+              "accuracy": 0.6666666666666666
+            }
+          },
+          "map_accuracy": 0.5887096774193549,
+          "series_accuracy": 0.632183908045977,
+          "map_logloss": 0.6465280516342504,
+          "map_brier": 0.22773612317677727,
+          "series_logloss": 0.6207482565473286,
+          "series_brier": 0.21653915846374072,
+          "coverage": 1.0
+        },
+        "side_economy90": {
+          "total_target_series": 87,
+          "covered_series": 87,
+          "maps": 124,
+          "map_correct": 77.0,
+          "decisive_series": 87,
+          "series_correct": 57.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 80.17499809007657,
+          "brier_sum": 28.33784748833864,
+          "series_logloss_sum": 53.97223315313872,
+          "series_brier_sum": 18.91195642465767,
+          "by_bo": {
+            "1": {
+              "series": 72,
+              "correct": 48.0,
+              "accuracy": 0.6666666666666666
+            },
+            "5": {
+              "series": 9,
+              "correct": 5.0,
+              "accuracy": 0.5555555555555556
+            },
+            "3": {
+              "series": 6,
+              "correct": 4.0,
+              "accuracy": 0.6666666666666666
+            }
+          },
+          "map_accuracy": 0.6209677419354839,
+          "series_accuracy": 0.6551724137931034,
+          "map_logloss": 0.646572565242553,
+          "map_brier": 0.2285310281317632,
+          "series_logloss": 0.6203704960130887,
+          "series_brier": 0.2173788094788238,
+          "coverage": 1.0
+        }
+      },
+      "loss_delta_sum": -0.03286516647888413
+    },
+    "双方均至少5局": {
+      "n": 619,
+      "models": {
+        "dynamic90": {
+          "total_target_series": 619,
+          "covered_series": 619,
+          "maps": 966,
+          "map_correct": 641.0,
+          "decisive_series": 619,
+          "series_correct": 438.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 588.387704255633,
+          "brier_sum": 203.30949489900203,
+          "series_logloss_sum": 352.9191913315883,
+          "series_brier_sum": 119.5696698334108,
+          "by_bo": {
+            "1": {
+              "series": 475,
+              "correct": 338.0,
+              "accuracy": 0.7115789473684211
+            },
+            "5": {
+              "series": 94,
+              "correct": 63.0,
+              "accuracy": 0.6702127659574468
+            },
+            "3": {
+              "series": 50,
+              "correct": 37.0,
+              "accuracy": 0.74
+            }
+          },
+          "map_accuracy": 0.6635610766045549,
+          "series_accuracy": 0.7075928917609047,
+          "map_logloss": 0.6090970023350238,
+          "map_brier": 0.21046531563043688,
+          "series_logloss": 0.5701440893886726,
+          "series_brier": 0.1931658640281273,
+          "coverage": 1.0
+        },
+        "side_economy90": {
+          "total_target_series": 619,
+          "covered_series": 619,
+          "maps": 966,
+          "map_correct": 633.0,
+          "decisive_series": 619,
+          "series_correct": 429.0,
+          "tied_probability_series": 0,
+          "logloss_sum": 596.2916180761844,
+          "brier_sum": 206.845224791729,
+          "series_logloss_sum": 360.82329657970166,
+          "series_brier_sum": 122.72164785840842,
+          "by_bo": {
+            "1": {
+              "series": 475,
+              "correct": 333.0,
+              "accuracy": 0.7010526315789474
+            },
+            "5": {
+              "series": 94,
+              "correct": 62.0,
+              "accuracy": 0.6595744680851063
+            },
+            "3": {
+              "series": 50,
+              "correct": 34.0,
+              "accuracy": 0.68
+            }
+          },
+          "map_accuracy": 0.65527950310559,
+          "series_accuracy": 0.6930533117932148,
+          "map_logloss": 0.6172791077393213,
+          "map_brier": 0.21412549150282506,
+          "series_logloss": 0.582913241647337,
+          "series_brier": 0.19825791253377772,
+          "coverage": 1.0
+        }
+      },
+      "loss_delta_sum": 7.904105248112985
+    }
+  },
+  "gated": {
+    "dynamic90": {
+      "total_target_series": 1300,
+      "covered_series": 1300,
+      "maps": 1965,
+      "map_correct": 1303.0,
+      "decisive_series": 1300,
+      "series_correct": 902.0,
+      "tied_probability_series": 4,
+      "logloss_sum": 1201.541976586781,
+      "brier_sum": 416.01505385752523,
+      "series_logloss_sum": 752.3378667244643,
+      "series_brier_sum": 257.28402901335136,
+      "by_bo": {
+        "1": {
+          "series": 1030,
+          "correct": 703.0,
+          "accuracy": 0.6825242718446602
+        },
+        "5": {
+          "series": 191,
+          "correct": 140.0,
+          "accuracy": 0.7329842931937173
+        },
+        "3": {
+          "series": 79,
+          "correct": 59.0,
+          "accuracy": 0.7468354430379747
+        }
+      },
+      "map_accuracy": 0.6631043256997455,
+      "series_accuracy": 0.6938461538461539,
+      "map_logloss": 0.6114717438100666,
+      "map_brier": 0.211712495601794,
+      "series_logloss": 0.5787214359418956,
+      "series_brier": 0.1979107915487318,
+      "coverage": 1.0
+    },
+    "side_economy90": {
+      "total_target_series": 1300,
+      "covered_series": 1300,
+      "maps": 1965,
+      "map_correct": 1298.0,
+      "decisive_series": 1300,
+      "series_correct": 895.0,
+      "tied_probability_series": 4,
+      "logloss_sum": 1211.364123671543,
+      "brier_sum": 420.3094646014145,
+      "series_logloss_sum": 761.383104916699,
+      "series_brier_sum": 260.74953209693655,
+      "by_bo": {
+        "1": {
+          "series": 1030,
+          "correct": 700.0,
+          "accuracy": 0.6796116504854369
+        },
+        "5": {
+          "series": 191,
+          "correct": 139.0,
+          "accuracy": 0.7277486910994765
+        },
+        "3": {
+          "series": 79,
+          "correct": 56.0,
+          "accuracy": 0.7088607594936709
+        }
+      },
+      "map_accuracy": 0.660559796437659,
+      "series_accuracy": 0.6884615384615385,
+      "map_logloss": 0.6164702919448056,
+      "map_brier": 0.213897946362043,
+      "series_logloss": 0.5856793114743839,
+      "series_brier": 0.20057656315148964,
+      "coverage": 1.0
+    },
+    "gated90": {
+      "total_target_series": 1300,
+      "covered_series": 1300,
+      "maps": 1965,
+      "map_correct": 1295.0,
+      "decisive_series": 1300,
+      "series_correct": 893.0,
+      "tied_probability_series": 4,
+      "logloss_sum": 1209.445890407332,
+      "brier_sum": 419.5507837502527,
+      "series_logloss_sum": 760.2419719725765,
+      "series_brier_sum": 260.4360070383491,
+      "by_bo": {
+        "1": {
+          "series": 1030,
+          "correct": 698.0,
+          "accuracy": 0.6776699029126214
+        },
+        "5": {
+          "series": 191,
+          "correct": 139.0,
+          "accuracy": 0.7277486910994765
+        },
+        "3": {
+          "series": 79,
+          "correct": 56.0,
+          "accuracy": 0.7088607594936709
+        }
+      },
+      "map_accuracy": 0.6590330788804071,
+      "series_accuracy": 0.686923076923077,
+      "map_logloss": 0.6154940918103471,
+      "map_brier": 0.21351184923676983,
+      "series_logloss": 0.5848015169019819,
+      "series_brier": 0.2003353900294993,
+      "coverage": 1.0
+    }
+  },
+  "league_coverage": [
+    {
+      "season": 6,
+      "league": "EULCS",
+      "matched": 171,
+      "gold15": 171
+    },
+    {
+      "season": 6,
+      "league": "LCK",
+      "matched": 447,
+      "gold15": 447
+    },
+    {
+      "season": 6,
+      "league": "LMS",
+      "matched": 17,
+      "gold15": 17
+    },
+    {
+      "season": 6,
+      "league": "NALCS",
+      "matched": 286,
+      "gold15": 286
+    },
+    {
+      "season": 7,
+      "league": "CBLoL",
+      "matched": 122,
+      "gold15": 122
+    },
+    {
+      "season": 7,
+      "league": "EULCS",
+      "matched": 180,
+      "gold15": 180
+    },
+    {
+      "season": 7,
+      "league": "LCK",
+      "matched": 489,
+      "gold15": 489
+    },
+    {
+      "season": 7,
+      "league": "LMS",
+      "matched": 177,
+      "gold15": 177
+    },
+    {
+      "season": 7,
+      "league": "MSI",
+      "matched": 76,
+      "gold15": 76
+    },
+    {
+      "season": 7,
+      "league": "NALCS",
+      "matched": 265,
+      "gold15": 265
+    },
+    {
+      "season": 8,
+      "league": "CBLoL",
+      "matched": 147,
+      "gold15": 147
+    },
+    {
+      "season": 8,
+      "league": "EULCS",
+      "matched": 112,
+      "gold15": 112
+    },
+    {
+      "season": 8,
+      "league": "LCK",
+      "matched": 466,
+      "gold15": 466
+    },
+    {
+      "season": 8,
+      "league": "LMS",
+      "matched": 218,
+      "gold15": 218,
+      "diff_inconsistent": 1
+    },
+    {
+      "season": 8,
+      "league": "MSI",
+      "matched": 64,
+      "gold15": 64
+    },
+    {
+      "season": 8,
+      "league": "NALCS",
+      "matched": 236,
+      "gold15": 236
+    },
+    {
+      "season": 8,
+      "league": "TCL",
+      "matched": 53,
+      "gold15": 53
+    },
+    {
+      "season": 9,
+      "league": "CBLoL",
+      "matched": 70,
+      "gold15": 70
+    },
+    {
+      "season": 9,
+      "league": "LCK",
+      "matched": 461,
+      "gold15": 461
+    },
+    {
+      "season": 9,
+      "league": "LCS",
+      "matched": 135,
+      "gold15": 135
+    },
+    {
+      "season": 9,
+      "league": "LEC",
+      "matched": 148,
+      "gold15": 147
+    },
+    {
+      "season": 9,
+      "league": "LMS",
+      "matched": 267,
+      "gold15": 267
+    },
+    {
+      "season": 9,
+      "league": "MSI",
+      "matched": 37,
+      "gold15": 37
+    },
+    {
+      "season": 10,
+      "league": "CBLOL",
+      "matched": 92,
+      "gold15": 92
+    },
+    {
+      "season": 10,
+      "league": "LCK",
+      "matched": 217,
+      "gold15": 216
+    },
+    {
+      "season": 10,
+      "league": "LCL",
+      "matched": 123,
+      "gold15": 123
+    },
+    {
+      "season": 10,
+      "league": "LCS",
+      "matched": 171,
+      "gold15": 171
+    },
+    {
+      "season": 10,
+      "league": "LEC",
+      "matched": 147,
+      "gold15": 147
+    },
+    {
+      "season": 10,
+      "league": "LJL",
+      "matched": 66,
+      "gold15": 65
+    },
+    {
+      "season": 10,
+      "league": "LLA",
+      "matched": 42,
+      "gold15": 42
+    },
+    {
+      "season": 10,
+      "league": "LPL",
+      "matched": 659,
+      "gold15": 658
+    },
+    {
+      "season": 10,
+      "league": "MSC",
+      "matched": 18,
+      "gold15": 18
+    },
+    {
+      "season": 10,
+      "league": "OPL",
+      "matched": 151,
+      "gold15": 151
+    },
+    {
+      "season": 10,
+      "league": "PCS",
+      "matched": 183,
+      "gold15": 183
+    },
+    {
+      "season": 10,
+      "league": "TCL",
+      "matched": 158,
+      "gold15": 157
+    },
+    {
+      "season": 10,
+      "league": "VCS",
+      "matched": 294,
+      "gold15": 294
+    },
+    {
+      "season": 10,
+      "league": "WLDs",
+      "matched": 68,
+      "gold15": 68
+    },
+    {
+      "season": 11,
+      "league": "CBLOL",
+      "matched": 91,
+      "gold15": 91
+    },
+    {
+      "season": 11,
+      "league": "LCK",
+      "matched": 238,
+      "gold15": 238
+    },
+    {
+      "season": 11,
+      "league": "LCL",
+      "matched": 149,
+      "gold15": 149
+    },
+    {
+      "season": 11,
+      "league": "LCO",
+      "matched": 135,
+      "gold15": 135
+    },
+    {
+      "season": 11,
+      "league": "LCS",
+      "matched": 213,
+      "gold15": 213
+    },
+    {
+      "season": 11,
+      "league": "LEC",
+      "matched": 143,
+      "gold15": 143
+    },
+    {
+      "season": 11,
+      "league": "LJL",
+      "matched": 70,
+      "gold15": 70
+    },
+    {
+      "season": 11,
+      "league": "LLA",
+      "matched": 48,
+      "gold15": 48
+    },
+    {
+      "season": 11,
+      "league": "LPL",
+      "matched": 557,
+      "gold15": 244
+    },
+    {
+      "season": 11,
+      "league": "MSI",
+      "matched": 16,
+      "gold15": 16
+    },
+    {
+      "season": 11,
+      "league": "PCS",
+      "matched": 197,
+      "gold15": 197
+    },
+    {
+      "season": 11,
+      "league": "TCL",
+      "matched": 156,
+      "gold15": 156
+    },
+    {
+      "season": 11,
+      "league": "VCS",
+      "matched": 289,
+      "gold15": 289
+    },
+    {
+      "season": 11,
+      "league": "WLDs",
+      "matched": 76,
+      "gold15": 76
+    },
+    {
+      "season": 12,
+      "league": "CBLOL",
+      "matched": 96,
+      "gold15": 96
+    },
+    {
+      "season": 12,
+      "league": "LCK",
+      "matched": 215,
+      "gold15": 215
+    },
+    {
+      "season": 12,
+      "league": "LCL",
+      "matched": 12,
+      "gold15": 12
+    },
+    {
+      "season": 12,
+      "league": "LCO",
+      "matched": 206,
+      "gold15": 206
+    },
+    {
+      "season": 12,
+      "league": "LCS",
+      "matched": 203,
+      "gold15": 203
+    },
+    {
+      "season": 12,
+      "league": "LEC",
+      "matched": 196,
+      "gold15": 196
+    },
+    {
+      "season": 12,
+      "league": "LJL",
+      "matched": 68,
+      "gold15": 68
+    },
+    {
+      "season": 12,
+      "league": "LLA",
+      "matched": 75,
+      "gold15": 75
+    },
+    {
+      "season": 12,
+      "league": "LPL",
+      "matched": 621
+    },
+    {
+      "season": 12,
+      "league": "MSI",
+      "matched": 55,
+      "gold15": 55
+    },
+    {
+      "season": 12,
+      "league": "PCS",
+      "matched": 186,
+      "gold15": 186
+    },
+    {
+      "season": 12,
+      "league": "TCL",
+      "matched": 221,
+      "gold15": 221
+    },
+    {
+      "season": 12,
+      "league": "VCS",
+      "matched": 299,
+      "gold15": 299
+    },
+    {
+      "season": 12,
+      "league": "WLDs",
+      "matched": 89,
+      "gold15": 75
+    },
+    {
+      "season": 13,
+      "league": "CBLOL",
+      "matched": 152,
+      "gold15": 152
+    },
+    {
+      "season": 13,
+      "league": "LCK",
+      "matched": 267,
+      "gold15": 267
+    },
+    {
+      "season": 13,
+      "league": "LCO",
+      "matched": 82,
+      "gold15": 82
+    },
+    {
+      "season": 13,
+      "league": "LCS",
+      "matched": 111,
+      "gold15": 111
+    },
+    {
+      "season": 13,
+      "league": "LEC",
+      "matched": 204,
+      "gold15": 204
+    },
+    {
+      "season": 13,
+      "league": "LJL",
+      "matched": 75,
+      "gold15": 75
+    },
+    {
+      "season": 13,
+      "league": "LLA",
+      "matched": 41,
+      "gold15": 41
+    },
+    {
+      "season": 13,
+      "league": "LPL",
+      "matched": 573
+    },
+    {
+      "season": 13,
+      "league": "MSI",
+      "matched": 46,
+      "gold15": 46
+    },
+    {
+      "season": 13,
+      "league": "PCS",
+      "matched": 197,
+      "gold15": 197
+    },
+    {
+      "season": 13,
+      "league": "VCS",
+      "matched": 247,
+      "gold15": 247
+    },
+    {
+      "season": 13,
+      "league": "WLDs",
+      "matched": 107,
+      "gold15": 94
+    },
+    {
+      "season": 14,
+      "league": "CBLOL",
+      "matched": 174,
+      "gold15": 174
+    },
+    {
+      "season": 14,
+      "league": "EWC",
+      "matched": 17,
+      "gold15": 17
+    },
+    {
+      "season": 14,
+      "league": "LCK",
+      "matched": 174,
+      "gold15": 174
+    },
+    {
+      "season": 14,
+      "league": "LCO",
+      "matched": 154,
+      "gold15": 153
+    },
+    {
+      "season": 14,
+      "league": "LCS",
+      "matched": 140,
+      "gold15": 140
+    },
+    {
+      "season": 14,
+      "league": "LEC",
+      "matched": 290,
+      "gold15": 290
+    },
+    {
+      "season": 14,
+      "league": "LJL",
+      "matched": 53,
+      "gold15": 53
+    },
+    {
+      "season": 14,
+      "league": "LLA",
+      "matched": 76,
+      "gold15": 76
+    },
+    {
+      "season": 14,
+      "league": "LPL",
+      "matched": 575
+    },
+    {
+      "season": 14,
+      "league": "MSI",
+      "matched": 47
+    },
+    {
+      "season": 14,
+      "league": "PCS",
+      "matched": 197,
+      "gold15": 197
+    },
+    {
+      "season": 14,
+      "league": "VCS",
+      "matched": 169,
+      "gold15": 169
+    },
+    {
+      "season": 14,
+      "league": "WLDs",
+      "matched": 94,
+      "gold15": 81
+    },
+    {
+      "season": 15,
+      "league": "EWC",
+      "matched": 33,
+      "gold15": 33
+    },
+    {
+      "season": 15,
+      "league": "FST",
+      "matched": 35,
+      "gold15": 35
+    },
+    {
+      "season": 15,
+      "league": "LCK",
+      "matched": 454,
+      "gold15": 454
+    },
+    {
+      "season": 15,
+      "league": "LCP",
+      "matched": 271,
+      "gold15": 271
+    },
+    {
+      "season": 15,
+      "league": "LEC",
+      "matched": 304,
+      "gold15": 304
+    },
+    {
+      "season": 15,
+      "league": "LPL",
+      "matched": 801
+    },
+    {
+      "season": 15,
+      "league": "LTA",
+      "matched": 37,
+      "gold15": 37
+    },
+    {
+      "season": 15,
+      "league": "LTA N",
+      "matched": 177,
+      "gold15": 177
+    },
+    {
+      "season": 15,
+      "league": "LTA S",
+      "matched": 194,
+      "gold15": 194
+    },
+    {
+      "season": 15,
+      "league": "MSI",
+      "matched": 21,
+      "gold15": 21
+    },
+    {
+      "season": 15,
+      "league": "WLDs",
+      "matched": 96,
+      "gold15": 84
+    }
+  ],
+  "coefficients": [
+    {
+      "season": 6,
+      "economy_min": 0.19981713507499385,
+      "economy_max": 0.24078187688321395,
+      "side_min": 0.1668427095758013,
+      "side_max": 0.18300551582516325
+    },
+    {
+      "season": 7,
+      "economy_min": 0.15997191463262161,
+      "economy_max": 0.26568407009110295,
+      "side_min": 0.19427636308704105,
+      "side_max": 0.21380117701769544
+    },
+    {
+      "season": 8,
+      "economy_min": 0.16137000327955703,
+      "economy_max": 0.17014231376717437,
+      "side_min": 0.1976120239075592,
+      "side_max": 0.22022729886332296
+    },
+    {
+      "season": 9,
+      "economy_min": 0.1523062626014877,
+      "economy_max": 0.15807156039354195,
+      "side_min": 0.15896247033410968,
+      "side_max": 0.19956899927848507
+    },
+    {
+      "season": 10,
+      "economy_min": 0.07481770308851396,
+      "economy_max": 0.22991507203312606,
+      "side_min": 0.11191446726067387,
+      "side_max": 0.13444265616131168
+    },
+    {
+      "season": 11,
+      "economy_min": 0.17608524270435433,
+      "economy_max": 0.3068663248125524,
+      "side_min": -0.004138876088806603,
+      "side_max": 0.0804645008753657
+    },
+    {
+      "season": 12,
+      "economy_min": 0.22240889830690802,
+      "economy_max": 0.26495959037464867,
+      "side_min": -0.019058677783335063,
+      "side_max": 0.149070664939824
+    },
+    {
+      "season": 13,
+      "economy_min": 0.23345902731973736,
+      "economy_max": 0.25284127410223456,
+      "side_min": 0.07277594020932829,
+      "side_max": 0.1289736287873786
+    },
+    {
+      "season": 14,
+      "economy_min": 0.2519762608120877,
+      "economy_max": 0.30696173172524727,
+      "side_min": 0.13008656241103303,
+      "side_max": 0.19060034867460407
+    },
+    {
+      "season": 15,
+      "economy_min": 0.4051913370914355,
+      "economy_max": 0.46491130911417544,
+      "side_min": 0.1452752603500815,
+      "side_max": 0.22180977580910888
+    }
+  ]
+}
