@@ -4,15 +4,17 @@ Never include unrelated work or pre-existing staged changes. Refuse unrelated
 outgoing commits; a failed automatic push is recognized by an exact trailer
 and its path allowlist. No tokens, raw responses, or machine settings are added.
 """
-import json,os,re,subprocess
+import json,os,re,subprocess,shutil
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 STATE=ROOT/'.local/live_s16/git_publish.json'
 REMOTE='git@github.com:Lazy-Tag/LoL_Championship_Prediction.git'
+# launchd has a minimal PATH; Apple's git shim may require unavailable Xcode.
+GIT=next((p for p in ('/opt/homebrew/bin/git','/usr/local/bin/git','/Library/Developer/CommandLineTools/usr/bin/git') if Path(p).is_file()),None) or shutil.which('git') or 'git'
 
 def git(*args):
     env={**os.environ,'GIT_TERMINAL_PROMPT':'0','GIT_SSH_COMMAND':'ssh -o BatchMode=yes -o ConnectTimeout=20'}
-    return subprocess.check_output(['git',*args],cwd=ROOT,env=env,text=True,stderr=subprocess.STDOUT,timeout=180).strip()
+    return subprocess.check_output([GIT,*args],cwd=ROOT,env=env,text=True,stderr=subprocess.STDOUT,timeout=180).strip()
 
 def publication_paths(latest):
     stamp=latest['snapshot'];report=latest['report']
