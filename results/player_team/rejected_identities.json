@@ -1,0 +1,512 @@
+[
+  {
+    "season": 10,
+    "game_id": "5657-7256",
+    "date": "2020-01-14 10:22:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5662-7264",
+    "date": "2020-01-16 11:47:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5662-7267",
+    "date": "2020-01-16 12:49:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5969-7342",
+    "date": "2020-03-15 06:12:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5969-7343",
+    "date": "2020-03-15 07:00:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5969-7344",
+    "date": "2020-03-15 07:48:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5975-7357",
+    "date": "2020-03-17 09:13:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5975-7358",
+    "date": "2020-03-17 10:04:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5975-7359",
+    "date": "2020-03-17 10:48:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5983-7377",
+    "date": "2020-03-20 06:13:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5983-7378",
+    "date": "2020-03-20 07:19:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5989-7391",
+    "date": "2020-03-22 06:13:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5989-7392",
+    "date": "2020-03-22 07:06:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5995-7405",
+    "date": "2020-03-24 09:13:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5995-7406",
+    "date": "2020-03-24 10:17:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "5995-7407",
+    "date": "2020-03-24 11:07:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6000-7418",
+    "date": "2020-03-26 06:13:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6000-7419",
+    "date": "2020-03-26 07:04:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6045-7470",
+    "date": "2020-04-02 09:07:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6045-7471",
+    "date": "2020-04-02 10:00:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6058-7507",
+    "date": "2020-04-06 10:44:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6058-7510",
+    "date": "2020-04-06 11:31:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6058-7511",
+    "date": "2020-04-06 12:27:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6062-7526",
+    "date": "2020-04-08 06:00:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6062-7530",
+    "date": "2020-04-08 08:00:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6073-7562",
+    "date": "2020-04-11 09:47:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6093-7651",
+    "date": "2020-04-18 09:04:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6050-7684",
+    "date": "2020-04-20 08:48:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6209-7830",
+    "date": "2020-06-09 12:00:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6209-7831",
+    "date": "2020-06-09 12:55:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6224-7946",
+    "date": "2020-06-17 10:05:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6232-8010",
+    "date": "2020-06-21 09:14:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6232-8011",
+    "date": "2020-06-21 10:05:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6242-8080",
+    "date": "2020-06-26 09:13:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6242-8083",
+    "date": "2020-06-26 10:06:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6247-8125",
+    "date": "2020-06-28 11:51:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6247-8127",
+    "date": "2020-06-28 12:36:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6247-8128",
+    "date": "2020-06-28 13:30:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6258-8209",
+    "date": "2020-07-04 09:19:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6258-8210",
+    "date": "2020-07-04 10:15:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6590-8251",
+    "date": "2020-07-07 09:18:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6590-8252",
+    "date": "2020-07-07 10:18:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 10,
+    "game_id": "6590-8253",
+    "date": "2020-07-07 11:12:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT01/1896787",
+    "date": "2021-03-12 11:46:55",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT02/2067504",
+    "date": "2021-07-31 07:26:44",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT01/2250342",
+    "date": "2021-09-02 07:52:07",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT01/2250343",
+    "date": "2021-09-02 08:41:36",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT01/2250344",
+    "date": "2021-09-02 09:35:53",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT01/2250346",
+    "date": "2021-09-02 10:30:09",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT01/2250350",
+    "date": "2021-09-02 11:26:56",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT04/1970939",
+    "date": "2021-10-13 17:57:24",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT04/1961055",
+    "date": "2021-10-16 11:38:37",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT04/1961065",
+    "date": "2021-10-16 12:36:11",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 11,
+    "game_id": "ESPORTSTMNT04/1961082",
+    "date": "2021-10-16 14:46:44",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT04_2140093",
+    "date": "2022-01-23 13:22:35",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT03_2562163",
+    "date": "2022-02-12 14:49:08",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT02_2578803",
+    "date": "2022-02-13 10:10:16",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT03_2562610",
+    "date": "2022-02-13 12:46:01",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT01_2800519",
+    "date": "2022-03-20 09:45:31",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT01_2800521",
+    "date": "2022-03-20 10:45:37",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT03_2634508",
+    "date": "2022-03-29 06:41:07",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT03_2637769",
+    "date": "2022-04-13 09:51:05",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT03_2637771",
+    "date": "2022-04-13 10:46:02",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT02_2775294",
+    "date": "2022-06-07 09:51:09",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT05_2760411",
+    "date": "2022-06-11 13:18:14",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT05_2760423",
+    "date": "2022-06-11 14:26:19",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT06_2470197",
+    "date": "2022-06-19 13:46:46",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT03_2820027",
+    "date": "2022-07-01 10:00:01",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT03_2820055",
+    "date": "2022-07-01 12:04:02",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT04_2410351",
+    "date": "2022-07-02 10:31:54",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT05_2942519",
+    "date": "2022-07-16 11:45:57",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT05_2952952",
+    "date": "2022-07-17 11:40:10",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT06_2530316",
+    "date": "2022-07-23 11:04:00",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT06_2530557",
+    "date": "2022-07-24 12:27:42",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT02_2972516",
+    "date": "2022-08-26 08:36:03",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT02_2972520",
+    "date": "2022-08-26 09:39:02",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT02_2972527",
+    "date": "2022-08-26 10:51:44",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT02_2972535",
+    "date": "2022-08-26 11:42:47",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 12,
+    "game_id": "ESPORTSTMNT02_2972549",
+    "date": "2022-08-26 12:36:46",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 13,
+    "game_id": "ESPORTSTMNT03_3100617",
+    "date": "2023-02-03 11:51:52",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 13,
+    "game_id": "ESPORTSTMNT03_3099849",
+    "date": "2023-02-04 09:17:03",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 13,
+    "game_id": "ESPORTSTMNT03_3103043",
+    "date": "2023-02-05 10:46:01",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 13,
+    "game_id": "ESPORTSTMNT01_3316592",
+    "date": "2023-02-17 08:13:15",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 13,
+    "game_id": "ESPORTSTMNT02_3219848",
+    "date": "2023-07-14 09:12:13",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  },
+  {
+    "season": 15,
+    "game_id": "LOLTMNT02_296892",
+    "date": "2025-08-09 10:36:22",
+    "reason": "missing/conflicting stable source IDs, role layout, or normalized name"
+  }
+]
