@@ -53,6 +53,5 @@
 - [比赛来源与未解决缺口](docs/DATA.md)
 - [模型与算法](MODEL.md)
 - [其他模型及历史对照](reports/sensitivity/candidate_models.md)
-
 - [新模型对照：非线性、经济联合与变化点](reports/research_models/README.md)
 - [小型 DNN 与残差 DNN 对照](reports/dnn/README.md)

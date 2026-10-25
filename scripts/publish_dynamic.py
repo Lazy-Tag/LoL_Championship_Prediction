@@ -24,7 +24,7 @@ def main():
  rows=[[i,t,*[pct(c[j]/n) for j in [1,2,3,4,0]]] for i,(t,c) in enumerate(ordered,1)]
  region=region_rankings([dict(name=t,region=v[1],strength=state[key(v[0])],title_probability=raw['counts'][i][0]/n) for i,(t,v) in enumerate(WORLD_TEAMS.items())])
  write(R/'results/main_s16_region_rankings.json',json.dumps(region,ensure_ascii=False,indent=2))
- body='# S16：队伍排名与过关概率\n\n[返回首页](../../README.md) · [两两胜率](matchups-90.md) · [已纳入赛果](matches.md) · [模型细节](../../MODEL.md)\n\n使用截至 **2026 年 10 月 14 日** 的比赛结果，参考日为 **10 月 19 日**。按夺冠概率排名；各列是从赛事开始算起的累计晋级概率，不是晋级后下一轮的条件胜率。\n'+table(head,rows)+section(region)+'## 队伍与种子\n'+table(['简称','队伍','赛区','赛区种子'],[[k,*v] for k,v in WORLD_TEAMS.items()])+'## 阅读提示\n\n概率为模拟估计。小于 0.01% 不代表不可能；相近概率的排名不应被解读为稳定差距。'+LIMIT+'\n\n[其他模型的敏感性比较](../sensitivity/candidate_models.md) · [逐局数据覆盖审计](../data_enrichment/README.md)\n'
+ body='# S16：队伍排名与过关概率\n\n[最新赛中预测](live/README.md)：按已结束赛果和已公布抽签更新，含下一轮比赛预测。\n\n[返回首页](../../README.md) · [两两胜率](matchups-90.md) · [已纳入赛果](matches.md) · [模型细节](../../MODEL.md)\n\n使用截至 **2026 年 10 月 14 日** 的比赛结果，参考日为 **10 月 19 日**。按夺冠概率排名；各列是从赛事开始算起的累计晋级概率，不是晋级后下一轮的条件胜率。\n'+table(head,rows)+section(region)+'## 队伍与种子\n'+table(['简称','队伍','赛区','赛区种子'],[[k,*v] for k,v in WORLD_TEAMS.items()])+'## 阅读提示\n\n概率为模拟估计。小于 0.01% 不代表不可能；相近概率的排名不应被解读为稳定差距。'+LIMIT+'\n\n[其他模型的敏感性比较](../sensitivity/candidate_models.md) · [逐局数据覆盖审计](../data_enrichment/README.md)\n'
  write(R/'reports/s16/README.md',body)
  pairs=[]
  for i,(a,va) in enumerate(WORLD_TEAMS.items()):
@@ -65,9 +65,10 @@ def main():
   pattern=r'(### '+str(c['year'])+' '+c['event']+r'\n[\s\S]*?复杂同分处理 )[0-9,]+( 次，抽签豁免 )[0-9,]+( 次。)'
   ruletext=re.sub(pattern,lambda m:m[1]+format(rr['complex_tie_scenarios'],',')+m[2]+format(rr['draw_waivers'],',')+m[3],ruletext)
  write(rules,ruletext)
- root='# LoL Championship Prediction\n\n根据公开赛果，比较 S16 各队晋级与夺冠机会，并回看历史赛事的预测与实际成绩。\n\n## S16：队伍排名与过关概率\n\n数据截至 **2026 年 10 月 14 日**，参考日为 **10 月 19 日**。按夺冠概率排序；各列为从赛事开始算起的累计概率。\n'+table(head,rows)
+ root='# LoL Championship Prediction\n\n根据公开赛果，比较 S16 各队晋级与夺冠机会，并回看历史赛事的预测与实际成绩。\n\n**[S16 最新赛中预测](reports/s16/live/README.md)**：已结束比赛后的夺冠与出线概率、下一轮对阵胜率、LPL／LCK 出线队数分布。\n\n## S16：队伍排名与过关概率\n\n数据截至 **2026 年 10 月 14 日**，参考日为 **10 月 19 日**。按夺冠概率排序；各列为从赛事开始算起的累计概率。\n'+table(head,rows)
  root+='赛前赛区实力顺序：**'+order_text(region)+'**，仅代表本届参赛阵容。\n\n[完整结果与队伍资料](reports/s16/README.md) · [两两胜率](reports/s16/matchups-90.md) · [当季已纳入赛果](reports/s16/matches.md)\n\n## 历史预测表现\n'
  root+=f'- 整届冠军预测：**{hits}/23 届（{100*hits/23:.2f}%）**。\n- 逐场系列赛命中率：**{pct(m["series_accuracy"])}**。\n- 小局命中率：**{pct(m["map_accuracy"])}**。\n\n回放范围为 S4–S15 的 MSI、2020 MSC 和 Worlds，合计 {m["covered_series"]:,} 场系列赛、{m["maps"]:,} 小局。整届预测只用开赛前数据；逐场预测只用更早日期数据。这些是两种不同的评价口径。\n\n[整届冠军、排名与实际成绩](reports/event_replay/README.md) · [逐季与逐场回放](reports/history/README.md)\n\n## 数据与限制\n\n'+LIMIT+'\n\n本次补充了阵容、版本、选边和局内统计的核验记录，尚未用于预测，也没有把缺失的比赛当作已经补齐。S3 因赛前数据不足不回放，仅保留[赛果](reports/history/S3/matches.md)。\n\n- [数据补充与覆盖审计](reports/data_enrichment/README.md)\n- [比赛来源与未解决缺口](docs/DATA.md)\n- [模型与算法](MODEL.md)\n- [其他模型及历史对照](reports/sensitivity/candidate_models.md)\n'
+ root+='- [新模型对照：非线性、经济联合与变化点](reports/research_models/README.md)\n- [小型 DNN 与残差 DNN 对照](reports/dnn/README.md)\n'
  write(R/'README.md',root)
  print('Primary reports published: dynamic90; historical hits',hits,'series accuracy',m['series_accuracy'])
 if __name__=='__main__':main()
