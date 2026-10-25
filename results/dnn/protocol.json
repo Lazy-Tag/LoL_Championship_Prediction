@@ -1,0 +1,22 @@
+{
+  "input_hashes": {
+    ".local/research_models/features.json.gz": "ec99b7771c65dc051714c47777d4cbd60f4fc53a6d268ac16e5669d1abd70084",
+    "results/research_models/predictions.json": "59ff748cd029c725094703e5409ef3e51737c57b530b821e7e3a3cc9fcc114d9",
+    "scripts/dnn_model.py": "420e63685d466d6c10d211f223b29cebfbddc44c0c27a6b1d4d2e2a1fd550b84",
+    "scripts/run_dnn.py": "fc3d5f6087963c430d69ca2a856cf7c61a48d5c930698d96a1c2c63a2125650b",
+    "reports/dnn/PROTOCOL.md": "b5a148ee3d038c9c97cfa7de0a48454dc5252006f651b469d2af7e932ca69075"
+  },
+  "unchanged_hashes": {
+    "results/main_model.json": "e66154c6ed1d9a7ca87d8a0f45cae0a2cb82248920f53c71be899a2e1377c387",
+    "results/live_s16/latest.json": "abab6d505c4071e68a5975c4b3478490ee0d682231aacf115f6710e52a954356",
+    "results/model_experiments/dynamic90/2026_Worlds.json": "2f79f45ecefca6931d1d8a206a5c42046c8b994c8ca60ea519251cfc741165c4"
+  },
+  "numpy_version": "2.5.4",
+  "samples": 14000605,
+  "seed_offsets": [
+    0,
+    10000,
+    20000
+  ],
+  "training_signature": "33f170a3ea064553530e7aade50f69bfec57ab1c5f5aa6695be498738199b671"
+}
