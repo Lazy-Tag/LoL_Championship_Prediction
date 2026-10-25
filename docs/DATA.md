@@ -62,3 +62,7 @@ S3/S4 国内联赛覆盖明显不足。来源赛季标签决定归属，未强�
 ## 逐局细节与采集经验
 
 新版[详细数据总览](../reports/detailed_data/README.md)按赛季、联赛提供红蓝方、经济及阵容明细；[对账报告](../reports/detailed_data/reconciliation.md)区分已核准与未匹配记录。下载入口、覆盖陷阱和赛制核验方法见[研究经验](RESEARCH_NOTES.md)。详细数据已用于独立增量实验，结果见[模型对比](../reports/detailed_data/model_comparison.md)；尚未替换主结果。
+
+### 2026-10-25：十月世界赛详细数据
+
+[S16 世界赛逐局明细](../reports/detailed_data/worlds_2026/README.md)新增 22 场系列赛、38 小局、19 队的实际出场阵容、红蓝方、版本、英雄及经济等统计；已与官方完整比分和小局胜负累计核对。旧 OE 镜像依然截止六月，本次从 GOL 独立补采，不意味着七月至十月国内联赛全部补齐，也没有重复追加胜负训练样本。

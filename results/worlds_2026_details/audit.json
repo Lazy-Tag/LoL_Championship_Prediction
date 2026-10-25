@@ -1,0 +1,511 @@
+{
+  "retrieved_utc": "2026-10-25T15:26:04.230427+00:00",
+  "series": 22,
+  "games": 38,
+  "teams": 19,
+  "source_date_min": "2026-10-15",
+  "source_date_max": "2026-10-24",
+  "training_outcomes_added": 0,
+  "sources": [
+    {
+      "url": "https://gol.gg/tournament/tournament-matchlist/Worlds%202026%20Main%20Event/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/277659f296401c9f0d68.html",
+      "sha256": "424fcd8eb92abec1d60ea39fb3542954fc7c9865a1bdc3ddb3ee19b25fd49fa4"
+    },
+    {
+      "url": "https://gol.gg/tournament/tournament-matchlist/Worlds%202026%20Play-In/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/b61f718090ee9de23fb0.html",
+      "sha256": "4f15aa49032770db53f486ad199ebccfa2b6cacab6be0748b2290e568a98824c"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83652/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/29e6fab1117d55611e47.html",
+      "sha256": "25a71c01ed1b0619dd747a649e4dd8136adeff46a03adbaa33e6f4b2e27130fb"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83651/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/80b7475d31f67724f754.html",
+      "sha256": "ffda560aaa5e9dd85d9dcdebbdf5b68366f8bb8a0d939656cb84893bc4b16c58"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83653/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/7accc4f30465c3cdd6e0.html",
+      "sha256": "d4369d35ac751549961883304d086ca1d58f0d0d2fc4bc908a883109fa464128"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83650/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/991afb383430e29d5b5c.html",
+      "sha256": "371de2e32bf78e500e7fc8ed97ca013328151acd9ba76e5b23b05c4e5d254906"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83649/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/021a5e864c4e49512bf4.html",
+      "sha256": "325426f440fe27c19df237e1ed5fe3d1e66778b59fd7e49a0dbffc0e580eb47d"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83648/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/11973db1fb4032af465a.html",
+      "sha256": "4e67141c0fbbd1297cad3977d8b6256cbd2818a44fe83556a962f1d0e736c11c"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83646/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/c2db460f8eea7068c8c5.html",
+      "sha256": "aaa8faa445f564cfa0bddf6d3fd31185628a8891bb57e20b1f0f3e129a097de7"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83647/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/ede9aec7210f51ad05ac.html",
+      "sha256": "e8c2fb19b81d8b8c6d469f78f346e3d8eb1fb2a31dde73f8eb115f5343c022f2"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83645/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/1d334527ce646edb9249.html",
+      "sha256": "c3022eb463e64756e60b77883b43df64c7f4c6205f8f158c92871a8dfe2b9b92"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83642/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/5b0deb9c6859330ac993.html",
+      "sha256": "749eb6a95dea86b85914c866bc5512e62145d41f952bde68bbfd9830c7234218"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83643/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/272027ec7a97fc3a6c8a.html",
+      "sha256": "9b9b5a4d4e0c836b2cdc54febd676b8451b9f55f2927a6cba78ec5fe9d1fffd9"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83644/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/30b3f281a3755c4a7a90.html",
+      "sha256": "0e779e0d278c15f621983dcdc07f366985853c833ee0e0e4451f660e2dd864b0"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83641/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/906f5ab012af88eca75c.html",
+      "sha256": "99ea8ba9a933584a8217748b714591c013b3446a0d5f82d274cfd1c9555723f8"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83639/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/8678f5cefdcc706f38d7.html",
+      "sha256": "ee462c173514c5128e01aabaad922c5b5addf7a1093da05e7f9b7f8e80fb3ab3"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83640/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/f491156c0c43d2820d61.html",
+      "sha256": "c47361e72fca07ec70253cc47f5983998d13f82815a01e1423a8cba82f29feff"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83635/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/4c67ef49d8f1bcc5b059.html",
+      "sha256": "4400b419f1e97e41c6f3fb96cf362f67df7b9c5c388660a61faaf2202a74c079"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83631/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/e45f7b8ff3f8a05697b7.html",
+      "sha256": "a730189f05e60fcd2fcc6855eabe2983cddd7686c10a1c655f41da1ec8fa641b"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83638/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/96cf497645a5dab42159.html",
+      "sha256": "3f1d6a40f3911688a4bb955de786d2cc70260a6db7a8728621160078f313deaa"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83623/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/9cbc1bec12113314d238.html",
+      "sha256": "b17a5ce7ab12056c1dafbad89e272127fda010c4b5e2092811ca680bbf560e10"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83628/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/4e7f87d0e917bd364c8c.html",
+      "sha256": "99d7087adbdb86c14ef55028049c3dba4852bf26c6f7b0b2b4896c4878a58846"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83598/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/891789d3ab955a785a9c.html",
+      "sha256": "a7fc3bec081d2600dc4d32e5675106751e71df5534cf119effdbade54263ea00"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83593/page-summary/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/7496e76d08f90d43d574.html",
+      "sha256": "880a08a9782954b392cc55958c23b870d9e8b66ac1349a138c2ad9ecd9afaee6"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83653/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/032a947a53f2642fcddb.html",
+      "sha256": "44cda6051002a659470e055f144ff14d64206249c4a4dae1df77b63ceeb80f9e"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83651/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/de772321931e71489812.html",
+      "sha256": "8974cd923e8aa7cfeed597c0e9f374da087ae681893fe9b427b07447b521ca62"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83652/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/cc0bebdf6cb6cbee46ff.html",
+      "sha256": "a227596465e35e85c25028d81595d6e3f3d7219acb41c7c32e1ca718bf0f38a4"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83653/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/6fa7111e287432e23516.html",
+      "sha256": "d695917b62a8de3d322ae9f914069bc6a2829b4ed501809b29e5bd2180913ea7"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83652/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/246e9cfaf46716daa1b2.html",
+      "sha256": "2b6024c71a102f223d4c4f7d2e1b59093a36523e8bd8f8f9aedf2ab0a341988d"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83651/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/c037a3b0a17525e51779.html",
+      "sha256": "cd17a5e9227d2f5f6eecd9c949eb96df58aa5ff231b46fb4a45ed781100da0c0"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83649/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/cfcbc908936417cc1cc5.html",
+      "sha256": "53bbfbb6ae37025c5b53738d524924cf4728b6d0aedc18d9b385d22dfbc1359e"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83650/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/a993d2495f51cdead40c.html",
+      "sha256": "fc213471e194c9b4ea3f28259f0356cbaff5f9dd91ce5e314064b12e4f40f0b3"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83648/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/89e864b20052c3e975d7.html",
+      "sha256": "6a1c9d4ae76e35d6ff7915dd913561ef5bb0ff8886a3ede6286c4e998bf16f48"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83650/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/3c27b221c7d10d5a2190.html",
+      "sha256": "5e73b58e63579387c140a6fdd54b2ac273f82a8f1eea1ae425b55046b9f78c1d"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83648/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/c008384e027973ab1036.html",
+      "sha256": "64e8b9dc7626cf50ae0aa0b4b5354ba1946cacf020ca3d1a3ccb53a8c890d2d3"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83649/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/9380a369cabb0c73b239.html",
+      "sha256": "b599674431062b0188a49f2b160b3ad7a4ffd864f20a8ba863ad1fa75144c230"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83645/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/9dd43cea4f6d9b22df57.html",
+      "sha256": "4a6ed6fa8d55e5d2620bfc07ae4a9ef8d3a41d27cacf979858300a7cc07836d3"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83646/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/575a28311aecc26af618.html",
+      "sha256": "bbb7d098a41b812142c792061da93337ed75ec80078bac3258b33a56166c4c80"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83647/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/377bfafa8f9d57423c16.html",
+      "sha256": "511f3dab626996273bdb66a3e927ac7f8bf98bcb5725822ba4e09e5ef373ad27"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83647/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/56d668e3141368279654.html",
+      "sha256": "93c87b8c47d101efe1db8e26dd37a25824829ed76bbe96d62b555e7a2d4605eb"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83646/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/d78d5ce236c9d3328338.html",
+      "sha256": "c1dfd68e019bdb4bf5dac75bacf7e00e8ce821499a62f84744dc9e2d1fe837c5"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83645/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/b92aa4c090d111cb0f6a.html",
+      "sha256": "d870936fe63497a73267a65dbe2159a0c27f0e3c06172467e5a1f3e774600c3e"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83643/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/4606c31d4f77a990c9c2.html",
+      "sha256": "6f8c55f400ca5d76e9d1f38d286a208f25ab5506b10666807c2e5edd7999258a"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83642/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/2456e1a9859f84577f73.html",
+      "sha256": "8e39b74a9a7d9e78f738e63254b000620b07a1774fc27beca7c5081ccde2dff3"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83644/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/f30427f795f66fd9ec68.html",
+      "sha256": "b282101cd44fac50e9b75c6494b10b2b7a8b27247060cf8097083bd7ff29ab53"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83642/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/8a5f63661f1585bb6e09.html",
+      "sha256": "1570eb5d85a6d862f2e988bebd017217027ea2f8283b36ea7b543bddad360a2f"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83643/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/0f04940dd44f5295ccc1.html",
+      "sha256": "74cc35b2c4afae53a0e32c4fb293d0f369450cfe8a9e037065cba3343a626aca"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83644/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/2d21e570f8de2544ef8b.html",
+      "sha256": "3bfbf2037e4462249dd95da2bba031ff60a38a121e7353881e2242d9ef81215a"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83641/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/71cf3cbf984c9cce3f59.html",
+      "sha256": "6f9248eac0524eb1062645edd87ccb805ebfdcb9f5fca17abfa011c5c28c5015"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83640/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/76d4d36da7c80f2a7d9b.html",
+      "sha256": "2deb886c45ac6b86beb247c61e78c4b4dbb15ca872b98104c7e100db9af91e1a"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83639/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/49198bd8f6efdc171cd8.html",
+      "sha256": "deed1769e9d438afdfc8168dd22ee091c6013eeee55c18fc369db0c8a4b6e2ac"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83640/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/ccea83f088843813ca74.html",
+      "sha256": "fd4f61d3af984501b0a19f9a0161cfc0df6384f6614368dc4c2a506d4988ee80"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83641/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/d46e50073f1591054e1c.html",
+      "sha256": "24033636b464621a7a05179e8ef46ba55792e4c9d5ce050ebf021e3f7abca262"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83639/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/b562209882a9f41db763.html",
+      "sha256": "5732e92b55391c9c0bb53339abde0ef1439de2ad3cba6132865511997ceaae88"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83638/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/3fe13d5dae1c7a157c72.html",
+      "sha256": "994a4a67b627554bf3d91f6efd2a70f14ddc43fd91526c0c3ee38db56adad9a0"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83636/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/ed6a2fa907057d90e582.html",
+      "sha256": "1ed7a327a2ccdd8cf6fcc7f70cde05b989f3c56a3bc23eb4d3df168a2f78ad3e"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83635/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/bc0ac77e6733408a688b.html",
+      "sha256": "ac706b952b8a58dd597c77fca4961904b555e31ed1763163e4086fd661c00303"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83638/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/dd82f2459d1d5bfd04ab.html",
+      "sha256": "961afcc087baa472b7f79062a7c78576b60478e9b3e895226eaed47c29960954"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83635/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/1cb1ad29e95c14d24a8b.html",
+      "sha256": "02472912bebc6f48fdbc712c31610a9fd4028edbdaf7a0f41d467265208184b5"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83636/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/c66c3eca86e6db21a419.html",
+      "sha256": "802e8b2ada085abd8bed532d7b3ba14cbb6b0418266c5754e03e96b5ac5cc610"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83631/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/2233e40c923263df2ecf.html",
+      "sha256": "a2005e699b727d6a311b53aa3270fa2a73abb5d9ba2145a7696c35f7e6f62161"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83632/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/c10dabd3174fc618d407.html",
+      "sha256": "956ac19a457bae54ddf29ddd959bc1c06af1545dc5e87187fa1aacc03236d82d"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83637/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/061003ddbee457446bc0.html",
+      "sha256": "a522740feb7a065ff792d196aa9bc2f905cfbfab9dd443141de62f30c805f633"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83631/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/45b8787755dff167da88.html",
+      "sha256": "54f556117c32948c3a27d5f904fa47384c92f3e1b1c5fb560b28ab52ceec35b8"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83637/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/4ce092048c6625ca7425.html",
+      "sha256": "981d52faac85ab1ac5ef480056bca7947d9f29f6080a7a048c0518e0940bcff9"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83632/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/f5627e25f68aa4206dff.html",
+      "sha256": "bf04e24a72bf412c5bad4b0e77540f80b5e9ce145349affe3ad82aef33cf5701"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83633/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/ef76705081b0d022259b.html",
+      "sha256": "21a48a50f4456db1ba657b107c6f0893f3928c338001a715b19ba1cebc8e14a9"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83628/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/3bd4296f25f0086c2fbf.html",
+      "sha256": "02b1bde7608558765b6bcaf3064a6aadfa07feaa3e5fc125beeb973d2e883d84"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83634/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/51f51b5fbf4a505096c9.html",
+      "sha256": "14ea0150fb61cd66e5ed8421cea51731d5ff4a4d498ea91ec9562d6666860f54"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83633/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/ff3ca20d773e06192d38.html",
+      "sha256": "bed5b82dcf0d0477c918ffc97e67fd795a383f96e42c5a5439b12747f0a6964d"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83628/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/06be833ec7c331d317d6.html",
+      "sha256": "995b95fd9171ed4f1a97d984d936b5f5f4490e8917777b5484bb86a7f6e89f60"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83634/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/560a95c4d539c8386ba1.html",
+      "sha256": "e1d2bba7e175cc8ddcd5e4c7f8e16588b74f5f1fd18e4efcf862059634d6c8d7"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83629/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/2f4d804b6d916e58a8e0.html",
+      "sha256": "0975dbc3a5a0f4b3f5974ec6fa60a3998efbd3b560d254bf1e88ceb41f395b97"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83623/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/2a5f3ae13c4b3d912e4d.html",
+      "sha256": "8026638833e8d2240225b104abed5c8a2a0c31b8bdbcf52d258d2ea5b75ea769"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83630/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/1b3a47efe34d165500ef.html",
+      "sha256": "9e82af4e068ab3e018dd58c7c7b0e0bf44a4f3aa219bb3788053b1ad2dfc7299"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83629/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/c29e7f41b05a83845032.html",
+      "sha256": "7faaf10ec8bc3376b981521ef6c4415dcd2cffc403af3ff521a05c9e5435cb87"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83630/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/2a24022e221c9ab088b2.html",
+      "sha256": "e8cb721a5f7e3800e003e33383fbc47d7e33b04fcb8cbb9603cf850d048d296b"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83624/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/d3f0e65e4c144a207732.html",
+      "sha256": "f71ef4bec4427f2547c2d11ac6e874808717b7f995e91441e805aa05cca7a711"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83625/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/1baa6f7dc7e1e104caea.html",
+      "sha256": "7709c73fddad927041e189889f59f35807b7277388aaeb26f7102827f87e97b2"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83624/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/eba971265b6d6c1085f7.html",
+      "sha256": "1867836d5cbf18ec9e0f1f0317f1781ef529baff6843e805be5220adcedb180c"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83625/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/ca17911e8ff162778545.html",
+      "sha256": "7744ea7edcabc177ab28a53c3ba5c9a8bb9c40ea465ce66262c740aa8b9f6587"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83626/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/c212c675284ba492e58c.html",
+      "sha256": "74430662d0e2618d40d683237659d778ee519fb03c5d12b399c838ab8845da0e"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83598/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/e4483f3395b2118d4475.html",
+      "sha256": "5f3ed41ec0de6b1527a24df6b08bef3bbcb8700b8ef6661d0926920e5aa838e1"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83626/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/964ece303e2861a79d0c.html",
+      "sha256": "caa2e17198ac8308a710ddf010eb706dc274923320c6ae924ac6d9d4b02a4c0a"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83598/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/7c40fdd0164218297dbc.html",
+      "sha256": "b6926e701ca83f55b25fd588a7e959af374f484f4297653445bbf13473a220f0"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83623/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/7d4c087522cd6a2d5b79.html",
+      "sha256": "82162598180da807d797a274d07bd12fdf6d8697d61a9b54ab1bf4e3099b1a08"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83599/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/d68a46c4b79fb67fb97a.html",
+      "sha256": "9d6b7bd0c0ab72229c698fe152413e734ec41b07bff8b7904d131ecd3ebe02ef"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83600/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/cf5199a034d13a719d5b.html",
+      "sha256": "9d8bfc9884410bfd60720628e3272fac67d39dbb8cbf7776e8e6a59ce204a1c4"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83601/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/2331112486208fa40069.html",
+      "sha256": "0b79c15dd8bd3b478e9b2fe2019bf42aeb80b4e42f240ecaf85cb9915db76695"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83600/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/ca030adac14190676f2f.html",
+      "sha256": "357eb349de95a624e68ea6ebdbde3652f625992eecafaae5cf725cb1ca172d49"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83599/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/be74fe72c2f3d3f43949.html",
+      "sha256": "bc73ea87a101d99e4a52262609e90983a44e1018e8de124a54efdbed026d4825"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83601/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/3e501f1ba50666629fad.html",
+      "sha256": "ce9c093e693a8fb98de4c84fc81f8fd2e9d040b5707f1e2731f8c8b3bcf0e4f7"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83593/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/90d91b8ac838d8aadaf8.html",
+      "sha256": "e68d045d8195cf246cd70dd1e91f74d7ce3d07e303bc2733f81c57c10503b302"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83593/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/7e55efa72dfef9537f43.html",
+      "sha256": "7f81a63a2f693794a2d81a3fce8a59f762988e0a8f41358e31462ab762ca2dc1"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83594/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/ed03c00b43df6ab57a13.html",
+      "sha256": "7675b2acb5c79996c501b84f7b4046c107ca4cfc790815474244558abb940fed"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83602/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/80b56edd1e2df38aa99b.html",
+      "sha256": "d3b9472484b07e5b8ad94124e296c7ad0ad73ac796e958c2f713c8c6735ba167"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83595/page-game/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/5c6813ef69faf1cc2a09.html",
+      "sha256": "0d82d90c0f43521c81700f2e1b076c4d50761a766d0c1501ebd4b8b2db3a45ec"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83594/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/78f106ab5e9e4be235fa.html",
+      "sha256": "8333caa1d7e3e0a613e0426d966ddbdc8f2a94db3f2d2f6fe5cf2fb35c2a5e19"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83595/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/e36c0b7bdaffa77b3eb8.html",
+      "sha256": "2ee321af19bf365f144744f845ae8f9e246b7902402f84f1df6b7e06bb642a64"
+    },
+    {
+      "url": "https://gol.gg/game/stats/83602/page-fullstats/",
+      "raw_path": "data/raw/detailed/worlds_2026_2026-10-25/fd18ac0e3d0dd8d016ce.html",
+      "sha256": "2b0b629ba9f1919952c6ab0890c8348e9e3b387fb8de3370c6a2274ab16b35f7"
+    }
+  ]
+}

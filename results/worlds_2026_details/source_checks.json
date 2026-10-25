@@ -1,0 +1,71 @@
+[
+  {
+    "name": "official_oe",
+    "url": "https://drive.usercontent.google.com/download?id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm&export=download&confirm=t",
+    "retrieved_utc": "2026-10-25T15:21:24.257726+00:00",
+    "status": "unavailable_csv",
+    "bytes": 2040,
+    "sha256": "4e2d032e030b78daff84450ab17ffb697f88ef5aa18c707c2cf15547458fcb95",
+    "path": "data/raw/detailed/check_2026-10-25/official_oe.html",
+    "reason": "Google Drive quota exceeded; HTML response is not the annual dataset"
+  },
+  {
+    "name": "github_mirror",
+    "url": "https://raw.githubusercontent.com/twodotone/finalLOL/main/data/csv/2026_LoL_esports_match_data_from_OraclesElixir.csv",
+    "retrieved_utc": "2026-10-25T15:21:24.258169+00:00",
+    "status": "csv_available_but_older_than_local",
+    "bytes": 21720421,
+    "sha256": "7a35c56d4f08ebcf23d9986cca9cb26f2e897d1659c5f4d5a1c18760c20b40d5",
+    "path": "data/raw/detailed/check_2026-10-25/github_mirror.csv",
+    "latest_date": "2026-04-10 11:46:50",
+    "rows": 33084,
+    "leagues": [
+      "AL",
+      "Americas Cup",
+      "CBLOL",
+      "CCWS",
+      "CD",
+      "EBL",
+      "EM",
+      "FST",
+      "HLL",
+      "HW",
+      "LAS",
+      "LCK",
+      "LCKC",
+      "LCP",
+      "LCS",
+      "LEC",
+      "LES",
+      "LFL",
+      "LIT",
+      "LJL",
+      "LPL",
+      "LPLOL",
+      "LRN",
+      "LRS",
+      "NACL",
+      "NLC",
+      "PRM",
+      "RL",
+      "ROL",
+      "TCL",
+      "VCS"
+    ],
+    "months": [
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04"
+    ]
+  },
+  {
+    "name": "gol_worlds",
+    "url": "https://gol.gg/game/stats/83642/page-fullstats/",
+    "retrieved_utc": "2026-10-25T15:21:24.258355+00:00",
+    "status": "map_stats_available",
+    "bytes": 598215,
+    "sha256": "1570eb5d85a6d862f2e988bebd017217027ea2f8283b36ea7b543bddad360a2f",
+    "path": "data/raw/detailed/check_2026-10-25/gol_worlds.html"
+  }
+]
