@@ -54,4 +54,3 @@
 | 3 | 欧洲 | 3 | G2 Esports、Movistar KOI、Fnatic | 1.7479% |
 | 4 | 美洲 | 3 | FlyQuest、100 Thieves、Vivo Keyd Stars | 1.8791% |
 | 5 | 太平洋（LCP） | 3 | CTBC Flying Oyster、Team Secret Whales、PSG Talon | 0.4512% |
-

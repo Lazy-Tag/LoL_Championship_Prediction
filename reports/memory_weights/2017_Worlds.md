@@ -61,4 +61,3 @@
 | 3 | 美洲 | 6 | Team SoloMid、Immortals、Cloud 9、Lyon Gaming、Kaos Latin Gamers、Team oNe eSports | 7.9438% |
 | 4 | 欧洲 | 3 | G2 Esports、Fnatic、Misfits | 0.1036% |
 | 5 | 外卡 | 9 | Flash Wolves、Hong Kong Attitude、ahq e-Sports Club、GIGABYTE Marines、1907 Fenerbahce、Young Generation、Gambit Esports、Rampage、Dire Wolves | 1.6880% |
-

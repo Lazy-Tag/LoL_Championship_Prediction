@@ -61,4 +61,3 @@
 | 3 | 欧洲 | 3 | Fnatic、G2 Esports、Splyce | 14.7452% |
 | 4 | 美洲 | 5 | Team Liquid、Cloud9、Clutch Gaming、Isurus Gaming、Flamengo eSports | 0.9042% |
 | 5 | 外卡 | 10 | J Team、Hong Kong Attitude、GAM Esports、Royal Youth、Unicorns Of Love、ahq e-Sports Club、Lowkey Esports.Vietnam、Mammoth eSports、Detonation FocusMe、MEGA | 0.1135% |
-

@@ -3870,4 +3870,3 @@
 | S15 | teamsecretwhales | 2025-10-18 | 2025-10-23 | dire 20%, eddie 20%, hiro02 20%, hizto 20%, taki 20% | dire 20%, eddie 20%, hiro02 7%, hizto 20%, pun 13%, taki 20% | 86.67% | 0.07500 |
 | S15 | bilibiligaming | 2025-10-24 | 2025-10-25 | bin 20%, elk 20%, knight 20%, on 20%, shad0w 20% | beichuan 7%, bin 20%, elk 20%, knight 20%, on 20%, shad0w 13% | 93.33% | 0.03750 |
 | S15 | ctbcflyingoyster | 2025-10-25 | 2025-10-29 | doggo 20%, driver 10%, hongq 20%, junjia 20%, kaiwing 20%, rest 10% | doggo 20%, driver 7%, hongq 20%, junjia 20%, kaiwing 20%, rest 13% | 96.67% | 0.01875 |
-

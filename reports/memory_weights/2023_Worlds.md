@@ -59,4 +59,3 @@
 | 3 | 欧洲 | 4 | G2 Esports、Team BDS、Fnatic、MAD Lions | 0.1462% |
 | 4 | 美洲 | 5 | Cloud9、NRG、Team Liquid、LOUD、Movistar R7 | 0.0006% |
 | 5 | 外卡 | 5 | PSG Talon、CTBC Flying Oyster、Detonation FocusMe、GAM Esports、Team Whales | 0.0000% |
-

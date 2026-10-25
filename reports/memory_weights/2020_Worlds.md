@@ -59,4 +59,3 @@
 | 3 | 欧洲 | 4 | G2 Esports、Rogue、Fnatic、MAD Lions | 2.7730% |
 | 4 | 外卡 | 6 | Unicorns Of Love、Machi E-Sports、Legacy eSports、PSG Talon、V3 Esports、Papara SuperMassive | 0.1310% |
 | 5 | 美洲 | 5 | TSM、Team Liquid、FlyQuest、Rainbow7、INTZ e-Sports | 0.0421% |
-

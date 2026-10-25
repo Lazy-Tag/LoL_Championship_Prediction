@@ -53,4 +53,3 @@
 | 3 | 欧洲 | 3 | Alliance、SK Gaming、Fnatic | 3.6067% |
 | 4 | 美洲 | 4 | Cloud 9、Team SoloMid、KaBuM! eSports、LMQ | 0.0576% |
 | 5 | 外卡 | 3 | Dark Passage、ahq e-Sports Club、Taipei Assassins | 0.0045% |
-

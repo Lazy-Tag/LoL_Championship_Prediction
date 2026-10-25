@@ -57,4 +57,3 @@
 | 3 | 欧洲 | 3 | G2 Esports、Fnatic、MAD Lions KOI | 0.0567% |
 | 4 | 外卡 | 4 | PSG Talon、GAM Esports、Vikings Esports、SoftBank Hawks Gaming | 0.0712% |
 | 5 | 美洲 | 5 | FlyQuest、Team Liquid、100 Thieves、paiN Gaming、Movistar R7 | 0.0321% |
-

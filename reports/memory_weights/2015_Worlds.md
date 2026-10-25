@@ -53,4 +53,3 @@
 | 3 | 欧洲 | 3 | Fnatic、Origen、H2k-Gaming | 2.1423% |
 | 4 | 美洲 | 4 | Counter Logic Gaming、Cloud 9、Team SoloMid、paiN Gaming | 1.2343% |
 | 5 | 外卡 | 3 | AHQ E-Sports Club、Flash Wolves、Bangkok Titans | 0.0346% |
-

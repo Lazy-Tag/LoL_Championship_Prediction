@@ -61,4 +61,3 @@
 | 3 | 欧洲 | 3 | Fnatic、Team Vitality、G2 Esports | 1.2646% |
 | 4 | 美洲 | 6 | Team Liquid、Cloud9、100 Thieves、KaBuM! e-Sports、Infinity eSports、Kaos Latin Gamers | 0.5090% |
 | 5 | 外卡 | 9 | Flash Wolves、G-Rex、Phong Vu Buffalo、MAD Team、BAUSuperMassive、Dire Wolves、Gambit Esports、Ascension Gaming、Detonation FocusMe | 1.1969% |
-

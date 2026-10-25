@@ -59,4 +59,3 @@
 | 3 | 欧洲 | 3 | MAD Lions、Fnatic、Rogue | 1.4298% |
 | 4 | 外卡 | 6 | PSG Talon、Beyond Gaming、Galatasaray Esports、PEACE、Detonation FocusMe、Unicorns Of Love | 0.1925% |
 | 5 | 美洲 | 5 | 100 Thieves、Cloud9、Team Liquid、Infinity eSports、RED Canids | 0.5028% |
-

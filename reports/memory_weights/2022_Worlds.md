@@ -61,4 +61,3 @@
 | 3 | 欧洲 | 4 | Rogue、G2 Esports、Fnatic、MAD Lions | 0.0848% |
 | 4 | 外卡 | 7 | GAM Esports、CTBC Flying Oyster、Detonation FocusMe、Saigon Buffalo、Beyond Gaming、Chief Esports Club、Istanbul Wildcats | 0.0549% |
 | 5 | 美洲 | 5 | Cloud9、Evil Geniuses、100 Thieves、LOUD、Isurus | 0.0308% |
-

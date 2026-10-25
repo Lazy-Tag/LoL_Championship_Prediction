@@ -53,4 +53,3 @@
 | 3 | 欧洲 | 3 | G2 Esports、Splyce、H2k-Gaming | 1.0066% |
 | 4 | 美洲 | 4 | Team SoloMid、Cloud 9、CLG、INTZ eSports | 3.1165% |
 | 5 | 外卡 | 3 | ahq eSports、Flash Wolves、Albus NoX Luna | 0.5307% |
-
