@@ -11,7 +11,7 @@ def main():
     local=ROOT/'.local/live_s16';local.mkdir(parents=True,exist_ok=True)
     folder=Path.home()/'Library/LaunchAgents';folder.mkdir(parents=True,exist_ok=True)
     target=folder/(LABEL+'.plist')
-    job={'Label':LABEL,'ProgramArguments':[str(ROOT/'.venv/bin/python'),str(ROOT/'scripts/update_live_s16.py'),'--fetch','--daily'],
+    job={'Label':LABEL,'ProgramArguments':[str(ROOT/'.venv/bin/python'),str(ROOT/'scripts/update_live_s16.py'),'--fetch','--daily','--publish'],
          'WorkingDirectory':str(ROOT),'StartInterval':3600,'RunAtLoad':True,
          'StandardOutPath':str(local/'scheduled.stdout.log'),'StandardErrorPath':str(local/'scheduled.stderr.log'),
          'EnvironmentVariables':{'PYTHONUNBUFFERED':'1'},'ProcessType':'Background'}

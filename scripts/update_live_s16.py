@@ -201,8 +201,11 @@ def report(d,filename):
 
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--fetch',action='store_true');p.add_argument('--events',type=Path);p.add_argument('--daily',action='store_true');p.add_argument('--simulations',type=int,default=N);args=p.parse_args()
+    p=argparse.ArgumentParser();p.add_argument('--fetch',action='store_true');p.add_argument('--events',type=Path);p.add_argument('--daily',action='store_true');p.add_argument('--publish',action='store_true');p.add_argument('--simulations',type=int,default=N);args=p.parse_args()
     now=datetime.now(timezone.utc); LOCAL.mkdir(parents=True,exist_ok=True)
+    if args.publish and args.simulations==N:
+        from publish_live_git import publish_latest
+        publish_latest()  # Retry a previous completed report before fetching newer results.
     if args.daily and now.astimezone(BJ).date()>date(2026,11,1):
         print('Swiss monitoring period ended');return
     if args.fetch:raw,archive=fetch(now)
@@ -261,6 +264,7 @@ def main():
     report(d,filename);save(OUT/'latest.json',dict(snapshot=stamp,report='reports/s16/live/'+filename))
     save(LOCAL/'status.json',dict(fingerprint=fingerprint,updated_local_day=now.astimezone(BJ).date().isoformat(),snapshot=stamp))
     print('Published '+str(REPORT/filename),flush=True)
+    if args.publish:publish_latest()
 
 if __name__=='__main__':
     LOCAL.mkdir(parents=True,exist_ok=True)

@@ -140,3 +140,11 @@ OPENBLAS_NUM_THREADS=1 .venv/bin/python scripts/evaluate_detail_features.py
 - 最新赛果取自[官方赛程](https://lolesports.com/en-US/schedule)，并用 [AussyELO](https://www.aussyelo.com/events/worlds-2026) 和 [Timesaver](https://timesaver.gg/blog/worlds-2026-swiss-stage-standings) 交叉核对首轮结果。后两者可能更新延迟，官方已完成状态及合法完整比分才可进入更新。
 - 日期统一保存 UTC，读者赛程显示北京时间。本轮最后一场 LYON–TSW 在 UTC 10 月 24 日、北京时间 10 月 24 日早上，不能只抓 UTC 10 月 23 日而漏赛。
 - 已知实际胜负既是当前状态约束，也是更新未来实力的观测；它们在训练中只出现一次。固定状态和使用比分更新实力不是重复似然计权。
+
+## 本届赛事权重校准
+
+对当前赛事的似然乘权重，应同时缩放梯度和 Hessian，不能只在输出胜率上加分；也不能修改原比分或再添加系列赛胜负。整数权重可用“仅在数值验证中复制该赛事的行”检查目标函数等价性，正式数据不复制。
+
+本次固定网格 1／1.25／1.5／2／3／4，按更早年份的逐日外推结果选取；每届重置为原模型赛前状态，避免前一届放大权重污染本届基线。对 1,181 场非首日系列赛，原对数损失 0.57696；1.25 倍为 0.58170，2 倍为 0.59589。1.25 倍命中率虽略升，概率评分变差，不能据此认定改善。逐年保守选择均回到 1 倍，S16 当前赛中权重不变。
+
+实现、逐场数据与验证见 `scripts/event_weighting.py`、`scripts/evaluate_event_weighting.py`、`scripts/verify_event_weighting.py` 和 [实验报告](../reports/event_weight/README.md)。没有重算冠军概率，主结果与既有每日快照不覆盖。
