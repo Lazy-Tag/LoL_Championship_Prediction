@@ -1,0 +1,8 @@
+{
+  "path": "data/detailed/S16_late_verified_games.jsonl",
+  "maps": 1026,
+  "sha256": "5c0ff8699a0941cb3b239dcc8d3e7e46f8462315d387f5fa2ddd726f5a843994",
+  "base_oe_untouched": true,
+  "training_outcomes_added": 0,
+  "join_key": "official_series_id plus game index; do not concatenate these outcomes with existing series wins"
+}

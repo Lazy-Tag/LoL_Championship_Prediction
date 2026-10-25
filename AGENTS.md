@@ -130,3 +130,10 @@
 - 旧OE镜像停在六月不代表网上没有十月详细数据。已从GOL取得并与官方冻结快照核对22场系列赛、38小局、19队；结果 results/worlds_2026_details，读者明细 reports/detailed_data/worlds_2026。
 - 含实际名单、红蓝方、英雄、经济等；不重复加入胜负训练，不覆写旧OE归档。官方年度Drive仍配额失败，新发现GitHub镜像更旧（4月10日），不得冒充官方更新成功。
 - 新实际世界赛阵容和本次跨季模型的“开季阵容”须区分。未补齐7–10月全部国内联赛细节，不可宣称全年完整。
+
+## 七月至十月详细数据扩展（2026-10-25，更新此前覆盖说明）
+
+- 已补采并核对冻结清单全部384场、1026小局，范围为7月1日至北京时间10月25日已结束的LPL/LCK/LEC/LCS/CBLOL/LCP及MSI/EWC/DCGI/Worlds；不含未来比赛或次级联赛。结果 results/s16_jul_oct，读者报告 reports/detailed_data/s16_jul_oct。
+- 1026局阵容、红蓝方、英雄、版本；1025局有效经济、GD15、KDA、补刀、伤害、视野、时长。GEN–DK 8月1日第一局80675统计损坏，仅官方gameMetadata可恢复元数据；数值全留空。不得宣称全部字段完整，GD10、绝对gold15和逐分钟曲线仍缺。
+- 原错误记录、原source_map_score及修复来源保留；resolved_map_score独立记录官方0:2。附加表 data/detailed/S16_late_verified_games.jsonl 不覆写原OE，不新增胜负。日期为系列赛时间近似。
+- scripts/verify_s16_late_details.py 验证分母、唯一ID、比分、人员、经济求和、GD15互反、单局缺口、官方元数据修复及附加表哈希。采集续传不得丢失独立官方来源。

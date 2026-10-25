@@ -1,0 +1,10 @@
+{
+  "type": "official_metadata_only",
+  "game": 1,
+  "description": "Replace corrupt GOL map1 labels/roster/champions using official game metadata. Numeric telemetry and duration are missing, never imputed. Official 0-2 determines both winners.",
+  "official_sources": [
+    "https://lolesports.com/en-US/vod/115548147900553473/1",
+    "https://feed.lolesports.com/livestats/v1/window/115548147900553474"
+  ],
+  "raw_metadata": "data/raw/detailed/s16_jul_oct/riot_gen_dk_game1_window.json"
+}

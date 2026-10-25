@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://gol.gg/game/stats/80667/page-game/",
+    "error": "<urlopen error _ssl.c:1011: The handshake operation timed out>",
+    "attempt": 1
+  },
+  {
+    "url": "https://gol.gg/game/stats/83022/page-fullstats/",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+    "attempt": 1
+  }
+]
