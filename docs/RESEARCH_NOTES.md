@@ -224,3 +224,9 @@ GOL 的 Worlds 2026 Main Event 与 Play-In 赛事目录及 `page-game/`、`page-
 两候选各23届正式模拟，原冠军损失1.60698，纯DNN1.70034、残差1.62991；命中10、7、9/23。纯模型Brier略好但名次明显较差，残差名次误差略好但冠军Brier较差。逐场命中略升，损失和Brier均较原差；各自三个种子也未改善逐场损失。因此不是只抽到一个坏初始化，不据某个最高命中种子替换平均模型。
 
 当前证据不支持替换主模型；也不能据此证明所有神经网络无效。国内到国际分布差异、历史经济覆盖与特征信息不足都是假设，未通过隔离实验识别唯一原因。23届已反复探索，继续扩大架构搜索会增加选择偏差；未来验证应冻结方案。源代码及验证见scripts/dnn_model.py、run_dnn.py、report_dnn.py、verify_dnn.py，预日特征由已有research_models准备流程复算。
+
+## 历史赛中日报复算
+
+`scripts/replay_live_reports.py` 从每个已归档forecast的已结束比赛、当时已公布下一轮对阵及已纳入训练赛果重建状态，不读取后来合并的observed_events来回填早期报告。按各自as_of重新拟合dynamic90并核对概率，再使用已核对的原输入小数表示、14,000,605次、种子2026复跑；逐队晋级计数和LPL／LCK出线数联合分布必须与归档完全一致才刷新报告。最新指针及原赛前快照保持不变，复算审计在results/live_s16/historical_replay_audit.json。
+
+日报的“原赛前预测”应链接reports/s16/README.md，不链接仍保留的旧advancement.md，否则读者会误入旧模型对照。自动任务的stderr是追加日志，旧Git shim报错不等于当前持续故障；须检查当前最小环境执行以及launchctl最近退出状态。

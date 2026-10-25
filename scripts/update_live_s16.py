@@ -185,7 +185,7 @@ def report(d,filename):
     for e in d['completed_worlds']:
         a,b=e['teams'];time=datetime.fromisoformat(e['start_utc'].replace('Z','+00:00')).astimezone(BJ)
         s.append(f'| {time:%m-%d %H:%M} | {e["stage"]} | {a["code"]} – {b["code"]} | {a["wins"]}:{b["wins"]} |')
-    s+=['','## 来源与解读范围','', '[官方赛程与比分](https://lolesports.com/en-US/schedule) · [官方赛制说明](https://lolesports.com/en-US/news/worlds-2026-primer) · [原赛前预测](../advancement.md) · [方法与假设](../../../MODEL.md)','',
+    s+=['','## 来源与解读范围','', '[官方赛程与比分](https://lolesports.com/en-US/schedule) · [官方赛制说明](https://lolesports.com/en-US/news/worlds-2026-primer) · [原赛前预测](../README.md) · [方法与假设](../../../MODEL.md)','',
         '使用当前已取得的当季比赛和新增赛果；原有历史覆盖缺口仍然存在。截止原快照后的 DCGI 已结束比赛也用于更新实力。赛中预测允许使用本次更新时间前已经结束的比赛，包括同日赛果；没有使用未结束比赛的胜负。','',
         '概率来自 14,000,605 次完整剩余赛程模拟，随机种子为 2026，并非全路径精确求和。单项概率的最坏情形 95% 抽样误差约为 ±0.026 个百分点，模型及赛制假设误差不包含在内。0.00% 可能是四舍五入；已淘汰队伍的概率为零。','',
         '未来瑞士轮保留交手历史、同战绩分组与重赛回避，并沿用可完成合法配对的最早空位顺延假设；这不等同于完整复现裁判的所有抽签裁量。本轮模拟没有触发回避豁免。尚未公布的八强签表按晋级战绩组生成。','',
@@ -195,7 +195,7 @@ def report(d,filename):
     history=sorted((p for p in REPORT.glob('*.md') if p.name!='README.md'),reverse=True)
     index=['# S16 赛中预测','','包含夺冠与各阶段晋级概率、最新一轮对阵预测，以及 LPL／LCK 出线队伍数量分布。','','## 按日期查看','']
     index += [f'- [{p.stem}]({p.name})'+('（最新）' if i==0 else '') for i,p in enumerate(history)]
-    index += ['','[原赛前预测](../advancement.md)保留用于对照。','']
+    index += ['','[原赛前预测](../README.md)保留用于对照。','']
     (REPORT/'README.md').write_text('\n'.join(index))
 
 

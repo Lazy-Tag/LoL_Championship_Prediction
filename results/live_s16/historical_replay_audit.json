@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-10-25T16:53:11.782719+00:00",
+  "model": "dynamic90",
+  "snapshots": [
+    {
+      "snapshot": "2026-10-24T143926Z",
+      "as_of": "2026-10-24T14:39:26.321006+00:00",
+      "completed_worlds": 14,
+      "completed_swiss": 8,
+      "training_series": 1115,
+      "refit_max_strength_error": 0.0,
+      "counts_identical": true,
+      "joint_identical": true,
+      "samples": 14000605,
+      "seed": 2026,
+      "input_sha256": "7a80ad3e5564137bf09ef3d449ec13a6e0ef5cc24a0911994caa29529a7be38d",
+      "forecast_sha256": "4f54b47d83a2460e1bdc537e834a5ceec120a18c6c23566e50ee3117c953bba9"
+    },
+    {
+      "snapshot": "2026-10-25T015840Z",
+      "as_of": "2026-10-25T01:58:40.445350+00:00",
+      "completed_worlds": 22,
+      "completed_swiss": 16,
+      "training_series": 1123,
+      "refit_max_strength_error": 0.0,
+      "counts_identical": true,
+      "joint_identical": true,
+      "samples": 14000605,
+      "seed": 2026,
+      "input_sha256": "9eb1019603512ad974fd0dc5520bf0bd8f254a90696d9fc6aa07e26a07f3093a",
+      "forecast_sha256": "1e57e04a6665b133af68d45b4dea6edc85b8c71775a3de7a13ac0cf7c219298b"
+    }
+  ],
+  "latest_pointer_unchanged": true
+}
