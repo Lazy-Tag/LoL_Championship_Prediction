@@ -1,0 +1,159 @@
+{
+  "unchanged_hashes": {
+    "results/main_model.json": "e66154c6ed1d9a7ca87d8a0f45cae0a2cb82248920f53c71be899a2e1377c387",
+    "results/live_s16/latest.json": "abab6d505c4071e68a5975c4b3478490ee0d682231aacf115f6710e52a954356",
+    "results/model_experiments/dynamic90/2026_Worlds.json": "2f79f45ecefca6931d1d8a206a5c42046c8b994c8ca60ea519251cfc741165c4"
+  },
+  "input_hashes": {
+    "results/model_experiments/event_configs.json": "f14e355456b4f40990c79b448542df685d362c21eadb2954e6ce83cf4107b223",
+    "results/model_experiments/predictions.json": "19666d082e06db271d6f9320acf5bf79154b26296216b77f24d33f21523e06e5",
+    "data/history/S3/series.json": "9a0f2ff18869c35ef7afdbc6b10735d3aeff5338ad4384267bd386623e294480",
+    "data/detailed/S3_games.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/history/S4/series.json": "9e5ecc805a0c6a091332d87e2f541bc9f1af597f445bbe8c1046d1690f9925c5",
+    "data/detailed/S4_games.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/history/S5/series.json": "0de98996a94871e4319161c223c3ffb93bcb843ed278bef5af91b74968662af8",
+    "data/detailed/S5_games.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/history/S6/series.json": "217b1a3bfcd01af50ef0599288cfbabbfd248df3bce1a4ade5d45fbb1b17ddbc",
+    "data/detailed/S6_games.jsonl": "109c92626c5a6ffb47345b37880195081dc47259370866aca7df58ef65683f1d",
+    "data/enrichment/S6_audit.json": "c2f49e9b1081df8f49d47252d24117a418cf35d1d784ad385915395df1154afd",
+    "data/history/S7/series.json": "cf4e9a132e556924186df29b9a33c03304217c06e9acc211002a6e3453d95206",
+    "data/detailed/S7_games.jsonl": "3ca4b4fc66f1adfabd115a469778264b0e309619c3185f7e3cfddb38608d5b1a",
+    "data/enrichment/S7_audit.json": "f28fc319c7a59b6eb1fb0de4481173ee42a684b3de92d4abfc1d99cc401d8330",
+    "data/history/S8/series.json": "66bfd38a613ee0275f0c8c3e3887024326b3b2a4088cec636cf46c7f859aff31",
+    "data/detailed/S8_games.jsonl": "a951ec0e7398e5e3bfd5ad170844371f80970867c41b0e7a5fd7e8f39df1b51a",
+    "data/enrichment/S8_audit.json": "9cc36798202e7084cee6019e5128adb099cd8fbd4e0987549379f9632a2e6a88",
+    "data/history/S9/series.json": "750c3568b6f9d1c773f617d3197ed1acc29f3cea6c8215ddf97b5e61a36a6954",
+    "data/detailed/S9_games.jsonl": "a34da3d0f6a5cab5c6cc7813b479422b61e56b35b99f9db56a4c6b914bbb253e",
+    "data/enrichment/S9_audit.json": "026770ef622ab7e052e638886f9d0d6c2decec173eefd131fdf2332376d60f9f",
+    "data/history/S10/series.json": "6736227c8bdcb6cbac67c997fa3cc416804f5c227c7c4641d915870b6844f2e0",
+    "data/detailed/S10_games.jsonl": "884dfb43e29f8bb3e87bf6f37a2a3a5c0097cc192b81bd989968a34963d63148",
+    "data/enrichment/S10_audit.json": "cd4fe7c0ee234e13f6f47c111a43d2e6b7619718cfda9a92d1509eb68e979ea3",
+    "data/history/S11/series.json": "fcb176fb59585a6d565da56f365bb3c256a634fc837dcf45b3b478f5a7bc3c4e",
+    "data/detailed/S11_games.jsonl": "9bd54dbe313a3bd6baf5f6a0f947f3c97312bef650ad717faf05bd3bf38e66b7",
+    "data/enrichment/S11_audit.json": "46138f0fa51733a6e6d01690c43aa53eaabc6ed204063444677f59324b7a7ea0",
+    "data/history/S12/series.json": "6392e2585d989923704cd35e24a7d7e3af934fa90ae1abaae47c27d285e1fa08",
+    "data/detailed/S12_games.jsonl": "140da9ebb1126379c86aab2bc72673e416fbffbf600810560d2b2f08bf10ea80",
+    "data/enrichment/S12_audit.json": "e758c5d8051abc9e401f8394791b6002b3916b8c79c516791d8dead08cee7d5b",
+    "data/history/S13/series.json": "d660399bfea380923fe2f23c44fb02b1e64547efeb10ec05d30ce7752a125d4b",
+    "data/detailed/S13_games.jsonl": "6cab734a4aeff48a9305b1afe6e604db2ea43bc98c84ffb1ecce58027e040f3e",
+    "data/history/S14/series.json": "3f467bb551fffc15a2c5d4bb3d2af5469546bb36ef7dfb7d6b65af7293460cfd",
+    "data/detailed/S14_games.jsonl": "61be8cf853561f432956e606125760678d3fb866c3595528e614fb4587b83111",
+    "data/history/S15/series.json": "4bb40bfcb41e86ad9133348481c293e051bf7d23311d80211e210aa555af88ca",
+    "data/detailed/S15_games.jsonl": "621b89b7d8ac3777e00e4a377f7cf3e71316e344e922d1da6dd52ebfc9e55c7d",
+    "data/enrichment/S15_audit.json": "e0116dbf05419d80c5ece972f76baf8159c9f31e428f22420311b06930284062"
+  },
+  "coverage": [
+    {
+      "season": 4,
+      "training_maps": 635,
+      "gold_maps": 0,
+      "domestic_gold_maps": 0,
+      "joint_gradient": 9.790411592547343e-09
+    },
+    {
+      "season": 5,
+      "training_maps": 1763,
+      "gold_maps": 0,
+      "domestic_gold_maps": 0,
+      "joint_gradient": 6.512784617163092e-09
+    },
+    {
+      "season": 6,
+      "training_maps": 2035,
+      "gold_maps": 921,
+      "domestic_gold_maps": 921,
+      "joint_gradient": 9.31349786181812e-09
+    },
+    {
+      "season": 7,
+      "training_maps": 2899,
+      "gold_maps": 1309,
+      "domestic_gold_maps": 1233,
+      "joint_gradient": 9.545729540150205e-09
+    },
+    {
+      "season": 8,
+      "training_maps": 3889,
+      "gold_maps": 1296,
+      "domestic_gold_maps": 1232,
+      "joint_gradient": 8.386806804594471e-09
+    },
+    {
+      "season": 9,
+      "training_maps": 3651,
+      "gold_maps": 1117,
+      "domestic_gold_maps": 1080,
+      "joint_gradient": 8.621318881019135e-09
+    },
+    {
+      "season": 10,
+      "training_maps": 3541,
+      "gold_maps": 2385,
+      "domestic_gold_maps": 2299,
+      "joint_gradient": 9.77297753834705e-09
+    },
+    {
+      "season": 11,
+      "training_maps": 3684,
+      "gold_maps": 2065,
+      "domestic_gold_maps": 1973,
+      "joint_gradient": 1.0451465581873265e-08
+    },
+    {
+      "season": 12,
+      "training_maps": 3700,
+      "gold_maps": 1907,
+      "domestic_gold_maps": 1787,
+      "joint_gradient": 8.78040434804106e-09
+    },
+    {
+      "season": 13,
+      "training_maps": 3422,
+      "gold_maps": 1516,
+      "domestic_gold_maps": 1387,
+      "joint_gradient": 9.875119000302135e-09
+    },
+    {
+      "season": 14,
+      "training_maps": 3235,
+      "gold_maps": 1524,
+      "domestic_gold_maps": 1436,
+      "joint_gradient": 9.386600607896867e-09
+    },
+    {
+      "season": 15,
+      "training_maps": 2609,
+      "gold_maps": 1610,
+      "domestic_gold_maps": 1400,
+      "joint_gradient": 9.717236570949694e-09
+    }
+  ],
+  "feature_names": [
+    "strength_difference",
+    "contrast_sd",
+    "log_maps_a",
+    "log_maps_b",
+    "residual_a",
+    "residual_b",
+    "gold15_a",
+    "gold15_b",
+    "log_gold_maps_a",
+    "log_gold_maps_b",
+    "idle_a",
+    "idle_b"
+  ],
+  "catboost_parameters": {
+    "iterations": 300,
+    "depth": 4,
+    "learning_rate": 0.03,
+    "l2_leaf_reg": 10
+  },
+  "cp_particles": 16,
+  "cp_hazard_half": 180,
+  "parameters_selected_on_targets": false,
+  "catboost_version": "1.2.10",
+  "implementation_hashes": {
+    "scripts/research_model_core.py": "f6810181b347cfad2f2df918c87c3e39c38431a312ab30680ad7a250651f5d77",
+    "scripts/run_research_models.py": "981c2204c18f43278780fd0cf1ceb0f5d5bd2bdeb0b863bbf0fd369c017d9946"
+  }
+}
