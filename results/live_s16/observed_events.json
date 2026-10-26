@@ -676,17 +676,17 @@
     "start_utc": "2026-10-25T17:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 1,
     "teams": [
       {
-        "name": "Hanwha Life Esports",
-        "code": "HLE",
-        "wins": 0
-      },
-      {
         "name": "Invictus Gaming",
         "code": "IG",
+        "wins": 1
+      },
+      {
+        "name": "Hanwha Life Esports",
+        "code": "HLE",
         "wins": 0
       }
     ],
@@ -697,17 +697,17 @@
     "start_utc": "2026-10-25T18:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 1,
     "teams": [
       {
-        "name": "G2 Esports",
-        "code": "G2",
-        "wins": 0
-      },
-      {
         "name": "TOP ESPORTS",
         "code": "TES",
+        "wins": 1
+      },
+      {
+        "name": "G2 Esports",
+        "code": "G2",
         "wins": 0
       }
     ],
@@ -718,7 +718,7 @@
     "start_utc": "2026-10-25T19:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 3,
     "teams": [
       {
@@ -729,7 +729,7 @@
       {
         "name": "Dplus KIA",
         "code": "DK",
-        "wins": 0
+        "wins": 2
       }
     ],
     "source": "https://lolesports.com/en-US/schedule"
@@ -739,18 +739,18 @@
     "start_utc": "2026-10-25T22:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 3,
     "teams": [
       {
-        "name": "Gen.G Esports",
-        "code": "GEN",
-        "wins": 0
-      },
-      {
         "name": "LYON",
         "code": "LYON",
-        "wins": 0
+        "wins": 1
+      },
+      {
+        "name": "Gen.G Esports",
+        "code": "GEN",
+        "wins": 2
       }
     ],
     "source": "https://lolesports.com/en-US/schedule"
