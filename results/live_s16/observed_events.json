@@ -844,17 +844,17 @@
     "start_utc": "2026-10-28T20:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 3,
     "teams": [
       {
-        "name": "Movistar KOI",
-        "code": "MKOI",
-        "wins": 0
-      },
-      {
         "name": "T1",
         "code": "T1",
+        "wins": 2
+      },
+      {
+        "name": "Movistar KOI",
+        "code": "MKOI",
         "wins": 0
       }
     ],
@@ -865,18 +865,18 @@
     "start_utc": "2026-10-28T23:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 3,
     "teams": [
       {
         "name": "LYON",
         "code": "LYON",
-        "wins": 0
+        "wins": 1
       },
       {
         "name": "Invictus Gaming",
         "code": "IG",
-        "wins": 0
+        "wins": 2
       }
     ],
     "source": "https://lolesports.com/en-US/schedule"
