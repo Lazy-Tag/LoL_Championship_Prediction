@@ -886,17 +886,17 @@
     "start_utc": "2026-10-29T20:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 3,
     "teams": [
       {
-        "name": "CTBC Flying Oyster",
-        "code": "CFO",
-        "wins": 0
-      },
-      {
         "name": "Karmine Corp",
         "code": "KC",
+        "wins": 2
+      },
+      {
+        "name": "CTBC Flying Oyster",
+        "code": "CFO",
         "wins": 0
       }
     ],
@@ -907,18 +907,18 @@
     "start_utc": "2026-10-29T23:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 3,
     "teams": [
       {
         "name": "BILIBILI GAMING",
         "code": "BLG",
-        "wins": 0
+        "wins": 1
       },
       {
         "name": "TOP ESPORTS",
         "code": "TES",
-        "wins": 0
+        "wins": 2
       }
     ],
     "source": "https://lolesports.com/en-US/schedule"
