@@ -928,18 +928,18 @@
     "start_utc": "2026-10-30T20:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 3,
     "teams": [
       {
-        "name": "Team Liquid Alienware",
-        "code": "TLAW",
-        "wins": 0
-      },
-      {
         "name": "LOS",
         "code": "LOS",
-        "wins": 0
+        "wins": 2
+      },
+      {
+        "name": "Team Liquid Alienware",
+        "code": "TLAW",
+        "wins": 1
       }
     ],
     "source": "https://lolesports.com/en-US/schedule"
@@ -949,7 +949,7 @@
     "start_utc": "2026-10-30T23:00:00Z",
     "event": "Worlds",
     "stage": "Swiss",
-    "state": "unstarted",
+    "state": "completed",
     "best_of": 3,
     "teams": [
       {
@@ -960,7 +960,7 @@
       {
         "name": "Hanwha Life Esports",
         "code": "HLE",
-        "wins": 0
+        "wins": 2
       }
     ],
     "source": "https://lolesports.com/en-US/schedule"
@@ -974,13 +974,13 @@
     "best_of": 3,
     "teams": [
       {
-        "name": "TBD",
-        "code": "TBD",
+        "name": "Movistar KOI",
+        "code": "MKOI",
         "wins": 0
       },
       {
-        "name": "TBD",
-        "code": "TBD",
+        "name": "Karmine Corp",
+        "code": "KC",
         "wins": 0
       }
     ],
@@ -995,13 +995,13 @@
     "best_of": 3,
     "teams": [
       {
-        "name": "TBD",
-        "code": "TBD",
+        "name": "LOS",
+        "code": "LOS",
         "wins": 0
       },
       {
-        "name": "TBD",
-        "code": "TBD",
+        "name": "LYON",
+        "code": "LYON",
         "wins": 0
       }
     ],
@@ -1016,13 +1016,13 @@
     "best_of": 3,
     "teams": [
       {
-        "name": "TBD",
-        "code": "TBD",
+        "name": "Hanwha Life Esports",
+        "code": "HLE",
         "wins": 0
       },
       {
-        "name": "TBD",
-        "code": "TBD",
+        "name": "BILIBILI GAMING",
+        "code": "BLG",
         "wins": 0
       }
     ],

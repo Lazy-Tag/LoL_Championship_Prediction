@@ -1,0 +1,3506 @@
+{
+  "simulations": 14000605,
+  "seed": 2026,
+  "waived_draw_groups": 0,
+  "seconds": 28.7697,
+  "counts": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      45500,
+      3940233,
+      888436,
+      239092
+    ],
+    [
+      338083,
+      14000605,
+      6906831,
+      1448351
+    ],
+    [
+      323452,
+      14000605,
+      6823806,
+      1410488
+    ],
+    [
+      6808941,
+      14000605,
+      12543383,
+      10059189
+    ],
+    [
+      1042565,
+      10060372,
+      4645627,
+      2474535
+    ],
+    [
+      1477959,
+      14000605,
+      10123829,
+      3662969
+    ],
+    [
+      3947902,
+      14000605,
+      11876222,
+      8491855
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1436,
+      5729442,
+      370690,
+      27265
+    ],
+    [
+      8410,
+      8271163,
+      841322,
+      97633
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      6165,
+      9330432,
+      818253,
+      82998
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      192,
+      4670173,
+      164021,
+      6835
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "joint": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      10060372
+    ],
+    [
+      0,
+      0,
+      0,
+      3940233,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "as_of": "2026-10-31T01:22:30.330797+00:00",
+  "model": "dynamic90",
+  "active": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    17
+  ],
+  "wins": [
+    0,
+    2,
+    3,
+    3,
+    3,
+    2,
+    3,
+    3,
+    1,
+    2,
+    2,
+    1,
+    2,
+    0,
+    0,
+    1,
+    0,
+    2,
+    0
+  ],
+  "losses": [
+    3,
+    2,
+    1,
+    1,
+    0,
+    2,
+    1,
+    0,
+    3,
+    2,
+    2,
+    3,
+    2,
+    0,
+    3,
+    3,
+    0,
+    2,
+    0
+  ],
+  "met": [
+    3076,
+    3588,
+    291,
+    20528,
+    4136,
+    284,
+    164480,
+    832,
+    131236,
+    32962,
+    36867,
+    163843,
+    17432,
+    0,
+    135176,
+    3648,
+    0,
+    18752,
+    0
+  ],
+  "next_matches": [
+    {
+      "id": "115660540726095085",
+      "start_utc": "2026-10-31T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "unstarted",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 0
+        },
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule",
+      "round": 5,
+      "a": 9,
+      "b": 10,
+      "win_probability": 0.4094139546452315
+    },
+    {
+      "id": "115660540726095089",
+      "start_utc": "2026-10-31T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "unstarted",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 0
+        },
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule",
+      "round": 5,
+      "a": 17,
+      "b": 12,
+      "win_probability": 0.3335962693003382
+    },
+    {
+      "id": "115660540726095093",
+      "start_utc": "2026-10-31T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "unstarted",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 0
+        },
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule",
+      "round": 5,
+      "a": 5,
+      "b": 1,
+      "win_probability": 0.7187231701731892
+    }
+  ],
+  "completed_swiss": [
+    {
+      "id": "115660540726095005",
+      "start_utc": "2026-10-23T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Invictus Gaming",
+          "code": "IG",
+          "wins": 0
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095013",
+      "start_utc": "2026-10-23T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "TOP ESPORTS",
+          "code": "TES",
+          "wins": 0
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095019",
+      "start_utc": "2026-10-23T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 1
+        },
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095009",
+      "start_utc": "2026-10-23T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 1
+        },
+        {
+          "name": "Anyone's Legend",
+          "code": "AL",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095011",
+      "start_utc": "2026-10-23T21:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "wins": 1
+        },
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095007",
+      "start_utc": "2026-10-23T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "wins": 0
+        },
+        {
+          "name": "CTBC Flying Oyster",
+          "code": "CFO",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095015",
+      "start_utc": "2026-10-23T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 0
+        },
+        {
+          "name": "T1",
+          "code": "T1",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095017",
+      "start_utc": "2026-10-24T00:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 1
+        },
+        {
+          "name": "Team Secret Whales",
+          "code": "TSW",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095029",
+      "start_utc": "2026-10-24T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "TOP ESPORTS",
+          "code": "TES",
+          "wins": 1
+        },
+        {
+          "name": "Anyone's Legend",
+          "code": "AL",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095021",
+      "start_utc": "2026-10-24T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 1
+        },
+        {
+          "name": "CTBC Flying Oyster",
+          "code": "CFO",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095031",
+      "start_utc": "2026-10-24T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 0
+        },
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095023",
+      "start_utc": "2026-10-24T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 0
+        },
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095033",
+      "start_utc": "2026-10-24T21:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Team Secret Whales",
+          "code": "TSW",
+          "wins": 0
+        },
+        {
+          "name": "Invictus Gaming",
+          "code": "IG",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095025",
+      "start_utc": "2026-10-24T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 0
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095027",
+      "start_utc": "2026-10-24T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "wins": 1
+        },
+        {
+          "name": "T1",
+          "code": "T1",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095035",
+      "start_utc": "2026-10-25T00:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "wins": 0
+        },
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095045",
+      "start_utc": "2026-10-25T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Invictus Gaming",
+          "code": "IG",
+          "wins": 1
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095047",
+      "start_utc": "2026-10-25T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "TOP ESPORTS",
+          "code": "TES",
+          "wins": 1
+        },
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095037",
+      "start_utc": "2026-10-25T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 0
+        },
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095041",
+      "start_utc": "2026-10-25T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 1
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095049",
+      "start_utc": "2026-10-26T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "T1",
+          "code": "T1",
+          "wins": 1
+        },
+        {
+          "name": "CTBC Flying Oyster",
+          "code": "CFO",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095051",
+      "start_utc": "2026-10-26T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 1
+        },
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095053",
+      "start_utc": "2026-10-26T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Team Secret Whales",
+          "code": "TSW",
+          "wins": 0
+        },
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095057",
+      "start_utc": "2026-10-26T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Anyone's Legend",
+          "code": "AL",
+          "wins": 0
+        },
+        {
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095061",
+      "start_utc": "2026-10-28T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "T1",
+          "code": "T1",
+          "wins": 2
+        },
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095065",
+      "start_utc": "2026-10-28T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 1
+        },
+        {
+          "name": "Invictus Gaming",
+          "code": "IG",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095073",
+      "start_utc": "2026-10-29T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 2
+        },
+        {
+          "name": "CTBC Flying Oyster",
+          "code": "CFO",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095069",
+      "start_utc": "2026-10-29T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 1
+        },
+        {
+          "name": "TOP ESPORTS",
+          "code": "TES",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095077",
+      "start_utc": "2026-10-30T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 2
+        },
+        {
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095081",
+      "start_utc": "2026-10-30T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "wins": 0
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    }
+  ],
+  "completed_worlds": [
+    {
+      "id": "115660588583171786",
+      "start_utc": "2026-10-15T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "state": "completed",
+      "best_of": 5,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 3
+        },
+        {
+          "name": "Cloud9 Kia",
+          "code": "C9",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583040710",
+      "start_utc": "2026-10-15T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "state": "completed",
+      "best_of": 5,
+      "teams": [
+        {
+          "name": "MVK Esports",
+          "code": "MVK",
+          "wins": 3
+        },
+        {
+          "name": "FURIA",
+          "code": "FUR",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583171790",
+      "start_utc": "2026-10-16T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "state": "completed",
+      "best_of": 5,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 3
+        },
+        {
+          "name": "MVK Esports",
+          "code": "MVK",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583171794",
+      "start_utc": "2026-10-16T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "state": "completed",
+      "best_of": 5,
+      "teams": [
+        {
+          "name": "FURIA",
+          "code": "FUR",
+          "wins": 3
+        },
+        {
+          "name": "Cloud9 Kia",
+          "code": "C9",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583171798",
+      "start_utc": "2026-10-17T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "state": "completed",
+      "best_of": 5,
+      "teams": [
+        {
+          "name": "MVK Esports",
+          "code": "MVK",
+          "wins": 3
+        },
+        {
+          "name": "FURIA",
+          "code": "FUR",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "116299649498303884",
+      "start_utc": "2026-10-18T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "state": "completed",
+      "best_of": 5,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 3
+        },
+        {
+          "name": "MVK Esports",
+          "code": "MVK",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095005",
+      "start_utc": "2026-10-23T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Invictus Gaming",
+          "code": "IG",
+          "wins": 0
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095013",
+      "start_utc": "2026-10-23T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "TOP ESPORTS",
+          "code": "TES",
+          "wins": 0
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095019",
+      "start_utc": "2026-10-23T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 1
+        },
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095009",
+      "start_utc": "2026-10-23T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 1
+        },
+        {
+          "name": "Anyone's Legend",
+          "code": "AL",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095011",
+      "start_utc": "2026-10-23T21:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "wins": 1
+        },
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095007",
+      "start_utc": "2026-10-23T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "wins": 0
+        },
+        {
+          "name": "CTBC Flying Oyster",
+          "code": "CFO",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095015",
+      "start_utc": "2026-10-23T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 0
+        },
+        {
+          "name": "T1",
+          "code": "T1",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095017",
+      "start_utc": "2026-10-24T00:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 1
+        },
+        {
+          "name": "Team Secret Whales",
+          "code": "TSW",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095029",
+      "start_utc": "2026-10-24T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "TOP ESPORTS",
+          "code": "TES",
+          "wins": 1
+        },
+        {
+          "name": "Anyone's Legend",
+          "code": "AL",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095021",
+      "start_utc": "2026-10-24T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 1
+        },
+        {
+          "name": "CTBC Flying Oyster",
+          "code": "CFO",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095031",
+      "start_utc": "2026-10-24T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 0
+        },
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095023",
+      "start_utc": "2026-10-24T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 0
+        },
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095033",
+      "start_utc": "2026-10-24T21:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Team Secret Whales",
+          "code": "TSW",
+          "wins": 0
+        },
+        {
+          "name": "Invictus Gaming",
+          "code": "IG",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095025",
+      "start_utc": "2026-10-24T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 0
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095027",
+      "start_utc": "2026-10-24T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "wins": 1
+        },
+        {
+          "name": "T1",
+          "code": "T1",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095035",
+      "start_utc": "2026-10-25T00:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "wins": 0
+        },
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095045",
+      "start_utc": "2026-10-25T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "Invictus Gaming",
+          "code": "IG",
+          "wins": 1
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095047",
+      "start_utc": "2026-10-25T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "TOP ESPORTS",
+          "code": "TES",
+          "wins": 1
+        },
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095037",
+      "start_utc": "2026-10-25T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 0
+        },
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095041",
+      "start_utc": "2026-10-25T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 1
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095049",
+      "start_utc": "2026-10-26T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "T1",
+          "code": "T1",
+          "wins": 1
+        },
+        {
+          "name": "CTBC Flying Oyster",
+          "code": "CFO",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095051",
+      "start_utc": "2026-10-26T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 1,
+      "teams": [
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 1
+        },
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095053",
+      "start_utc": "2026-10-26T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Team Secret Whales",
+          "code": "TSW",
+          "wins": 0
+        },
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095057",
+      "start_utc": "2026-10-26T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Anyone's Legend",
+          "code": "AL",
+          "wins": 0
+        },
+        {
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095061",
+      "start_utc": "2026-10-28T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "T1",
+          "code": "T1",
+          "wins": 2
+        },
+        {
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095065",
+      "start_utc": "2026-10-28T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "wins": 1
+        },
+        {
+          "name": "Invictus Gaming",
+          "code": "IG",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095073",
+      "start_utc": "2026-10-29T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "Karmine Corp",
+          "code": "KC",
+          "wins": 2
+        },
+        {
+          "name": "CTBC Flying Oyster",
+          "code": "CFO",
+          "wins": 0
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095069",
+      "start_utc": "2026-10-29T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "wins": 1
+        },
+        {
+          "name": "TOP ESPORTS",
+          "code": "TES",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095077",
+      "start_utc": "2026-10-30T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "LOS",
+          "code": "LOS",
+          "wins": 2
+        },
+        {
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "wins": 1
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095081",
+      "start_utc": "2026-10-30T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "state": "completed",
+      "best_of": 3,
+      "teams": [
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "wins": 0
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "wins": 2
+        }
+      ],
+      "source": "https://lolesports.com/en-US/schedule"
+    }
+  ],
+  "added_training": [
+    {
+      "id": "117133830110912123",
+      "date": "2026-10-15",
+      "start_utc": "2026-10-15T09:00:00Z",
+      "event": "DCGI",
+      "stage": "Semifinals",
+      "team1": "HANJIN BRION",
+      "team2": "Xi'an Team WE",
+      "wins1": 2,
+      "wins2": 3,
+      "best_of": 5,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583171786",
+      "date": "2026-10-15",
+      "start_utc": "2026-10-15T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "team1": "Karmine Corp",
+      "team2": "Cloud9 Kia",
+      "wins1": 3,
+      "wins2": 2,
+      "best_of": 5,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583040710",
+      "date": "2026-10-15",
+      "start_utc": "2026-10-15T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "team1": "MVK Esports",
+      "team2": "FURIA",
+      "wins1": 3,
+      "wins2": 0,
+      "best_of": 5,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583171790",
+      "date": "2026-10-16",
+      "start_utc": "2026-10-16T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "team1": "Karmine Corp",
+      "team2": "MVK Esports",
+      "wins1": 3,
+      "wins2": 0,
+      "best_of": 5,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583171794",
+      "date": "2026-10-16",
+      "start_utc": "2026-10-16T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "team1": "FURIA",
+      "team2": "Cloud9 Kia",
+      "wins1": 3,
+      "wins2": 1,
+      "best_of": 5,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "117133830110912129",
+      "date": "2026-10-17",
+      "start_utc": "2026-10-17T09:00:00Z",
+      "event": "DCGI",
+      "stage": "Finals",
+      "team1": "Xi'an Team WE",
+      "team2": "BNK FEARX",
+      "wins1": 1,
+      "wins2": 3,
+      "best_of": 5,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660588583171798",
+      "date": "2026-10-17",
+      "start_utc": "2026-10-17T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "team1": "MVK Esports",
+      "team2": "FURIA",
+      "wins1": 3,
+      "wins2": 1,
+      "best_of": 5,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "116299649498303884",
+      "date": "2026-10-18",
+      "start_utc": "2026-10-18T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Play-Ins",
+      "team1": "Karmine Corp",
+      "team2": "MVK Esports",
+      "wins1": 3,
+      "wins2": 0,
+      "best_of": 5,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095005",
+      "date": "2026-10-23",
+      "start_utc": "2026-10-23T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Invictus Gaming",
+      "team2": "Gen.G Esports",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095013",
+      "date": "2026-10-23",
+      "start_utc": "2026-10-23T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "TOP ESPORTS",
+      "team2": "Hanwha Life Esports",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095019",
+      "date": "2026-10-23",
+      "start_utc": "2026-10-23T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Movistar KOI",
+      "team2": "BILIBILI GAMING",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095009",
+      "date": "2026-10-23",
+      "start_utc": "2026-10-23T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Karmine Corp",
+      "team2": "Anyone's Legend",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095011",
+      "date": "2026-10-23",
+      "start_utc": "2026-10-23T21:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Dplus KIA",
+      "team2": "G2 Esports",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095007",
+      "date": "2026-10-23",
+      "start_utc": "2026-10-23T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Team Liquid Alienware",
+      "team2": "CTBC Flying Oyster",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095015",
+      "date": "2026-10-23",
+      "start_utc": "2026-10-23T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "LOS",
+      "team2": "T1",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095017",
+      "date": "2026-10-24",
+      "start_utc": "2026-10-24T00:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "LYON",
+      "team2": "Team Secret Whales",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095029",
+      "date": "2026-10-24",
+      "start_utc": "2026-10-24T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "TOP ESPORTS",
+      "team2": "Anyone's Legend",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095021",
+      "date": "2026-10-24",
+      "start_utc": "2026-10-24T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Movistar KOI",
+      "team2": "CTBC Flying Oyster",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095031",
+      "date": "2026-10-24",
+      "start_utc": "2026-10-24T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "LOS",
+      "team2": "G2 Esports",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095023",
+      "date": "2026-10-24",
+      "start_utc": "2026-10-24T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Karmine Corp",
+      "team2": "LYON",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095033",
+      "date": "2026-10-24",
+      "start_utc": "2026-10-24T21:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Team Secret Whales",
+      "team2": "Invictus Gaming",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095025",
+      "date": "2026-10-24",
+      "start_utc": "2026-10-24T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Hanwha Life Esports",
+      "team2": "Gen.G Esports",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095027",
+      "date": "2026-10-24",
+      "start_utc": "2026-10-24T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Dplus KIA",
+      "team2": "T1",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095035",
+      "date": "2026-10-25",
+      "start_utc": "2026-10-25T00:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Team Liquid Alienware",
+      "team2": "BILIBILI GAMING",
+      "wins1": 0,
+      "wins2": 1,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095045",
+      "date": "2026-10-25",
+      "start_utc": "2026-10-25T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Invictus Gaming",
+      "team2": "Hanwha Life Esports",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095047",
+      "date": "2026-10-25",
+      "start_utc": "2026-10-25T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "TOP ESPORTS",
+      "team2": "G2 Esports",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095037",
+      "date": "2026-10-25",
+      "start_utc": "2026-10-25T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Movistar KOI",
+      "team2": "Dplus KIA",
+      "wins1": 0,
+      "wins2": 2,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095041",
+      "date": "2026-10-25",
+      "start_utc": "2026-10-25T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "LYON",
+      "team2": "Gen.G Esports",
+      "wins1": 1,
+      "wins2": 2,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095049",
+      "date": "2026-10-26",
+      "start_utc": "2026-10-26T17:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "T1",
+      "team2": "CTBC Flying Oyster",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095051",
+      "date": "2026-10-26",
+      "start_utc": "2026-10-26T18:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "BILIBILI GAMING",
+      "team2": "Karmine Corp",
+      "wins1": 1,
+      "wins2": 0,
+      "best_of": 1,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095053",
+      "date": "2026-10-26",
+      "start_utc": "2026-10-26T19:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Team Secret Whales",
+      "team2": "LOS",
+      "wins1": 0,
+      "wins2": 2,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095057",
+      "date": "2026-10-26",
+      "start_utc": "2026-10-26T22:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Anyone's Legend",
+      "team2": "Team Liquid Alienware",
+      "wins1": 0,
+      "wins2": 2,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095061",
+      "date": "2026-10-28",
+      "start_utc": "2026-10-28T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "T1",
+      "team2": "Movistar KOI",
+      "wins1": 2,
+      "wins2": 0,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095065",
+      "date": "2026-10-28",
+      "start_utc": "2026-10-28T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "LYON",
+      "team2": "Invictus Gaming",
+      "wins1": 1,
+      "wins2": 2,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095073",
+      "date": "2026-10-29",
+      "start_utc": "2026-10-29T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "Karmine Corp",
+      "team2": "CTBC Flying Oyster",
+      "wins1": 2,
+      "wins2": 0,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095069",
+      "date": "2026-10-29",
+      "start_utc": "2026-10-29T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "BILIBILI GAMING",
+      "team2": "TOP ESPORTS",
+      "wins1": 1,
+      "wins2": 2,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095077",
+      "date": "2026-10-30",
+      "start_utc": "2026-10-30T20:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "LOS",
+      "team2": "Team Liquid Alienware",
+      "wins1": 2,
+      "wins2": 1,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    },
+    {
+      "id": "115660540726095081",
+      "date": "2026-10-30",
+      "start_utc": "2026-10-30T23:00:00Z",
+      "event": "Worlds",
+      "stage": "Swiss",
+      "team1": "G2 Esports",
+      "team2": "Hanwha Life Esports",
+      "wins1": 0,
+      "wins2": 2,
+      "best_of": 3,
+      "source": "https://lolesports.com/en-US/schedule"
+    }
+  ],
+  "total_training_series": 1137,
+  "strengths": {
+    "anyoneslegend": 0.48268837951405125,
+    "beijingjdgesports": 0.6996505394365842,
+    "bilibiligaming": 1.0863391266952478,
+    "bnkfearx": 1.5294482088820767,
+    "cloud9kia": -0.21826933105363344,
+    "ctbcflyingoyster": -0.7477075302164591,
+    "detonationfocusme": -1.6233612359190066,
+    "dignitas": -1.028761041458967,
+    "disguised": -0.8580755595510747,
+    "dnsoopers": 1.2513675232449954,
+    "dpluskia": 1.8819484032434568,
+    "edwardgaming": 0.31609851166229525,
+    "fluxow7m": -1.2124400193832905,
+    "flyquest": -0.19525615947793673,
+    "fnatic": -0.07565322152887434,
+    "fukuokasoftbankhawksgaming": -1.4388227987806905,
+    "furia": -0.5300224938606122,
+    "g2esports": 0.5583212443884298,
+    "galions": -0.00023971019124428491,
+    "gamesports": -1.3104291743788625,
+    "gengesports": 2.136761900042378,
+    "giantx": 0.02945031803636161,
+    "groundzerogaming": -1.070246801476967,
+    "hanjinbrion": 1.0807878168659246,
+    "hanwhalifeesports": 1.7069027460492652,
+    "invictusgaming": 1.1993913753481769,
+    "karminecorp": 0.5850813341417243,
+    "karminecorpblue": -0.06318751019112578,
+    "kiwoomdrx": 0.928763617257093,
+    "ktrolster": 1.1909863467602197,
+    "leviatan": -1.4669185551240862,
+    "lgdgaming": 0.827080557724328,
+    "los": 0.042744452606097494,
+    "losratones": 0.026044783942459872,
+    "loud": -0.6305338850505103,
+    "lyon": 0.5020614690812171,
+    "movistarkoi": 0.341123640747251,
+    "mvkesports": -0.6170933188653687,
+    "natusvincere": 0.09630427971139835,
+    "nongshimredforce": 1.2798049536200242,
+    "ohmygod": 0.5078925951700282,
+    "paingaming": -1.11350839802847,
+    "redkalunga": -0.8704405258903046,
+    "relovedeepcrossgaming": -1.0675764726494101,
+    "sentinels": -0.5906724842534445,
+    "shenzhenninjasinpyjamas": 1.192072640439025,
+    "shifters": -0.4147310050647687,
+    "shopifyrebellion": -0.5143213091166625,
+    "skgaming": -0.2748468489532412,
+    "solary": -0.061471579366287415,
+    "suzhoulngesports": 0.40655524062956117,
+    "t1": 1.629148173409324,
+    "teamheretics": -0.5824907884625561,
+    "teamliquidalienware": 0.3318851920937696,
+    "teamsecretwhales": -0.6331523073575976,
+    "teamvitality": 0.3487415842016644,
+    "thundertalkgaming": 0.3151214550354811,
+    "topesports": 1.2095487627285004,
+    "ultraprime": 0.6756413888941444,
+    "vivokeydstars": -1.163468912934225,
+    "weibogaming": 0.7433483277546759,
+    "xianteamwe": 0.760803179480602
+  },
+  "prior_audit": {
+    "series": 79,
+    "maps": 196,
+    "last_date": "2025-11-02",
+    "missing_team_regions": {},
+    "counts": {
+      "EU": 80,
+      "NA": 40,
+      "KR": 95,
+      "CN": 92,
+      "LCP": 65,
+      "BR": 20
+    },
+    "strength": {
+      "BR": -0.772470687373709,
+      "CN": 0.5077045621483275,
+      "EU": -0.2584805787987292,
+      "KR": 1.2760695722961741,
+      "LCP": -0.3248625872310292,
+      "NA": -0.42796028104103406
+    },
+    "gradient_inf": 4.652191326615096e-08,
+    "live_unknown_regions": [
+      "galions",
+      "solary"
+    ]
+  },
+  "source_archive": "data/raw/live_2026-10-31T012230Z",
+  "probabilities": [
+    [
+      [
+        0.5,
+        0.35350890518288797,
+        0.3258840724714633,
+        0.3281194184737074,
+        0.1605591613751097,
+        0.2271956508238625,
+        0.24113631009990014,
+        0.19793356075742066,
+        0.4811007920651706,
+        0.5353321979267149,
+        0.4744241029241477,
+        0.5376295109252911,
+        0.4951568790825671,
+        0.6684000747170065,
+        0.7532163917870999,
+        0.773887860219965,
+        0.7502192002121765,
+        0.6082456695700319,
+        0.7335503362853715
+      ],
+      [
+        0.6464910948171121,
+        0.5,
+        0.4692364985531934,
+        0.4717670014847125,
+        0.25914392499530303,
+        0.3496532758590323,
+        0.36753436869846096,
+        0.3109655197619453,
+        0.6290206959560957,
+        0.6781352850050927,
+        0.6227548715605301,
+        0.6801484137436231,
+        0.6420511001973213,
+        0.78660955724993,
+        0.8480633182402779,
+        0.862243093463411,
+        0.8459825005301334,
+        0.7395430051278555,
+        0.8342927414082112
+      ],
+      [
+        0.6741159275285368,
+        0.5307635014468066,
+        0.5,
+        0.5025393250127387,
+        0.283490450408931,
+        0.3781626937317789,
+        0.39661261161356265,
+        0.33795972955574305,
+        0.6572870277880637,
+        0.7044178930083866,
+        0.6512339123690458,
+        0.7063378216718728,
+        0.6698457060222304,
+        0.8065611218373123,
+        0.8632678451576647,
+        0.8762357135125837,
+        0.8613612170530054,
+        0.7625668940917613,
+        0.8506325989005412
+      ],
+      [
+        0.6718805815262925,
+        0.5282329985152875,
+        0.49746067498726126,
+        0.5,
+        0.28143179021222675,
+        0.37577709928872643,
+        0.3941844074406826,
+        0.3356908396176427,
+        0.654995325094624,
+        0.70229860744717,
+        0.6489233527219057,
+        0.7042265217854408,
+        0.6675955123962126,
+        0.8049714270090729,
+        0.8620644730607184,
+        0.875129962292832,
+        0.8601437833414707,
+        0.7607229094463056,
+        0.8493374323461513
+      ],
+      [
+        0.8394408386248904,
+        0.740856075004697,
+        0.7165095495910689,
+        0.7185682097877731,
+        0.5,
+        0.6058400352043619,
+        0.6242469099009008,
+        0.5633609097408421,
+        0.8289835634123252,
+        0.8576171533998252,
+        0.8251563252393868,
+        0.8587415373346072,
+        0.8368125336426608,
+        0.9133333066364897,
+        0.941028225731868,
+        0.9470733438685833,
+        0.940130709209661,
+        0.8903203450981335,
+        0.9350379822199663
+      ],
+      [
+        0.7728043491761375,
+        0.6503467241409676,
+        0.6218373062682211,
+        0.6242229007112736,
+        0.39415996479563814,
+        0.5,
+        0.5194288556076933,
+        0.45634998543353794,
+        0.7592517270659059,
+        0.7966973484799037,
+        0.7543264133373437,
+        0.7981896053975197,
+        0.7693848999235146,
+        0.8727140782006659,
+        0.9121404972624226,
+        0.9208979383902063,
+        0.9108449799271539,
+        0.8407954150377455,
+        0.903516750800608
+      ],
+      [
+        0.7588636899000999,
+        0.6324656313015391,
+        0.6033873883864374,
+        0.6058155925593174,
+        0.37575309009909924,
+        0.4805711443923068,
+        0.5,
+        0.4371343875429936,
+        0.7447541430512317,
+        0.7838126331499419,
+        0.7396339428954691,
+        0.7853739869139824,
+        0.7553008600598502,
+        0.863823603208526,
+        0.9057062811100812,
+        0.9150453236810826,
+        0.9043258405103529,
+        0.8301095300210963,
+        0.8965226368082645
+      ],
+      [
+        0.8020664392425794,
+        0.6890344802380547,
+        0.662040270444257,
+        0.6643091603823572,
+        0.4366390902591579,
+        0.543650014566462,
+        0.5628656124570064,
+        0.5,
+        0.7897845382582511,
+        0.823584589431982,
+        0.785307243743107,
+        0.8249228613022417,
+        0.7989728407666238,
+        0.8909243396239727,
+        0.9251936789350166,
+        0.9327459690127726,
+        0.9240746138265915,
+        0.8628545328664087,
+        0.9177356011858361
+      ],
+      [
+        0.5188992079348294,
+        0.3709793040439044,
+        0.3427129722119363,
+        0.345004674905376,
+        0.17101643658767485,
+        0.24074827293409415,
+        0.2552458569487684,
+        0.2102154617417489,
+        0.5,
+        0.5540869395259085,
+        0.4933103767615186,
+        0.5563683693490913,
+        0.5140612351814619,
+        0.6849448401243462,
+        0.7670045041918094,
+        0.7868478674308781,
+        0.7641223286091314,
+        0.6261128919682423,
+        0.7480697084336585
+      ],
+      [
+        0.464667802073285,
+        0.32186471499490726,
+        0.29558210699161336,
+        0.29770139255282996,
+        0.14238284660017478,
+        0.20330265152009633,
+        0.21618736685005813,
+        0.17641541056801788,
+        0.44591306047409146,
+        0.5,
+        0.43931127112198975,
+        0.5023095957365993,
+        0.45985216124449807,
+        0.6363120740387735,
+        0.7259709640291826,
+        0.7481615595868899,
+        0.7227646687464439,
+        0.5740462481551162,
+        0.7049841287916824
+      ],
+      [
+        0.5255758970758523,
+        0.3772451284394699,
+        0.3487660876309542,
+        0.35107664727809423,
+        0.17484367476061333,
+        0.2456735866626563,
+        0.2603660571045309,
+        0.214692756256893,
+        0.5066896232384813,
+        0.5606887288780102,
+        0.5,
+        0.5629630234058902,
+        0.5207430536911963,
+        0.6906907642890373,
+        0.7717525537688817,
+        0.7913015714801942,
+        0.7689114162534343,
+        0.6323558682938971,
+        0.7530793978306625
+      ],
+      [
+        0.46237048907470885,
+        0.31985158625637694,
+        0.29366217832812724,
+        0.29577347821455935,
+        0.1412584626653927,
+        0.20181039460248032,
+        0.21462601308601756,
+        0.17507713869775834,
+        0.4436316306509087,
+        0.49769040426340067,
+        0.4370369765941098,
+        0.5,
+        0.4575583071788295,
+        0.6341714408189211,
+        0.7241292619519536,
+        0.7464169020787286,
+        0.7209097019327624,
+        0.5717857587299326,
+        0.7030590704596864
+      ],
+      [
+        0.5048431209174329,
+        0.3579488998026788,
+        0.33015429397776974,
+        0.3324044876037873,
+        0.16318746635733916,
+        0.2306151000764855,
+        0.24469913994014983,
+        0.20102715923337625,
+        0.48593876481853815,
+        0.540147838755502,
+        0.47925694630880367,
+        0.5424416928211705,
+        0.5,
+        0.6726798573530073,
+        0.7567997991592216,
+        0.7772598712858872,
+        0.7538319046376132,
+        0.6128521409623481,
+        0.7373197159957906
+      ],
+      [
+        0.3315999252829934,
+        0.21339044275007005,
+        0.19343887816268768,
+        0.19502857299092702,
+        0.0866666933635103,
+        0.1272859217993341,
+        0.13617639679147403,
+        0.10907566037602731,
+        0.31505515987565386,
+        0.3636879259612265,
+        0.3093092357109627,
+        0.365828559181079,
+        0.3273201426469928,
+        0.5,
+        0.6022581449850852,
+        0.6293520713124958,
+        0.598405077783757,
+        0.43511451406866214,
+        0.5773131305033172
+      ],
+      [
+        0.24678360821290013,
+        0.1519366817597222,
+        0.13673215484233525,
+        0.1379355269392816,
+        0.058971774268131966,
+        0.0878595027375775,
+        0.09429371888991876,
+        0.07480632106498335,
+        0.2329954958081905,
+        0.2740290359708174,
+        0.22824744623111823,
+        0.2758707380480465,
+        0.24320020084077842,
+        0.3977418550149147,
+        0.5,
+        0.5286075280796251,
+        0.4959853391553508,
+        0.33717771767407473,
+        0.4742403736765838
+      ],
+      [
+        0.22611213978003505,
+        0.13775690653658898,
+        0.1237642864874162,
+        0.12487003770716802,
+        0.05292665613141674,
+        0.07910206160979363,
+        0.08495467631891734,
+        0.06725403098722733,
+        0.2131521325691219,
+        0.25183844041311,
+        0.20869842851980575,
+        0.2535830979212713,
+        0.22274012871411272,
+        0.3706479286875042,
+        0.4713924719203749,
+        0.5,
+        0.46739279076541307,
+        0.3120716281807609,
+        0.4457926314069844
+      ],
+      [
+        0.24978079978782355,
+        0.15401749946986656,
+        0.13863878294699455,
+        0.1398562166585293,
+        0.05986929079033904,
+        0.08915502007284615,
+        0.0956741594896471,
+        0.07592538617340847,
+        0.23587767139086863,
+        0.2772353312535561,
+        0.23108858374656574,
+        0.2790902980672376,
+        0.24616809536238682,
+        0.401594922216243,
+        0.5040146608446492,
+        0.5326072092345869,
+        0.5,
+        0.3407760548787153,
+        0.4782460356751357
+      ],
+      [
+        0.39175433042996816,
+        0.2604569948721444,
+        0.23743310590823877,
+        0.23927709055369434,
+        0.10967965490186649,
+        0.15920458496225443,
+        0.16989046997890375,
+        0.1371454671335913,
+        0.3738871080317577,
+        0.4259537518448839,
+        0.367644131706103,
+        0.42821424127006735,
+        0.3871478590376519,
+        0.5648854859313379,
+        0.6628222823259253,
+        0.687928371819239,
+        0.6592239451212847,
+        0.5,
+        0.6394013881567168
+      ],
+      [
+        0.2664496637146284,
+        0.16570725859178892,
+        0.14936740109945879,
+        0.15066256765384872,
+        0.06496201778003378,
+        0.09648324919939204,
+        0.10347736319173553,
+        0.08226439881416392,
+        0.25193029156634145,
+        0.29501587120831757,
+        0.24692060216933748,
+        0.2969409295403136,
+        0.2626802840042094,
+        0.42268686949668277,
+        0.5257596263234162,
+        0.5542073685930156,
+        0.5217539643248642,
+        0.36059861184328323,
+        0.5
+      ]
+    ],
+    [
+      [
+        0.5,
+        0.2865506503424686,
+        0.24938322967195103,
+        0.25233484116751476,
+        0.06905954521257662,
+        0.13139888296070826,
+        0.14639758911192532,
+        0.10202392228328017,
+        0.47166468893822544,
+        0.5529100819873443,
+        0.4616696141308734,
+        0.556337701111217,
+        0.49273554582259776,
+        0.7430489363543038,
+        0.8473528564480162,
+        0.8697406356956805,
+        0.8439965281445345,
+        0.6598318482771123,
+        0.8248471434428195
+      ],
+      [
+        0.7134493496575315,
+        0.5,
+        0.4539129765559481,
+        0.45769551139781856,
+        0.16666080359410732,
+        0.28127682982681074,
+        0.30595033992389603,
+        0.2299582090026989,
+        0.6892355991941718,
+        0.7558976857355081,
+        0.6804327803143096,
+        0.7585297451883658,
+        0.7073438897646742,
+        0.8828272297559989,
+        0.9377605764356769,
+        0.948297520174364,
+        0.9361428479586816,
+        0.831824144574667,
+        0.9267235899610815
+      ],
+      [
+        0.750616770328049,
+        0.5460870234440519,
+        0.5,
+        0.5038089547711017,
+        0.19553404564678006,
+        0.3208612267635241,
+        0.3471291231000777,
+        0.2654489930552805,
+        0.7281482283404901,
+        0.7895429514012914,
+        0.7199329163406253,
+        0.7919369445712731,
+        0.744969289333673,
+        0.9022206250977028,
+        0.9490255553146242,
+        0.9578387474960522,
+        0.9476673358650315,
+        0.85764689631314,
+        0.9397330972717306
+      ],
+      [
+        0.7476651588324852,
+        0.5423044886021814,
+        0.4961910452288984,
+        0.5,
+        0.19303059360094274,
+        0.3174994978486954,
+        0.34364623276434314,
+        0.26240813260228624,
+        0.7250459115092213,
+        0.7868898807781717,
+        0.7167793357090091,
+        0.7893038302651431,
+        0.741978337356348,
+        0.900727837034501,
+        0.9481701517154124,
+        0.9571164997473364,
+        0.9467918244248509,
+        0.8556383360894693,
+        0.9387422144351533
+      ],
+      [
+        0.9309404547874235,
+        0.8333391964058927,
+        0.8044659543532198,
+        0.8069694063990571,
+        0.5,
+        0.6563887887269563,
+        0.6825342925438408,
+        0.5945326265759655,
+        0.922263441261317,
+        0.944954394286332,
+        0.9189791190776965,
+        0.9457754697035609,
+        0.9288009656171574,
+        0.9787685799133699,
+        0.9899771582783536,
+        0.9918928267845148,
+        0.9896761868879537,
+        0.9665499305117977,
+        0.9878880964510871
+      ],
+      [
+        0.8686011170392918,
+        0.7187231701731892,
+        0.679138773236476,
+        0.6825005021513046,
+        0.3436112112730439,
+        0.5,
+        0.5291286153859928,
+        0.43469131297107977,
+        0.8540282174755431,
+        0.8928098930753834,
+        0.8485889762636311,
+        0.894256133497349,
+        0.8649797822002419,
+        0.955519380472511,
+        0.978198549688215,
+        0.982218496285863,
+        0.9775714655115371,
+        0.9320321310023757,
+        0.973869276358378
+      ],
+      [
+        0.8536024108880748,
+        0.694049660076104,
+        0.6528708768999223,
+        0.6563537672356569,
+        0.3174657074561592,
+        0.4708713846140073,
+        0.5,
+        0.40619848183137186,
+        0.8378074211315787,
+        0.8799969554808207,
+        0.8319292308197938,
+        0.8815802285726058,
+        0.8496710209922924,
+        0.9494184800824969,
+        0.975002872241797,
+        0.9795743951805431,
+        0.9742908810268919,
+        0.9232187043595176,
+        0.9700932870419537
+      ],
+      [
+        0.89797607771672,
+        0.7700417909973011,
+        0.7345510069447195,
+        0.7375918673977137,
+        0.40546737342403444,
+        0.5653086870289201,
+        0.593801518168628,
+        0.5,
+        0.8860074486249221,
+        0.9176137496618866,
+        0.8815127188966433,
+        0.9187769170007465,
+        0.8950120302024167,
+        0.9669029562108504,
+        0.9840492731877691,
+        0.9870390799930637,
+        0.983581375924305,
+        0.9487324675701503,
+        0.9808111434000703
+      ],
+      [
+        0.5283353110617744,
+        0.3107644008058283,
+        0.2718517716595098,
+        0.2749540884907788,
+        0.07773655873868295,
+        0.14597178252445694,
+        0.16219257886842142,
+        0.11399255137507792,
+        0.5,
+        0.5808139577446553,
+        0.4899661638777274,
+        0.5841943450921435,
+        0.5210862924441814,
+        0.7647653338900212,
+        0.8624365036592336,
+        0.8830671413443586,
+        0.8593328263181508,
+        0.685157822677244,
+        0.8415728473342006
+      ],
+      [
+        0.4470899180126557,
+        0.24410231426449183,
+        0.21045704859870862,
+        0.2131101192218283,
+        0.05504560571366793,
+        0.10719010692461664,
+        0.12000304451917934,
+        0.08238625033811332,
+        0.4191860422553446,
+        0.5,
+        0.4094139546452315,
+        0.5034643689650578,
+        0.4399076663707737,
+        0.6994024867984396,
+        0.8158789911480688,
+        0.8416766971678763,
+        0.8120380117736711,
+        0.610257403753424,
+        0.7902499448028777
+      ],
+      [
+        0.5383303858691266,
+        0.3195672196856903,
+        0.2800670836593747,
+        0.28322066429099085,
+        0.08102088092230364,
+        0.1514110237363689,
+        0.16807076918020622,
+        0.11848728110335675,
+        0.5100338361222725,
+        0.5905860453547686,
+        0.5,
+        0.593945321152721,
+        0.5310967301319584,
+        0.7721679822723013,
+        0.8674912771286349,
+        0.8875146321277578,
+        0.8644753537672657,
+        0.6938965621551365,
+        0.8472000401210399
+      ],
+      [
+        0.4436622988887829,
+        0.2414702548116343,
+        0.20806305542872694,
+        0.21069616973485703,
+        0.054224530296439054,
+        0.10574386650265091,
+        0.11841977142739417,
+        0.08122308299925361,
+        0.4158056549078564,
+        0.4965356310349421,
+        0.4060546788472789,
+        0.5,
+        0.43649036098072763,
+        0.6964264592391051,
+        0.813676107380975,
+        0.839699848956355,
+        0.8098032815761673,
+        0.6069387860465232,
+        0.7878431420316873
+      ],
+      [
+        0.5072644541774023,
+        0.2926561102353259,
+        0.2550307106663271,
+        0.258021662643652,
+        0.07119903438284259,
+        0.13502021779975823,
+        0.15032897900770772,
+        0.10498796979758326,
+        0.4789137075558186,
+        0.5600923336292263,
+        0.4689032698680416,
+        0.5635096390192724,
+        0.5,
+        0.7487217350048413,
+        0.8513297893429352,
+        0.8732621906703745,
+        0.8480387549460963,
+        0.6664037306996617,
+        0.8292475738072708
+      ],
+      [
+        0.25695106364569603,
+        0.11717277024400118,
+        0.0977793749022972,
+        0.0992721629654989,
+        0.02123142008663011,
+        0.044480619527489086,
+        0.05058151991750316,
+        0.03309704378914955,
+        0.23523466610997879,
+        0.3005975132015605,
+        0.22783201772769865,
+        0.303573540760895,
+        0.2512782649951588,
+        0.5,
+        0.6512486462177078,
+        0.689699480028637,
+        0.645701793856737,
+        0.4032181232826033,
+        0.6150454450896164
+      ],
+      [
+        0.1526471435519839,
+        0.06223942356432329,
+        0.05097444468537585,
+        0.05182984828458761,
+        0.010022841721646358,
+        0.021801450311785216,
+        0.024997127758202946,
+        0.015950726812230868,
+        0.13756349634076634,
+        0.18412100885193108,
+        0.13250872287136503,
+        0.18632389261902527,
+        0.14867021065706473,
+        0.34875135378229194,
+        0.5,
+        0.5428644678517037,
+        0.4939781381456322,
+        0.2643997707033243,
+        0.46139474654506873
+      ],
+      [
+        0.1302593643043197,
+        0.051702479825636014,
+        0.04216125250394767,
+        0.042883500252663694,
+        0.008107173215485151,
+        0.017781503714136945,
+        0.020425604819456798,
+        0.012960920006936223,
+        0.11693285865564144,
+        0.15832330283212356,
+        0.11248536787224213,
+        0.16030015104364495,
+        0.12673780932962564,
+        0.310300519971363,
+        0.45713553214829616,
+        0.5,
+        0.45115852408040324,
+        0.23138160229919408,
+        0.419007517181776
+      ],
+      [
+        0.1560034718554656,
+        0.06385715204131834,
+        0.05233266413496857,
+        0.053208175575149064,
+        0.010323813112046413,
+        0.022428534488462992,
+        0.02570911897310807,
+        0.016418624075695016,
+        0.14066717368184933,
+        0.18796198822632887,
+        0.13552464623273427,
+        0.19019671842383268,
+        0.15196124505390382,
+        0.35429820614326296,
+        0.5060218618543678,
+        0.5488414759195968,
+        0.5,
+        0.26923745752465467,
+        0.46738964298574515
+      ],
+      [
+        0.3401681517228878,
+        0.1681758554253329,
+        0.14235310368686008,
+        0.14436166391053065,
+        0.033450069488202276,
+        0.06796786899762425,
+        0.07678129564048247,
+        0.05126753242984962,
+        0.3148421773227559,
+        0.38974259624657615,
+        0.3061034378448637,
+        0.39306121395347676,
+        0.3335962693003382,
+        0.5967818767173968,
+        0.7356002292966758,
+        0.7686183977008059,
+        0.7307625424753453,
+        0.5,
+        0.7036841784144972
+      ],
+      [
+        0.17515285655718035,
+        0.07327641003891848,
+        0.060266902728269386,
+        0.06125778556484676,
+        0.012111903548912886,
+        0.026130723641621903,
+        0.029906712958046235,
+        0.019188856599929697,
+        0.15842715266579943,
+        0.20975005519712223,
+        0.15279995987896008,
+        0.2121568579683127,
+        0.17075242619272926,
+        0.3849545549103835,
+        0.5386052534549313,
+        0.5809924828182239,
+        0.5326103570142547,
+        0.29631582158550296,
+        0.5
+      ]
+    ],
+    [
+      [
+        0.5,
+        0.24064265951676125,
+        0.19896527797643623,
+        0.20221310455412295,
+        0.03206261317661075,
+        0.08093952943092704,
+        0.09438898996520194,
+        0.056345269060636666,
+        0.4645977227566757,
+        0.5660276642287523,
+        0.4521287766836884,
+        0.5702893724760527,
+        0.49091971626069364,
+        0.7926847742817105,
+        0.899847526617158,
+        0.9200591559781367,
+        0.8967154275735704,
+        0.6967081571978652,
+        0.8783801877302817
+      ],
+      [
+        0.7593573404832387,
+        0.5,
+        0.44246384128085253,
+        0.44717554307998286,
+        0.11339375763766936,
+        0.23463126705804402,
+        0.2630041897092058,
+        0.17788688009872405,
+        0.7313897033683349,
+        0.8068167748467825,
+        0.721083808447669,
+        0.8096845096798855,
+        0.7523609473259822,
+        0.931279070954086,
+        0.9724335699952195,
+        0.9789621394183693,
+        0.971385475415191,
+        0.8851494881370257,
+        0.9650588304820733
+      ],
+      [
+        0.8010347220235637,
+        0.5575361587191475,
+        0.5,
+        0.5047611525295025,
+        0.1419359769706274,
+        0.280436932055068,
+        0.3116032866269889,
+        0.21677769461732616,
+        0.776034978579968,
+        0.8427154657523085,
+        0.7667433810646709,
+        0.8452030625939692,
+        0.7948105797176576,
+        0.9469950921396172,
+        0.979393168149335,
+        0.9843874837648826,
+        0.9785868664879159,
+        0.9092920600362068,
+        0.9736955646872868
+      ],
+      [
+        0.7977868954458768,
+        0.5528244569200171,
+        0.49523884747049746,
+        0.5,
+        0.13939901856611775,
+        0.2764891993028144,
+        0.30744022042947244,
+        0.21338145202950415,
+        0.772535259856017,
+        0.8399477115812999,
+        0.7631565593914246,
+        0.8424664779580422,
+        0.7914976046381296,
+        0.9458269311572689,
+        0.9788864541210701,
+        0.9839943540889138,
+        0.9780621810332357,
+        0.907468868937461,
+        0.9730638229442942
+      ],
+      [
+        0.9679373868233895,
+        0.8866062423623303,
+        0.8580640230293729,
+        0.8606009814338818,
+        0.5,
+        0.6926015953140996,
+        0.7235504310305961,
+        0.6175359878224372,
+        0.9619362543402069,
+        0.9769486382976353,
+        0.9595875093826304,
+        0.9774482951026656,
+        0.9664860460635881,
+        0.994307280473203,
+        0.9981262897544547,
+        0.9986326137000212,
+        0.9980421823990768,
+        0.9888813940083198,
+        0.9975187540777717
+      ],
+      [
+        0.9190604705690729,
+        0.7653687329419562,
+        0.719563067944932,
+        0.7235108006971858,
+        0.30739840468590074,
+        0.5,
+        0.5363924508112349,
+        0.4185711089747517,
+        0.9060003869729009,
+        0.9395121366711524,
+        0.9009946465172737,
+        0.9406801753859939,
+        0.9158644913288675,
+        0.9831144667009419,
+        0.9940802683713102,
+        0.9956191706928802,
+        0.9938273190425907,
+        0.9686705567530071,
+        0.9922680584753646
+      ],
+      [
+        0.9056110100347979,
+        0.7369958102907942,
+        0.688396713373011,
+        0.6925597795705274,
+        0.27644956896940387,
+        0.46360754918876523,
+        0.5,
+        0.38336333655573673,
+        0.8908744241262079,
+        0.9288923680611485,
+        0.885250684805654,
+        0.9302302879254255,
+        0.9019959168367128,
+        0.9796246688060656,
+        0.9927571606250225,
+        0.9946233578997891,
+        0.9924511359649718,
+        0.9626116219712645,
+        0.9905686902347295
+      ],
+      [
+        0.9436547309393639,
+        0.8221131199012761,
+        0.7832223053826737,
+        0.7866185479704958,
+        0.38246401217756265,
+        0.5814288910252482,
+        0.6166366634442633,
+        0.5,
+        0.9339336520125285,
+        0.9585990897968794,
+        0.930173383771935,
+        0.9594415707700494,
+        0.9412881027237527,
+        0.9890533428458015,
+        0.9962695194418558,
+        0.9972566514240915,
+        0.9961064880858245,
+        0.9792199728965427,
+        0.9950971798822095
+      ],
+      [
+        0.5354022772433242,
+        0.2686102966316651,
+        0.22396502142003208,
+        0.22746474014398313,
+        0.038063745659793105,
+        0.09399961302709887,
+        0.10912557587379233,
+        0.06606634798747137,
+        0.5,
+        0.60062465998978,
+        0.487458453186089,
+        0.6047985847125348,
+        0.5263509184433488,
+        0.8164400214945455,
+        0.9136000592137578,
+        0.931480340762697,
+        0.9108148739837288,
+        0.7266242872236531,
+        0.8944380502611758
+      ],
+      [
+        0.43397233577124766,
+        0.1931832251532175,
+        0.1572845342476913,
+        0.16005228841870034,
+        0.02305136170236493,
+        0.06048786332884806,
+        0.07110763193885168,
+        0.04140091020312109,
+        0.39937534001022,
+        0.5,
+        0.3873213136630446,
+        0.504330430406915,
+        0.4250457377552452,
+        0.7432034509858032,
+        0.8695371240091105,
+        0.8945358968643279,
+        0.8657026917705359,
+        0.6368201497892121,
+        0.8434510835172085
+      ],
+      [
+        0.5478712233163117,
+        0.27891619155233127,
+        0.233256618935329,
+        0.23684344060857523,
+        0.04041249061737003,
+        0.09900535348272632,
+        0.11474931519434611,
+        0.06982661622806498,
+        0.512541546813911,
+        0.6126786863369553,
+        0.5,
+        0.616813571160792,
+        0.538848622700613,
+        0.8243876354503916,
+        0.9180845633191531,
+        0.9351814864059594,
+        0.9154166615799878,
+        0.7368178589182671,
+        0.8997054715059405
+      ],
+      [
+        0.4297106275239472,
+        0.1903154903201145,
+        0.15479693740603098,
+        0.15753352204195756,
+        0.022551704897334428,
+        0.059319824614005943,
+        0.06976971207457405,
+        0.04055842922995021,
+        0.3952014152874651,
+        0.4956695695930848,
+        0.38318642883920795,
+        0.5,
+        0.42080325023529885,
+        0.7397555830993172,
+        0.8673413726153375,
+        0.8926692766098641,
+        0.8634591538580247,
+        0.6327601053036607,
+        0.8409434943778281
+      ],
+      [
+        0.5090802837393062,
+        0.2476390526740178,
+        0.2051894202823423,
+        0.20850239536187043,
+        0.033513953936411704,
+        0.08413550867113238,
+        0.09800408316328765,
+        0.05871189727624701,
+        0.47364908155665114,
+        0.5749542622447549,
+        0.461151377299387,
+        0.5791967497647013,
+        0.5,
+        0.798950817123513,
+        0.9035256189739732,
+        0.9231239608814219,
+        0.9004844708878056,
+        0.7045213872049605,
+        0.8826611577125218
+      ],
+      [
+        0.20731522571828917,
+        0.068720929045914,
+        0.05300490786038299,
+        0.054173068842731494,
+        0.00569271952679726,
+        0.0168855332990584,
+        0.020375331193934913,
+        0.010946657154199128,
+        0.1835599785054546,
+        0.25679654901419696,
+        0.17561236454960838,
+        0.2602444169006828,
+        0.201049182876487,
+        0.5,
+        0.6864546810725405,
+        0.7319308455777234,
+        0.6798003292423369,
+        0.3796986936927508,
+        0.6426680666566936
+      ],
+      [
+        0.10015247338284249,
+        0.027566430004780956,
+        0.020606831850665183,
+        0.02111354587892989,
+        0.0018737102455452352,
+        0.005919731628689235,
+        0.0072428393749775465,
+        0.003730480558144253,
+        0.08639994078624277,
+        0.13046287599088924,
+        0.08191543668084751,
+        0.13265862738466258,
+        0.09647438102602672,
+        0.3135453189274596,
+        0.5,
+        0.5535221694415929,
+        0.4924728344415402,
+        0.21560457980916614,
+        0.45178609766580025
+      ],
+      [
+        0.0799408440218634,
+        0.02103786058163061,
+        0.015612516235117634,
+        0.01600564591108603,
+        0.0013673862999786278,
+        0.004380829307119903,
+        0.005376642100211434,
+        0.00274334857590851,
+        0.06851965923730348,
+        0.10546410313567219,
+        0.06481851359404026,
+        0.10733072339013575,
+        0.07687603911857784,
+        0.2680691544222767,
+        0.446477830558407,
+        0.5,
+        0.4390346063493297,
+        0.17941328947548846,
+        0.39915480077036086
+      ],
+      [
+        0.10328457242642981,
+        0.02861452458480973,
+        0.02141313351208379,
+        0.0219378189667641,
+        0.0019578176009236773,
+        0.006172680957409711,
+        0.0075488640350282205,
+        0.0038935119141762877,
+        0.08918512601627136,
+        0.1342973082294642,
+        0.08458333842001221,
+        0.13654084614197493,
+        0.09951552911219423,
+        0.32019967075766315,
+        0.5075271655584597,
+        0.5609653936506702,
+        0.5,
+        0.2210245058782667,
+        0.45926276134250793
+      ],
+      [
+        0.3032918428021347,
+        0.11485051186297396,
+        0.09070793996379363,
+        0.09253113106253905,
+        0.011118605991680647,
+        0.031329443246993306,
+        0.03738837802873479,
+        0.02078002710345744,
+        0.2733757127763468,
+        0.3631798502107882,
+        0.26318214108173327,
+        0.3672398946963392,
+        0.2954786127950393,
+        0.6203013063072494,
+        0.7843954201908337,
+        0.8205867105245118,
+        0.7789754941217334,
+        0.5,
+        0.748148697505371
+      ],
+      [
+        0.1216198122697185,
+        0.03494116951792661,
+        0.02630443531271299,
+        0.02693617705570646,
+        0.0024812459222292196,
+        0.007731941524634596,
+        0.009431309765270554,
+        0.004902820117789875,
+        0.10556194973882366,
+        0.15654891648279157,
+        0.10029452849405966,
+        0.15905650562217155,
+        0.11733884228747804,
+        0.35733193334330643,
+        0.5482139023341999,
+        0.6008451992296391,
+        0.5407372386574918,
+        0.251851302494629,
+        0.5
+      ]
+    ]
+  ],
+  "engine_sha256": "12e94edd896be519923f7e529239c71d497789df698fd25298f27b65dd717336",
+  "input_sha256": "f62814e462b5ad52b01130e0636159f71ec571db85d8ed63c9225199abe02656",
+  "completed_fingerprint": "2f0f2dd6efa2c4f5510518b2c3ed8899733126a5429186773d4af6807b3d795d"
+}
